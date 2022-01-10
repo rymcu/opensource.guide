@@ -202,57 +202,57 @@ Aqu&iacute; tienes una lista pr&aacute;ctica para evaluar si un proyecto es conv
 
 **Satisface la definici&oacute;n de c&oacute;digo abierto**
 
-[ ] ¿Tiene una licencia? Usualmente, es un archivo ubicado LICENSE en la ra&iacute;z del repositorio.
+* [ ] ¿Tiene una licencia? Usualmente, es un archivo ubicado LICENSE en la ra&iacute;z del repositorio.
 
 **El proyecto acepta contribuciones activamente**
 
 Observa la actividad de los commit en la rama principal. En GitHub, puedes ver esta informaci&oacute;n en la
 p&aacute;gina del repositorio.
 
-[ ] ¿Cu&aacute;ndo ocurri&oacute; el &uacute;ltimo commit?
+* [ ] ¿Cu&aacute;ndo ocurri&oacute; el &uacute;ltimo commit?
 
-[ ] ¿Cu&aacute;ntos colaboradores tiene el proyecto?
+* [ ] ¿Cu&aacute;ntos colaboradores tiene el proyecto?
 
-[ ] ¿Con qu&eacute; frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta informaci&oacute;n
+* [ ] ¿Con qu&eacute; frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta informaci&oacute;n
 haciendo click en "Commits", en la barra superior.)
 
 Luego, busca en los problemas del proyecto.
 
-[ ] ¿Cu&aacute;ntos problemas abiertos existen?
+* [ ] ¿Cu&aacute;ntos problemas abiertos existen?
 
-[ ] ¿Los responsables responden r&aacute;pidamente a los problemas cuando son abiertos?
+* [ ] ¿Los responsables responden r&aacute;pidamente a los problemas cuando son abiertos?
 
-[ ] ¿Existe una discusi&oacute;n activa en los problemas?
+* [ ] ¿Existe una discusi&oacute;n activa en los problemas?
 
-[ ] ¿Se abrieron recientemente nuevos problemas?
+* [ ] ¿Se abrieron recientemente nuevos problemas?
 
-[ ] ¿Se est&aacute;n cerrando los problemas? (En GitHub, haz click en el v&iacute;nculo "closed" de la p&aacute;gina de
+* [ ] ¿Se est&aacute;n cerrando los problemas? (En GitHub, haz click en el v&iacute;nculo "closed" de la p&aacute;gina de
 problemas para ver los problemas cerrados.)
 
 Ahora haz lo mismo para los pull requests del proyecto.
 
-[ ] ¿Cu&aacute;ntos pull requests existen?
+* [ ] ¿Cu&aacute;ntos pull requests existen?
 
-[ ] ¿Los responsables responden r&aacute;pidamente a los pull requests cuando se abren?
+* [ ] ¿Los responsables responden r&aacute;pidamente a los pull requests cuando se abren?
 
-[ ] ¿Existe una discusi&oacute;n activa en los pull requests?
+* [ ] ¿Existe una discusi&oacute;n activa en los pull requests?
 
-[ ] ¿Existen pull requests recientes?
+* [ ] ¿Existen pull requests recientes?
 
-[ ] ¿C&oacute;mo de reciente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el
+* [ ] ¿C&oacute;mo de reciente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el
 v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
 
 **El proyecto es acogedor**
 
 Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevos colaboradores.
 
-[ ] ¿Los encargados responden de manera colaborativa a las preguntas en los problemas?
+* [ ] ¿Los encargados responden de manera colaborativa a las preguntas en los problemas?
 
-[ ] Las personas son amigables en los problemas, foros de discusi&oacute;n y chat (por ejemplo IRC o Slack)?
+* [ ] Las personas son amigables en los problemas, foros de discusi&oacute;n y chat (por ejemplo IRC o Slack)?
 
-[ ] ¿Los pull requestes son revisados?
+* [ ] ¿Los pull requestes son revisados?
 
-[ ] ¿Los encargados agradecen a las personas por sus contribuciones?
+* [ ] ¿Los encargados agradecen a las personas por sus contribuciones?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.> — @kfogel, [_Produciendo Software de c&oacute;digo abierto_](https://producingoss.com/en/evaluating-oss-projects.html)

@@ -213,56 +213,56 @@ Oto przydatna lista kontrolna do oceny, czy projekt jest dobry dla nowych autor�
 
 **Spełnia definicję open source**
 
-[ ] Czy ma licencję? Zwykle w katalogu głównym repozytorium znajduje się plik o nazwie LICENSE.
+* [ ] Czy ma licencję? Zwykle w katalogu głównym repozytorium znajduje się plik o nazwie LICENSE.
 
 **Projekt aktywnie przyjmuje wkłady**
 
 Spójrz na działanie zatwierdzania w gałęzi master. Na GitHub możesz zobaczyć te informacje na stronie głównej
 repozytorium.
 
-[ ] Kiedy były ostatnie commit-y?
+* [ ] Kiedy były ostatnie commit-y?
 
-[ ] Ilu współautorów ma projekt?
+* [ ] Ilu współautorów ma projekt?
 
-[ ] Jak często ludzie się w to angażują? (Możesz znaleźć te informacje w GitHub, klikając "Commits" na górnym pasku).
+* [ ] Jak często ludzie się w to angażują? (Możesz znaleźć te informacje w GitHub, klikając "Commits" na górnym pasku).
 
 Następnie spójrz na issues projektu.
 
-[ ] Ile jest otwartych spraw (issues)?
+* [ ] Ile jest otwartych spraw (issues)?
 
-[ ] Czy opiekunowie szybko reagują na nowo utworzone problemy?
+* [ ] Czy opiekunowie szybko reagują na nowo utworzone problemy?
 
-[ ] Czy kwestie są aktywnie omawiane?
+* [ ] Czy kwestie są aktywnie omawiane?
 
-[ ] Czy problemy są aktualne?
+* [ ] Czy problemy są aktualne?
 
-[ ] Czy problemy są zamykane? (W serwisie GitHub na stronie "Issues" kliknij "closed", aby wyświetlić zamknięte
+* [ ] Czy problemy są zamykane? (W serwisie GitHub na stronie "Issues" kliknij "closed", aby wyświetlić zamknięte
 problemy).
 
 Teraz wykonaj te same kroki dla PR (pull requests) projektu.
 
-[ ] Ile jest otwartych żądań ściągnięcia (tzw. pull request)?
+* [ ] Ile jest otwartych żądań ściągnięcia (tzw. pull request)?
 
-[ ] Czy opiekunowie szybko reagują na nowo utworzone PR (pull request)?
+* [ ] Czy opiekunowie szybko reagują na nowo utworzone PR (pull request)?
 
-[ ] Czy pull request są aktywnie omawiane?
+* [ ] Czy pull request są aktywnie omawiane?
 
-[ ] Czy PR są aktualne?
+* [ ] Czy PR są aktualne?
 
-[ ] Jak niedawno zostały scalone jakiekolwiek PR? (W GitHub w zakładkę "Pull Requests" kliknij "closed", aby zobaczyć
+* [ ] Jak niedawno zostały scalone jakiekolwiek PR? (W GitHub w zakładkę "Pull Requests" kliknij "closed", aby zobaczyć
 zamknięte PR).
 
 **Projekt jest mile widziany**
 
 Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów.
 
-[ ] Czy opiekunowie udzielają pomocnych odpowiedzi na pytania dotyczące problemów?
+* [ ] Czy opiekunowie udzielają pomocnych odpowiedzi na pytania dotyczące problemów?
 
-[ ] Czy ludzie są przyjaźni w Issues, na forum dyskusyjnym czy na czacie (np. IRC lub Slack)?
+* [ ] Czy ludzie są przyjaźni w Issues, na forum dyskusyjnym czy na czacie (np. IRC lub Slack)?
 
-[ ] Czy PR są sprawdzane?
+* [ ] Czy PR są sprawdzane?
 
-[ ] Czy opiekunowie dziękują ludziom za ich wkład?
+* [ ] Czy opiekunowie dziękują ludziom za ich wkład?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

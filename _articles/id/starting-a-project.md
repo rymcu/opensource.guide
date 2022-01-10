@@ -253,41 +253,41 @@ Sudah siap untuk membuat proyek Anda open source ? Berikut daftar checklist untu
 
 **Dokumentasi**
 
-[ ] Project memiliki dokumen LICENSE dengan lisensi open source
+* [ ] Project memiliki dokumen LICENSE dengan lisensi open source
 
-[ ] Project memiliki dokumentasi dasar (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Project memiliki dokumentasi dasar (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Nama proyek mudah diingat, memberikan ide tentang proyek, dan tidak konflik dengan proyek yang sudah ada atau
+* [ ] Nama proyek mudah diingat, memberikan ide tentang proyek, dan tidak konflik dengan proyek yang sudah ada atau
 melanggar merek dagang
 
-[ ] Daftar masalah senantiasa baru, dengan masalah terorganisasi dengan baik dan dilabeli
+* [ ] Daftar masalah senantiasa baru, dengan masalah terorganisasi dengan baik dan dilabeli
 
 **Kode**
 
-[ ] Project menggunakan konvensi kode yang konsisten dan nama fungsi/metode/variabel yang jelas
+* [ ] Project menggunakan konvensi kode yang konsisten dan nama fungsi/metode/variabel yang jelas
 
-[ ] Kode memiliki komentar yang lengkap, mendokumentasikan harapan dan kasus khusus
+* [ ] Kode memiliki komentar yang lengkap, mendokumentasikan harapan dan kasus khusus
 
-[ ] Tidak ada informasi sensitif pada sejarah revisi, laporan masalah, atau pull requests (misalnya kata sandi atau
+* [ ] Tidak ada informasi sensitif pada sejarah revisi, laporan masalah, atau pull requests (misalnya kata sandi atau
 informasi pribadi lainnya)
 
 **Orang**
 
 Jika Anda perseorangan:
 
-[ ] Anda telah mengunjungi kantor hukum dan/atau memahami hak cipta dan kebijakan open source pada perusahaan Anda (jika
+* [ ] Anda telah mengunjungi kantor hukum dan/atau memahami hak cipta dan kebijakan open source pada perusahaan Anda (jika
 Anda merupakan karyawan pada sebuah perusahaan)
 
 Jika Anda merupakan perusahaan atau organisasi:
 
-[ ] Anda telah berbicara dengan divisi hukum Anda
+* [ ] Anda telah berbicara dengan divisi hukum Anda
 
-[ ] Anda memiliki perencanaan pemasaran untuk mengumumkan dan mempromosikan proyek
+* [ ] Anda memiliki perencanaan pemasaran untuk mengumumkan dan mempromosikan proyek
 
-[ ] Seseorang memiliki minat untuk mengelola interaksi komunitas (merespon terhadap laporan masalah, melakukan review,
+* [ ] Seseorang memiliki minat untuk mengelola interaksi komunitas (merespon terhadap laporan masalah, melakukan review,
 dan menggabungkan pull request)
 
-[ ] Minimal terdapat dua orang yang memiliki akses administratif pada proyek
+* [ ] Minimal terdapat dua orang yang memiliki akses administratif pada proyek
 
 ## Anda melakukannya!
 

@@ -261,41 +261,41 @@ Klaar om uw project te openen? Hier is een checklist om te helpen. Alle vakjes a
 
 **Documentatie**
 
-[ ] Project heeft een LICENSE-bestand met een open source-licentie
+* [ ] Project heeft een LICENSE-bestand met een open source-licentie
 
-[ ] Project heeft basisdocumentatie (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Project heeft basisdocumentatie (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] De naam is gemakkelijk te onthouden, geeft een idee van wat het project doet en is niet in strijd met een bestaand
+* [ ] De naam is gemakkelijk te onthouden, geeft een idee van wat het project doet en is niet in strijd met een bestaand
 project of inbreuk op handelsmerken
 
-[ ] De issue wachtrij is up-to-date, met issues duidelijk geordend en gelabeld
+* [ ] De issue wachtrij is up-to-date, met issues duidelijk geordend en gelabeld
 
 **Code**
 
-[ ] Project gebruikt consistente codeconventies en duidelijke functie/methode/variabelenamen
+* [ ] Project gebruikt consistente codeconventies en duidelijke functie/methode/variabelenamen
 
-[ ] De code is duidelijk becommentarieerd en documenteert intenties en randgevallen
+* [ ] De code is duidelijk becommentarieerd en documenteert intenties en randgevallen
 
-[ ] Er zijn geen gevoelige materialen in de revisiegeschiedenis, problemen of pull-verzoeken (bijvoorbeeld wachtwoorden
+* [ ] Er zijn geen gevoelige materialen in de revisiegeschiedenis, problemen of pull-verzoeken (bijvoorbeeld wachtwoorden
 of andere niet-openbare informatie)
 
 **Mensen**
 
 Als je een individu bent:
 
-[ ] Je hebt met de juridische afdeling gesproken en/of je begrijpt het IP/IE en open source-beleid van je bedrijf (als
+* [ ] Je hebt met de juridische afdeling gesproken en/of je begrijpt het IP/IE en open source-beleid van je bedrijf (als
 je ergens een werknemer bent)
 
 Als u een bedrijf of organisatie bent:
 
-[ ] U heeft met uw juridische afdeling gesproken
+* [ ] U heeft met uw juridische afdeling gesproken
 
-[ ] Je hebt een marketingplan om het project aan te kondigen en te promoten
+* [ ] Je hebt een marketingplan om het project aan te kondigen en te promoten
 
-[ ] Iemand zet zich in voor het beheren van community-interacties (reageren op problemen, beoordelen en samenvoegen van
+* [ ] Iemand zet zich in voor het beheren van community-interacties (reageren op problemen, beoordelen en samenvoegen van
 pull-verzoeken)
 
-[ ] At least two people have administrative access to the project
+* [ ] At least two people have administrative access to the project
 
 ## Je hebt het gedaan!
 

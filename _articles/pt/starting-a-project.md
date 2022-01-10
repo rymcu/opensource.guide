@@ -251,41 +251,41 @@ Pronto para tornar o seu projeto open source? Aqui está uma checklist para ajud
 
 **Documentação**
 
-[ ] O Projeto possui um arquivo LICENSE com uma licença open source
+* [ ] O Projeto possui um arquivo LICENSE com uma licença open source
 
-[ ] O Projeto possui documentação básica (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] O Projeto possui documentação básica (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] O nome é fácil de lembrar, dá alguma ideia do que o projeto faz e não entra em conflito com um projeto existente ou
+* [ ] O nome é fácil de lembrar, dá alguma ideia do que o projeto faz e não entra em conflito com um projeto existente ou
 infringe alguma marca registrada
 
-[ ] A fila de issues está atualizada, com issues claramente organizadas e rotuladas
+* [ ] A fila de issues está atualizada, com issues claramente organizadas e rotuladas
 
 **Code**
 
-[ ] O projeto utiliza convenções de código consistentes e nomes de funções/métodos/variáveis claros
+* [ ] O projeto utiliza convenções de código consistentes e nomes de funções/métodos/variáveis claros
 
-[ ] O código é comentado de forma clara, documentando intenções e edge cases
+* [ ] O código é comentado de forma clara, documentando intenções e edge cases
 
-[ ] Não há material sensível no histórico de revisões, issues, ou pull requests (por exemplo, senhas ou outras
+* [ ] Não há material sensível no histórico de revisões, issues, ou pull requests (por exemplo, senhas ou outras
 informações não-públicas)
 
 **Pessoas**
 
 Se você é um indivíduo:
 
-[ ] Você falou com o departamento legal e/ou entendeu o IP e políticas open source de sua empresa (se você é um
+* [ ] Você falou com o departamento legal e/ou entendeu o IP e políticas open source de sua empresa (se você é um
 funcionário em algum lugar)
 
 Se você está em uma empresa ou organização:
 
-[ ] Você falou com seu departamento legal
+* [ ] Você falou com seu departamento legal
 
-[ ] Você possui um plano de marketing para anunciar e promover o projeto
+* [ ] Você possui um plano de marketing para anunciar e promover o projeto
 
-[ ] Alguém está engajado em administrar as interações com a comunidade (responder a issues, revisar e 'merjar' pull
+* [ ] Alguém está engajado em administrar as interações com a comunidade (responder a issues, revisar e 'merjar' pull
 requests)
 
-[ ] Pelo menos duas pessoas têm acesso administrativo ao projeto
+* [ ] Pelo menos duas pessoas têm acesso administrativo ao projeto
 
 ## Você conseguiu!
 

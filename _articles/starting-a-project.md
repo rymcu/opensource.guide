@@ -242,40 +242,40 @@ Ready to open source your project? Here's a checklist to help. Check all the box
 
 **Documentation**
 
-[ ] Project has a LICENSE file with an open source license
+* [ ] Project has a LICENSE file with an open source license
 
-[ ] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Project has basic documentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing
+* [ ] The name is easy to remember, gives some idea of what the project does, and does not conflict with an existing
 project or infringe on trademarks
 
-[ ] The issue queue is up-to-date, with issues clearly organized and labeled
+* [ ] The issue queue is up-to-date, with issues clearly organized and labeled
 
 **Code**
 
-[ ] Project uses consistent code conventions and clear function/method/variable names
+* [ ] Project uses consistent code conventions and clear function/method/variable names
 
-[ ] The code is clearly commented, documenting intentions and edge cases
+* [ ] The code is clearly commented, documenting intentions and edge cases
 
-[ ] There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other
+* [ ] There are no sensitive materials in the revision history, issues, or pull requests (for example, passwords or other
 non-public information)
 
 **People**
 
 If you're an individual:
 
-[ ] You've talked to the legal department and/or understand the IP and open source policies of your company (if you're
+* [ ] You've talked to the legal department and/or understand the IP and open source policies of your company (if you're
 an employee somewhere)
 
 If you're a company or organization:
 
-[ ] You've talked to your legal department
+* [ ] You've talked to your legal department
 
-[ ] You have a marketing plan for announcing and promoting the project
+* [ ] You have a marketing plan for announcing and promoting the project
 
-[ ] Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
+* [ ] Someone is committed to managing community interactions (responding to issues, reviewing and merging pull requests)
 
-[ ] At least two people have administrative access to the project
+* [ ] At least two people have administrative access to the project
 
 ## You did it!
 

@@ -202,57 +202,57 @@ Voici une liste de contrôle pratique pour évaluer si un projet est bon pour le
 
 **Répondre à la définition de l'open source**
 
-[ ] A-t-il une licence ? Généralement, il s'agit d'un fichier appelé LICENSE à la racine du repository.
+* [ ] A-t-il une licence ? Généralement, il s'agit d'un fichier appelé LICENSE à la racine du repository.
 
 **Le projet accepte activement les contributions**
 
 Regardez l'activité des commits sur la branche principale. Sur GitHub, vous pouvez voir cette information sur la page
 d'accueil d'un repository.
 
-[ ] À quand remonte le dernier commit ?
+* [ ] À quand remonte le dernier commit ?
 
-[ ] Combien de contributeurs le projet a-t-il ?
+* [ ] Combien de contributeurs le projet a-t-il ?
 
-[ ] À quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre
+* [ ] À quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre
 du haut.)
 
 Ensuite, regardez les issues du projet.
 
-[ ] Combien d'issues sont ouvertes?
+* [ ] Combien d'issues sont ouvertes?
 
-[ ] Les responsables répondent-ils rapidement aux issues lorsqu'elles sont ouvertes ?
+* [ ] Les responsables répondent-ils rapidement aux issues lorsqu'elles sont ouvertes ?
 
-[ ] Y a-t-il une discussion active sur les issues ?
+* [ ] Y a-t-il une discussion active sur les issues ?
 
-[ ] Les issues sont-elles récentes ?
+* [ ] Les issues sont-elles récentes ?
 
-[ ] Les issues sont-elles fermées ? (Sur GitHub, cliquez sur l'onglet "closed" de la page issue pour voir les issues
+* [ ] Les issues sont-elles fermées ? (Sur GitHub, cliquez sur l'onglet "closed" de la page issue pour voir les issues
 résolues.)
 
 Faites la même chose pour les pull requests du projet.
 
-[ ] Combien de pull requests sont ouvertes ?
+* [ ] Combien de pull requests sont ouvertes ?
 
-[ ] Les responsables répondent-ils rapidement aux pull requests lorsqu'elles sont ouvertes ?
+* [ ] Les responsables répondent-ils rapidement aux pull requests lorsqu'elles sont ouvertes ?
 
-[ ] Y a-t-il une discussion active sur les pull requests ?
+* [ ] Y a-t-il une discussion active sur les pull requests ?
 
-[ ] Les pull requests sont récentes ?
+* [ ] Les pull requests sont récentes ?
 
-[ ] Dans quelle mesure les pull requests ont-elles été mergées récemment ? (Sur GitHub, cliquez sur l'onglet "Closed" de
+* [ ] Dans quelle mesure les pull requests ont-elles été mergées récemment ? (Sur GitHub, cliquez sur l'onglet "Closed" de
 la page Pull Requests pour voir les PR fermés.)
 
 **Le projet est accueillant**
 
 Un projet convivial et accueillant signale qu'il sera réceptif aux nouveaux contributeurs.
 
-[ ] Les responsables répondent-ils utilement aux questions dans les issues ?
+* [ ] Les responsables répondent-ils utilement aux questions dans les issues ?
 
-[ ] Les gens sont-ils amicaux dans les issues, le forum de discussion et le chat (par exemple, IRC ou Slack)?
+* [ ] Les gens sont-ils amicaux dans les issues, le forum de discussion et le chat (par exemple, IRC ou Slack)?
 
-[ ] Est-ce que les pull request ont bien une review ?
+* [ ] Est-ce que les pull request ont bien une review ?
 
-[ ] Les responsables remercient-ils les gens pour leurs contributions ?
+* [ ] Les responsables remercient-ils les gens pour leurs contributions ?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Chaque fois que vous voyez un long fil de discussion, vérifiez les réponses des principaux développeurs arrivant tard dans le fil. Résument-ils de façon constructive la discussion pour prendre une décision tout en restant polis ? Si vous voyez beaucoup de _flame wars_, c'est souvent un signe que l'énergie est dépensée en dispute plutôt qu'en développements.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

@@ -225,7 +225,7 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 
 **Erfüllt die Definition von Open Source**
 
-[ ] Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
+* [ ] Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
 
 _Does it have a license? Usually, this is a file called LICENSE in the root of the repository._
 
@@ -234,61 +234,61 @@ _Does it have a license? Usually, this is a file called LICENSE in the root of t
 Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können Sie diese Informationen auf der
 Repository-Hauptsite sehen.
 
-[ ] Wann gab es den letzten Commit?
+* [ ] Wann gab es den letzten Commit?
 
 _When was the latest commit?_
 
-[ ] Wie viele Mitwirkende hat das Projekt?
+* [ ] Wie viele Mitwirkende hat das Projekt?
 
 _How many contributors does the project have?_
 
-[ ] Wie oft engagieren sich Menschen? (Auf GitHub finden Sie diese Information, indem Sie in der oberen Leiste auf "
+* [ ] Wie oft engagieren sich Menschen? (Auf GitHub finden Sie diese Information, indem Sie in der oberen Leiste auf "
 Commits" klicken.)
 
 _How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)_
 
 Schauen Sie sich als nächstes die Issues des Projekts an.
 
-[ ] Wie viele Issues sind offen?
+* [ ] Wie viele Issues sind offen?
 
     _How many open issues are there?_
 
-[ ] Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
+* [ ] Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
 
     _Do maintainers respond quickly to issues when they are opened?_
 
-[ ] Werden Issues aktiv diskutiert?
+* [ ] Werden Issues aktiv diskutiert?
 
     _Is there active discussion on the issues?_
 
-[ ] Sind die Issues aktuell?
+* [ ] Sind die Issues aktuell?
 
     _Are the issues recent?_
 
-[ ] Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene
+* [ ] Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene
 Issues zu sehen.)
 
     _Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)_
 
 Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 
-[ ] Wie viele Pull Requests gibt es?
+* [ ] Wie viele Pull Requests gibt es?
 
     _How many open pull requests are there?_
 
-[ ] Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Requests?
+* [ ] Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Requests?
 
     _Do maintainers respond quickly to pull requests when they are opened?_
 
-[ ] Werden Pull Requests aktiv diskutiert?
+* [ ] Werden Pull Requests aktiv diskutiert?
 
     _Is there active discussion on the pull requests?_
 
-[ ] Sind die Pull Requests aktuell?
+* [ ] Sind die Pull Requests aktuell?
 
     _Are the pull requests recent?_
 
-[ ] Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um
+* [ ] Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um
 geschlossene PRs zu sehen).
 
     _How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)_
@@ -298,19 +298,19 @@ geschlossene PRs zu sehen).
 
 Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber neuen Mitwirkenden.
 
-[ ] Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
+* [ ] Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
 
     _Do the maintainers respond helpfully to questions in issues?_
 
-[ ] Gehen Leute in den Issues, im Diskussionsforum oder Chat (z.B. IRC oder Slack) freundlich miteinander um?
+* [ ] Gehen Leute in den Issues, im Diskussionsforum oder Chat (z.B. IRC oder Slack) freundlich miteinander um?
 
     _Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?_
 
-[ ] Werden Pull Requests begutachtet?
+* [ ] Werden Pull Requests begutachtet?
 
     _Do pull requests get reviewed?_
 
-[ ] Danken die Maintainer\*innen den Beitragenden?
+* [ ] Danken die Maintainer\*innen den Beitragenden?
 
     _Do maintainers thank people for their contributions?_
 

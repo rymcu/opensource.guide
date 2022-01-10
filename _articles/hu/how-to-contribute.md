@@ -204,56 +204,56 @@ Itt egy lista, aminek segítségével kiértékelheted, hogy a projekt alkalmas-
 
 **Megfelel a nyílt forráskód definíciójának**
 
-[ ] Van nyílt forráskódú licence? Gyakran ez a LICENSE nevű állomány a projekt főkönyvtárában.
+* [ ] Van nyílt forráskódú licence? Gyakran ez a LICENSE nevű állomány a projekt főkönyvtárában.
 
 **A projekt aktívan fogadja a hozzájárulásokat**
 
 Nézd meg a közösség aktivitását a _master_ ágon. A GitHub-on ezeket az információkat a projekt főoldalán eléred.
 
-[ ] Mikor volt az utolsó kód változás (commit)?
+* [ ] Mikor volt az utolsó kód változás (commit)?
 
-[ ] Hány résztvevője van a projektnek?
+* [ ] Hány résztvevője van a projektnek?
 
-[ ] Milyen gyakran módosítják a kódot a résztvevők? A GitHub-on, a képernyő felsőrészén a _"Commits"_ linkre klikkentve
+* [ ] Milyen gyakran módosítják a kódot a résztvevők? A GitHub-on, a képernyő felsőrészén a _"Commits"_ linkre klikkentve
 ezt eléred.
 
 Nézd meg a projekt hibakezelőjét.
 
-[ ] Mennyi nyitott hibajegy van?
+* [ ] Mennyi nyitott hibajegy van?
 
-[ ] A projekt karbantartói gyorsan reagálnak egy új hibajelzésekre?
+* [ ] A projekt karbantartói gyorsan reagálnak egy új hibajelzésekre?
 
-[ ] Van párbeszéd a hibákról, észrevételekről?
+* [ ] Van párbeszéd a hibákról, észrevételekről?
 
-[ ] Frissek a hibakezelőben szereplő hibák vagy észrevételek?
+* [ ] Frissek a hibakezelőben szereplő hibák vagy észrevételek?
 
-[ ] A hibák, észrevételek megoldásra kerülnek? A GitHub-on, az _Issues_ fül kiválasztása után a szürke _closed_ linkre
+* [ ] A hibák, észrevételek megoldásra kerülnek? A GitHub-on, az _Issues_ fül kiválasztása után a szürke _closed_ linkre
 klikkentve látod a lezárt hibákat.
 
 Most csináljuk meg ugyanezt a projekt kódbeolvasztási kéréseire (_pull request_).
 
-[ ] Mennyi nyitott kódbeolvasztási kérés van?
+* [ ] Mennyi nyitott kódbeolvasztási kérés van?
 
-[ ] A karbantartók gyorsan reagálnak egy új kódbeolvasztási kérésre?
+* [ ] A karbantartók gyorsan reagálnak egy új kódbeolvasztási kérésre?
 
-[ ] Van-e aktív párbeszéd a kódbeolvasztási kérésekről?
+* [ ] Van-e aktív párbeszéd a kódbeolvasztási kérésekről?
 
-[ ] Frissek a kód beolvasztási kérések?
+* [ ] Frissek a kód beolvasztási kérések?
 
-[ ] Mennyire régen vezettek át kódbeolvasztási kérést a kódon? A GitHub-on, a _Pull Requests_ fülön klikkents a szürke _
+* [ ] Mennyire régen vezettek át kódbeolvasztási kérést a kódon? A GitHub-on, a _Pull Requests_ fülön klikkents a szürke _
 closed_ linkre hogy lásd, mennyi beolvasztási kérés került lezárásra.
 
 **Barátságos projekt**
 
 Egy barátságos és befogadó projekt azt jelzi, hogy az új résztvevőket szívesen várják.
 
-[ ] A karbantartók segítőkészen válaszolnak a problémákkal kapcsolatos kérdésekre?
+* [ ] A karbantartók segítőkészen válaszolnak a problémákkal kapcsolatos kérdésekre?
 
-[ ] A résztvevők barátságosak a problémákról szóló párbeszédekben, a fórumokon és csevegésekben?
+* [ ] A résztvevők barátságosak a problémákról szóló párbeszédekben, a fórumokon és csevegésekben?
 
-[ ] A beolvasztási kéréseket áttekintik, felülvizsgálják?
+* [ ] A beolvasztási kéréseket áttekintik, felülvizsgálják?
 
-[ ] A karbantartók megköszönik a hozzájárulásokat?
+* [ ] A karbantartók megköszönik a hozzájárulásokat?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntéshozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

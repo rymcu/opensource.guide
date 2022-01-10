@@ -245,42 +245,42 @@ Készen állsz a nyílt forráskódú projektre? Itt egy ellenőrzőlista, amely
 
 **Dokumentáció**
 
-[ ] Van LICENSE állomány, nyílt forráskódú licenccel
+* [ ] Van LICENSE állomány, nyílt forráskódú licenccel
 
-[ ] Van README, CONTRIBUTING és CODE_OF_CONDUCT állomány
+* [ ] Van README, CONTRIBUTING és CODE_OF_CONDUCT állomány
 
-[ ] A név könnyen megjegyezhető és utal a projektre hogy, mit csinál. A név nem ütközik más projekt nevével, vagy
+* [ ] A név könnyen megjegyezhető és utal a projektre hogy, mit csinál. A név nem ütközik más projekt nevével, vagy
 kereskedelmi, védjegy, esetleg márkanevekkel
 
-[ ] Naprakész a hiba lista, amelyek átláthatóan vannak csoportosítva és címkézve
+* [ ] Naprakész a hiba lista, amelyek átláthatóan vannak csoportosítva és címkézve
 
 **Code**
 
-[ ] A projekt konzisztens megjelenésű, ha kódot tartalmaz, akkor egységes a konvenció, és tisztán érthetőek a
+* [ ] A projekt konzisztens megjelenésű, ha kódot tartalmaz, akkor egységes a konvenció, és tisztán érthetőek a
 metódusok/függvények/változók nevei
 
-[ ] Az elgondolás, és a kivételek dokumentáltak, és a kód (ha van) szépen kommentezett
+* [ ] Az elgondolás, és a kivételek dokumentáltak, és a kód (ha van) szépen kommentezett
 
-[ ] Nincs érzéken, vagy titkos adat a git _history-ban,_ vagy a beolvasztási kérelmekben, mint például: jelszavak, nem
+* [ ] Nincs érzéken, vagy titkos adat a git _history-ban,_ vagy a beolvasztási kérelmekben, mint például: jelszavak, nem
 publikus információk, üzleti titkok, személyes adatok (GDPR betartása)
 
 **Emberek**
 
 Ha magánszemély vagy, akkor:
 
-[ ] Beszéltél a jogi osztállyal és/vagy megértetted a vállalatod és a közted lévő munkaszerződésed nyílt forráskódra
+* [ ] Beszéltél a jogi osztállyal és/vagy megértetted a vállalatod és a közted lévő munkaszerződésed nyílt forráskódra
 vonatkozó politikáját (ha valahol alkalmazott vagy)
 
 Ha szervezet, vagy cég vagy, akkor:
 
-[ ] Beszéltél a jogi osztállyal
+* [ ] Beszéltél a jogi osztállyal
 
-[ ] Van marketing terved a bejelentésre, és a projekt támogatására
+* [ ] Van marketing terved a bejelentésre, és a projekt támogatására
 
-[ ] Van olyan ember, aki elkötelezett a közösségi interakciók kezelésében (válaszol a problémákra, a beolvasztási
+* [ ] Van olyan ember, aki elkötelezett a közösségi interakciók kezelésében (válaszol a problémákra, a beolvasztási
 kérelmek felülvizsgálatára és beolvasztására)
 
-[ ] Legalább két adminisztrátora van a projektnek
+* [ ] Legalább két adminisztrátora van a projektnek
 
 ## Megcsináltad!
 

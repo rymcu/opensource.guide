@@ -246,54 +246,54 @@ Katkıda bulunmak istediğiniz bir proje bulduğunuzda, projenin katkıları kab
 
 **Açık kaynak tanımını karşılar**
 
-[ ] Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
+* [ ] Lisans var mı? Genellikle, proje kök dizininde LICENCE adlı bir dosya vardır.
 
 **Proje aktif olarak katkı kabul ediyor**
 
 Ana daldaki geliştirici faaliyetine bakın. GitHub'da, bu bilgiyi bir kütüphanenin ana sayfasında görebilirsiniz.
 
-[ ] En son kod değişikliği ne zaman yapılmış?
+* [ ] En son kod değişikliği ne zaman yapılmış?
 
-[ ] Projenin kaç katılımcısı var?
+* [ ] Projenin kaç katılımcısı var?
 
-[ ] İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
+* [ ] İnsanlar ne sıklıkta geliştirme yapıyor? (GitHub'da, bunu üstteki çubukta "Commits" i tıklayarak bulabilirsiniz.)
 
 Ardından, projenin sorun listesine bakın.
 
-[ ] Kaç tane açık sorun var?
+* [ ] Kaç tane açık sorun var?
 
-[ ] Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
+* [ ] Geliştiriciler sorunlara hızlı bir şekilde yanıt veriyor mu?
 
-[ ] Sorunların altında aktif tartışma var mı?
+* [ ] Sorunların altında aktif tartışma var mı?
 
-[ ] Sorunlar yeni mi?
+* [ ] Sorunlar yeni mi?
 
-[ ] Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
+* [ ] Sorunlar kapanıyor mu? (GitHub'da kapalı sorunları görmek için Konular sayfasındaki "kapalı" sekmesine tıklayın.)
 
 Şimdi aynısını projenin PR listesi için yapın.
 
-[ ] Kaç tane açık PR var?
+* [ ] Kaç tane açık PR var?
 
-[ ] Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
+* [ ] Sağlayıcılar PR'ları hızlı bir şekilde yanıtlıyor mu?
 
-[ ] PR'lar üzerinde aktif tartışma var mı?
+* [ ] PR'lar üzerinde aktif tartışma var mı?
 
-[ ] PR yeni mi gelmiş?
+* [ ] PR yeni mi gelmiş?
 
-[ ] Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine
+* [ ] Yakındazamanda ne kadar PR birleştirilmiş? (GitHub'da kapalı PR'leri görmek için PR sayfasındaki "kapalı" sekmesine
 tıklayın.)
 
 **Proje katkı bekliyor mu?**
 
 Arkadaş canlısı ve misafirperver bir proje, yeni katılımcılara açık olacağını belirtir.
 
-[ ] Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?
+* [ ] Geliştiriciler, sorunlardaki sorulara yardımcı oluyor mu?
 
-[ ] İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?
+* [ ] İnsanlar konularda, tartışma forumunda ve sohbette (örneğin, IRC veya Slack) arkadaş canlısı mı?
 
-[ ] PR'lar inceleniyor mu?
+* [ ] PR'lar inceleniyor mu?
 
-[ ] Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?
+* [ ] Geliştiriciler insanlara katkılarından dolayı teşekkür eder mi?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Ne zaman uzun bir tartışma görüyorsanız, çekirdek geliştiricilerin konu başından geç gelen cevaplarını anında kontrol edin. Yapıcı bir şekilde özetliyorlar mı ve kibarlıklarını korurken bir karar vermek için adımlar atıyorlar mı? Çok fazla söz savaşı yaşandığını görüyorsanız, bu genellikle enerjinin gelişme yerine tartışmaya girdiğinin işaretidir.

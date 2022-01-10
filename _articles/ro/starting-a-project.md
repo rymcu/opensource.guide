@@ -294,41 +294,41 @@ Ești pregătit să deschizi sursa proiectului tău? Iată o listă de verificar
 
 **Documentație**
 
-[ ] Proiectul are un fișier LICENSE cu o licență de sursă deschisă
+* [ ] Proiectul are un fișier LICENSE cu o licență de sursă deschisă
 
-[ ] Proiectul are documentație de bază (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Proiectul are documentație de bază (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Numele este ușor de memorat, dă o idee despre ce face proiectul tău, și nu intră în conflict cu un proiect existent,
+* [ ] Numele este ușor de memorat, dă o idee despre ce face proiectul tău, și nu intră în conflict cu un proiect existent,
 nici nu încalcă mărcile comerciale
 
-[ ] Coada de probleme este actualizată, cu problemele clar organizate și etichetate
+* [ ] Coada de probleme este actualizată, cu problemele clar organizate și etichetate
 
 **Cod**
 
-[ ] Proiectul folosește convenții de cod consecvente și nume clare de funcții/metode/variabile
+* [ ] Proiectul folosește convenții de cod consecvente și nume clare de funcții/metode/variabile
 
-[ ] Codul este clar comentat, documentând intenții și cazuri marginale
+* [ ] Codul este clar comentat, documentând intenții și cazuri marginale
 
-[ ] Nu există materiale sensibile în istoria reviziilor, probleme, sau cereri de pull (de exemplu, parole sau alte
+* [ ] Nu există materiale sensibile în istoria reviziilor, probleme, sau cereri de pull (de exemplu, parole sau alte
 informații non-publice)
 
 **Oameni**
 
 Dacă ești persoană fizică:
 
-[ ] Ai vorbit cu departamentul juridic și/sau înțelegi proprietatea intelectuală și politicile open source ale companiei
+* [ ] Ai vorbit cu departamentul juridic și/sau înțelegi proprietatea intelectuală și politicile open source ale companiei
 tale (dacă ești un angajat undeva)
 
 Dacă sunteți o companie sau organizație:
 
-[ ] Ați vorbit cu departamentul juridic
+* [ ] Ați vorbit cu departamentul juridic
 
-[ ] Aveți un plan de comercializare pentru a anunța și promova proiectul
+* [ ] Aveți un plan de comercializare pentru a anunța și promova proiectul
 
-[ ] Cineva este angajat să gestioneze interacțiunile comunității (răspunderea la probleme, analizarea și îmbinarea
+* [ ] Cineva este angajat să gestioneze interacțiunile comunității (răspunderea la probleme, analizarea și îmbinarea
 cererilor de pull)
 
-[ ] Cel puțin două persoane au acces administrativ la proiect
+* [ ] Cel puțin două persoane au acces administrativ la proiect
 
 ## Ai făcut-o!
 

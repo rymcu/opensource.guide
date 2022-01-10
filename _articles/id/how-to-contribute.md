@@ -202,56 +202,56 @@ Berikut adalah daftar yang bisa digunakan untuk mengevaluasi apakah sebuah proye
 
 **Memenuhi definisi open source**
 
-[ ] Apakah memiliki lisensi? Biasanya terdapat dokumen bernama LICENSE pada bagian atas dari repositori.
+* [ ] Apakah memiliki lisensi? Biasanya terdapat dokumen bernama LICENSE pada bagian atas dari repositori.
 
 **Proyek secara aktif menerima kontribusi**
 
 Lihat pada aktivitas commit pada branch master. Pada GitHub, Anda bisa melihat informasi ini pada homepage repositori.
 
-[ ] Kapan commit terakhir ?
+* [ ] Kapan commit terakhir ?
 
-[ ] Berapa banyak kontributor yang dimiliki proyek?
+* [ ] Berapa banyak kontributor yang dimiliki proyek?
 
-[ ] Seberapa sering orang melakukan commit? (Pada GitHub, Anda bisa mendapatkan informasi ini dengan memilih menu "
+* [ ] Seberapa sering orang melakukan commit? (Pada GitHub, Anda bisa mendapatkan informasi ini dengan memilih menu "
 Commits" pada bagian atas.)
 
 Berikutnya, lihat pada laporan masalah yang dihadapi pada proyek.
 
-[ ] Berapa banyak laporan masalah yang masih belum diselesaikan?
+* [ ] Berapa banyak laporan masalah yang masih belum diselesaikan?
 
-[ ] Apakah pengelola merespon dengan cepat pada sebuah laporan masalah baru?
+* [ ] Apakah pengelola merespon dengan cepat pada sebuah laporan masalah baru?
 
-[ ] Apakah terdapat diskusi aktif pada setiap laporan masalah yang ada?
+* [ ] Apakah terdapat diskusi aktif pada setiap laporan masalah yang ada?
 
-[ ] Apakah laporan masalah tersebut muncul baru-baru ini?
+* [ ] Apakah laporan masalah tersebut muncul baru-baru ini?
 
-[ ] Apakah laporan masalah yang ada sudah diselesaikan? (Pada GitHub, klik tab "closed" pada halaman Issues untuk
+* [ ] Apakah laporan masalah yang ada sudah diselesaikan? (Pada GitHub, klik tab "closed" pada halaman Issues untuk
 melihat laporan masalah yang sudah terselesaikan.)
 
 Sekarang lakukan hal yang sama untuk pull request pada proyek.
 
-[ ] Berapa banyak pull request pada proyek?
+* [ ] Berapa banyak pull request pada proyek?
 
-[ ] Apakah pengelola merespon dengan cepat terhadap pull request baru?
+* [ ] Apakah pengelola merespon dengan cepat terhadap pull request baru?
 
-[ ] Apakah terdapat diskusi aktif pada pull request?
+* [ ] Apakah terdapat diskusi aktif pada pull request?
 
-[ ] Apakah pull request tersebut muncul baru-baru ini?
+* [ ] Apakah pull request tersebut muncul baru-baru ini?
 
-[ ] Kapan pull request diterima? (Pada GitHub, klik tab "closed" pada halaman Pull Requests untuk melihat PR yang sudah
+* [ ] Kapan pull request diterima? (Pada GitHub, klik tab "closed" pada halaman Pull Requests untuk melihat PR yang sudah
 diselesaikan.)
 
 **Proyek menyambut**
 
 Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerima kontributor baru.
 
-[ ] Apakah pengelola menanggapi pertanyaan pada laporan masalah dengan sangat membantu?
+* [ ] Apakah pengelola menanggapi pertanyaan pada laporan masalah dengan sangat membantu?
 
-[ ] Apakah orang-orang bersahabat pada laporan masalah, forum diskusi, dan chat (misalnya. IRC atau Slack)?
+* [ ] Apakah orang-orang bersahabat pada laporan masalah, forum diskusi, dan chat (misalnya. IRC atau Slack)?
 
-[ ] Apakah dilakukan review terhadap pull request?
+* [ ] Apakah dilakukan review terhadap pull request?
 
-[ ] Apakah pengelola berterima kasih kepada orang lain atas kontribusinya?
+* [ ] Apakah pengelola berterima kasih kepada orang lain atas kontribusinya?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Setiap kali Anda melihat diskusi yang panjang, amati respon dari pengembang inti di bagian akhir dari diskusi. Apakah mereka meringkasnya secara konstruktif dan mengambil langkah-langkah untuk mendapatkan kesimpulan tanpa mengabaikan sopan santun? Jika Anda melihat banyak perdebatan yang tidak konstruktif (_flame war_), biasanya merupakan sebuah tanda bahwa energi dihabiskan untuk berargumentasi dibandingkan untuk pengembangan proyek.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

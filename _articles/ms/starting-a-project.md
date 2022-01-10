@@ -243,41 +243,41 @@ Bersedia untuk membuka sumber projek anda? Berikut adalah senarai semak untuk me
 
 **Dokumentasi**
 
-[ ] Projek mempunyai fail LICENSE dengan lesen sumber terbuka
+* [ ] Projek mempunyai fail LICENSE dengan lesen sumber terbuka
 
-[ ] Projek mempunyai dokumentasi asas (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Projek mempunyai dokumentasi asas (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Nama itu mudah diingat, memberikan beberapa idea tentang apa yang dilakukan oleh projek itu, dan tidak bertentangan
+* [ ] Nama itu mudah diingat, memberikan beberapa idea tentang apa yang dilakukan oleh projek itu, dan tidak bertentangan
 dengan projek yang ada atau melanggar tanda dagang
 
-[ ] Antrean masalah terkini, dengan isu yang teratur dan dilabel dengan jelas
+* [ ] Antrean masalah terkini, dengan isu yang teratur dan dilabel dengan jelas
 
 **Code**
 
-[ ] Projek menggunakan konvensyen kod yang konsisten dan fungsi / kaedah / nama pemboleh ubah yang jelas
+* [ ] Projek menggunakan konvensyen kod yang konsisten dan fungsi / kaedah / nama pemboleh ubah yang jelas
 
-[ ] Kod tersebut dikomentari dengan jelas, mendokumentasikan niat dan kes-kes kelebihan
+* [ ] Kod tersebut dikomentari dengan jelas, mendokumentasikan niat dan kes-kes kelebihan
 
-[ ] Tidak ada bahan sensitif dalam sejarah semakan, masalah, atau permintaan tarik (misalnya, kata laluan atau maklumat
+* [ ] Tidak ada bahan sensitif dalam sejarah semakan, masalah, atau permintaan tarik (misalnya, kata laluan atau maklumat
 bukan umum lain)
 
 **Orang**
 
 Sekiranya anda seorang individu:
 
-[ ] Anda telah berbincang dengan jabatan undang-undang dan / atau memahami dasar IP dan sumber terbuka syarikat anda (
+* [ ] Anda telah berbincang dengan jabatan undang-undang dan / atau memahami dasar IP dan sumber terbuka syarikat anda (
 jika anda seorang pekerja di suatu tempat)
 
 Sekiranya anda syarikat atau organisasi:
 
-[ ] Anda telah bercakap dengan jabatan undang-undang anda
+* [ ] Anda telah bercakap dengan jabatan undang-undang anda
 
-[ ] Anda mempunyai rancangan pemasaran untuk mengumumkan dan mempromosikan projek tersebut
+* [ ] Anda mempunyai rancangan pemasaran untuk mengumumkan dan mempromosikan projek tersebut
 
-[ ] Seseorang komited untuk mengurus interaksi masyarakat (menanggapi masalah, mengkaji dan menggabungkan permintaan
+* [ ] Seseorang komited untuk mengurus interaksi masyarakat (menanggapi masalah, mengkaji dan menggabungkan permintaan
 tarik)
 
-[ ] Sekurang-kurangnya dua orang mempunyai akses pentadbiran ke projek ini
+* [ ] Sekurang-kurangnya dua orang mempunyai akses pentadbiran ke projek ini
 
 ## Kamu lakukan!
 

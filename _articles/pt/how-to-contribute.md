@@ -202,56 +202,56 @@ Aqui está um checklist útil para avaliar se um projeto é bom para novos contr
 
 **Atende a definição de open source**
 
-[ ] Tem licença? Geralmente, este é um arquivo chamado LICENSE na raiz do repositório.
+* [ ] Tem licença? Geralmente, este é um arquivo chamado LICENSE na raiz do repositório.
 
 **O projeto aceita contribuições ativamente**
 
 Veja a atividade de commit no branch master. No GitHub, você pode ver essas informações na página inicial de um
 repositório.
 
-[ ] Quando foi o último commit?
+* [ ] Quando foi o último commit?
 
-[ ] Quantos contribuidores o projeto possui?
+* [ ] Quantos contribuidores o projeto possui?
 
-[ ] Com que frequência as pessoas 'commitam'? (No GitHub, você pode encontrar isso clicando em "Commits" na barra
+* [ ] Com que frequência as pessoas 'commitam'? (No GitHub, você pode encontrar isso clicando em "Commits" na barra
 superior.)
 
 Em seguida, examine as issues do projeto.
 
-[ ] Quantas issues abertas existem?
+* [ ] Quantas issues abertas existem?
 
-[ ] Os mantenedores respondem rapidamente às issues quando são abertas?
+* [ ] Os mantenedores respondem rapidamente às issues quando são abertas?
 
-[ ] Existe discussão ativa sobre as issues?
+* [ ] Existe discussão ativa sobre as issues?
 
-[ ] Há issues recentes?
+* [ ] Há issues recentes?
 
-[ ] As issues estão sendo fechadas? (No GitHub, clique na guia "closed" na página "Issues" para ver as issues fechadas.)
+* [ ] As issues estão sendo fechadas? (No GitHub, clique na guia "closed" na página "Issues" para ver as issues fechadas.)
 
 Agora faça o mesmo para os pedidos de pull requests do projeto.
 
-[ ] Quantos pull requests abertos existem?
+* [ ] Quantos pull requests abertos existem?
 
-[ ] Os mantenedores respondem rapidamente aos pull requests quando eles são abertos?
+* [ ] Os mantenedores respondem rapidamente aos pull requests quando eles são abertos?
 
-[ ] Há discussão ativa sobre os pull requests?
+* [ ] Há discussão ativa sobre os pull requests?
 
-[ ] Os pull requests são recentes?
+* [ ] Os pull requests são recentes?
 
-[ ] Quão recentemente algum pull request foi aceito e incluído? (No GitHub, clique na guia "closed" na página Pull
+* [ ] Quão recentemente algum pull request foi aceito e incluído? (No GitHub, clique na guia "closed" na página Pull
 Requests para ver os PRs fechados.)
 
 **Projeto é acolhedor**
 
 Um projeto que é amigável e acolhedor indica que eles serão receptivos a novos contribuidores.
 
-[ ] Os mantenedores respondem de maneira útil às questões nas issues?
+* [ ] Os mantenedores respondem de maneira útil às questões nas issues?
 
-[ ] As pessoas são amigáveis nas issues, no fórum de discussão e no chat (por exemplo, IRC ou Slack)?
+* [ ] As pessoas são amigáveis nas issues, no fórum de discussão e no chat (por exemplo, IRC ou Slack)?
 
-[ ] Os pull requests são revisados?
+* [ ] Os pull requests são revisados?
 
-[ ] Os mantenedores agradecem às pessoas pelas contribuições?
+* [ ] Os mantenedores agradecem às pessoas pelas contribuições?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Sempre que você vir uma thread longa, verifique as respostas dos principais desenvolvedores no final da thread. Eles estão resumindo construtivamente e tomando providências para levar a discussão a uma decisão de forma educada? Se você vir um monte de guerras acontecendo, isso frequentemente é um sinal de que energia está sendo gasta em discussões em vez de desenvolvimento.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

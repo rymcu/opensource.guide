@@ -239,55 +239,55 @@ Aici este o listă de verificare la îndemână pentru a evalua dacă un proiect
 
 **Respectă definiția open source**
 
-[ ] Are o licență? De obicei, există un fișier numit LICENSE în rădăcina depozitului.
+* [ ] Are o licență? De obicei, există un fișier numit LICENSE în rădăcina depozitului.
 
 **Proiectul acceptă în mod activ contribuțiile**
 
 Uită-te la activitatea de commit-uri pe ramura master. Pe GitHub, poți vedea aceste informații pe pagina principală a
 depozitului.
 
-[ ] Când a fost făcut ultimul commit?
+* [ ] Când a fost făcut ultimul commit?
 
-[ ] Câți contributori are proiectul?
+* [ ] Câți contributori are proiectul?
 
-[ ] Cât de des se fac commit-uri? (Pe GitHub, poți găsi acest lucru dând clic pe "Commits" în bara de sus.)
+* [ ] Cât de des se fac commit-uri? (Pe GitHub, poți găsi acest lucru dând clic pe "Commits" în bara de sus.)
 
 Apoi, privește problemele proiectului.
 
-[ ] Câte probleme deschise sunt?
+* [ ] Câte probleme deschise sunt?
 
-[ ] Întreținătorii răspund rapid la probleme când se deschid?
+* [ ] Întreținătorii răspund rapid la probleme când se deschid?
 
-[ ] Există o discuție activă asupra problemelor?
+* [ ] Există o discuție activă asupra problemelor?
 
-[ ] Sunt problemele recente?
+* [ ] Sunt problemele recente?
 
-[ ] Se închid probleme? (Pe GitHub, dă clic pe secțiunea "closed" pe pagina Issues pentru a vedea problemele închise.)
+* [ ] Se închid probleme? (Pe GitHub, dă clic pe secțiunea "closed" pe pagina Issues pentru a vedea problemele închise.)
 
 Acum fă la fel pentru cererile de pull ale proiectului.
 
-[ ] Câte cereri deschise de pull sunt?
+* [ ] Câte cereri deschise de pull sunt?
 
-[ ] Întreținătorii răspund rapid la cererile de pull când sunt deschise?
+* [ ] Întreținătorii răspund rapid la cererile de pull când sunt deschise?
 
-[ ] Există discuție activă asupra cererilor de pull?
+* [ ] Există discuție activă asupra cererilor de pull?
 
-[ ] Sunt cererile de pull recente?
+* [ ] Sunt cererile de pull recente?
 
-[ ] Cât de recent au fost niște cereri de pull îmbinate? (Pe GitHub, dă clic pe secțiunea „closed” pe pagina Pull
+* [ ] Cât de recent au fost niște cereri de pull îmbinate? (Pe GitHub, dă clic pe secțiunea „closed” pe pagina Pull
 Requests pentru a vedea PR-uri închise.)
 
 **Proiectul este primitor**
 
 Un proiect prietenos și primitor semnalează că ei vor fi receptivi la noi contributori.
 
-[ ] Întreținătorii răspund cu ajutor întrebărilor din probleme?
+* [ ] Întreținătorii răspund cu ajutor întrebărilor din probleme?
 
-[ ] Sunt oamenii prietenoși în probleme, forumul de discuții, și chat (de exemplu, IRC sau Slack)?
+* [ ] Sunt oamenii prietenoși în probleme, forumul de discuții, și chat (de exemplu, IRC sau Slack)?
 
-[ ] Cererile de pull sunt analizate de cineva?
+* [ ] Cererile de pull sunt analizate de cineva?
 
-[ ] Întreținătorii mulțumesc oamenilor pentru contribuțiile lor?
+* [ ] Întreținătorii mulțumesc oamenilor pentru contribuțiile lor?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > <p>

@@ -237,41 +237,41 @@ Projenizi açmaya hazır mısınız? İşte size yardımcı olacak bir kontrol l
 
 **Belgeler**
 
-[ ] Projenin açık kaynak lisanslı LICENSE dosyası var
+* [ ] Projenin açık kaynak lisanslı LICENSE dosyası var
 
-[ ] Proje temel dokümantasyona sahiptir (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Proje temel dokümantasyona sahiptir (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Adı hatırlamak kolaydır, projenin ne yaptığı hakkında bir fikir verir ve mevcut bir projeyle çelişmez veya ticari
+* [ ] Adı hatırlamak kolaydır, projenin ne yaptığı hakkında bir fikir verir ve mevcut bir projeyle çelişmez veya ticari
 markaları ihlal etmez
 
-[ ] Sorun listesi, açıkça düzenlenmiş ve etiketlenmiş konularla birlikte güncel
+* [ ] Sorun listesi, açıkça düzenlenmiş ve etiketlenmiş konularla birlikte güncel
 
 **Kod**
 
-[ ] Proje tutarlı kod kuralları ve temiz işlev/yöntem/değişken adlarını kullanıyor
+* [ ] Proje tutarlı kod kuralları ve temiz işlev/yöntem/değişken adlarını kullanıyor
 
-[ ] Kod açıkça yorumlanmış, amaçları ve aykırı vakaları belgelemektedir.
+* [ ] Kod açıkça yorumlanmış, amaçları ve aykırı vakaları belgelemektedir.
 
-[ ] Revizyon geçmişinde, sorunlarda veya PR isteklerinde (örneğin şifreler veya kamuya açık olmayan diğer bilgiler)
+* [ ] Revizyon geçmişinde, sorunlarda veya PR isteklerinde (örneğin şifreler veya kamuya açık olmayan diğer bilgiler)
 hassas bilgi yok
 
 **İnsanlar**
 
 Bireyseniz:
 
-[ ] Hukuk departmanıyla konuştunuz ve/veya şirketinizin IP ve açık kaynaklı politikalarını anladınız (eğer bir yerde
+* [ ] Hukuk departmanıyla konuştunuz ve/veya şirketinizin IP ve açık kaynaklı politikalarını anladınız (eğer bir yerde
 çalışansanız).
 
 Bir şirket veya kuruluşsanız:
 
-[ ] Hukuk departmanınızla konuştunuz
+* [ ] Hukuk departmanınızla konuştunuz
 
-[ ] Projeyi duyurmak ve tanıtmak için bir pazarlama planınız var
+* [ ] Projeyi duyurmak ve tanıtmak için bir pazarlama planınız var
 
-[ ] Birisi topluluk etkileşimlerini yönetmeyi taahhüt eder (sorunlara cevap verme, çekme isteklerini gözden geçirme ve
+* [ ] Birisi topluluk etkileşimlerini yönetmeyi taahhüt eder (sorunlara cevap verme, çekme isteklerini gözden geçirme ve
 birleştirme)
 
-[ ] En az iki kişinin projeye yönetici erişimi var
+* [ ] En az iki kişinin projeye yönetici erişimi var
 
 ## Başardınız!
 

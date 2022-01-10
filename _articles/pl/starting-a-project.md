@@ -248,41 +248,41 @@ Gotowy do otwarcia twojego projektu? Oto lista kontrolna, która pomoże. Zaznac
 
 **Dokumentacja**
 
-[ ] Projekt posiada plik LICENSE z licencją typu open source
+* [ ] Projekt posiada plik LICENSE z licencją typu open source
 
-[ ] Projekt posiada podstawową dokumentację (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Projekt posiada podstawową dokumentację (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Nazwa jest łatwa do zapamiętania, daje pewne wyobrażenie o tym, czym jest projekt i nie koliduje z istniejącym
+* [ ] Nazwa jest łatwa do zapamiętania, daje pewne wyobrażenie o tym, czym jest projekt i nie koliduje z istniejącym
 projektem oraz nie narusza znaków towarowych
 
-[ ] Lista "issue" jest aktualna, a sprawy są przejrzyście uporządkowane i opatrzone etykietami
+* [ ] Lista "issue" jest aktualna, a sprawy są przejrzyście uporządkowane i opatrzone etykietami
 
 **Kod**
 
-[ ] Projekt wykorzystuje spójne konwencje kodu i przejrzyste nazwy funkcji, metod oraz zmiennych
+* [ ] Projekt wykorzystuje spójne konwencje kodu i przejrzyste nazwy funkcji, metod oraz zmiennych
 
-[ ] Kod jest dobrze skomentowany, dokumentując intencje i skrajne przypadki
+* [ ] Kod jest dobrze skomentowany, dokumentując intencje i skrajne przypadki
 
-[ ] W historii zmian, w problemach lub Pull Request nie ma żadnych poufnych materiałów (na przykład haseł lub innych
+* [ ] W historii zmian, w problemach lub Pull Request nie ma żadnych poufnych materiałów (na przykład haseł lub innych
 niepublicznych informacji)
 
 **Ludzie**
 
 Jeśli jesteś osobą fizyczną:
 
-[ ] Rozmawiałeś z działem prawnym i/lub rozumiesz zasady dotyczące własności intelektualnej i zasad dotyczące
+* [ ] Rozmawiałeś z działem prawnym i/lub rozumiesz zasady dotyczące własności intelektualnej i zasad dotyczące
 oprogramowania open source (jeśli jesteś zatrudniony)
 
 Jeśli jesteś firmą lub organizacją:
 
-[ ] Rozmawiałeś ze swoim działem prawnym
+* [ ] Rozmawiałeś ze swoim działem prawnym
 
-[ ] Masz plan marketingowy, aby ogłosić i promować swój projekt
+* [ ] Masz plan marketingowy, aby ogłosić i promować swój projekt
 
-[ ] Ktoś jest zaangażowany w zarządzanie interakcjami społeczności (odpowiadanie na problemy, przeglądanie i łączenie
+* [ ] Ktoś jest zaangażowany w zarządzanie interakcjami społeczności (odpowiadanie na problemy, przeglądanie i łączenie
 pull requests)
 
-[ ] Przynajmniej dwie osoby mają dostęp administracyjny do projektu
+* [ ] Przynajmniej dwie osoby mają dostęp administracyjny do projektu
 
 ## Zrobiłeś to!
 

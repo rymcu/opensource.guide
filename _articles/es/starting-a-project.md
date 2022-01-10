@@ -248,41 +248,41 @@ Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu
 
 **Documentaci&oacute;n**
 
-[ ] El proyecto tiene un archivo LICENCIA con una licencia de C&oacute;digo Abierto.
+* [ ] El proyecto tiene un archivo LICENCIA con una licencia de C&oacute;digo Abierto.
 
-[ ] El proyecto tiene documentaci&oacute;n b&aacute;sica (README, CONTRIBUYENDO, C&oacute;DIGO_DE_CONDUCTA).
+* [ ] El proyecto tiene documentaci&oacute;n b&aacute;sica (README, CONTRIBUYENDO, C&oacute;DIGO_DE_CONDUCTA).
 
-[ ] El nombre es f&aacute;cil de recordar, da una idea de lo que el proyecto hace, y no entra en conflicto con un
+* [ ] El nombre es f&aacute;cil de recordar, da una idea de lo que el proyecto hace, y no entra en conflicto con un
 proyecto preexistente ni infringe en marcas registadas.
 
-[ ] La cola de issues est&aacute; actualizada, organizada y etiquetada.
+* [ ] La cola de issues est&aacute; actualizada, organizada y etiquetada.
 
 **Code**
 
-[ ] Los proyectos usan c&oacute;digo consistente en cuanto a las convenciones usadas, adem&aacute;s de nombres claros de
+* [ ] Los proyectos usan c&oacute;digo consistente en cuanto a las convenciones usadas, adem&aacute;s de nombres claros de
 funciones, m&eacute;todos y variables.
 
-[ ] El c&oacute;digo est&aacute; comentado correctamente, y documentado.
+* [ ] El c&oacute;digo est&aacute; comentado correctamente, y documentado.
 
-[ ] No hay material sensible en la revisi&oacute;n hist&oacute;rica, issues, o pull requests. (Ejemplo:
+* [ ] No hay material sensible en la revisi&oacute;n hist&oacute;rica, issues, o pull requests. (Ejemplo:
 contrase&ntilde;as)
 
 **Personas**
 
 Si eres un individuo:
 
-[ ] Has hablado con el departamento legal y/o entiendes el IP y las pol&iacute;ticas de C&oacute;digo Abierto de tu
+* [ ] Has hablado con el departamento legal y/o entiendes el IP y las pol&iacute;ticas de C&oacute;digo Abierto de tu
 compa&ntilde;&iacute;a (Si eres empleado en alg&uacute;n lado)
 
 Si eres una compa&ntilde;&iacute;a u organizaci&oacute;n:
 
-[ ] Has hablado con tu departamento legal.
+* [ ] Has hablado con tu departamento legal.
 
-[ ] Tienes un plan de marketing para anunciar y promocionar tu proyecto.
+* [ ] Tienes un plan de marketing para anunciar y promocionar tu proyecto.
 
-[ ] Alguien se ha comprometido a administrar las interacciones de la comunidad.
+* [ ] Alguien se ha comprometido a administrar las interacciones de la comunidad.
 
-[ ] Al menos dos personas tienen rol y acceso de administradores al proyecto.
+* [ ] Al menos dos personas tienen rol y acceso de administradores al proyecto.
 
 ## &iexcl;Lo has hecho!
 

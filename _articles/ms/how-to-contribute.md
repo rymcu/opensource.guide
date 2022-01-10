@@ -208,54 +208,54 @@ Berikut adalah senarai semak yang berguna untuk menilai sama ada projek itu baik
 
 **Memenuhi definisi sumber terbuka**
 
-[ ] Adakah ia mempunyai lesen? Biasanya, terdapat fail bernama LICENSE di akar repositori.
+* [ ] Adakah ia mempunyai lesen? Biasanya, terdapat fail bernama LICENSE di akar repositori.
 
 **Projek secara aktif menerima sumbangan**
 
 Lihat aktiviti komit di cawangan induk. Di GitHub, anda dapat melihat maklumat ini di laman utama repositori.
 
-[ ] Bilakah komitmen terbaru?
+* [ ] Bilakah komitmen terbaru?
 
-[ ] Berapakah jumlah penyumbang projek ini?
+* [ ] Berapakah jumlah penyumbang projek ini?
 
-[ ] Berapa kerapkah orang melakukan? (Di GitHub, anda boleh mendapatkannya dengan mengklik "Komitmen" di bar atas.)
+* [ ] Berapa kerapkah orang melakukan? (Di GitHub, anda boleh mendapatkannya dengan mengklik "Komitmen" di bar atas.)
 
 Seterusnya, perhatikan masalah projek.
 
-[ ] Berapa banyak isu terbuka yang ada?
+* [ ] Berapa banyak isu terbuka yang ada?
 
-[ ] Adakah penyelenggara bertindak balas dengan cepat terhadap masalah ketika dibuka?
+* [ ] Adakah penyelenggara bertindak balas dengan cepat terhadap masalah ketika dibuka?
 
-[ ] Adakah terdapat perbincangan aktif mengenai isu-isu tersebut?
+* [ ] Adakah terdapat perbincangan aktif mengenai isu-isu tersebut?
 
-[ ] Are the issues recent?
+* [ ] Are the issues recent?
 
-[ ] Adakah masalah ditutup? (Di GitHub, klik tab "tertutup" di halaman Isu untuk melihat masalah tertutup.)
+* [ ] Adakah masalah ditutup? (Di GitHub, klik tab "tertutup" di halaman Isu untuk melihat masalah tertutup.)
 
 Sekarang lakukan perkara yang sama untuk permintaan tarikan projek.
 
-[ ] Berapa banyak permintaan tarik terbuka yang ada?
+* [ ] Berapa banyak permintaan tarik terbuka yang ada?
 
-[ ] Adakah penyelenggara bertindak balas dengan cepat untuk menarik permintaan ketika dibuka?
+* [ ] Adakah penyelenggara bertindak balas dengan cepat untuk menarik permintaan ketika dibuka?
 
-[ ] Adakah perbincangan aktif mengenai permintaan tarik?
+* [ ] Adakah perbincangan aktif mengenai permintaan tarik?
 
-[ ] Adakah permintaan tarikan baru-baru ini?
+* [ ] Adakah permintaan tarikan baru-baru ini?
 
-[ ] Sejauh mana baru-baru ini permintaan penggabungan digabungkan? (Di GitHub, klik tab "tertutup" di halaman Tarik
+* [ ] Sejauh mana baru-baru ini permintaan penggabungan digabungkan? (Di GitHub, klik tab "tertutup" di halaman Tarik
 Permintaan untuk melihat PR tertutup.)
 
 **Projek dialu-alukan**
 
 Projek yang mesra dan mesra memberi isyarat bahawa mereka akan menerima penyumbang baru.
 
-[ ] Adakah penyelenggara memberi respons yang baik terhadap soalan dalam masalah?
+* [ ] Adakah penyelenggara memberi respons yang baik terhadap soalan dalam masalah?
 
-[ ] Adakah orang ramah dalam isu, forum perbincangan, dan sembang (misalnya, IRC atau Slack)?
+* [ ] Adakah orang ramah dalam isu, forum perbincangan, dan sembang (misalnya, IRC atau Slack)?
 
-[ ] Adakah permintaan tarik disemak?
+* [ ] Adakah permintaan tarik disemak?
 
-[ ] Adakah penyelenggara mengucapkan terima kasih atas sumbangan mereka?
+* [ ] Adakah penyelenggara mengucapkan terima kasih atas sumbangan mereka?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Bila-bila masa anda melihat urutan panjang, periksa jawapan dari pemaju teras yang datang lewat. Adakah mereka merangkum secara konstruktif, dan mengambil langkah-langkah untuk membuat keputusan dengan tetap sopan? Sekiranya anda melihat banyak peperangan api berlaku, itu sering kali menandakan bahawa tenaga akan menjadi hujah dan bukannya menjadi pembangunan.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

@@ -223,56 +223,56 @@ Hier is een handige checklist om te evalueren of een project goed is voor nieuwe
 
 **Voldoet aan de definitie van open source**
 
-[ ] Heeft het een licentie? Gewoonlijk is er een bestand met de naam LICENSE in de root van de repository.
+* [ ] Heeft het een licentie? Gewoonlijk is er een bestand met de naam LICENSE in de root van de repository.
 
 **Project accepteert actief bijdragen**
 
 Kijk naar de commit-activiteit op de main branch. Op GitHub kun je deze informatie zien op de startpagina van een
 repository.
 
-[ ] Wanneer was de laatste commit?
+* [ ] Wanneer was de laatste commit?
 
-[ ] Hoeveel bijdragers heeft het project?
+* [ ] Hoeveel bijdragers heeft het project?
 
-[ ] Hoe vaak commiten mensen? (Op GitHub kun je dit vinden door op "Commits" in de bovenste balk te klikken.)
+* [ ] Hoe vaak commiten mensen? (Op GitHub kun je dit vinden door op "Commits" in de bovenste balk te klikken.)
 
 Next, look at the project's issues.
 
-[ ] Hoeveel openstaande issues zijn er?
+* [ ] Hoeveel openstaande issues zijn er?
 
-[ ] Reageren beheerders snel op issues wanneer ze worden geopend?
+* [ ] Reageren beheerders snel op issues wanneer ze worden geopend?
 
-[ ] Is er een actieve discussie over de issues?
+* [ ] Is er een actieve discussie over de issues?
 
-[ ] Zijn de issues recent?
+* [ ] Zijn de issues recent?
 
-[ ] Worden problemen gesloten? (Klik op GitHub op het tabblad "closed" op de pagina Issues om gesloten problemen te
+* [ ] Worden problemen gesloten? (Klik op GitHub op het tabblad "closed" op de pagina Issues om gesloten problemen te
 zien.)
 
 Doe nu hetzelfde voor de pull-verzoeken van het project.
 
-[ ] Hoeveel openstaande pull-aanvragen zijn er?
+* [ ] Hoeveel openstaande pull-aanvragen zijn er?
 
-[ ] Reageren beheerders snel op pull-verzoeken wanneer ze worden geopend?
+* [ ] Reageren beheerders snel op pull-verzoeken wanneer ze worden geopend?
 
-[ ] Is er actieve discussie over de pull-aanvragen?
+* [ ] Is er actieve discussie over de pull-aanvragen?
 
-[ ] Zijn de pull-aanvragen recent?
+* [ ] Zijn de pull-aanvragen recent?
 
-[ ] Hoe recent zijn pull-verzoeken samengevoegd? (Klik op GitHub op het tabblad "closed" op de pagina Pull Requests om
+* [ ] Hoe recent zijn pull-verzoeken samengevoegd? (Klik op GitHub op het tabblad "closed" op de pagina Pull Requests om
 gesloten PR's te zien.)
 
 **Project is gastvrij**
 
 Een project dat vriendelijk en gastvrij is, geeft aan dat ze ontvankelijk zullen zijn voor nieuwe bijdragers.
 
-[ ] Reageren de beheerders behulpzaam op vragen in problemen?
+* [ ] Reageren de beheerders behulpzaam op vragen in problemen?
 
-[ ] Zijn mensen vriendelijk in de problemen, het discussieforum en de chat (bijvoorbeeld IRC of Slack)?
+* [ ] Zijn mensen vriendelijk in de problemen, het discussieforum en de chat (bijvoorbeeld IRC of Slack)?
 
-[ ] Worden pull-aanvragen beoordeeld?
+* [ ] Worden pull-aanvragen beoordeeld?
 
-[ ] Bedanken onderhouders mensen voor hun bijdragen?
+* [ ] Bedanken onderhouders mensen voor hun bijdragen?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Elke keer dat je een lange thread ziet, controleer dan de reacties van kernontwikkelaars die laat in de thread komen. Vatten ze constructief samen en ondernemen ze stappen om de rode draad tot een beslissing te brengen terwijl ze beleefd blijven? Als je veel vlammenoorlogen ziet plaatsvinden, is dat vaak een teken dat energie in discussie gaat in plaats van in ontwikkeling.

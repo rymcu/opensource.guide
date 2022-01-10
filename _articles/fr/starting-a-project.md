@@ -253,41 +253,41 @@ Prêt à lancer votre projet open source ? Voici une checklist pour vous aider. 
 
 **Documentation**
 
-[ ] Le projet a un fichier LICENSE avec une licence open source
+* [ ] Le projet a un fichier LICENSE avec une licence open source
 
-[ ] Le projet a une documentation de base (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Le projet a une documentation de base (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Le nom est facile à retenir, donne une idée de ce que fait le projet, et n'est pas en conflit avec un projet
+* [ ] Le nom est facile à retenir, donne une idée de ce que fait le projet, et n'est pas en conflit avec un projet
 existant ou ne porte pas atteinte aux marques existantes
 
-[ ] La liste des problèmes est à jour, avec des problèmes clairement organisés et labelisés
+* [ ] La liste des problèmes est à jour, avec des problèmes clairement organisés et labelisés
 
 **Code**
 
-[ ] Le projet utilise des conventions de code cohérentes et les noms des fonctions / méthodes / variables sont clairs
+* [ ] Le projet utilise des conventions de code cohérentes et les noms des fonctions / méthodes / variables sont clairs
 
-[ ] Le code est clairement commenté, documentant les intentions et les cas marginaux
+* [ ] Le code est clairement commenté, documentant les intentions et les cas marginaux
 
-[ ] Il n'y a pas de données sensibles dans l'historique, les problèmes ou les pull requests (par exemple, mots de passe
+* [ ] Il n'y a pas de données sensibles dans l'historique, les problèmes ou les pull requests (par exemple, mots de passe
 ou autres informations non publiques)
 
 **Humain**
 
 Si vous êtes un individu:
 
-[ ] Vous avez parlé au service juridique et / ou comprenez les politiques de propriété intellectuel et open source de
+* [ ] Vous avez parlé au service juridique et / ou comprenez les politiques de propriété intellectuel et open source de
 votre entreprise (si vous êtes employé quelque part)
 
 Si vous êtes une entreprise ou une organisation:
 
-[ ] Vous avez parlé à votre service juridique
+* [ ] Vous avez parlé à votre service juridique
 
-[ ] Vous avez un plan marketing pour annoncer et promouvoir le projet
+* [ ] Vous avez un plan marketing pour annoncer et promouvoir le projet
 
-[ ] Quelqu'un s'engage à gérer les interactions avec la communauté (répondre aux problèmes, passer en revue et fusionner
+* [ ] Quelqu'un s'engage à gérer les interactions avec la communauté (répondre aux problèmes, passer en revue et fusionner
 les pull requests)
 
-[ ] Au moins deux personnes ont un accès administratif au projet
+* [ ] Au moins deux personnes ont un accès administratif au projet
 
 ## Vous l'avez r&eacute;ussi !
 

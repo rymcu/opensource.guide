@@ -264,40 +264,40 @@ Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen 
 
 **Dokumentation**
 
-[ ] Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Lizenz
+* [ ] Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Lizenz
 
-[ ] Grundlegende Dokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
+* [ ] Grundlegende Dokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-[ ] Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht mit einem
+* [ ] Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht mit einem
 existierenden Projekt oder einem Markennamen
 
-[ ] Die Issue-Liste ist auf dem neuesten Stand, klar organisiert und mit Labels versehen
+* [ ] Die Issue-Liste ist auf dem neuesten Stand, klar organisiert und mit Labels versehen
 
 **Code**
 
-[ ] Der Code nutzt konsistente Konventionen, sowie klare Namen für Funktionen, Methoden und Variablen
+* [ ] Der Code nutzt konsistente Konventionen, sowie klare Namen für Funktionen, Methoden und Variablen
 
-[ ] Der Code ist gut kommentiert, und dokumentiert Intentionen und Randfälle
+* [ ] Der Code ist gut kommentiert, und dokumentiert Intentionen und Randfälle
 
-[ ] Weder Versionsgeschichte, noch Issues, oder Pull Requests enthalten sensible Daten (bspw. Passwörter oder andere
+* [ ] Weder Versionsgeschichte, noch Issues, oder Pull Requests enthalten sensible Daten (bspw. Passwörter oder andere
 nicht-öffentliche Informationen)
 
 **Menschen**
 
 Wenn Sie als Einzelperson arbeiten:
 
-[ ] Sie haben mit der Rechtsabteilung gesprochen und/oder verstehen die Immaterialgüterrechter und Open-Source-Politik
+* [ ] Sie haben mit der Rechtsabteilung gesprochen und/oder verstehen die Immaterialgüterrechter und Open-Source-Politik
 Ihrer Firma (wenn Sie angestellt sind)
 
 Wenn Sie als Firma oder Organisation arbeiten:
 
-[ ] Sie haben mit der Rechtsabteilung gesprochen
+* [ ] Sie haben mit der Rechtsabteilung gesprochen
 
-[ ] Sie haben einen Plan zur Ankündigung und Vermarktung Ihres Projektes
+* [ ] Sie haben einen Plan zur Ankündigung und Vermarktung Ihres Projektes
 
-[ ] Jemand steht für Interaktionen mit der Community bereit (Issues beantworten, Pull Requests prüfen und mergen)
+* [ ] Jemand steht für Interaktionen mit der Community bereit (Issues beantworten, Pull Requests prüfen und mergen)
 
-[ ] Mindestens zwei Personen haben Admin-Zugang zum Projekt
+* [ ] Mindestens zwei Personen haben Admin-Zugang zum Projekt
 
 ## Sie haben's geschafft!
 
