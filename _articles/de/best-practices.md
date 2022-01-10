@@ -38,17 +38,11 @@ Eine klare, dokumentierte Vision hilft Ihnen, sich zu konzentrieren und den "Sco
 
 Zum Beispiel entdeckte @lord, dass eine Projektvision ihm herauszufinden half, in welche Anfragen er Zeit stecken sollte. Als frisch gebackener Maintainer bedauerte er, dass er sich nicht auf den Kern seines Projekts fokussiert hat, als er seine erste Feature-Anfrage für [Slate](https://github.com/lord/slate) erhielt.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich habe es zurechtgefummelt. Ich habe mir nicht die Mühe gemacht, eine komplette Lösung zu finden. Statt einer halbherzigen Lösung wünschte ich, ich hätte gesagt: "Ich habe jetzt keine Zeit dafür, aber ich werde es auf die langfristige Wunschliste setzen."
+> ![](https://avatars.githubusercontent.com/lord?s=180)
+> Ich habe es zurechtgefummelt. Ich habe mir nicht die Mühe gemacht, eine komplette Lösung zu finden. Statt einer halbherzigen Lösung wünschte ich, ich hätte gesagt: "Ich habe jetzt keine Zeit dafür, aber ich werde es auf die langfristige Wunschliste setzen."
 
   _I fumbled it. I didn't put in the effort to come up with a complete solution. Instead of an half-assed solution, I wish I had said "I don't have time for this right now, but I'll add it to the long term nice-to-have list."_
-
-  <p markdown="1" class="pquote-credit">
-— @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
-  </p>
-</aside>
+> — @lord, ["Tips for new open source maintainers"](https://lord.io/blog/2014/oss-tips/)
 
 ### Kommunizieren Sie Ihre Erwartungen
 
@@ -99,17 +93,11 @@ Unabhängig vom Ablehnungsgrund ist es möglich, Beiträge, die nicht den Standa
 
 Wenn Sie einen Beitrag erhalten, den Sie nicht annehmen möchten, könnte Ihre erste Reaktion darin bestehen, ihn zu ignorieren oder so zu tun, als ob Sie ihn nicht gesehen hätten. Dies könnte die Gefühle anderer Personen verletzen und sogar andere potenzielle Mitwirkende in Ihrer Gemeinschaft demotivieren.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-
-  Der Schlüssel zur Unterstützung großer Open-Source-Projekte liegt darin, die Issues in Bewegung zu halten. Versuchen Sie nicht Issues aufzuschieben. Wenn Sie iOS-Entwickler\*in* sind, wissen Sie, wie frustrierend es sein kann, Radars einzureichen: Sie bekommen 2 Jahre später vielleicht eine Antwort und werden dann angehalten, es nochmal mit der neusten iOS-Version zu probieren.
+> ![](https://avatars.githubusercontent.com/krausefx?s=180)
+> Der Schlüssel zur Unterstützung großer Open-Source-Projekte liegt darin, die Issues in Bewegung zu halten. Versuchen Sie nicht Issues aufzuschieben. Wenn Sie iOS-Entwickler\*in* sind, wissen Sie, wie frustrierend es sein kann, Radars einzureichen: Sie bekommen 2 Jahre später vielleicht eine Antwort und werden dann angehalten, es nochmal mit der neusten iOS-Version zu probieren.
 
   _The key to handle support for large-scale open source projects is to keep issues moving. Try to avoid having issues stall. If you're an iOS developer you know how frustrating it can be to submit radars. You might hear back 2 years later, and are told to try again with the latest version of iOS._
-
-  <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
-  </p>
-</aside>
+> — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
 
 Lassen Sie keinen unerwünschten Beitrag offen, weil Sie sich schuldig fühlen oder nett sein wollen. Im Laufe der Zeit werden unbeantwortete Issues und PRs die Projektarbeit stressiger und einschüchternder machen.
 
@@ -124,11 +112,14 @@ Wenn Sie einen Betrag nicht annehmen wollen:
 * **Verlinken Sie auf die entsprechende Dokumentation**, wenn Sie diese haben. Wenn Sie wiederholt ähnliche Beiträge bekommen, die Sie nicht akzeptieren wollen, weisen Sie darauf in Ihrer Dokumentation hin, um weitere Wiederholungen zu vermeiden.
 * **Schließen Sie die Anfrage**
 
-Sie sollten nicht mehr als 1-2 Sätze benötigen, um zu antworten. Als beispielsweise ein Benutzer von [celery](https://github.com/celery/celery/) einen Windows-bezogenen Fehler meldete, [antwortet](https://github.com/celery/celery/issues/3383) @berkerpeksag mit:
+Sie sollten nicht mehr als 1-2 Sätze benötigen, um zu antworten. Als beispielsweise ein Benutzer
+von [celery](https://github.com/celery/celery/) einen Windows-bezogenen Fehler
+meldete, [antwortet](https://github.com/celery/celery/issues/3383) @berkerpeksag mit:
 
-![Celery screenshot](/assets/images/best-practices/celery.png)
+![Celery screenshot](../../assets/images/best-practices/celery.png)
 
-Wenn Ihnen der Gedanke, "Nein" zu sagen, Angst macht, sind Sie nicht allein. Wie @jessfraz [es formulierte](https://blog.jessfraz.com/post/the-art-of-closing/):
+Wenn Ihnen der Gedanke, "Nein" zu sagen, Angst macht, sind Sie nicht allein. Wie
+@jessfraz [es formulierte](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > Ich habe mit Maintainern aus verschiedenen Open-Source-Projekten gesprochen, Mesos, Kubernetes, Chromium, und sie alle sind sich einig, dass einer der schwierigsten Aufgaben des Maintainertums darin besteht, "Nein" zu Patches zu sagen, die man nicht will.
 >
@@ -151,17 +142,11 @@ Wer nicht Ihren Regeln folgt, dessen Issue können Sie sofort schließen und dab
 
 Auch wenn sich dieser Ansatz zunächst unfreundlich anfühlt, ist es für beide Seiten gut, proaktiv zu sein. Es verringert die Chance, dass jemand zu viele Arbeitsstunden in ein Pull Request vergeudete, das Sie nicht akzeptieren werden. Und es macht Ihre Arbeit einfacher zu verwalten.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-
-  Im Idealfall erklären Sie ihnen und in einer CONTRIBUTING.md-Datei, wie sie in Zukunft vor Beginn der Arbeit einen besseren Hinweis darauf erhalten können, was Sie akzeptieren würden oder nicht.
+> ![](https://avatars.githubusercontent.com/mikemcquaid?s=180)
+> Im Idealfall erklären Sie ihnen und in einer CONTRIBUTING.md-Datei, wie sie in Zukunft vor Beginn der Arbeit einen besseren Hinweis darauf erhalten können, was Sie akzeptieren würden oder nicht.
 
   _Ideally, explain to them and in a CONTRIBUTING.md file how they can get a better indication in the future on what would or would not be accepted before they begin the work._
-
-  <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
-  </p>
-</aside>
+> — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
 
 Manchmal, wenn Sie "Nein" sagen, kann Ihr potenzieller Mitwirkender verärgert sein oder Ihre Entscheidung kritisieren. Wenn deren Verhalten feindselig wird, unternehmen Sie [Schritte, um die Situation zu entschärfen](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) oder entfernen Sie sie sogar aus Ihrer Gemeinschaft, wenn keine Bereitschaft zur konstruktiven Zusammenarbeit erkennbar ist.
 
@@ -185,17 +170,11 @@ Wenn Sie neue Mitwirkende bemerken, die wiederholt Beiträge leisten, erkennen S
 
 Andere zu ermutigen, [sich am Projekt zu beteiligen](../building-community/#teilen-sie-die-eigentümerschaft-an-ihrem-projekt), kann den eigenen Arbeitsaufwand erheblich reduzieren, wie @lmccart in ihrem Projekt [p5.js](https://github.com/processing/p5.js) feststellte.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich hatte gesagt: "Ja, jede\*r kann mitmachen. Sie müssen nicht viel Programmiererfahrung haben (...)" Wir hatten Leute, die sich angemeldet haben, um \[zu einer Veranstaltung\] zu kommen und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihre\*n Nachbar\*in unterrichten.
+> ![](https://avatars.githubusercontent.com/lmccart?s=180)
+> Ich hatte gesagt: "Ja, jede\*r kann mitmachen. Sie müssen nicht viel Programmiererfahrung haben (...)" Wir hatten Leute, die sich angemeldet haben, um \[zu einer Veranstaltung\] zu kommen und da habe ich mich wirklich gefragt: Ist das wahr, was ich gesagt habe? Es werden 40 Leute auftauchen und es ist nicht so, dass ich bei jedem von ihnen sitzen kann... Aber die Leute kamen zusammen, und es hat einfach funktioniert. Sobald eine Person es verstand, konnte sie ihre\*n Nachbar\*in unterrichten.
 
   _I'd been saying, "Yeah, anyone can be involved, you don't have to have a lot of coding expertise (...)." We had people sign up to come \[to an event\] and that's when I was really wondering: is this true, what I've been saying? There are gonna be 40 people who show up, and it's not like I can sit with each of them...But people came together, and it just sort of worked. As soon as one person got it, they could teach their neighbor._
-
-  <p markdown="1" class="pquote-credit">
-—  @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
-  </p>
-</aside>
+> — @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
 
 Wenn Sie sich aus Ihrem Projekt zurückziehen müssen (egal ob temporär oder auf Dauer), ist es keine Schande, jemand anders zu bitten, für Sie zu übernehmen.
 
@@ -213,17 +192,11 @@ Wenn ein potenzieller Mitwirkender eine andere Meinung über das Ziel Ihres Proj
 
 Ein Projekt zu forken, muss keine schlechte Sache sein. Projekte kopieren und modifizieren zu können, ist eine der besten Möglichkeiten, die Open Source mitbringt. Ihre Community-Mitglieder zur Arbeit an eigenen Forks zu ermutigen, kann ein notwendiges Ventil für Kreativität bieten, die nicht mit der Vision Ihres Projekts in Konflikt gerät.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich kümmere mich um die normalen Anwendungsfälle. Wenn Du zu den Einhörnern gehörst, bitte forke meine Arbeit. Das nehme ich Dir nicht krumm! Meine öffentlichen Projekte sind fast immer dazu gedacht, die häufigsten Probleme zu lösen. Ich versuche, es anderen leicht zu machen, darauf aufzubauen, indem sie meine Arbeit forken oder erweitern.
+> ![](https://avatars.githubusercontent.com/geerlingguy?s=180)
+> Ich kümmere mich um die normalen Anwendungsfälle. Wenn Du zu den Einhörnern gehörst, bitte forke meine Arbeit. Das nehme ich Dir nicht krumm! Meine öffentlichen Projekte sind fast immer dazu gedacht, die häufigsten Probleme zu lösen. Ich versuche, es anderen leicht zu machen, darauf aufzubauen, indem sie meine Arbeit forken oder erweitern.
 
   _I cater to the 80% use case. If you are one of the unicorns, please fork my work. I won't get offended! My public projects are almost always meant to solve the most common problems; I try to make it easy to go deeper by either forking my work or extending it._
-
-  <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
-  </p>
-</aside>
+> — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
 
 Das Gleiche gilt für Benutzer\*innen, die wirklich eine Lösung haben möchten, deren Erstellung Sie einfach nicht leisten können. Das Anbieten von APIs und Plugin-Systemen kann anderen helfen, ihre eigenen Bedürfnisse zu erfüllen, ohne den Quellcode direkt ändern zu müssen. @orta [fand heraus](https://artsy.github.io/blog/2016/07/03/handling-big-projects/), dass Plugins für CocoaPods zu "einigen der interessantesten Ideen" führten:
 
@@ -245,17 +218,11 @@ Richten Sie automatische Tests ein, die bei allen eingehenden Beiträgen ausgef�
 
 Wenn Sie Tests hinzufügen, erklären Sie deren Funktionsweise in Ihrer CONTRIBUTING-Datei.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich glaube, dass Tests für jeden Code, an dem Menschen arbeiten, notwendig sind. Wenn der Code vollständig und vollkommen korrekt wäre, müsste er nicht geändert werden - wir schreiben Code nur, wenn etwas nicht stimmt, sei es "Es stürzt ab" oder "Es fehlt dieses oder jenes Feature". Unabhängig von den Änderungen, die Sie vornehmen, sind Tests unerlässlich, um versehentlich entstandene Regressionen abzufangen.
+> ![](https://avatars.githubusercontent.com/edunham?s=180)
+> Ich glaube, dass Tests für jeden Code, an dem Menschen arbeiten, notwendig sind. Wenn der Code vollständig und vollkommen korrekt wäre, müsste er nicht geändert werden - wir schreiben Code nur, wenn etwas nicht stimmt, sei es "Es stürzt ab" oder "Es fehlt dieses oder jenes Feature". Unabhängig von den Änderungen, die Sie vornehmen, sind Tests unerlässlich, um versehentlich entstandene Regressionen abzufangen.
 
   _I believe that tests are necessary for all code that people work on. If the code was fully and perfectly correct, it wouldn't need changes – we only write code when something is wrong, whether that's "It crashes" or "It lacks such-and-such a feature". And regardless of the changes you're making, tests are essential for catching any regressions you might accidentally introduce._
-
-  <p markdown="1" class="pquote-credit">
-— @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
-  </p>
-</aside>
+> — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
 
 ### Automatisieren Sie grundlegende Wartungsaufgaben
 
@@ -289,17 +256,11 @@ Obwohl es gar nicht extra gesagt werden müsste: Machen Sie ruhig mal Urlaub! Si
 
 Genau wie bei jeder anderen Art von Arbeit, werden Sie durch regelmäßige Pausen ausgeruht, glücklich und wieder gespannt auf Ihre Arbeit sein.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-
-  Bei der Pflege von WP-CLI habe ich entdeckt, dass ich mich zuerst glücklich machen und klare Grenzen für mein Engagement setzen muss. Die beste Balance, die ich gefunden habe, sind 2 bis 5 Stunden pro Woche, als Teil meines normalen Arbeitsplanes. So bleibt mein Engagement eine Leidenschaft, und fühlt sich nicht zu sehr nach Arbeit an. Da ich die Themen priorisiere, an denen ich arbeite, kann ich regelmäßig Fortschritte bei mir wichtigen Dingen machen.
+> ![](https://avatars.githubusercontent.com/danielbachhuber?s=180)
+> Bei der Pflege von WP-CLI habe ich entdeckt, dass ich mich zuerst glücklich machen und klare Grenzen für mein Engagement setzen muss. Die beste Balance, die ich gefunden habe, sind 2 bis 5 Stunden pro Woche, als Teil meines normalen Arbeitsplanes. So bleibt mein Engagement eine Leidenschaft, und fühlt sich nicht zu sehr nach Arbeit an. Da ich die Themen priorisiere, an denen ich arbeite, kann ich regelmäßig Fortschritte bei mir wichtigen Dingen machen.
 
   _In maintaining WP-CLI, I've discovered I need to make myself happy first, and set clear boundaries on my involvement. The best balance I've found is 2-5 hours per week, as a part of my normal work schedule. This keeps my involvement a passion, and from feeling too much like work. Because I prioritize the issues I'm working on, I can make regular progress on what I think is most important._
-
-  <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
-  </p>
-</aside>
+> — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
 
 Manchmal kann es schwierig sein, eine Pause von der Open-Source-Arbeit zu machen, wenn es sich so anfühlt, als ob alle Sie brauchen. Vielleicht versuchen die Leute Ihnen für Ihre Abwesenheit Schuldgefühle einzureden.
 

@@ -35,11 +35,15 @@ Wenn Sie daran interessiert sind, Ihr Projekt auf einer tieferen Ebene zu verste
 
 ## Entdeckt werden
 
-Bevor Leute Ihr Projekt nutzen oder zu ihm beitragen können, müssen sie wissen, dass es existiert. Fragen Sie sich selbst: _Finden Leute dieses Projekt?_
+Bevor Leute Ihr Projekt nutzen oder zu ihm beitragen können, müssen sie wissen, dass es existiert. Fragen Sie sich
+selbst: _Finden Leute dieses Projekt?_
 
-![Besucherzahlen](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Besucherzahlen](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Wenn Ihr Projekt auf GitHub gehostet wird, [können Sie sich ansehen](https://help.github.com/articles/about-repository-graphs/#traffic), wie viele Personen Ihr Projekt finden und wie sie es gefunden haben. Im Repo Ihres Projektes, klicken Sie "Insights" und dann "Traffic". Auf der Seite sehen Sie:
+Wenn Ihr Projekt auf GitHub gehostet
+wird, [können Sie sich ansehen](https://help.github.com/articles/about-repository-graphs/#traffic), wie viele Personen
+Ihr Projekt finden und wie sie es gefunden haben. Im Repo Ihres Projektes, klicken Sie "Insights" und dann "Traffic".
+Auf der Seite sehen Sie:
 
 * **Views** zeigen an, wie oft Ihr Projekt angesehen wurde.
 
@@ -55,17 +59,26 @@ Vielleicht möchten Sie auch [die Auffindbarkeit an bestimmten Orten verfolgen](
 
 ## Benutzung
 
-Leute finden Ihr Projekt auf dieser wilden und verrückten Sache, die wir das Internet nennen. Wenn sie Ihr Projekt sehen, werden sie sich im Idealfall angespornt fühlen, etwas zu tun. Die zweite Frage, die Sie sich stellen sollten, lautet: _Nutzen Leute dieses Projekt?_
+Leute finden Ihr Projekt auf dieser wilden und verrückten Sache, die wir das Internet nennen. Wenn sie Ihr Projekt
+sehen, werden sie sich im Idealfall angespornt fühlen, etwas zu tun. Die zweite Frage, die Sie sich stellen sollten,
+lautet: _Nutzen Leute dieses Projekt?_
 
-Wenn Sie einen Paketmanager wie [npm](https://www.npmjs.com/) oder [RubyGems.org](https://rubygems.org/) verwenden, um Ihr Projekt zu verteilen, können Sie vielleicht die Downloads Ihres Projekts verfolgen.
+Wenn Sie einen Paketmanager wie [npm](https://www.npmjs.com/) oder [RubyGems.org](https://rubygems.org/) verwenden, um
+Ihr Projekt zu verteilen, können Sie vielleicht die Downloads Ihres Projekts verfolgen.
 
-Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "Installation" oder "Verwendung", aber sie bieten eine Basislinie für Vergleiche: Probieren Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu verfolgen.
+Paketmanager verwenden leicht unterschiedliche "Download"-Definitionen, und Downloads korrelieren nicht unbedingt mit "
+Installation" oder "Verwendung", aber sie bieten eine Basislinie für Vergleiche: Probieren
+Sie [Libraries.io](https://libraries.io/) aus, um Nutzungsstatistiken über viele populäre Paketmanager hinweg zu
+verfolgen.
 
-Wenn sich Ihr Projekt auf GitHub befindet, navigieren Sie erneut zur Traffic-Seite. Aus [dem clone-Diagramm](https://github.com/blog/1873-clone-graphs) können Sie ablesen, wie oft Ihr Projekt an einem bestimmten Tag heruntergeladen wurde, aufgeschlüsselt nach Gesamtzahl und Nutzer\*innen.
+Wenn sich Ihr Projekt auf GitHub befindet, navigieren Sie erneut zur Traffic-Seite.
+Aus [dem clone-Diagramm](https://github.com/blog/1873-clone-graphs) können Sie ablesen, wie oft Ihr Projekt an einem
+bestimmten Tag heruntergeladen wurde, aufgeschlüsselt nach Gesamtzahl und Nutzer\*innen.
 
-![clone-Diagramm](/assets/images/metrics/clone_graph.png)
+![clone-Diagramm](../../assets/images/metrics/clone_graph.png)
 
-Wenn die Nutzung im Vergleich zur Anzahl der Personen, die Ihr Projekt entdecken, gering ist, gibt es zwei Punkte zu beachten:
+Wenn die Nutzung im Vergleich zur Anzahl der Personen, die Ihr Projekt entdecken, gering ist, gibt es zwei Punkte zu
+beachten:
 
 * Entweder schafft es Ihr Projekt nicht, Besucher\*innen zu Nutzer\*innen zu konvertieren,
 * oder Sie ziehen die falsche Zielgruppe an.
@@ -88,7 +101,7 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 
 * **Gesamtzahl der Mitwirkenden und Anzahl der Commits pro Mitwirkenden:** Sagt Ihnen, wie viele Leute an Ihrem Projekt mitwirken, und wer mehr oder weniger aktiv ist. Auf GitHub können Sie dies unter "Insights" -> "Contributors" einsehen. Dieses Diagramm zeigt momentan nur die Mitwirkenden, die zum Default-Branch des Repositories beigetragen haben.
 
-![Mitwirkendendiagramm](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Mitwirkendendiagramm](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Erstmalige, gelegentliche und regelmäßige Mitwirkende:** Hilft Ihnen nachzuvollziehen, ob Sie neue Mitwirkende hinzugewinnen können, und ob sie auch wiederholt mithelfen. (Gelegentlich Mitwirkende sind solche mit geringer Commit-Anzahl. Ob es sich dabei um einen, weniger als fünf Commits oder um andere Zahlen handelt, sei Ihnen überlassen). Ohne neue Helfer\*innen kann die Community Ihres Projekts stagnieren.
 
@@ -98,17 +111,11 @@ Beispiele für Community-Metriken, die Sie regelmäßig verfolgen möchten, sind
 
 * **Arten der Mithilfe:** Zum Beispiel Commits, das Beheben von Tippfehlern oder Bugs oder das Kommentieren eines Issues.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-
-  Open Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen.
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Open Source ist mehr als nur Code: Erfolgreiche Open-Source-Projekte beinhalten Code und Dokumentationsbeiträge sowie Gespräche über diese Änderungen.
 
   _Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes._
-
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Betreuer\*innen-Aktivität
 

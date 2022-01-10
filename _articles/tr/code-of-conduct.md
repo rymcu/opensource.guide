@@ -37,12 +37,7 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 
 ## Davranış kurallarınızı nasıl uygulayacağınıza karar verme
 
-<aside markdown="1" class="pquote">
-  Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.
-  <p markdown="1" class="pquote-credit">
-— [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
-  </p>
-</aside>
+> Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.> — [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
 
@@ -62,28 +57,39 @@ Birisinin, bu raporları alan bir kişi hakkındaki ihlali bildirmek isteyebilec
 
 ## Davranış kurallarınızı güçlendirmek
 
-Bazen, en iyi çabalarınıza rağmen, birileri bu kodu ihlal eden bir şey yapabilir. Olay ortaya çıktığında olumsuz ya da zararlı davranışları ele almanın birkaç yolu vardır.
+Bazen, en iyi çabalarınıza rağmen, birileri bu kodu ihlal eden bir şey yapabilir. Olay ortaya çıktığında olumsuz ya da
+zararlı davranışları ele almanın birkaç yolu vardır.
 
 ### Durum hakkında bilgi toplayın
 
-Her topluluğun üyesinin sesine, sizinki kadar önemli verin. Birinin davranış kurallarını ihlal ettiğini bildiren bir rapor alırsanız, ciddiye alın ve bu kişi olan kendi deneyiminize uymasa bile konuyu araştırın. Bunu yapmak, topluluğunuza kendi perspektifine değer verdiğinizi ve kararlarına güvendiğinizi gösterir.
+Her topluluğun üyesinin sesine, sizinki kadar önemli verin. Birinin davranış kurallarını ihlal ettiğini bildiren bir
+rapor alırsanız, ciddiye alın ve bu kişi olan kendi deneyiminize uymasa bile konuyu araştırın. Bunu yapmak,
+topluluğunuza kendi perspektifine değer verdiğinizi ve kararlarına güvendiğinizi gösterir.
 
-Söz konusu topluluk üyesi, sürekli olarak başkalarını rahatsız hissetmesine neden olan, ya da bir kez bir şey söyleyen veya yapan bir suçlu olabilir. Her ikisi de bağlama bağlı olarak eyleme geçmenin gerekçesi olabilir.
+Söz konusu topluluk üyesi, sürekli olarak başkalarını rahatsız hissetmesine neden olan, ya da bir kez bir şey söyleyen
+veya yapan bir suçlu olabilir. Her ikisi de bağlama bağlı olarak eyleme geçmenin gerekçesi olabilir.
 
-Cevap vermeden önce, neler olduğunu anlamak için biraz zaman harcayın. Kim olduklarını ve neden böyle davrandıklarını daha iyi anlamak için, kişi ya da kişilerin geçmiş yorumlarını ve konuşmalarını okuyun. Bu kişi ve davranışları hakkındaki kendi görüşleriniz dışında başka bakış açıları da toplamaya çalışın.
+Cevap vermeden önce, neler olduğunu anlamak için biraz zaman harcayın. Kim olduklarını ve neden böyle davrandıklarını
+daha iyi anlamak için, kişi ya da kişilerin geçmiş yorumlarını ve konuşmalarını okuyun. Bu kişi ve davranışları
+hakkındaki kendi görüşleriniz dışında başka bakış açıları da toplamaya çalışın.
 
-<aside markdown="1" class="pquote">
-  Bir tartışmaya girmeyin. Eldeki konuyla ilgilenmeyi bitirmeden önce başkasının davranışlarıyla başa çıkmayın. İhtiyacınız olana odaklanın.
-  <p markdown="1" class="pquote-credit">
-- Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
-  </p>
-</aside>
+> Bir tartışmaya girmeyin. Eldeki konuyla ilgilenmeyi bitirmeden önce başkasının davranışlarıyla başa çıkmayın. İhtiyacınız olana odaklanın.
+>
+
+- Stephanie
+  Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
 
 ### Uygun işlemi yapın
 
-Yeterli bilgiyi topladıktan ve işledikten sonra ne yapacağınıza karar vermeniz gerekir. Sonraki adımlarınızı düşündüğünüz gibi, moderatör olarak hedefinizin güvenli, saygılı ve işbirliğine dayalı bir ortam oluşturmak olduğunu unutmayın. Yalnızca söz konusu durumla nasıl başa çıkacağınızı değil, yanıtınızın topluluğunuzun davranışlarını ve ilerleyişindeki beklentilerini nasıl etkileyeceğini de düşünün.
+Yeterli bilgiyi topladıktan ve işledikten sonra ne yapacağınıza karar vermeniz gerekir. Sonraki adımlarınızı
+düşündüğünüz gibi, moderatör olarak hedefinizin güvenli, saygılı ve işbirliğine dayalı bir ortam oluşturmak olduğunu
+unutmayın. Yalnızca söz konusu durumla nasıl başa çıkacağınızı değil, yanıtınızın topluluğunuzun davranışlarını ve
+ilerleyişindeki beklentilerini nasıl etkileyeceğini de düşünün.
 
-Birisi bir davranış kuralları ihlali bildirdiğinde, bu durumla yüzleşmesi gereken sizsiniz, bildiren kişi değil. Bazen, ihbar eden kişi kariyer, itibar veya fiziksel güvenlik açısından büyük risk altındaki bilgileri ifşa ediyordur. Onları tacizcileriyle yüzleşmeye zorlamak, ihbar eden kişiyi uzlaşma konumuna getirebilir. İhbar eden açıkça aksini talep etmediği sürece, söz konusu kişiyle doğrudan iletişime geçmelisiniz.
+Birisi bir davranış kuralları ihlali bildirdiğinde, bu durumla yüzleşmesi gereken sizsiniz, bildiren kişi değil. Bazen,
+ihbar eden kişi kariyer, itibar veya fiziksel güvenlik açısından büyük risk altındaki bilgileri ifşa ediyordur. Onları
+tacizcileriyle yüzleşmeye zorlamak, ihbar eden kişiyi uzlaşma konumuna getirebilir. İhbar eden açıkça aksini talep
+etmediği sürece, söz konusu kişiyle doğrudan iletişime geçmelisiniz.
 
 Bir davranış kural ihlaline yanıt vermenin birkaç yolu vardır:
 

@@ -18,11 +18,13 @@ related:
 
 ### 사람들이 환영받는다고 느끼게 하세요
 
-@MikeMcQuaid가 [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)(기여자 깔때기)이라고 부르는 것을 통해 프로젝트 커뮤니티에 대해 생각해 볼 수 있습니다.
+@MikeMcQuaid가 [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)(기여자
+깔때기)이라고 부르는 것을 통해 프로젝트 커뮤니티에 대해 생각해 볼 수 있습니다.
 
-![Contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![Contributor funnel](../../assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-커뮤니티가 성장함에 따라 깔때기 맨 위에 있는 누군가(잠재 사용자)가 맨 아래(활동적인 유지관리자)까지 나아갈 수 있는 방법을 생각해 보세요. 여러분의 목표는 기여 경험의 각 단계에서 발생하는 마찰력을 최소화하는 것입니다. 사람들은 쉽게 보답을 받을수록 더 많은 일을 할 동기를 받습니다.
+커뮤니티가 성장함에 따라 깔때기 맨 위에 있는 누군가(잠재 사용자)가 맨 아래(활동적인 유지관리자)까지 나아갈 수 있는 방법을 생각해 보세요. 여러분의 목표는 기여 경험의 각 단계에서 발생하는 마찰력을 최소화하는
+것입니다. 사람들은 쉽게 보답을 받을수록 더 많은 일을 할 동기를 받습니다.
 
 문서화에서부터 시작하세요.
 
@@ -36,13 +38,8 @@ related:
 * **열린 마음을 가지고 다양한 유형의 기여를 받아들이세요.** 많은 기여자들이 처음에는 버그 제보나 작은 수정에서부터 시작합니다. 프로젝트에 기여하는 데에는 [다양한 방법](../how-to-contribute/#what-it-means-to-contribute)이 있습니다. 그들이 원하는 방식으로 여러분을 도울 수 있게 하세요.
 * **받아들일 수 없는 기여가 있다면,** 먼저 그들의 아이디어에 감사하고, 왜 그 기여가 프로젝트의 의도에 맞지 않는지 [이유를 설명](../best-practices/#거절하는-법-배우기)하세요. 관련 문서가 있다면 링크를 첨부하는 것이 좋습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.
-  <p markdown="1" class="pquote-credit">
-— @mikeal, ["Growing a contributor base in modern open source”](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mikeal?s=180)
+> Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns.> — @mikeal, ["Growing a contributor base in modern open source”](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 오픈소스 제공자의 대다수는 이따금씩만 프로젝트에 기여하는 "임시 기여자"입니다. 임시 기여자들은 프로젝트의 진도를 따라갈 시간이 없을 수도 있습니다. 즉 그들이 기여하기 쉬운 환경을 만들어두는 것은 여러분의 역할입니다.
 
@@ -50,13 +47,8 @@ related:
 
 ### 모든 것을 문서화하세요
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.
-  <p markdown="1" class="pquote-credit">
-— @janl, ["Sustainable Open Source”](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening.> — @janl, ["Sustainable Open Source”](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 새로운 프로젝트를 시작하면 작업 내용을 공개하고 싶지 않을 수도 있습니다. 하지만 오픈소스 프로젝트는 여러분의 작업 과정을 공개해야 번창할 수 있습니다.
 
@@ -78,13 +70,16 @@ related:
 
 누군가 이슈를 열거나 풀 리퀘스트를 제출하거나 질문을 하면 적극적으로 반응할 수 있도록 노력하세요. 제때 피드백에 반응하면 사람들은 대화에 참여하고 있다는 느낌을 받고, 더 열정적으로 기여할 것입니다.
 
-즉시 반응하기 힘들더라도 그 사실을 알려두는 것이 참여율을 높이기 좋습니다. @tdreyno가 [Middleman](https://github.com/middleman/middleman/pull/1466)에서 풀 리퀘스트에 어떻게 대응했는지 참고하세요.
+즉시 반응하기 힘들더라도 그 사실을 알려두는 것이 참여율을 높이기 좋습니다. @tdreyno가 [Middleman](https://github.com/middleman/middleman/pull/1466)에서 풀
+리퀘스트에 어떻게 대응했는지 참고하세요.
 
-![Middleman 풀 리퀘스트](/assets/images/building-community/middleman_pr.png)
+![Middleman 풀 리퀘스트](../../assets/images/building-community/middleman_pr.png)
 
-[Mozilla에서의 조사](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)에 따르면 48시간 안에 코드 리뷰를 받은 기여자는 추가 기여를 할 확률이 훨씬 높다고 합니다.
+[Mozilla에서의 조사](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)에
+따르면 48시간 안에 코드 리뷰를 받은 기여자는 추가 기여를 할 확률이 훨씬 높다고 합니다.
 
-여러분의 프로젝트에 대한 대화는 Stack Overflow나 Twitter, Reddit처럼 인터넷상의 다른 곳에서 이루어지고 있을 수도 있습니다. 이러한 사이트에서 여러분의 프로젝트가 언급되었을 때 알 수 있도록 알림을 설정할 수 있습니다.
+여러분의 프로젝트에 대한 대화는 Stack Overflow나 Twitter, Reddit처럼 인터넷상의 다른 곳에서 이루어지고 있을 수도 있습니다. 이러한 사이트에서 여러분의 프로젝트가 언급되었을 때 알 수 있도록
+알림을 설정할 수 있습니다.
 
 ### 커뮤니티가 모일 장소를 제공하세요
 
@@ -112,13 +107,8 @@ related:
 
 이런 유형의 사람들에 대해서는 즉각적인 조치를 취해야 합니다. 그냥 넘어간다면 부정적인 사람들이 커뮤니티의 다른 사람들을 불쾌하게, 떠나게까지 만들 수 있습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.
-  <p markdown="1" class="pquote-credit">
-— @okdistribute, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/okdistribute?s=180)
+> The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes.> — @okdistribute, ["FOSS 프로젝트를 어떻게 실행하는가"](https://okdistribute.xyz/post/okf-de)
 
 프로젝트의 사소한 면에 대한 반복적인 논쟁은 여러분을 포함한 구성원이 보다 중요한 일에 집중하는 것을 방해합니다. 여러분의 프로젝트에 새로 찾아온 사람들이 이런 논쟁을 보면 프로젝트에 참여하고 싶지 않을 것입니다.
 
@@ -128,11 +118,14 @@ related:
 
 커뮤니티가 성장할수록 좋은 문서화는 더욱 중요해집니다. 여러분의 프로젝트를 잘 몰랐을 평범한 기여자들도 문서를 읽고 빠르게 필요한 맥락을 파악할 수 있기 때문입니다.
 
-CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명하세요. 이를 위한 파트를 따로 마련해도 좋습니다. 예컨대 [Django](https://github.com/django/django)는 새 기여자를 환영하기 위한 특별한 페이지를 가지고 있습니다.
+CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명하세요. 이를 위한 파트를 따로 마련해도 좋습니다. 예컨대 [Django](https://github.com/django/django)는 새
+기여자를 환영하기 위한 특별한 페이지를 가지고 있습니다.
 
-![Django 새로운 기여자 페이지](/assets/images/building-community/django_new_contributors.png)
+![Django 새로운 기여자 페이지](../../assets/images/building-community/django_new_contributors.png)
 
-이슈 목록에 다양한 유형의 기여자들을 위한 라벨을 표시하세요. [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, _"documentation"_ 같은 예가 있습니다. [이러한 라벨은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+이슈 목록에 다양한 유형의 기여자들을 위한 라벨을 표시하세요. [_"first timers only"_](https://kentcdodds.com/blog/first-timers-only), _"good first
+issue"_, _"documentation"_ 같은 예가
+있습니다. [이러한 라벨은](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
 프로젝트에 새로 온 사람들이 빠르게 이슈를 확인하고 기여를 시작하기 쉽게 만들어 줍니다.
 
 마지막으로, 기여의 모든 단계에서 사람들이 좋은 기분을 유지할 수 있도록 문서를 활용하세요.
@@ -145,13 +138,8 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 ### 프로젝트를 공동으로 소유하세요
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.
-  <p markdown="1" class="pquote-credit">
-— @sagesharp, ["What makes a good community?”](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/sagesharp?s=180)
+> Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard.> — @sagesharp, ["What makes a good community?”](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 사람들은 프로젝트에 대한 일종의 소유감을 느낄 때 더 열심히 기여합니다. 프로젝트의 비전을 바꾸거나 원치 않는 기여를 받아들이라는 뜻이 아닙니다. 하지만 사람들에게 공적을 돌릴수록 그들은 더 오래 여러분과 함께할 것입니다.
 
@@ -159,7 +147,7 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 * **(사소하고) 쉬운 버그는 직접 해결하지 말고** 새로운 기여자를 위해 남겨 두거나, 기여하려는 사람에게 멘토링하는 데 활용하세요. 처음에는 부자연스럽게 느껴질 수 있지만, 시간이 지나면서 여러분의 투자가 결실을 맺게 될 것입니다. [Cookiecutter](https://github.com/audreyr/cookiecutter)의 @michaeljoseph은 아래 이슈를 직접 고치는 대신 기여자에게 새 풀 리퀘스트를 제출해 달라고 했습니다.
 
-![Cookiecutter 이슈](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter 이슈](../../assets/images/building-community/cookiecutter_submit_pr.png)
 
 * [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md)가 사용하는 방법처럼 **CONTRIBUTORS 혹은 AUTHORS 파일**을 만들어 모든 프로젝트 기여자를 담은 하나의 목록을 작성하세요.
 
@@ -173,13 +161,8 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 항상 도움을 줄 수 있는 사람을 찾을 수 있는 것은 아니지만, 신호를 보내는 것은 그럴 확률을 높입니다. 여러분이 일찍 시작할수록 사람들은 더 빨리 도울 수 있습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.
-  <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities”](http://hood.ie/blog/welcoming-communities.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gr2m?s=180)
+> \[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it.> — @gr2m, ["Welcoming Communities”](http://hood.ie/blog/welcoming-communities.html)
 
 ## Resolving conflicts
 
@@ -195,13 +178,8 @@ CONTRIBUTING 파일에 새 기여자들이 시작할 방법을 자세히 설명�
 
 관리자로서 상황이 심각해지지 않도록 조정하는 것이 여러분의 역할입니다. 해당 주제에 관해 뚜렷한 주장을 가지고 있더라도, 싸움에 뛰어들어 여러분의 의견을 밀어붙이지 말고 의장 혹은 사회자로서의 역할을 맡을 수 있도록 하세요. 누군가 불친절하게 행동하거나 발언권을 독차지하려 한다면 정중하고 생산성 있는 토론이 유지될 수 있도록 [즉각 대응](../building-community/#악당에게-관용을-베풀지-마세요)하세요.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.
-  <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way”](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kennethreitz?s=180)
+> As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally.> — @kennethreitz, ["Be Cordial or Be on Your Way”](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
 
 여러분의 본보기를 기다리는 사람들도 있습니다. 모범을 보이세요. 실망감이나 불만, 걱정을 표현할 수도 있습니다. 하지만 침착함을 유지하세요.
 
@@ -221,13 +199,8 @@ README 파일은 [단순한 안내서 이상](../starting-a-project/#readme-파�
 
 합의점을 찾는 과정에서, 커뮤니티 구성원들은 본인의 발언이 충분히 귀담아들어졌다고 생각될 때까지 주요 의견을 피력할 것입니다. 사소한 걱정거리만 남았을 때에야 커뮤니티는 앞으로 나아갑니다. '합의점을 찾는다'는 표현은 커뮤니티가 하나의 완벽한 정답에 도달하지는 못할 수도 있다는 것을 나타냅니다. 대신 의견을 듣고 토론하는 데 집중할 뿐입니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.
-  <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom’s decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/lee-dohm?s=180)
+> Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community.> — @lee-dohm on [Atom’s decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
 
 반드시 합의점을 찾는 과정을 문제 해결에 적용하지 않더라도, 여러분이 프로젝트 관리자로서 모두의 이야기를 듣고 있음을 알려주는 것이 중요합니다. 사람들의 이야기를 귀담아듣고, 문제를 해결해 주기 위해 전념하는 것은 시간과 노력이 들지만 민감한 상황을 피할 수 있습니다. 여러분의 말을 행동으로 책임지세요.
 
@@ -247,13 +220,8 @@ README 파일은 [단순한 안내서 이상](../starting-a-project/#readme-파�
 
 대화가 진전되지 않는다면 마땅히 취할 조치가 없거나 이미 적절한 조치가 취해진 것입니다. 이슈를 닫고 그 이유를 설명하세요.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct.> — @kfogel, [_Producing OSS_](http://producingoss.com/en/producingoss.html#common-pitfalls)
 
 ### 전장은 현명하게 선택하세요
 

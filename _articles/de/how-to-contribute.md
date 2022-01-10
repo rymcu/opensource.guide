@@ -12,17 +12,11 @@ related:
 
 ## Warum eigentlich zu Open-Source-Projekten beitragen?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-
-  Die Arbeit an \[freenode\] lehrte mich viele Fähigkeiten, die sich später in meinem Universitätsstudium und meinen Beruf als nützlich erwiesen. Ich denke, an Open-Source zu arbeiten, half mir selbst ebenso sehr wie dem Projekt.
+> ![](https://avatars.githubusercontent.com/errietta?s=180)
+> Die Arbeit an \[freenode\] lehrte mich viele Fähigkeiten, die sich später in meinem Universitätsstudium und meinen Beruf als nützlich erwiesen. Ich denke, an Open-Source zu arbeiten, half mir selbst ebenso sehr wie dem Projekt.
 
   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
-
-  <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
-  </p>
-</aside>
+> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 
 Zu Open Source beizutragen, kann ein lohnender Weg sein, um nahezu alle erdenklichen Fertigkeiten zu erlernen, zu lehren und Erfahrungen zu sammeln.
 
@@ -66,31 +60,19 @@ Keine Sorge! Es gibt viele Möglichkeiten, zu einem Open-Source-Projekt beizutra
 
 Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektaspekte, die am [meisten Unterstützung benötigen](https://github.com/blog/2195-the-shape-of-open-source). Sie tun dem Projekt einen _großen_ Gefallen, indem Sie anbieten, bei nicht-Code-Aspekten mitzuwirken!
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich bin bekannt für meine Arbeit an CocoaPods, aber die meisten Leute wissen nicht, dass ich eigentlich keine echte Arbeit am CocoaPods-Tool selbst mache. Meine Zeit im Projekt verbringe ich hauptsächlich mit Dokumentation und Marketing.
+> ![](https://avatars.githubusercontent.com/orta?s=180)
+> Ich bin bekannt für meine Arbeit an CocoaPods, aber die meisten Leute wissen nicht, dass ich eigentlich keine echte Arbeit am CocoaPods-Tool selbst mache. Meine Zeit im Projekt verbringe ich hauptsächlich mit Dokumentation und Marketing.
 
   _I've been renowned for my work on CocoaPods, but most people don't know that I actually don't do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
-
-  <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
-  </p>
-</aside>
+> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglichkeit, sich an einem Projekt zu beteiligen und andere Leute aus der Community zu treffen. Solche Beziehungen aufzubauen, ebnet Ihnen den Weg zur Mitarbeit an anderen Projektaspekten.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich habe mich zum ersten Mal an das Python-Entwicklungsteam ("python-dev") gewandt, als ich am 17. Juni 2002 eine E-Mail bezüglich eines Patches von mir an die Mailingliste schickte. Das Open-Source-Fieber packte mich sofort und ich beschloss, E-Mail-Zusammenfassungen für die Gruppe zu kuratieren. So hatte ich immer eine gute Ausrede, um mir Dinge erklären zu lassen. Aber noch wichtiger war die Möglichkeit, schnell mitzubekommen wenn jemand auf einen Reparaturbedarf hinwies.
+> ![](https://avatars.githubusercontent.com/brettcannon?s=180)
+> Ich habe mich zum ersten Mal an das Python-Entwicklungsteam ("python-dev") gewandt, als ich am 17. Juni 2002 eine E-Mail bezüglich eines Patches von mir an die Mailingliste schickte. Das Open-Source-Fieber packte mich sofort und ich beschloss, E-Mail-Zusammenfassungen für die Gruppe zu kuratieren. So hatte ich immer eine gute Ausrede, um mir Dinge erklären zu lassen. Aber noch wichtiger war die Möglichkeit, schnell mitzubekommen wenn jemand auf einen Reparaturbedarf hinwies.
 
   _I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing._
-
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
+> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
 
 ### Planen Sie gerne Veranstaltungen?
 
@@ -113,17 +95,11 @@ Auch wenn Sie gerne Code schreiben, sind andere Beitragsarten eine gute Möglich
 * Schreiben Sie Tutorials für das Projekt, so [wie die Mitwirkenden von PyPA](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Übersetzen Sie die Projektdokumentation
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-
-  Ernsthaft, die \[Dokumentation\] ist mega-wichtig. Sie war bisher großartig und ein Killer-Feature von Babel. Aber es gibt Abschnitte, die sicherlich einiger Verbesserung bedürfen, und auch einen Absatzes hier oder dort hinzuzufügen.
+> ![](https://avatars.githubusercontent.com/kittens?s=180)
+> Ernsthaft, die \[Dokumentation\] ist mega-wichtig. Sie war bisher großartig und ein Killer-Feature von Babel. Aber es gibt Abschnitte, die sicherlich einiger Verbesserung bedürfen, und auch einen Absatzes hier oder dort hinzuzufügen.
 
   _Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated._
-
-  <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
-  </p>
-</aside>
+> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
 
 ### Organisieren Sie gerne?
 
@@ -164,17 +140,11 @@ Auch wenn Sie ein\*e Software-Entwickler\*in sind, kann Ihnen die Arbeit an eine
 
 ## Sich in einem neuen Projekt orientieren
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-
-  Wenn Sie sich einen Issue Tracker anschauen und er Dinge verwirrend erscheinen lässt, dann sind sie mit dem Gefühlt vermutlich nicht allein. Diese Werkzeuge erfordern viel implizites Wissen. Sie können es von anderen Leuten erlernen, und Sie können ihnen Fragen stellen.
+> ![](https://avatars.githubusercontent.com/shaunagm?s=180)
+> Wenn Sie sich einen Issue Tracker anschauen und er Dinge verwirrend erscheinen lässt, dann sind sie mit dem Gefühlt vermutlich nicht allein. Diese Werkzeuge erfordern viel implizites Wissen. Sie können es von anderen Leuten erlernen, und Sie können ihnen Fragen stellen.
 
   _If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions._
-
-  <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
-  </p>
-</aside>
+> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Für alles über eine Tippfehlerkorrektur hinaus ist ein Beitrag zu Open Source, als würde man sich zu einer Gruppe von Fremden auf einer Party gesellen. Wenn Sie anfangen, über Lamas zu reden, während die Anderen tief in einer Diskussion über Goldfische stecken, werden diese Sie wahrscheinlich ein wenig seltsam ansehen.
 
@@ -465,17 +435,11 @@ Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-
-  Wann immer Sie einen langen Diskussionsbeitrag sehen, überprüfen Sie die Antworten der Core-Entwickler, die spät in die Diskussion einsteigen. Fassen sie konstruktiv zusammen und unternehmen Schritte, um die Diskussion zu einer Entscheidung zu führen, und bleiben sie dabei höflich? Wenn du viele Flame Wars siehst, zeigt dies an, dass Energie im Streit verschwendet wird, anstatt in die Entwicklung gesteckt zu werden.
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> Wann immer Sie einen langen Diskussionsbeitrag sehen, überprüfen Sie die Antworten der Core-Entwickler, die spät in die Diskussion einsteigen. Fassen sie konstruktiv zusammen und unternehmen Schritte, um die Diskussion zu einer Entscheidung zu führen, und bleiben sie dabei höflich? Wenn du viele Flame Wars siehst, zeigt dies an, dass Energie im Streit verschwendet wird, anstatt in die Entwicklung gesteckt zu werden.
 
   _Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development._
-
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
-  </p>
-</aside>
+> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## Wie man einen Beitrag einreicht
 
@@ -485,17 +449,11 @@ Sie haben ein Projekt gefunden, das Ihnen gefällt und sind zum Leisten eines Be
 
 Unabhängig davon, ob Sie ein\*e einmalige\*r Beitragende\*r sind oder versuchen, einer Gemeinschaft beizutreten, ist die Zusammenarbeit mit anderen eine der wichtigsten Fähigkeiten, die Sie bei der Open-Source-Arbeit entwickeln werden.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-
-  \[Als neue Kontributorin,\] wurde mir schnell klar, dass ich Fragen stellen musste, wenn ich ein Problem lösen wollte. Ich habe den Quellcode durchgelesen. Sobald ich ein Gefühl für dessen Abläufe hatte, bat ich um mehr Orientierung. Und voilà! Ich war in der Lage, das Problem zu lösen, nachdem ich alle relevanten Details erhalten hatte, die ich brauchte.
+> ![](https://avatars.githubusercontent.com/shubheksha?s=180)
+> \[Als neue Kontributorin,\] wurde mir schnell klar, dass ich Fragen stellen musste, wenn ich ein Problem lösen wollte. Ich habe den Quellcode durchgelesen. Sobald ich ein Gefühl für dessen Abläufe hatte, bat ich um mehr Orientierung. Und voilà! Ich war in der Lage, das Problem zu lösen, nachdem ich alle relevanten Details erhalten hatte, die ich brauchte.
 
   _\[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed._
-
-  <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
-  </p>
-</aside>
+> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Bevor Sie ein Issue oder Pull Request aufmachen oder eine Frage im Chat stellen, sollten Sie diese Punkte im Hinterkopf behalten, damit Ihre Ideen effektiv rüberkommen.
 
@@ -551,17 +509,11 @@ Bevor Sie ein Issue oder Pull Request öffnen, überprüfen Sie die Beitragsdoku
 
 Wenn Sie einen substantiellen Beitrag leisten wollen, öffnen Sie einen Issue, bevor Sie daran arbeiten. Bevor Sie Arbeiten ausführen, die möglicherweise nicht angenommen werden, schauen Sie sich das Projekt lieber eine Weile an (auf GitHub, [auf "Watch" klicken](https://help.github.com/articles/watching-repositories/), um über alle Konversationen informiert zu werden), und lernen die Community-Mitglieder kennen.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-
-  Sie lernen <em>sehr viel</em>, wenn Sie ein von Ihnen genutztes Projekt, auf GitHub "watchen" und jedes Issue und PR lesen.
+> ![](https://avatars.githubusercontent.com/gaearon?s=180)
+> Sie lernen <em>sehr viel</em>, wenn Sie ein von Ihnen genutztes Projekt, auf GitHub "watchen" und jedes Issue und PR lesen.
 
   _You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR._
-
-<p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
-  </p>
-</aside>
+> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Ein Issue erstellen
 

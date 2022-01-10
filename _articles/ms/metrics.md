@@ -33,11 +33,15 @@ Sekiranya anda berminat untuk memahami projek anda pada tahap yang lebih mendala
 
 ## Penemuan
 
-Sebelum ada yang dapat menggunakan atau menyumbang kembali ke projek anda, mereka perlu mengetahui bahawa ia wujud. Tanya pada diri anda: _apa orang mencari projek ini?_
+Sebelum ada yang dapat menggunakan atau menyumbang kembali ke projek anda, mereka perlu mengetahui bahawa ia wujud.
+Tanya pada diri anda: _apa orang mencari projek ini?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Sekiranya projek anda dihoskan di GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) berapa ramai orang yang datang ke projek anda dan dari mana asalnya. Dari halaman projek anda, klik "Wawasan", kemudian "Lalu Lintas". Di halaman ini, anda dapat melihat:
+Sekiranya projek anda dihoskan di
+GitHub, [you can view](https://help.github.com/articles/about-repository-graphs/#traffic) berapa ramai orang yang datang
+ke projek anda dan dari mana asalnya. Dari halaman projek anda, klik "Wawasan", kemudian "Lalu Lintas". Di halaman ini,
+anda dapat melihat:
 
 * **Jumlah paparan halaman:** Memberitahu anda berapa kali projek anda dilihat
 
@@ -53,19 +57,28 @@ Anda juga mungkin mahu [track discoverability in specific places](https://openso
 
 ## Penggunaan
 
-Orang ramai mencari projek anda mengenai perkara liar dan gila yang kami panggil internet ini. Sebaik-baiknya, apabila mereka melihat projek anda, mereka akan merasa terdorong untuk melakukan sesuatu. Soalan kedua yang ingin anda ajukan ialah: _apa orang menggunakan projek ini?_
+Orang ramai mencari projek anda mengenai perkara liar dan gila yang kami panggil internet ini. Sebaik-baiknya, apabila
+mereka melihat projek anda, mereka akan merasa terdorong untuk melakukan sesuatu. Soalan kedua yang ingin anda ajukan
+ialah: _apa orang menggunakan projek ini?_
 
-Sekiranya anda menggunakan pengurus pakej, seperti npm atau RubyGems.org, untuk mengedarkan projek anda, anda mungkin dapat mengesan muat turun projek anda.
+Sekiranya anda menggunakan pengurus pakej, seperti npm atau RubyGems.org, untuk mengedarkan projek anda, anda mungkin
+dapat mengesan muat turun projek anda.
 
-Setiap pengurus pakej boleh menggunakan definisi "download" yang sedikit berbeza, dan muat turuntuk mengesan statistik penggunaan di banyak pengurus pakej yang popular.
+Setiap pengurus pakej boleh menggunakan definisi "download" yang sedikit berbeza, dan muat turuntuk mengesan statistik
+penggunaan di banyak pengurus pakej yang popular.
 
-Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh menggunakanun tidak semestinya berkaitan dengan pemasangan atau penggunaan, tetapi menyediakan beberapa asas untuk perbandingan. Cuba gunakan [Libraries.io](https://libraries.io/) untuk mengesan statistik penggunaan di banyak pengurus pakej yang popular.
+Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh menggunakanun tidak semestinya
+berkaitan dengan pemasangan atau penggunaan, tetapi menyediakan beberapa asas untuk perbandingan. Cuba
+gunakan [Libraries.io](https://libraries.io/) untuk mengesan statistik penggunaan di banyak pengurus pakej yang popular.
 
-Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh menggunakan[graf klon](https://github.com/blog/1873-clone-graphs) untuk melihat berapa kali projek anda diklon pada hari tertentu, dipecah berdasarkan jumlah klon dan klon unik.
+Sekiranya projek anda berada di GitHub, arahkan kembali ke halaman "Traffic". Anda boleh
+menggunakan[graf klon](https://github.com/blog/1873-clone-graphs) untuk melihat berapa kali projek anda diklon pada hari
+tertentu, dipecah berdasarkan jumlah klon dan klon unik.
 
-![graf klon](/assets/images/metrics/clone_graph.png)
+![graf klon](../../assets/images/metrics/clone_graph.png)
 
-Sekiranya penggunaannya rendah berbanding dengan jumlah orang yang menemui projek anda, ada dua masalah yang perlu dipertimbangkan. Sama ada:
+Sekiranya penggunaannya rendah berbanding dengan jumlah orang yang menemui projek anda, ada dua masalah yang perlu
+dipertimbangkan. Sama ada:
 
 * Projek anda tidak berjaya menukar khalayak anda, atau
 * Anda menarik penonton yang salah
@@ -88,7 +101,7 @@ Contoh metrik komuniti yang mungkin ingin anda lacak secara berkala termasuk:
 
 * **Jumlah penyumbang dan jumlah komitmen setiap penyumbang:** Memberitahu anda berapa banyak penyumbang yang anda miliki, dan siapa yang kurang lebih aktif. Di GitHub, anda dapat melihatnya di bawah "Wawasan" -> "Penyumbang." Buat masa ini, grafik ini hanya mengira penyumbang yang telah berkomitmen untuk cabang lalai repositori.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Penyumbang kali pertama, santai, dan berulang:** Membantu anda mengesan sama ada anda mendapat penyumbang baru dan sama ada mereka kembali. (Penyumbang kasual adalah penyumbang dengan jumlah komitmen yang rendah. Sama ada satu komitmen, kurang daripada lima komitmen, atau yang lain terpulang kepada anda.) Tanpa penyumbang baru, komuniti projek anda boleh menjadi stagnan.
 
@@ -98,13 +111,8 @@ Contoh metrik komuniti yang mungkin ingin anda lacak secara berkala termasuk:
 
 * **Jenis sumbangan:** Contohnya, melakukan, memperbaiki kesalahan ketik atau pepijat, atau memberi komen mengenai sesuatu masalah.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Sumber terbuka lebih daripada sekadar kod. Projek sumber terbuka yang berjaya merangkumi sumbangan kod dan dokumentasi bersama perbualan mengenai perubahan ini.
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Sumber terbuka lebih daripada sekadar kod. Projek sumber terbuka yang berjaya merangkumi sumbangan kod dan dokumentasi bersama perbualan mengenai perubahan ini.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Aktiviti penyelenggara
 

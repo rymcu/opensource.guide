@@ -33,11 +33,14 @@ Ha viszont mélyebb szinten akarod megismerni a projektedet, olvass tovább, hog
 
 ## Felfedezés
 
-Mielőtt bárki elkezdené használni a projektedet, vagy részt venne benne, tudniuk kell, hogy az létezik, és hogy hol találják. Kérdezd meg magadtól: _Az emberek megtalálják ezt a projektet?_
+Mielőtt bárki elkezdené használni a projektedet, vagy részt venne benne, tudniuk kell, hogy az létezik, és hogy hol
+találják. Kérdezd meg magadtól: _Az emberek megtalálják ezt a projektet?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles/about-repository-graphs/#traffic) hogy hány ember járt az oldaladon, és hogy honnan érkeztek. A projekt oldaláról, válaszd ki az "Insights", majd a "Traffic" funkciót. Ezen az oldalon a következőket láthatod:
+Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles/about-repository-graphs/#traffic) hogy
+hány ember járt az oldaladon, és hogy honnan érkeztek. A projekt oldaláról, válaszd ki az "Insights", majd a "Traffic"
+funkciót. Ezen az oldalon a következőket láthatod:
 
 * **Views:** Megadja, hogy hányszor nézték meg a projekt oldalát.
 
@@ -53,15 +56,22 @@ Ha a munkád a GitHub-on van, [akkor láthatod](https://help.github.com/articles
 
 ## Használat
 
-Az emberek megtalálják a projektet ezen a vad és őrült dolgon, amit internetnek hívunk. Ideális esetben, amikor meglátják a projektet, késztetést érezhetnek rá, hogy tegyenek valamit. A második kérdés, amit fel kell tenned magadnak: _Az emberek használják ezt a projektet?_
+Az emberek megtalálják a projektet ezen a vad és őrült dolgon, amit internetnek hívunk. Ideális esetben, amikor
+meglátják a projektet, késztetést érezhetnek rá, hogy tegyenek valamit. A második kérdés, amit fel kell tenned
+magadnak: _Az emberek használják ezt a projektet?_
 
-Ha a projekt terjesztéséhez csomagkezelőt (például npm vagy RubyGems.org) használsz, nyomon követheted a projekt letöltéseit.
+Ha a projekt terjesztéséhez csomagkezelőt (például npm vagy RubyGems.org) használsz, nyomon követheted a projekt
+letöltéseit.
 
-Mindegyik csomagkezelő kissé eltérő definíciót használhat a "letöltésre", és a letöltések nem feltétlenül korrelálnak a telepítésekkel vagy a használattal, de az összehasonlításhoz valamilyen alapot biztosítanak. Próbáld ki a [Libraries.io](https://libraries.io/) használatát, mellyel számos ismert csomagkezelő statisztikáit követheted.
+Mindegyik csomagkezelő kissé eltérő definíciót használhat a "letöltésre", és a letöltések nem feltétlenül korrelálnak a
+telepítésekkel vagy a használattal, de az összehasonlításhoz valamilyen alapot biztosítanak. Próbáld ki
+a [Libraries.io](https://libraries.io/) használatát, mellyel számos ismert csomagkezelő statisztikáit követheted.
 
-Ha a GitHub-on van a projekted, akkor a "Traffic" oldalon a [clone graph](https://github.com/blog/1873-clone-graphs) diagram használatával láthatod, egy adott napon hányszor klónozták a projektedet, lebontva összes klónozásra és egyedi látogatókra.
+Ha a GitHub-on van a projekted, akkor a "Traffic" oldalon a [clone graph](https://github.com/blog/1873-clone-graphs)
+diagram használatával láthatod, egy adott napon hányszor klónozták a projektedet, lebontva összes klónozásra és egyedi
+látogatókra.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](../../assets/images/metrics/clone_graph.png)
 
 Ha a felhasználók száma alacsonyabb, mint a projektet felfedező emberek száma, két kérdést kell átgondolnod:
 
@@ -86,7 +96,7 @@ Példák a közösségi metrikákra, amelyeket érdemes rendszeresen nyomon köv
 
 * **Résztvevők száma és a résztvevőkre jutó kódmódosítások száma:** Megadja, hogy hány résztvevő van a projekteden, ki az, aki többet- és ki az, aki kevesebbet járul hozzá. A GitHub-on, az "Insights" -> "Contributors" alatt találod ezt meg. Jelenleg itt csak azt látod, aki az alapértelmezett fejlesztési ágon járult hozzá (commit-olt) a projekthez.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Új, alkalmi és rendszeres hozzájárulók:** Segítségével nyomon követheted, hogy jönnek-e új hozzájárulók és hogy visszatérnek-e. (Az alkalmi hozzájárulók azok, akiknek csak kevés commit-ja van. Ez jelenthet 1 vagy kevesebb, mint 5 módosítást is, rajtad múlik, hogy mi a "kevés".) Új közreműködők, hozzájárulók nélkül a projekt közössége stagnálhat.
 
@@ -96,13 +106,8 @@ Példák a közösségi metrikákra, amelyeket érdemes rendszeresen nyomon köv
 
 * **Közreműködők típusai:** Például: kód módosítás, elírás javítás, hibajavítás, vagy kommentelés egy hibajegyhez, módosításhoz.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  A nyílt forráskód több, mint maga a kód. A sikeres nyílt forráskódú projektek magukban foglalják a kód és dokumentációs hozzájárulásokat, valamint ezen változásokkal kapcsolatos beszélgetéseket.
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> A nyílt forráskód több, mint maga a kód. A sikeres nyílt forráskódú projektek magukban foglalják a kód és dokumentációs hozzájárulásokat, valamint ezen változásokkal kapcsolatos beszélgetéseket.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Karbantartói aktivitás
 

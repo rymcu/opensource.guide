@@ -31,9 +31,10 @@ redirect_from: /zh-cn/legal/
 
 当你们在GitHub上[创建一个新项目](https://help.github.com/articles/creating-a-new-repository/) 时，你们可以选择将仓库设置成**private**或者**public**。
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![Create repository](../../assets/images/legal/repo-create-name.png)
 
-**公开你们的GitHub项目与许可你们的项目是不同的。**公开项目是由[GitHub的服务条款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
+**公开你们的GitHub项目与许可你们的项目是不同的。**
+公开项目是由[GitHub的服务条款](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)保护，它允许他人浏览以及fork你们的项目，但是没有你的授权大家是不能使用你的工作成果的。
 
 如果你们想让他人使用，复制，修改你们的项目，或者参与贡献你们的项目，那么你们的项目就需要包含一个开源许可协议。例如，即使你们的项目是公开的，但没有你们的授权，一些人是不能合法在他们的代码中使用你们GitHub项目中的任何部分。
 
@@ -45,13 +46,8 @@ redirect_from: /zh-cn/legal/
 
 当你们在GitHub上创建了一个新项目，你们会被[要求添加一个许可协议](https://help.github.com/articles/open-source-licensing/)。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  一个标准化的许可协议可以作为没有法律培训的人员的代理，以准确地知道他们可以和不能用软件做什么。除非绝对要求，否则应避免使用定制，修改或非标准术语，这将成为他人使用代码的障碍。
-  <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/benbalter?s=180)
+> 一个标准化的许可协议可以作为没有法律培训的人员的代理，以准确地知道他们可以和不能用软件做什么。除非绝对要求，否则应避免使用定制，修改或非标准术语，这将成为他人使用代码的障碍。> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## 我的项目适合什么样的开源许可?
 
@@ -95,13 +91,8 @@ redirect_from: /zh-cn/legal/
 
 此外，贡献者协议有时被认为对项目社区不友好。他们也增加了人们参与社区的障碍。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-    我们已经删除了Node.js的CLA。这样做降低了Node.js贡献者的参与门槛，从而吸引更多的贡献者。
-  <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/bcantrill?s=180)
+> 我们已经删除了Node.js的CLA。这样做降低了Node.js贡献者的参与门槛，从而吸引更多的贡献者。> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 一些情况下你们可能想要为你们的项目考虑一个额外的贡献协议：
 
@@ -135,23 +126,13 @@ redirect_from: /zh-cn/legal/
 
 * **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  放弃与补丁相关的知识产权以构建员工知识库和信誉。它表明，公司关心员工的发展，以及让员工有种被赋权和自主的感觉。所有这些好处还导致更高的士气和更好地保留员工。
-  <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/vanl?s=180)
+> 放弃与补丁相关的知识产权以构建员工知识库和信誉。它表明，公司关心员工的发展，以及让员工有种被赋权和自主的感觉。所有这些好处还导致更高的士气和更好地保留员工。> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
 
 * **发布什么：**[（几乎） 所有？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)如果你们的法律团队了解并投资于你们公司的开源策略，他们将是你们最好的帮助，而不是阻碍你们的努力。
 * **合规性：**即使你们公司没有发布任何开源项目，他们也会使用别人的开源软件。[意识和过程](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻烦，产品延迟发布和诉讼。
 
-<aside markdown="1" class="pquote">
-  组织必须具有适合["允许"和"copyleft"]类别的许可协议和合规性策略。首先，记录适用于你们所使用的开源软件的许可条款（包括子组件和依赖项）。
-  <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
-  </p>
-</aside>
+> 组织必须具有适合["允许"和"copyleft"]类别的许可协议和合规性策略。首先，记录适用于你们所使用的开源软件的许可条款（包括子组件和依赖项）。> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **专利：**你们的公司可能希望加入[开放发明网络](http://www.openinventionnetwork.com/)，一个共享的专利防御池，以保护成员使用主要开源项目，或探索其他替代专利许可。
 

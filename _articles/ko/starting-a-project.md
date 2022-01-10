@@ -31,13 +31,8 @@ related:
 
 ### 왜 사람들은 자기 작업을 오픈소스로 공개하나요?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me”](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.> — @kentcdodds, ["How getting into Open Source has been awesome for me”](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 사람이나 조직이 프로젝트 소스를 공개하려는 데에는 [여러 가지 이유](http://ben.balter.com/2015/11/23/why-open-source/)가 있습니다. 몇 가지 예는 다음과 같습니다.
 
@@ -75,13 +70,8 @@ related:
 
 여러분의 유일한 목표가 여러분의 성과를 보여주는 것이라면 기여를 원하지 않을 수도 있고 README 파일에 그렇게 적어둘 수도 있습니다. 반대로 기여자를 원한다면 명확한 문서화에 시간을 투자하고 방문자들을 환영해야 합니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us”](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
 
 프로젝트가 성장함에 따라 커뮤니티에는 단순한 코드 이상의 것이 필요할 수 있습니다. 이슈에 대응하고, 코드를 검토하고, 프로젝트를 홍보하는 것은 오픈소스 프로젝트에서 중요한 작업입니다.
 
@@ -91,13 +81,8 @@ related:
 
 홍보, 운영 및 프로젝트 유지를 위해 전담 예산이나 인력이 필요한 경우 이런 대화를 조기에 시작하세요.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?”](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.> — @captainsafia, ["So you wanna open source a project, eh?”](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### 다른 프로젝트에 기여하기
 
@@ -132,7 +117,7 @@ related:
 
 GitHub에서 새 프로젝트를 만들면 라이선스를 선택할 수 있는 옵션이 제공됩니다. 오픈소스 라이선스를 포함하면 GitHub 프로젝트를 오픈소스로 만들 수 있습니다.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Pick a license](../../assets/images/starting-a-project/repository-license-picker.png)
 
 오픈소스 프로젝트 관리의 법적 측면에 대해 다른 질문이나 우려되는 점이 있다면 [이 내용을 참조하세요](../legal/).
 
@@ -149,13 +134,8 @@ README에서 다음 질문에 답해 보세요.
 
 README를 사용하여 여러분이 기여를 받아들이는 방식, 프로젝트의 목표, 라이선스 및 속성에 대한 정보와 같은 다른 질문에 답할 수 있습니다. 기여를 받고 싶지 않거나, 프로젝트가 아직 준비되지 않았다면 그렇게 적어 두세요.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)”](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.> — @tracymakes, ["Writing So Your Words Are Read (video)”](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 때때로 사람들은 프로젝트가 완성되지 않았거나 기여를 원치 않기 때문에 README를 작성하지 않는 경우가 있습니다. 그것도 README를 작성할 좋은 이유입니다.
 
@@ -187,21 +167,21 @@ CONTRIBUTING 파일은 잠재 기여자들에게 프로젝트에 기여하는 �
 
 시간이 지나면 자주 묻는 질문을 CONTRIBUTING 파일에 추가할 수 있습니다. 이 정보를 적어두면 같은 질문을 반복해서 하는 사람들이 줄어들 것입니다.
 
-CONTRIBUTING 파일을 작성하는 데 도움이 필요하면 @nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) 또는 @mozilla의 ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/)을 참조하세요.
+CONTRIBUTING 파일을 작성하는 데 도움이 필요하면
+@nayafia의 [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+또는 @mozilla의 ["How to Build a CONTRIBUTING.md"](http://mozillascience.github.io/working-open-workshop/contributing/)을
+참조하세요.
 
-README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할 수 있습니다. [CONTRIBUTING 파일을 프로젝트의 저장소에 두면](https://help.github.com/articles/setting-guidelines-for-repository-contributors/) 기여자가 이슈를 생성하거나 PR를 열 때 GitHub가 자동으로 링크를 생성합니다.
+README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할 수
+있습니다. [CONTRIBUTING 파일을 프로젝트의 저장소에 두면](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+기여자가 이슈를 생성하거나 PR를 열 때 GitHub가 자동으로 링크를 생성합니다.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Contributing guidelines](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### 행동 강령 세우기
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.> — @mlynch, ["Making Open Source a Happier Place”](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
 
 마지막으로 행동 강령은 프로젝트 참가자의 행동에 대한 기본 규칙을 정하는 데 도움이 됩니다. 이는 커뮤니티나 회사의 오픈소스 프로젝트를 시작할 때 특히 유용합니다. 행동 강령은 건강하고 건설적인 커뮤니티 행동을 촉진할 수 있게 해 주는데, 이는 관리자 여러분의 스트레스를 줄여줄 것입니다.
 
@@ -246,13 +226,8 @@ README에 CONTRIBUTING 파일을 링크하면 더 많은 사람들이 읽게 할
 
 그것이 공식적인 문서든 평범한 이메일이든 여러분의 글 스타일은 프로젝트 브랜드의 일부입니다. 어떻게 청중에게 다가가야 좋을지, 여러분이 전달하고자 하는 어조는 무엇인지 고려하세요.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
-  <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source”](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source”](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 따뜻하고 포괄적인 언어(한 사람을 언급 할 때도 "그들"이라고 하듯)를 사용하면 이 프로젝트가 새로운 기여자에게 환영받는 느낌을 줄 수 있습니다. 많은 독자가 영어를 모국어로 사용하지 않을 수 있으므로 간단한 언어 사용에 충실하세요.
 

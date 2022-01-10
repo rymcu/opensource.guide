@@ -35,7 +35,7 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 누구든지 프로젝트를 사용하거나 기여할 수 있게 하기전에, 이것이 존재 하는 지를 알아야합니다. 자신에게 물어보십시오: _이 프로젝트를 찾는 사람들입니까?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
 얼마나 많은 사람들이 당신의 프로젝트에 도착했는지, 어디에서 왔는지를 볼 수 있습니다. 프로젝트 페이지에서 "그래프"를 클릭 한 다음, "트래픽"을 클릭하십시오. 이 페이지에서 다음을 볼 수 있습니다:
 
@@ -57,11 +57,13 @@ If you _are_ interested in understanding your project on a deeper level, read on
 
 npm 또는 RubyGems.org와 같은 패키지 관리자를 사용하여 프로젝트를 배포하는 경우 프로젝트 다운로드를 추적할 수 있습니다.
 
-각 패키지 매니저는 "다운로드"와 약간 다른 정의를 사용할 수 있으며, 다운로드가 반드시 설치 또는 사용과 관련이 있는 것은 아니지만 비교를 위한 기준을 제공합니다. [Libraries.io](https://libraries.io/)를 사용해 많은 인기있는 패키지 매니저의 사용 통계를 추적 해보십시오.
+각 패키지 매니저는 "다운로드"와 약간 다른 정의를 사용할 수 있으며, 다운로드가 반드시 설치 또는 사용과 관련이 있는 것은 아니지만 비교를 위한 기준을
+제공합니다. [Libraries.io](https://libraries.io/)를 사용해 많은 인기있는 패키지 매니저의 사용 통계를 추적 해보십시오.
 
-만약 프로젝트가 깃허브에 있다면, "Traffic"페이지로 사디 이동하보십시오. [clone graph](https://github.com/blog/1873-clone-graphs)를 사용하여 주어진 날에 프로젝트가 복제 된 횟수를 전체 클론 및 클론 받은 사람으로 세분화 할 수 있습니다.
+만약 프로젝트가 깃허브에 있다면, "Traffic"페이지로 사디 이동하보십시오. [clone graph](https://github.com/blog/1873-clone-graphs)를 사용하여 주어진 날에 프로젝트가
+복제 된 횟수를 전체 클론 및 클론 받은 사람으로 세분화 할 수 있습니다.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](../../assets/images/metrics/clone_graph.png)
 
 프로젝트를 발견한 사람의 수에 비해 사용량이 적을 경우, 고려해야 할 두 가지 문제가 있습니다. 어느 한 쪽으로는:
 
@@ -86,7 +88,7 @@ npm 또는 RubyGems.org와 같은 패키지 관리자를 사용하여 프로젝�
 
 * **기여자 중 총 기여 수 및 커밋 수 :** 얼마나 많은 기여자가 있고, 누가 더 많이 또는 적게 활동 하는지를 알려줍니다. GitHub에서는 "Graphs"-> "Contributors"에서 볼 수 있습니다. 현재 이 그래프는 저장소의 기본 브랜치에 작성한 기여자만 계산합니다.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **처음, 캐주얼, 그리고 다시 기여한 사람:** 새로운 참여자를 얻었는지 여부와 그들이 다시 돌아 왔는지 여부를 추적하는 데 도움이됩니다. (캐주얼 기여자는 커밋 수가 적고 커밋 수가 5회 이하이거나, 또 다른 기준은 당신에게 달려 있습니다.) 새로운 참여자가 없으면 프로젝트 커뮤니티가 정체 될 수 있습니다.
 
@@ -96,13 +98,8 @@ npm 또는 RubyGems.org와 같은 패키지 관리자를 사용하여 프로젝�
 
 * **기여 유형:** 예시로, 커밋, 오타 혹은 버그 수정, 또는 이슈에 답변하기가 있습니다.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["오픈소스의 형태"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.> — @arfon, ["오픈소스의 형태"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Maintainer activity
 

@@ -24,13 +24,8 @@ _Free software_ kifejezés ugyanazokra a projektekre vonatkozik, mint amire az _
 
 ### Miért vesznek részt az emberek a nyílt forráskódú projektekben?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  Az egyik leghasznosabb tapasztalat, amit a nyílt forráskódú felhasználásból, és együttműködésből fel tudok használni az, hogy együtt építjük fel olyanokkal, akik már szintén szembesültek ugyanazokkal a problémákkal, amivel én.
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> Az egyik leghasznosabb tapasztalat, amit a nyílt forráskódú felhasználásból, és együttműködésből fel tudok használni az, hogy együtt építjük fel olyanokkal, akik már szintén szembesültek ugyanazokkal a problémákkal, amivel én.> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Számos oka van](https://ben.balter.com/2015/11/23/why-open-source/) hogy valaki, vagy akár egy cég a nyílt forráskódban részt vesz. Csak néhány példa:
 
@@ -68,13 +63,8 @@ Nincs tökéletes válasz erre a kérdésre. Többféle célod lehet akár egy p
 
 Ha csak az a célod, hogy a munkádat megmutasd, akkor nem akarsz résztvevőket és ezt a README-ben le is írhatod. Másrészről, ha akarsz résztvevőket a projekteden, akkor időt kell szánnod az alapos dokumentációra, hogy az újonnan érkezők könnyen csatlakozhassanak.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  Készítettem egy UIAlertView komponenst, amit korábban már használtam saját célra... és eldöntöttem, hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam rajta és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumentációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> Készítettem egy UIAlertView komponenst, amit korábban már használtam saját célra... és eldöntöttem, hogy nyílt forráskódú projektet csinálok belőle. Így kicsit módosítottam rajta és feltöltöttem a GitHub-ra. Ekkor írtam az első dokumentációt is, amelyben leírtam, hogy más fejlesztők hogyan használhatják ezt a programjaikban. Persze lehet, hogy soha senki nem használta, de engem mégis örömmel töltött el, mert ez volt életem első nyílt forráskódú projektje.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 Ahogy a projekt növekszik, a közösségednek többre lehet szüksége, mint pusztán csak a kód. A nyílt forráskódú projektek fontos feladata a kérdések megválaszolása, a kódok áttekintése, és a projekt hírnevének terjesztése.
 
@@ -84,13 +74,8 @@ A nem kódolási feladatokra fordított idő függ a projekt nagyságától és 
 
 Ha szükséges fix költségvetés, vagy alkalmazotti kör a fejlesztéshez, vagy fenntartáshoz, akkor kezd el ezeket a egyeztetéseket minél korábban.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  Ahogy megkezded a forráskód megnyitását, fontos, hogy gondoskodj arról, hogy annak folyamatai figyelembe vegyék a közösség részvételét és képességeit a projektben. Ne félj, bevonni a kulcsfontosságú részletekbe azokat a közreműködőket, akik nem dolgoznak a cégben - különösen, ha gyakori közreműködők lesznek.
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> Ahogy megkezded a forráskód megnyitását, fontos, hogy gondoskodj arról, hogy annak folyamatai figyelembe vegyék a közösség részvételét és képességeit a projektben. Ne félj, bevonni a kulcsfontosságú részletekbe azokat a közreműködőket, akik nem dolgoznak a cégben - különösen, ha gyakori közreműködők lesznek.> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Hozzájárulás más projektekhez
 
@@ -117,17 +102,24 @@ Ha a projekted a GitHub-on van, akkor ezek a fájlok a gyökérkönyvtárba ker�
 
 ### Licence választás
 
-A nyílt forráskódú licenc garantálja, hogy mások használhassák, másolhassák, módosíthassák és hozzájárulhassanak a projekthez szabadon. Emellett megvéd a kiszámíthatatlan jogi helyzetektől. **A licencet a nyílt forráskódú projekt indításával együtt kell megadni.**
+A nyílt forráskódú licenc garantálja, hogy mások használhassák, másolhassák, módosíthassák és hozzájárulhassanak a
+projekthez szabadon. Emellett megvéd a kiszámíthatatlan jogi helyzetektől. **A licencet a nyílt forráskódú projekt
+indításával együtt kell megadni.**
 
-A jogi munka nem öröm. A jó hír azonban az, hogy a licencet egyszerűen elhelyezheted a projektedben, csak be kell másolni. Csak néhány percet igényel az, hogy megvédd a munkádat.
+A jogi munka nem öröm. A jó hír azonban az, hogy a licencet egyszerűen elhelyezheted a projektedben, csak be kell
+másolni. Csak néhány percet igényel az, hogy megvédd a munkádat.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és a [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a leghíresebb licencek, de [van számos másik is](https://choosealicense.com) amelyből választhatsz.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), és
+a [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) a leghíresebb licencek,
+de [van számos másik is](https://choosealicense.com) amelyből választhatsz.
 
-Amikor új projektet hozol létre a GitHub-on, lehetőséget kapsz licenc választásra. Nyílt forráskódú licenccel a projekted nyílt forráskódú lesz.
+Amikor új projektet hozol létre a GitHub-on, lehetőséget kapsz licenc választásra. Nyílt forráskódú licenccel a
+projekted nyílt forráskódú lesz.
 
-![Válassz egy licencet!](/assets/images/starting-a-project/repository-license-picker.png)
+![Válassz egy licencet!](../../assets/images/starting-a-project/repository-license-picker.png)
 
-Ha egyéb kérdésed, vagy kételyed van a nyílt forráskódú projektek jogi részével kapcsolatban, akkor [bővebb információt itt találsz](../legal/).
+Ha egyéb kérdésed, vagy kételyed van a nyílt forráskódú projektek jogi részével kapcsolatban,
+akkor [bővebb információt itt találsz](../legal/).
 
 ### README írása
 
@@ -142,14 +134,9 @@ A README-ben próbáld meg az alábbiakra megadni a választ:
 
 A README meg tudja még válaszolni azt, hogy hogyan fogadsz el közreműködést, mi a projekt célja, és információkat ad a licencről és további részletekről. Ha nem fogadsz el közreműködést a projektben, vagy a projekted nincs még abban az állapotban, hogy éles működésben használható legyen, akkor szintén írd le ezeket az információkat a README-ben.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  A jobb dokumentáció, több felhasználót, kevesebb szupportot, és több közreműködőt jelent.
-  (...) Emlékezz arra, hogy aki olvasni fogja, az nem te vagy. Olyan emberek olvassák, akik lehet teljesen más projektből érkeztek ide, és teljesen más tapasztalatokkal rendelkeznek.
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> A jobb dokumentáció, több felhasználót, kevesebb szupportot, és több közreműködőt jelent.
+(...) Emlékezz arra, hogy aki olvasni fogja, az nem te vagy. Olyan emberek olvassák, akik lehet teljesen más projektből érkeztek ide, és teljesen más tapasztalatokkal rendelkeznek.> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Néha az emberek épp azért nem írnak README-t, mert úgy hiszik, hogy még nincs befejezve projektjük, vagy úgy gondolják hogy nem akarnak részvételt benne. Pedig éppen ezek nagyon jó okok arra, hogy a README-t megírjuk.
 
@@ -177,25 +164,28 @@ Például az [Active Admin](https://github.com/activeadmin/activeadmin/) a [saj�
 
 > Legelőször is, köszönöm hogy részt kívánsz venni az Active Admin projektben. Az olyan emberek mint te, tehetik az Active Admin ilyen nagyszerű eszközzé.
 
-A CONTRIBUTING állomány a projekt korai fázisában egyszerű. Mindig el kell megmagyaráznod benne, hogy hogyan lehet hibát vagy egyéb problémát jelezni, a szükséges technikai igényeket, például a teszteket is le kell írni benne ahhoz, hogy valaki a projekten tudjon dolgozni.
+A CONTRIBUTING állomány a projekt korai fázisában egyszerű. Mindig el kell megmagyaráznod benne, hogy hogyan lehet hibát
+vagy egyéb problémát jelezni, a szükséges technikai igényeket, például a teszteket is le kell írni benne ahhoz, hogy
+valaki a projekten tudjon dolgozni.
 
-Idővel további gyakori kérdéseket adhatsz hozzá a CONTRIBUTING fájlhoz. Ezen információk írása azt jelenti, hogy kevesebb ember fogja újra és újra ugyanazt a kérdést feltenni.
+Idővel további gyakori kérdéseket adhatsz hozzá a CONTRIBUTING fájlhoz. Ezen információk írása azt jelenti, hogy
+kevesebb ember fogja újra és újra ugyanazt a kérdést feltenni.
 
-További segítségért a CONTRIBUTING írásához, nézd meg @nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) vagy a @mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
+További segítségért a CONTRIBUTING írásához, nézd meg
+@nayafia [részvételi útmutató űrlapját](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+vagy a
+@mozilla's ["Hogyan építs CONTRIBUTING.md-t?"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek azonnal látják azt. Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent, vagy beolvasztási kérést hoz létre.
+A CONTRIBUTING állományra hivatkozhatsz a README állományból, így az emberek azonnal látják azt.
+Ha [elhelyezed a CONTRIBUTING állományt a projekt alatt](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+, akkor a GitHub automatikusan linkelni fogja azt, ha valaki hibát jelent, vagy beolvasztási kérést hoz létre.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Contributing guidelines](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Magatartási kódex létrehozása
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  Mindannyian tapasztalatuk már azt, hogy valaki durván próbálta elmagyarázni a dolgokat, mint például egy karbantartó, hogy mit, miért úgy kell csinálni, vagy egy felhasználó, aki egy kérdést tett fel nem túl szép hangnemben. (...) A magatartási kódex könnyen meghivatkozható dokumentum, amely azt jelzi, hogy a csapat nagyon komolyan veszi a konstruktív diskurzust.
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> Mindannyian tapasztalatuk már azt, hogy valaki durván próbálta elmagyarázni a dolgokat, mint például egy karbantartó, hogy mit, miért úgy kell csinálni, vagy egy felhasználó, aki egy kérdést tett fel nem túl szép hangnemben. (...) A magatartási kódex könnyen meghivatkozható dokumentum, amely azt jelzi, hogy a csapat nagyon komolyan veszi a konstruktív diskurzust.> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 A magatartási kódex segít az alapjait lefektetni a viselkedési szabályoknak a projekt résztvevők számára. Különösen értékes, ha egy nyílt forráskódú projektet indítasz egy közösség, vagy a cég számára. A magatartási kódex erősíti az egészséges, konstruktív, közösségi viselkedést, ami csökkenteni fogja a stresszt a karbantartók számára is.
 
@@ -240,13 +230,8 @@ A projekt élettartama alatt rengeteg írást készítesz: README-k, oktatóanya
 
 Akár hivatalos dokumentáció, akár alkalmi e-mail, az írási stílusa része a projekt brand-nek. Fontold meg, hogy az a hangnem, amit szeretnél közvetíteni, befogadható-e a közösségnek akiknek szánod.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Megpróbáltam részt venni a levelezőlista minden szálában, és példamutató magatartást mutatni, kedves voltam az emberekkel, komolyan vettem a kérdéseket, és általában mindenkinek segítettem. Egy idő múlva az emberek úgy kezdtek el viselkedni mint én, és nem csak kérdéseket tettek fel, hanem a válaszokat is adtak az én stílusomban, ennek nagyon örültem.
-  <p markdown="1" class="pquote-credit">
-— @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> Megpróbáltam részt venni a levelezőlista minden szálában, és példamutató magatartást mutatni, kedves voltam az emberekkel, komolyan vettem a kérdéseket, és általában mindenkinek segítettem. Egy idő múlva az emberek úgy kezdtek el viselkedni mint én, és nem csak kérdéseket tettek fel, hanem a válaszokat is adtak az én stílusomban, ennek nagyon örültem.> — @janl [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 A kedves, befogadó nyelv használatával jó úton jársz a projekt résztvevőinek megszerzésében és megtartásában. Használj egyszerű nyelvezetet, mivel sok olvasó nem feltétlenül angol (vagy a projekt nyelvnek megfelelő) anyanyelvű.
 

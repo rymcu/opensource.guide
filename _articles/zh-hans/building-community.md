@@ -37,13 +37,8 @@ redirect_from: /zh-cn/building-community/
 * **对你以后接受的所有贡献者持开放态度。** 很多贡献者是从一份bug报告或者小的修复开始的。这里有[很多为项目做贡献的方式](../how-to-contribute/#贡献意味着什么)。让大家选择他们喜欢的方式。
 * **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#学会说不)它不适合项目，如果有必要的话你可以给出相关的文档链接。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
-  <p markdown="1" class="pquote-credit">
-— @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mikeal?s=180)
+> 为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。> — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 多数开源贡献者是"临时贡献者"，因为他们只是偶尔参与项目贡献。一位临时贡献者可能没有充足的时间全程跟踪你的项目，所以你的工作是能让他们很轻松地参与贡献。
 
@@ -51,14 +46,9 @@ redirect_from: /zh-cn/building-community/
 
 ### 记录一切
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
-
-  <p markdown="1" class="pquote-credit">
-— @janl, ["让开源可持续发展"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> 你是否参加过一个（技术）活动，你不认识在场的人，但是似乎每个人站在一个小组里像老朋友一样聊天？（。。。）现在想象下你想为一个开源项目做贡献，但是你不知道为什么或者这个是如何发生的。
+> — @janl, ["让开源可持续发展"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 当你开始一个新项目，你会觉得保持工作的私有性是正常的。但是开源项目开始于你在公共平台记录自己的工作进程。
 
@@ -80,11 +70,13 @@ redirect_from: /zh-cn/building-community/
 
 当有人列出一条issue，提交一个pull request，或者询问项目的有关问题时，你们应该尽量回答他们。当你们快速地做出回应时，人们将感觉到他们参与了对话，以及他们将会更热情地参与。
 
-如果你无法及时审查请求，请尽早确认，这样会有助于提高参与度。这里是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)上所回应的一个pull request：
+如果你无法及时审查请求，请尽早确认，这样会有助于提高参与度。这里是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)上所回应的一个pull
+request：
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![middleman pull request](../../assets/images/building-community/middleman_pr.png)
 
-[Mozilla的一份研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
+[Mozilla的一份研究发现](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+如果贡献者在48小时内收到代码审查，他们会有很大的回头率，且极有可能会再次贡献。
 
 与项目有关的话题也可能发生在互联网的其它地方，例如Stack Overflow，Twitter，或者Reddit。你可以在像这样的一些网站设置通知，这样当有人提及项目时，可以即时的收到提醒。
 
@@ -114,15 +106,9 @@ redirect_from: /zh-cn/building-community/
 
 对于这类人，必须采取零容忍的政策。一旦犹豫不决，那么这些消极的人会给社区的其他人带来不愉快的感觉。那时就会出现劣币驱逐良币的现象。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-
-  事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
-
-  <p markdown="1" class="pquote-credit">
-— @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/okdistribute?s=180)
+> 事实上是，拥有一个支持性社区才是项目成功的关键。如果没有来自我的同事，互联网上一些友好的陌生人，以及聊天渠道IRC的帮助，我不可能做好这些工作。（。。。）不要退而求其次。不要容忍混蛋。
+> — @okdistribute, ["如何运营一个 FOSS 项目"](https://okdistribute.xyz/post/okf-de)
 
 关于项目琐碎方面的定期辩论会分散其他人（包括您）的注意力，使他们无法专注于重要任务。新人可能会看到这些对话而不想参加。
 
@@ -134,9 +120,10 @@ redirect_from: /zh-cn/building-community/
 
 在 CONTRIBUTING 文件里，需要明确告诉新来的贡献者该如何开始。而且若是可能为了想要达到这个目的，还需要准备一个专门的部分。
 
-![django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](../../assets/images/building-community/django_new_contributors.png)
 
-在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://kentcdodds.com/blog/first-timers-only), _"优质Bug首秀"_, 或者 _"文档"_. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
+在issue列表中，缺陷的标签需要做到适合不同类型的贡献者：例如，[_"仅供入门者"_](https://kentcdodds.com/blog/first-timers-only), _"优质Bug首秀"_, 或者 _"文档"_
+. [这些标签](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能够帮助新人快速浏览issues以及开始。
 
 最后，撰写让人赏心悦目的文档，进一步让人感到愉悦和舒服。
 
@@ -148,13 +135,8 @@ redirect_from: /zh-cn/building-community/
 
 ### 共享项目所有权
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
-  <p markdown="1" class="pquote-credit">
-— @sagesharp, ["是什么成就一个好的社区？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/sagesharp?s=180)
+> 社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。> — @sagesharp, ["是什么成就一个好的社区？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 当大家觉得自己就是项目的主人时，他们就会非常乐意为项目做贡献。但这并不意味着要去改变项目的愿景，又或者接受不想要的贡献。但是社区越信任他们，他们就会越忠实。
 
@@ -162,7 +144,7 @@ redirect_from: /zh-cn/building-community/
 
 * **不要亲自去修复简单（非关键）的缺陷。** 相反，将这些缺陷作为招募新贡献者的工具，或者指导想要参与贡献的人。开始时可能效果不是很理想，但经过一段时间你们会得到想要的结果。例如，@michaeljoseph要求一位贡献者提交一个pull request在一个[Cookiecutter](https://github.com/audreyr/cookiecutter) issue的下面，而不是自己修复它。
 
-![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](../../assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **在项目中添加一个贡献者或者作者文件** 用于记录每一个参与贡献的人。
 
@@ -176,13 +158,8 @@ redirect_from: /zh-cn/building-community/
 
 虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够接触的机会，越是尽早开始，越是能够获得帮助。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答issues？那么让社区中能做这件事的人去做。
-  <p markdown="1" class="pquote-credit">
-— @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gr2m?s=180)
+> 你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答issues？那么让社区中能做这件事的人去做。> — @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
 
 ## 解决冲突
 
@@ -198,14 +175,9 @@ redirect_from: /zh-cn/building-community/
 
 作为一名维护者的工作是不要让这种情况出现。即使这些你对话题有很强烈的观点，也要尽量站在一个主持者或者推动者的位置，而不是参与争吵以及推动自己的观点。如果有人不友好或者垄断话题，那么[立即采取行动](https://ocselected.github.io/open-source-guide/building-community/)，以保持有礼貌和丰富的讨论。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  作为一名维护者，尊重你们的贡献者非常重要。他们经常处理一些你们描述亲切的事情。
-
-  <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["保持和善，要么滚蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kennethreitz?s=180)
+> 作为一名维护者，尊重你们的贡献者非常重要。他们经常处理一些你们描述亲切的事情。
+> — @kennethreitz, ["保持和善，要么滚蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
 
 一些人希望得到指导。撰写一个优势的示例。当然仍然可以表达失望、不高兴或者忧虑，但得心平气和。
 
@@ -226,14 +198,9 @@ README [不仅仅是一组指令](../starting-a-project/#撰写自述文件)。�
 
 在寻求共识的过程中，社区成员讨论主要问题，直到他们感到他们的意见已经得到充分的表达。当仅遗留下一些无关紧要的问题时，社区需要向前迈进。"寻求共识"不能确保社区能得到一个完美的答案。而是侧重聆听和讨论。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
-
-  <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 决策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/lee-dohm?s=180)
+> Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情况下都不会遵循投票系统。有时我们必须选择我们认为是对的事，即使它不流行。（。。。）我能通过社区的反馈知道我能够提供什么以及做什么样的工作。
+> — @lee-dohm on [Atom 决策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
 
 即使不确定是否采用寻求共识的方式，作为维护者，让大家知道他们正在受到关注。让其他人知道，以及承诺解决他们的问题，这在很大程度上减少了敏感情况的发生。然后，就去坚决的执行。
 
@@ -253,14 +220,9 @@ Atom Issues不存在投票系统的部分原因是因为Atom团队在所有情�
 
 如果一个对话没有清晰的方向，没有明确的措施可以采取，或者合适的措施已经被使用，那么关掉issue并解释为什么关掉它。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  指导一件事朝着正确的方向发展是一门艺术。它对阻止人们浪费时间或者要求他们发表有建设性的看法没有作用。（。。。）反而，你们必须为接下来的进展给出条件：给大家一个路线，跟随一个可以得到你们想要的结果的途径，这样就不像是些无用的口头行为。
-
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_打造开源软件_](https://producingoss.com/en/producingoss.html#common-pitfalls)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> 指导一件事朝着正确的方向发展是一门艺术。它对阻止人们浪费时间或者要求他们发表有建设性的看法没有作用。（。。。）反而，你们必须为接下来的进展给出条件：给大家一个路线，跟随一个可以得到你们想要的结果的途径，这样就不像是些无用的口头行为。
+> — @kfogel, [_打造开源软件_](https://producingoss.com/en/producingoss.html#common-pitfalls)
 
 ### 挑战你们的智慧
 

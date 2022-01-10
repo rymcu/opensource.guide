@@ -35,9 +35,11 @@ related:
 
 他の人があなたのプロジェクトにコントリビュートしてくれるようになるには、彼らにあなたのプロジェクトの存在を知ってもらう必要があります。この質問を自問してみましょう: _人々はこのプロジェクトをみつけられているだろうか？_
 
-![トラフィックグラフ](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![トラフィックグラフ](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-もしプロジェクトを GitHub 上にホストしているのであれば、何人があなたのプロジェクトを訪れていて、どこから来たのかを[見ることが出来ます](https://help.github.com/articles/about-repository-graphs/#traffic)。プロジェクトのページで、 "Insights" をクリックし、 "Traffic" をクリックします。このページでは、下記を見ることが出来ます:
+もしプロジェクトを GitHub
+上にホストしているのであれば、何人があなたのプロジェクトを訪れていて、どこから来たのかを[見ることが出来ます](https://help.github.com/articles/about-repository-graphs/#traffic)。プロジェクトのページで、 "
+Insights" をクリックし、 "Traffic" をクリックします。このページでは、下記を見ることが出来ます:
  
 * **トータルページビュー:** プロジェクトが何回閲覧されたか
 
@@ -57,11 +59,13 @@ related:
 
 もしプロジェクトを配布するのに npm や RubyGems.org のようなパッケージマネジャーを使っているのであれば、プロジェクトのダウンロード数をトラッキングできるかもしれません。
 
-パッケージマネジャーごとに「ダウンロード」の定義は若干異なりますし、ダウンロードしたからといって必ずしもインストールしたり使ったりするわけではありません。しかし、比較のための基準にはなりえます。様々な有名なパッケージマネジャー間で利用統計をトラックする [Libraries.io](https://libraries.io/) を使ってみましょう。
+パッケージマネジャーごとに「ダウンロード」の定義は若干異なりますし、ダウンロードしたからといって必ずしもインストールしたり使ったりするわけではありません。しかし、比較のための基準にはなりえます。様々な有名なパッケージマネジャー間で利用統計をトラックする [Libraries.io](https://libraries.io/)
+を使ってみましょう。
 
-もしプロジェクトを GitHub でホストしているのであれば、再度 "Traffic" ページを見てみましょう。そこでは [clone graph](https://github.com/blog/1873-clone-graphs) によって、あなたのプロジェクトが日毎に何度クローンされたか、トータルのクローン数とクローンを実行したユニークユーザー数を見ることが出来ます。
+もしプロジェクトを GitHub でホストしているのであれば、再度 "Traffic" ページを見てみましょう。そこでは [clone graph](https://github.com/blog/1873-clone-graphs)
+によって、あなたのプロジェクトが日毎に何度クローンされたか、トータルのクローン数とクローンを実行したユニークユーザー数を見ることが出来ます。
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](../../assets/images/metrics/clone_graph.png)
 
 もし、プロジェクトを訪問してくれている人の数に比べて利用率が低いようであれば、考えられる理由は以下の2つのどちらかでしょう:
 
@@ -86,7 +90,7 @@ related:
 
 * **コントリビューターのトータルの人数とコントリビューター毎のコミット数:** コントリビューターが何人いるか、そして誰がより活動的か。 GitHub では、 "Insights" -> "Contributors" から見ることが出来ます。今現在はこのグラフはリポジトリのデフォルトブランチにコミットをしたコントリビューターのみを計上しています。
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **初めてのコントリビューター、一時的なコントリビューター、常連のコントリビューター:** 新しいコントリビューターを獲得できているかどうかや、彼らが再度コントリビュートしてくれているかどうかをトラッキングします。（一時的なコントリビューターとは、コミット数が少ないコントリビューターのことです。それが1コミットだけの人なのか、5コミット以下の人なのかはあなた次第です）。新しいコントリビューターが来ないと、プロジェクトのコミュニティは停滞してしまいます。
 
@@ -96,13 +100,8 @@ related:
 
 * **コントリビュートの種類:** 例えば、コミット、タイポやバグの修正、イシューへのコメントなどです。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースというのはコードだけの話ではありません。成功するオープンソースプロジェクトでは、コードやドキュメントへのコントリビュートに加えて、それらの変更についての議論も行われているものです。
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> オープンソースというのはコードだけの話ではありません。成功するオープンソースプロジェクトでは、コードやドキュメントへのコントリビュートに加えて、それらの変更についての議論も行われているものです。> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## メンテナーの活動
 

@@ -14,15 +14,9 @@ related:
 
 Duża część pracy open source jest dobrowolna. Na przykład ktoś może natknąć się na błąd w projekcie, z którego korzysta, i przesłać szybką poprawkę, lub może w wolnym czasie majstrować przy projekcie open source.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
-</i>
-  <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gvanrossum?s=180)
+> I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title.
+</i>> — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
 
 Istnieje wiele powodów, dla których dana osoba nie chce otrzymywać wynagrodzenia za pracę typu open source.
 
@@ -30,41 +24,23 @@ Istnieje wiele powodów, dla których dana osoba nie chce otrzymywać wynagrodze
 * **Lubią myśleć o otwartym źródle jako hobby** lub kreatywnej ucieczce i nie chcą czuć się zobowiązani finansowo do pracy nad swoimi projektami.
 * **Dostają inne korzyści z wkładu w open source,** takie jak budowanie reputacji lub portfolio, uczenie się nowych umiejętności lub zbliżenie się do społeczności.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
-  <p markdown="1" class="pquote-credit">
-  </i>
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/alloy?s=180)
+> Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different".
+> — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
 Dla innych, szczególnie gdy składki są w toku lub wymagają znacznego czasu, zarabianie na wkładach w open source jest jedynym sposobem, w jaki mogą wziąć udział, ponieważ wymaga tego projekt lub z powodów osobistych.
 
 Utrzymanie popularnych projektów może być znaczącą odpowiedzialnością, ponieważ zajmuje 10 lub 20 godzin tygodniowo zamiast kilku godzin miesięcznie.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/ashedryden?s=180)
+> Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time.
+</i>> — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 
 Płatna praca umożliwia także osobom z różnych środowisk życiowych wniesienie znaczącego wkładu. Niektóre osoby nie mogą sobie pozwolić na niepłatne spędzanie czasu na projektach typu open source, w oparciu o ich obecną sytuację finansową, zadłużenie, rodzinę lub inne obowiązki opiekuńcze. Oznacza to, że świat nigdy nie dostrzega wkładu utalentowanych ludzi, których nie stać na poświęcenie swojego czasu. Ma to implikacje etyczne, jak to [opisał](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community) @ashedryden, ponieważ praca, która jest wykonana, jest uprzedzony na korzyść tych, którzy już mają zalety w życiu, którzy następnie zyskują dodatkowe korzyści na podstawie swojego wkładu wolontariuszy, podczas gdy inni, którzy nie są w stanie zgłosić się na ochotnika, nie dostają później możliwości, co wzmacnia obecny brak różnorodności w otwartym oprogramowaniu społeczność.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-   OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
-   </i>
-  <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/isaacs?s=180)
+> OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential.
+</i>> — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
 
 Jeśli szukasz wsparcia finansowego, musisz rozważyć dwie ścieżki. Możesz sfinansować swój czas jako współpracownik lub możesz znaleźć fundusze organizacyjne dla projektu.
 
@@ -74,15 +50,9 @@ Obecnie wiele osób otrzymuje wynagrodzenie za pracę w niepełnym lub pełnym w
 
 Łatwiej jest uzasadnić pracę z otwartym kodem źródłowym, jeśli Twój pracodawca faktycznie korzysta z projektu, ale wykaż się kreatywnością. Być może twój pracodawca nie korzysta z projektu, ale używa Pythona, a utrzymanie popularnego projektu w Pythonie pomaga przyciągnąć nowych deweloperów języka Python. Być może sprawia to, że Twój pracodawca wydaje się bardziej przyjazny dla programistów.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/hzoo?s=180)
+> Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel.
+</i>> — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
 
 Jeśli nie masz istniejącego projektu typu open source, nad którym chciałbyś pracować, ale wolisz, aby twoje bieżące wyniki pracy były typu open source, poproś pracodawcę o otwarcie częściowego oprogramowania wewnętrznego.
 
@@ -94,15 +64,9 @@ Wiele firm opracowuje programy typu open source, aby budować swoją markę i re
 
 Jeśli Twoja firma pójdzie tą drogą, ważne jest, aby zachować wyraźne granice między działalnością społeczności a działalnością firmy. Ostatecznie, open source utrzymuje się dzięki wkładom ludzi z całego świata, a to jest większe niż jakakolwiek jedna firma lub lokalizacja.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/jessfraz?s=180)
+> Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you.
+</i>> — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
 
 Jeśli nie możesz przekonać swojego obecnego pracodawcy do priorytetowego traktowania pracy typu open source, zastanów się nad znalezieniem nowego pracodawcy, który zachęca pracowników do korzystania z oprogramowania typu open source. Poszukaj firm, które wyrażają swoje zaangażowanie w pracę z otwartym oprogramowaniem. Na przykład:
 
@@ -186,15 +150,9 @@ Co dokładnie osiągniesz dzięki proponowanemu finansowaniu? Skoncentruj się n
 
 Czy podmiot finansujący ma jakieś wymagania dotyczące wypłaty? Na przykład być może trzeba być organizacją non-profit lub mieć sponsora podatkowego typu non-profit. A może fundusze należy przekazać indywidualnemu kontrahentowi, a nie organizacji. Wymagania te różnią się w zależności od fundatora, dlatego należy wcześniej przeprowadzić badania.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/davegandy?s=180)
+> For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability.
+</i>> — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 
 ## Eksperymentuj i nie poddawaj się
 

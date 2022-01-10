@@ -37,16 +37,10 @@ Legen Sie eine CODE_OF_CONDUCT-Datei in das Stammverzeichnis Ihres Projekts und 
 
 ## Entscheiden, wie Sie Ihren Verhaltenskodex durchsetzen.
 
-<aside markdown="1" class="pquote">
-
-  Ein Verhaltenskodex, der nicht durchgesetzt wird (oder werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Community nicht wirklich wichtig oder respektiert werden.
+> Ein Verhaltenskodex, der nicht durchgesetzt wird (oder werden kann), ist schlimmer als gar kein Verhaltenskodex: Er sendet die Botschaft, dass die Werte des Verhaltenskodex in Ihrer Community nicht wirklich wichtig oder respektiert werden.
 
   _A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community._
-
-  <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
-  </p>
-</aside>
+> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Sie sollten erklären, wie Ihr Verhaltenskodex durchgesetzt wird, **_bevor_** es zu einem Verstoß kommt. Dafür gibt es mehrere Gründe:
 
@@ -78,16 +72,10 @@ Das betroffene Community-Mitglied kann ein\*e Wiederholungstäter\*in sein, der 
 
 Bevor Sie antworten, geben Sie sich Zeit, um zu verstehen, was passiert ist. Lesen Sie die bisherigen Kommentare und Gespräche der Person durch, um besser zu verstehen, wer es ist und warum sie oder er so gehandelt haben könnten. Versuchen Sie, andere Perspektiven als Ihre eigenen über diese Person und ihr Verhalten zu sammeln.
 
-<aside markdown="1" class="pquote">
-
-  Lassen Sie sich nicht in einen Streit hineinziehen. Lassen Sie sich nicht von Jemandes Verhalten von der Abwicklung einer Sache ablenken. Konzentrieren Sie sich auf das, was Sie brauchen.
+> Lassen Sie sich nicht in einen Streit hineinziehen. Lassen Sie sich nicht von Jemandes Verhalten von der Abwicklung einer Sache ablenken. Konzentrieren Sie sich auf das, was Sie brauchen.
 
   _Don't get pulled into an argument. Don't get sidetracked into dealing with someone else's behavior before you've finished dealing with the matter at hand. Focus on what you need._
-
-  <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
-  </p>
-</aside>
+> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
 
 ### Ergreifen Sie geeignete Maßnahmen
 

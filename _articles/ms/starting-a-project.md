@@ -24,13 +24,8 @@ _Perisian percuma_ merujuk kepada set projek yang sama dengan _open source_. Kad
 
 ### Mengapa orang membuka sumber pekerjaan mereka?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  Salah satu pengalaman paling bermanfaat yang saya dapat daripada menggunakan dan berkolaborasi pada sumber terbuka berasal dari hubungan yang saya bina dengan pembangun lain yang menghadapi banyak masalah yang sama dengan saya.
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> Salah satu pengalaman paling bermanfaat yang saya dapat daripada menggunakan dan berkolaborasi pada sumber terbuka berasal dari hubungan yang saya bina dengan pembangun lain yang menghadapi banyak masalah yang sama dengan saya.> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [There are many reasons](https://ben.balter.com/2015/11/23/why-open-source/) mengapa seseorang atau organisasi ingin membuka sumber projek. Beberapa contoh merangkumi:
 
@@ -68,13 +63,8 @@ Tidak ada satu jawapan yang tepat untuk soalan ini. Anda mungkin mempunyai banya
 
 Sekiranya satu-satunya tujuan anda adalah untuk mempamerkan hasil kerja anda, anda mungkin tidak mahukan sumbangan, dan bahkan mengatakannya dalam README anda. Sebaliknya, jika anda mahukan penyumbang, anda akan meluangkan masa untuk membuat dokumentasi yang jelas dan membuat pendatang baru merasa diterima.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  Pada satu ketika saya membuat UIAlertView khusus yang saya gunakan ... dan saya memutuskan untuk menjadikannya sumber terbuka. Oleh itu, saya mengubahnya menjadi lebih dinamik dan memuat naiknya ke GitHub. Saya juga menulis dokumentasi pertama saya yang menerangkan kepada pemaju lain bagaimana menggunakannya pada projek mereka. Mungkin tidak ada yang menggunakannya kerana ini adalah projek yang mudah tetapi saya berasa gembira dengan sumbangan saya.
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> Pada satu ketika saya membuat UIAlertView khusus yang saya gunakan ... dan saya memutuskan untuk menjadikannya sumber terbuka. Oleh itu, saya mengubahnya menjadi lebih dinamik dan memuat naiknya ke GitHub. Saya juga menulis dokumentasi pertama saya yang menerangkan kepada pemaju lain bagaimana menggunakannya pada projek mereka. Mungkin tidak ada yang menggunakannya kerana ini adalah projek yang mudah tetapi saya berasa gembira dengan sumbangan saya.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 Semasa projek anda berkembang, komuniti anda mungkin memerlukan lebih daripada sekadar kod dari anda. Menanggapi masalah, mengkaji kod, dan menginjil projek anda adalah semua tugas penting dalam projek sumber terbuka.
 
@@ -84,13 +74,8 @@ Walaupun jumlah masa yang anda habiskan untuk tugas bukan pengekodan bergantung 
 
 Sekiranya anda memerlukan anggaran atau kakitangan khusus untuk promosi, operasi dan penyelenggaraan projek, mulailah perbincangan tersebut lebih awal.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  Semasa anda mula membuka sumber projek, penting untuk memastikan bahawa proses pengurusan anda mengambil kira sumbangan dan kemampuan masyarakat di sekitar projek anda. Jangan takut untuk melibatkan penyumbang yang tidak bekerja dalam perniagaan anda dalam aspek utama projek - terutamanya jika mereka sering menjadi penyumbang.
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> Semasa anda mula membuka sumber projek, penting untuk memastikan bahawa proses pengurusan anda mengambil kira sumbangan dan kemampuan masyarakat di sekitar projek anda. Jangan takut untuk melibatkan penyumbang yang tidak bekerja dalam perniagaan anda dalam aspek utama projek - terutamanya jika mereka sering menjadi penyumbang.> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Menyumbang kepada projek lain
 
@@ -117,17 +102,24 @@ Sekiranya projek anda berada di GitHub, meletakkan fail-fail ini di direktori ro
 
 ### Memilih lesen
 
-Lesen sumber terbuka menjamin bahawa orang lain dapat menggunakan, menyalin, mengubah suai, dan menyumbang kembali ke projek anda tanpa kesan. Ia juga melindungi anda dari situasi undang-undang yang melekit. **Anda mesti menyertakan lesen semasa melancarkan projek sumber terbuka.**
+Lesen sumber terbuka menjamin bahawa orang lain dapat menggunakan, menyalin, mengubah suai, dan menyumbang kembali ke
+projek anda tanpa kesan. Ia juga melindungi anda dari situasi undang-undang yang melekit. **Anda mesti menyertakan lesen
+semasa melancarkan projek sumber terbuka.**
 
-Kerja undang-undang tidak menyeronokkan. Berita baiknya ialah anda boleh menyalin dan menampal lesen yang ada ke dalam repositori anda. Hanya perlu satu minit untuk melindungi kerja keras anda.
+Kerja undang-undang tidak menyeronokkan. Berita baiknya ialah anda boleh menyalin dan menampal lesen yang ada ke dalam
+repositori anda. Hanya perlu satu minit untuk melindungi kerja keras anda.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lesen sumber terbuka yang paling popular, tetapi[there are other options](https://choosealicense.com) untuk dipilih.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),
+and [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lesen sumber terbuka yang paling popular,
+tetapi[there are other options](https://choosealicense.com) untuk dipilih.
 
-Apabila anda membuat projek baru di GitHub, anda diberi pilihan untuk memilih lesen. Menyertakan lesen sumber terbuka akan menjadikan projek GitHub anda sebagai sumber terbuka.
+Apabila anda membuat projek baru di GitHub, anda diberi pilihan untuk memilih lesen. Menyertakan lesen sumber terbuka
+akan menjadikan projek GitHub anda sebagai sumber terbuka.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Pick a license](../../assets/images/starting-a-project/repository-license-picker.png)
 
-Sekiranya anda mempunyai pertanyaan atau kebimbangan lain mengenai aspek undang-undang dalam menguruskan projek sumber terbuka, [we've got you covered](../legal/).
+Sekiranya anda mempunyai pertanyaan atau kebimbangan lain mengenai aspek undang-undang dalam menguruskan projek sumber
+terbuka, [we've got you covered](../legal/).
 
 ### Menulis README
 
@@ -142,13 +134,8 @@ Dalam README anda, cuba jawab soalan berikut:
 
 Anda boleh menggunakan README anda untuk menjawab soalan lain, seperti bagaimana anda menangani sumbangan, apakah matlamat projek tersebut, dan maklumat mengenai lesen dan atribusi. Sekiranya anda tidak mahu menerima sumbangan, atau projek anda belum siap untuk dihasilkan, tuliskan maklumat ini.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Dokumentasi yang lebih baik bermaksud lebih banyak pengguna, kurang permintaan sokongan, dan lebih banyak penyumbang. (...) Ingat bahawa pembaca anda bukan anda. Ada orang yang mungkin datang ke projek yang mempunyai pengalaman yang sama sekali berbeza.
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> Dokumentasi yang lebih baik bermaksud lebih banyak pengguna, kurang permintaan sokongan, dan lebih banyak penyumbang. (...) Ingat bahawa pembaca anda bukan anda. Ada orang yang mungkin datang ke projek yang mempunyai pengalaman yang sama sekali berbeza.> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Kadang-kadang, orang mengelak daripada menulis README kerana mereka merasa projek ini belum selesai, atau mereka tidak mahu sumbangan. Ini semua adalah alasan yang baik untuk menulisnya.
 
@@ -176,25 +163,27 @@ Sebagai contoh, [Active Admin](https://github.com/activeadmin/activeadmin/) memu
 
 > Pertama, terima kasih kerana mempertimbangkan untuk menyumbang kepada Admin Aktif. Orang seperti anda menjadikan Admin Aktif sebagai alat yang hebat.
 
-Pada peringkat awal projek anda, fail CONTRIBUTING anda boleh dibuat dengan mudah. Anda harus selalu menerangkan cara melaporkan pepijat atau masalah fail, dan sebarang keperluan teknikal (seperti ujian) untuk memberi sumbangan.
+Pada peringkat awal projek anda, fail CONTRIBUTING anda boleh dibuat dengan mudah. Anda harus selalu menerangkan cara
+melaporkan pepijat atau masalah fail, dan sebarang keperluan teknikal (seperti ujian) untuk memberi sumbangan.
 
-Lama kelamaan, anda mungkin menambahkan soalan lain yang sering diajukan ke fail CONTRIBUTING anda. Menulis maklumat ini bermaksud semakin sedikit orang yang akan menanyakan soalan yang sama berulang kali kepada anda.
+Lama kelamaan, anda mungkin menambahkan soalan lain yang sering diajukan ke fail CONTRIBUTING anda. Menulis maklumat ini
+bermaksud semakin sedikit orang yang akan menanyakan soalan yang sama berulang kali kepada anda.
 
-Untuk lebih banyak bantuan dalam menulis fail CONTRIBUTING anda, lihat@nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) atau @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Untuk lebih banyak bantuan dalam menulis fail CONTRIBUTING anda,
+lihat@nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+atau @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/)
+.
 
-Pautkan ke fail CONTRIBUTING anda dari README anda, sehingga lebih banyak orang melihatnya. Jika awak [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/),GitHub akan memaut ke fail anda secara automatik apabila penyumbang membuat masalah atau membuka permintaan tarik.
+Pautkan ke fail CONTRIBUTING anda dari README anda, sehingga lebih banyak orang melihatnya. Jika
+awak [place the CONTRIBUTING file in your project's repository](https://help.github.com/articles/setting-guidelines-for-repository-contributors/),GitHub
+akan memaut ke fail anda secara automatik apabila penyumbang membuat masalah atau membuka permintaan tarik.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Contributing guidelines](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Menetapkan tatakelakuan
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  Kita semua mempunyai pengalaman di mana kita menghadapi apa yang mungkin disalahgunakan baik sebagai penyelenggara yang berusaha menjelaskan mengapa sesuatu harus menjadi cara tertentu, atau sebagai pengguna ... mengajukan soalan mudah. (...) Tatakelakuan menjadi dokumen yang mudah dirujuk dan dihubungkan yang menunjukkan bahawa pasukan anda mengambil wacana konstruktif dengan sangat serius.
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> Kita semua mempunyai pengalaman di mana kita menghadapi apa yang mungkin disalahgunakan baik sebagai penyelenggara yang berusaha menjelaskan mengapa sesuatu harus menjadi cara tertentu, atau sebagai pengguna ... mengajukan soalan mudah. (...) Tatakelakuan menjadi dokumen yang mudah dirujuk dan dihubungkan yang menunjukkan bahawa pasukan anda mengambil wacana konstruktif dengan sangat serius.> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 Akhirnya, kod tingkah laku membantu menetapkan peraturan asas untuk tingkah laku bagi peserta projek anda. Ini amat berharga jika anda melancarkan projek sumber terbuka untuk komuniti atau syarikat. Kod tingkah laku memberi kuasa kepada anda untuk memfasilitasi tingkah laku masyarakat yang sihat dan membina, yang akan mengurangkan tekanan anda sebagai penjaga.
 
@@ -239,13 +228,8 @@ Sepanjang hayat projek anda, anda akan melakukan banyak penulisan: README, tutor
 
 Sama ada dokumentasi rasmi atau e-mel biasa, gaya penulisan anda adalah sebahagian daripada jenama projek anda. Pertimbangkan bagaimana anda dapat menemui audiens anda dan apakah itu nada yang ingin anda sampaikan.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Saya cuba terlibat dengan setiap urutan dalam senarai mel, dan menunjukkan tingkah laku teladan, bersikap baik kepada orang lain, memandang serius masalah mereka dan berusaha untuk membantu secara keseluruhan. Selepas beberapa ketika, orang-orang tidak hanya bertanya, tetapi membantu menjawabnya, dan dengan rasa gembira saya, mereka meniru gaya saya.
-  <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> Saya cuba terlibat dengan setiap urutan dalam senarai mel, dan menunjukkan tingkah laku teladan, bersikap baik kepada orang lain, memandang serius masalah mereka dan berusaha untuk membantu secara keseluruhan. Selepas beberapa ketika, orang-orang tidak hanya bertanya, tetapi membantu menjawabnya, dan dengan rasa gembira saya, mereka meniru gaya saya.> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Menggunakan bahasa yang mesra dan inklusif (seperti "mereka", walaupun merujuk kepada orang bujang) dapat membuat projek anda terasa senang menerima penyumbang baru. Berpeganglah pada bahasa yang mudah, kerana kebanyakan pembaca anda mungkin bukan penutur bahasa Inggeris asli.
 

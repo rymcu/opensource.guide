@@ -37,19 +37,14 @@ Amplasează un fișier CODE_OF_CONDUCT în directorul rădăcină al proiectului
 
 ## Decizând cum îți vei impune codul de conduită
 
-<aside markdown="1" class="pquote">
-  <p>
+> <p>
     Un cod de conduită care nu este (sau nu poate fi) impus este mai rău decât absența unui cod de conduită: el trimite mesajul că valorile din codul de conduită nu sunt de fapt importante sau respectate în comunitatea ta.
   </p>
   <p>
     <em>
       A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
-  </p>
-</aside>
+  </p>> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Ar trebui să explici cum codul tău de conduită va fi impus **_înainte_** ca o încălcare să aibă loc. Sunt câteva motive pentru a face astfel:
 
@@ -81,19 +76,14 @@ Membrul în cauză al comunității poate fi un recidivist care îi face în mod
 
 Înainte de a răspunde, dă-ți timp să înțelegi ce s-a întâmplat. Citește prin comentariile și conversațiile trecute ale acestei persoane pentru a înțelege mai bine cine este și de ce a acționat într-un asemenea mod. Încearcă să culegi perspective, altele decât propria ta perspectivă despre această persoană și comportamentul ei.
 
-<aside markdown="1" class="pquote">
-  <p>
+> <p>
     Nu te lăsa tras într-o ceartă. Nu te lăsa distras de a te ocupa cu comportamentul altcuiva înainte de a termina cu problema la îndemână. Concentrează-te pe ce ai nevoie.
   </p>
   <p>
     <em>
       Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
-  </p>
-</aside>
+  </p>> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
 
 ### Ia măsurile corespunzătoare
 

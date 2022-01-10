@@ -37,13 +37,8 @@ redirect_from: /zh-tw/building-community/
 * **以開放的態度接受各式各樣的貢獻。** 很多貢獻者是從提報一份 bug 或者修一些小東西開始的。這裡有[很多為專案做貢獻的方式](../how-to-contribute/#具體而言什麼是貢獻)。讓大家選擇他們喜歡的方式。
 * **如果你不贊成一個貢獻。** 首先你需要對他們的想法表示感謝，同時 [解釋為什麼](../best-practices/#學會拒絕他人)這點子不適合專案，如果有必要的話你可以給出相關文件的連結。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  有些人能很自在的在開源工作。也有很多人害怕在社群裡被責備做錯事，害怕自己無法融入社群。（…）通過給貢獻者參與一些技術門檻較低的工作（文件、Web Content Markdown…），能有效地消除參與者的顧慮。
-  <p markdown="1" class="pquote-credit">
-— @mikeal, ["現代開源專案下如何增加貢獻者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mikeal?s=180)
+> 有些人能很自在的在開源工作。也有很多人害怕在社群裡被責備做錯事，害怕自己無法融入社群。（…）通過給貢獻者參與一些技術門檻較低的工作（文件、Web Content Markdown…），能有效地消除參與者的顧慮。> — @mikeal, ["現代開源專案下如何增加貢獻者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 多數開源貢獻者是「不固定的貢獻者」，因為他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充裕的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
 
@@ -51,14 +46,9 @@ redirect_from: /zh-tw/building-community/
 
 ### 記錄一切
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  你是否參加過一個（技術）活動，你不認識在場的人，但似乎每個人都在自己的小組裡像老朋友一樣聊天？（…）現在想像，你想為一個開源專案做貢獻，但是你不知道為什麼這樣是辦得到的。
-
-  <p markdown="1" class="pquote-credit">
-— @janl, ["持續發展開源"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> 你是否參加過一個（技術）活動，你不認識在場的人，但似乎每個人都在自己的小組裡像老朋友一樣聊天？（…）現在想像，你想為一個開源專案做貢獻，但是你不知道為什麼這樣是辦得到的。
+> — @janl, ["持續發展開源"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 當你開始一個新專案，會覺得就私下默默地工作是很正常的。但開源專案真正開始茁壯的時候，是當你開始公開的把你的進度歷程紀錄下來的時候。
 
@@ -80,11 +70,13 @@ redirect_from: /zh-tw/building-community/
 
 當有人提出一條 issue ，提交一個 pull request ，或詢問專案有關的問題時，你們應該盡快回覆他們。當你們快速地做出反應時，大家會覺得有參與到對話，會有熱情去參與專案。
 
-如果你無法做到及時，至少試著去及早確認，如此一來有助於提高大眾的參與度。以下是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)回覆的一個pull request：
+如果你無法做到及時，至少試著去及早確認，如此一來有助於提高大眾的參與度。以下是@tdreyno在[Middleman](https://github.com/middleman/middleman/pull/1466)回覆的一個pull
+request：
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![middleman pull request](../../assets/images/building-community/middleman_pr.png)
 
-[一項 Mozilla 的研究](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) 發現如果貢獻者在48小時內收到代碼審查，他們會有很高的回頭率，且極有可能會再次貢獻。
+[一項 Mozilla 的研究](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+發現如果貢獻者在48小時內收到代碼審查，他們會有很高的回頭率，且極有可能會再次貢獻。
 
 與專案有關的討論也可能發生在網路的其它地方，例如 Stack Overflow ， Twitter ，或者 Reddit 。你可以在這些網站設定通知，當有人提到你的專案時，可即時的收到提醒。
 
@@ -114,13 +106,8 @@ redirect_from: /zh-tw/building-community/
 
 對於這些人，必須採取零容忍的政策。一旦猶豫不決，那麼這些負面的人會給社群的其他人帶來不愉快的感覺。甚至出現劣幣驅逐良幣的現象。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。
-  <p markdown="1" class="pquote-credit">
-— @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/okdistribute?s=180)
+> 專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。> — @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
 
 對專案的顯而易見的問題進行定期辯論，會分散別人的注意力，包括你自己，新人如果看見這樣的情景，他們可能不會加入到專案中來。記得要將精力放在重要的任務上。
 
@@ -132,9 +119,11 @@ redirect_from: /zh-tw/building-community/
 
 在 CONTRIBUTING 文件裡，需要明確告訴新來的貢獻者該如何使用。為了想要達到這個目的，你也許會想要設立一個專區說明。
 
-![django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](../../assets/images/building-community/django_new_contributors.png)
 
-試著對每個 issue 標上標籤，為不同類型的貢獻者做指引：例如，[_"僅供入門者"_](https://kentcdodds.com/blog/first-timers-only), _"適合新手的Bug"_, 或者 _"說明文件"_. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽 issues 並且著手開始。
+試著對每個 issue 標上標籤，為不同類型的貢獻者做指引：例如，[_"僅供入門者"_](https://kentcdodds.com/blog/first-timers-only), _"適合新手的Bug"_, 或者 _"說明文件"_
+. [這些標籤](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)能夠幫助新人快速瀏覽
+issues 並且著手開始。
 
 最後，試著撰寫易讀的說明文件讓人們在每一步的過程中都很流暢。
 
@@ -146,13 +135,8 @@ redirect_from: /zh-tw/building-community/
 
 ### 分享專案的所有權
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。
-  <p markdown="1" class="pquote-credit">
-— @sagesharp, ["是什麼成就一個好的社群？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/sagesharp?s=180)
+> 社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。> — @sagesharp, ["是什麼成就一個好的社群？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 當大家覺得自己也是專案的主人之一時，就會非常樂意為專案付出。這並不代表就要去調整專案的願景，又或者代表要接受你不要的貢獻。但是社群越信任他們，他們就會越樂意待在這。
 
@@ -160,7 +144,7 @@ redirect_from: /zh-tw/building-community/
 
 * **不要親自去修簡單（不嚴重）的錯誤。** 相反，將這些錯誤作為招募新貢獻者的工具，或指導有意貢獻付出的人。剛開始可能會覺得過程很不自然，但一段時間你會得到想要的結果。例如，在[Cookiecutter](https://github.com/audreyr/cookiecutter) 的一則 issue 下面， @michaeljoseph 要求貢獻者提交一個 pull request ，而不是親自處理它。
 
-![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](../../assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **在專案中添加一個貢獻者列表或者作者列表** 記錄每一個參與貢獻的人。
 
@@ -174,13 +158,8 @@ redirect_from: /zh-tw/building-community/
 
 雖然並不是一直都有人在回答問題，但是你可以去試著增加一些機會，讓他人有能夠參與的機會，越是儘早開始，越是能夠獲得幫助。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。
-  <p markdown="1" class="pquote-credit">
-— @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gr2m?s=180)
+> 對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。> — @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
 
 ## 化解衝突
 
@@ -196,14 +175,9 @@ redirect_from: /zh-tw/building-community/
 
 身為一名維護者的工作就是別讓這種情況惡化。即使你對該話題有自己強烈的看法，也要盡量擔任一個仲裁者或推動者的角色，而非跳下去參與爭論以及推動自己的觀點。如果有人態度不好或者嘗試壟斷話題，那麼請[立即採取行動](https://ocselected.github.io/open-source-guide/building-community/)，讓討論保持它應有的禮節，讓討論是有意義的。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  作為一名維護者，尊重你們的貢獻者是一件重要的事。他們經常會感情用事的去看待你的意見。
-
-  <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["保持和善，要麼滾蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kennethreitz?s=180)
+> 作為一名維護者，尊重你們的貢獻者是一件重要的事。他們經常會感情用事的去看待你的意見。
+> — @kennethreitz, ["保持和善，要麼滾蛋"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
 
 一些人希望得到指導。試著當一個好典範。當然你仍然可以表達失望、不高興或者憂慮，但得心平氣和。
 
@@ -224,14 +198,9 @@ README [不僅僅是指導手冊](../starting-a-project/#編寫自述文件)。�
 
 尋求共識的過程中，社群成員討論關心在乎的事，直到他們覺得意見已經獲得充分的表達。當僅剩下一些次要的議題時，社群就往前邁進。「尋求共識」不能確保社群能得到一個完美的解答。而是側重聆聽和討論。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（...）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
-
-  <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/lee-dohm?s=180)
+> Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投票的結果。有時我們必須選擇我們認為是對的事，即使它不是主流看法。（...）我能做的是傾聽社群的意見，這也是我能保證提供的服務。
+> — @lee-dohm on [Atom 決策流程](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
 
 即使不全然採用尋求共識的方式，身為一名維護者，讓人們知道你願意傾聽意見是一件很重要的事。讓其他人知道意見有被聽見，並且承諾解決他們的問題，這很大程度上減少了棘手情況的發生。接著言出必行的去採取行動。
 
@@ -251,14 +220,9 @@ Atom 專案的 Issues 沒有投票機制，因為 Atom 團隊並不會遵循投�
 
 如果一個對話沒有清楚的方向，也會沒有明確的辦法可以執行，又或者合適的解決辦法已經被採納，那麼就結束 issue 並解釋為什麼結束它。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-如何循循善誘的將討論串引導到有益的方向，是一門藝術。直接要求人們不要發沒有建設性的文，要大家別浪費彼此的時間，這樣做是沒有效的。（...）反而，你必須設立一些限制條件，給大家一個方向，讓大家的意見最終導向成你所期待的結果，這樣就不像是無用的口頭訓斥。
-
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_打造開源軟體_](https://producingoss.com/en/producingoss.html#common-pitfalls)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> 如何循循善誘的將討論串引導到有益的方向，是一門藝術。直接要求人們不要發沒有建設性的文，要大家別浪費彼此的時間，這樣做是沒有效的。（...）反而，你必須設立一些限制條件，給大家一個方向，讓大家的意見最終導向成你所期待的結果，這樣就不像是無用的口頭訓斥。
+> — @kfogel, [_打造開源軟體_](https://producingoss.com/en/producingoss.html#common-pitfalls)
 
 ### 謹言慎行
 

@@ -31,13 +31,8 @@ Realicemos una comparaci&oacute;n: un proceso de c&oacute;digo cerrado ser&iacut
 
 ### &iquest;Por qu&eacute; las personas utilizan el "C&oacute;digo Abierto"?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  Una de las experiencias m&aacute;s gratificantes que obtengo de usar y colaborar en "C&oacute;digo abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> Una de las experiencias m&aacute;s gratificantes que obtengo de usar y colaborar en "C&oacute;digo abierto" proviene de las relaciones que construyo con cada uno de los desarrolladores que se encuentran enfrentando los mismos problemas que yo.> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Hay muchas razones](https://ben.balter.com/2015/11/23/why-open-source/) por las cuales una persona u organizaci&oacute;n querr&iacute;an involucrarse en un proyecto de c&oacute;digo abierto. Algunos ejemplos son:
 
@@ -75,13 +70,8 @@ No hay nunca una respuesta correcta a esta pregunta. Puedes tener m&uacute;ltipl
 
 Si tu &uacute;nico objetivo es mostrar al mundo tu trabajo, quiz&aacute;s no necesites ni quieras contribuci&oacute;n, y quiz&aacute;s digas eso en el README. Por otra parte, si quieres ayuda, invertir&aacute;s tiempo en clarificar la documentaci&oacute;n y en hacer sentir a los reci&eacute;n llegados bienvenidos.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... Y decid&iacute; hacerlo c&oacute;digo abierto. Entonces lo modifiqu&eacute; para que fuera m&aacute;s din&aacute;mico y lo sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarlo en sus proyectos. Probablemente nadie jam&aacute;s lo haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> En alg&uacute;n punto cre&eacute; un UIAlertView personalizado que estaba usando... Y decid&iacute; hacerlo c&oacute;digo abierto. Entonces lo modifiqu&eacute; para que fuera m&aacute;s din&aacute;mico y lo sub&iacute; a GitHub. Adem&aacute;s escrib&iacute; mi primera documentaci&oacute;n explicando a otros desarrolladores c&oacute;mo usarlo en sus proyectos. Probablemente nadie jam&aacute;s lo haya usado porque era un proyecto muy simple, pero me sent&iacute;a bien habiendo contribuido.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 A medida que tu proyecto crezca, tu comunidad podr&aacute; llegar a necesitar m&aacute;s que solamente el c&oacute;digo. Es decir, necesitar&aacute; que respondas a issues, que revises el c&oacute;digo, entre otras tareas importantes en un proyecto de esta clase.
 
@@ -91,13 +81,8 @@ El tiempo que dediques a tareas ajenas a codificar depender&aacute; del tama&nti
 
 Si necesitas un presupuesto dedicado o personal para la promoci&oacute;n, operaci&oacute;n y mantenimiento del proyecto, empieza esas conversaciones de forma temprana.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  A medida que abres el c&oacute;digo de tu proyecto, es importante que puedas asegurarte de que los procesos de administraci&oacute;n tengan en cuenta a las contribuciones y a las habilidades de la comunidad alrededor de tu proyecto. No hay que asustarse al involucrar contribuyentes, que no est&eacute;n empleados en tu empresa, en aspectos claves del proyecto (especialmente si son contribuyentes frecuentes).
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> A medida que abres el c&oacute;digo de tu proyecto, es importante que puedas asegurarte de que los procesos de administraci&oacute;n tengan en cuenta a las contribuciones y a las habilidades de la comunidad alrededor de tu proyecto. No hay que asustarse al involucrar contribuyentes, que no est&eacute;n empleados en tu empresa, en aspectos claves del proyecto (especialmente si son contribuyentes frecuentes).> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Contribuyendo en otros proyectos.
 
@@ -124,15 +109,21 @@ Si tu proyecto est&aacute; en GitHub, colocar estos archivos en tu directorio ra
 
 ### Eligiendo una licencia
 
-Una licencia de C&oacute;digo Abierto garantiza que otros puedan usar, copiar, modificar y contribuir en tu proyecto sin problemas. Adem&aacute;s ayuda a protegerte de situaciones legales complejas. **Debes elegir una licencia cuando inicias tu proyecto!**
+Una licencia de C&oacute;digo Abierto garantiza que otros puedan usar, copiar, modificar y contribuir en tu proyecto sin
+problemas. Adem&aacute;s ayuda a protegerte de situaciones legales complejas. **Debes elegir una licencia cuando inicias
+tu proyecto!**
 
-El trabajo legal no es divertido. La buena noticia es que puedes copiar y pegar una licencia existente en tu repositorio. Solo llevar&aacute; un minuto proteger tu trabajo.
+El trabajo legal no es divertido. La buena noticia es que puedes copiar y pegar una licencia existente en tu
+repositorio. Solo llevar&aacute; un minuto proteger tu trabajo.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), y [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) son las licencias m&aacute;s populares, pero [hay otras opciones](https://choosealicense.com) para elegir.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),
+y [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) son las licencias m&aacute;s populares,
+pero [hay otras opciones](https://choosealicense.com) para elegir.
 
-Cuando creas un nuevo proyecto en GitHub, te dan la opci&oacute;n de seleccionar una licencia. Incluir una licencia de C&oacute;digo Abierto har&aacute; tu proyecto efectivamente de C&oacute;digo Abierto.
+Cuando creas un nuevo proyecto en GitHub, te dan la opci&oacute;n de seleccionar una licencia. Incluir una licencia de
+C&oacute;digo Abierto har&aacute; tu proyecto efectivamente de C&oacute;digo Abierto.
 
-![&iexcl;Debes elegir una licencia!](/assets/images/starting-a-project/repository-license-picker.png)
+![&iexcl;Debes elegir una licencia!](../../assets/images/starting-a-project/repository-license-picker.png)
 
 Si tienes otras preguntas acerca del aspecto legal al manejar proyectos de este tipo, [te tenemos cubierto](../legal/).
 
@@ -149,13 +140,8 @@ Trata de que tu README responda a las siguientes preguntas:
 
 Puedes usarlo para responder otras preguntas: c&oacute;mo manejo las contribuciones, cu&aacute;les son las metas del proyecto, e informaci&oacute;n acerca de licencias y atribuciones. Si no quieres aceptar contribuciones, o tu proyecto no est&aacute; listo para producci&oacute;n, lo escribes.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Mejor documentaci&oacute;n significa m&aacute;s usuarios, menos pedidos de soporte, y m&aacute;s contribuyentes. Recuerda que tus lectores no son t&uacute;, son personas que quiz&aacute;s acudan al proyecto con experiencias totalmente distintas a las tuyas.
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> Mejor documentaci&oacute;n significa m&aacute;s usuarios, menos pedidos de soporte, y m&aacute;s contribuyentes. Recuerda que tus lectores no son t&uacute;, son personas que quiz&aacute;s acudan al proyecto con experiencias totalmente distintas a las tuyas.> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Algunas veces las personas evitan escribir el README debido a que sienten que su proyecto est&aacute; incompleto, o qu&eacute; no quiere contribuciones. Ambas son muy buenas razones para escribir uno...
 
@@ -183,25 +169,26 @@ Por ejemplo, [Active Admin](https://github.com/activeadmin/activeadmin/) comienz
 
 > Primero, muchas gracias por considerar contribuir a Active Admin. Son personas como ustedes las que la hacen una gran herramienta.
 
-En las primeras etapas del proyecto, tu archivo CONTRIBUTING puede ser simple. Siempre debes explicar c&oacute;mo reportar bugs o issues, y cualquier requerimiento t&eacute;cnico (como tests) para hacer una contribuci&oacute;n.
+En las primeras etapas del proyecto, tu archivo CONTRIBUTING puede ser simple. Siempre debes explicar c&oacute;mo
+reportar bugs o issues, y cualquier requerimiento t&eacute;cnico (como tests) para hacer una contribuci&oacute;n.
 
-Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir esta informaci&oacute;n significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
+Con el tiempo, quiz&aacute;s debas agregar otras "preguntas frecuentes" a tu archivo. Escribir esta informaci&oacute;n
+significa que menos personas te preguntar&aacute;n nuevamente la misma pregunta.
 
-Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a @nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Para m&aacute;s informaci&oacute;n sobre este tema, puedes acceder a
+@nayafia's [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+o @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
+Vincula tu CONTRIBUTING desde tu README, as&iacute; m&aacute;s personas pueden verlo.Si
+tu [colocas el archivo en tu repositorio](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+, GitHub autom&aacute;ticamente lo vincular&aacute; cuando un contribuyente cree un issue o abra un pull request.
 
-![Pautas para contribuir](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Pautas para contribuir](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Estableciendo un c&oacute;digo de conducta.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  Todos hemos experimentado cierta sensaci&oacute;n de abuso cuando nos han tratado de explicar por qu&eacute; algo tiene que ser de determinada forma, o como usuarios al hacer una pregunta simple. (...) Un c&oacute;digo de conducta se vuelve una forma sencilla (referenciable y vinculable) de documento que nos indica que un equipo toma las cr&iacute;ticas constructivas seriamente.
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> Todos hemos experimentado cierta sensaci&oacute;n de abuso cuando nos han tratado de explicar por qu&eacute; algo tiene que ser de determinada forma, o como usuarios al hacer una pregunta simple. (...) Un c&oacute;digo de conducta se vuelve una forma sencilla (referenciable y vinculable) de documento que nos indica que un equipo toma las cr&iacute;ticas constructivas seriamente.> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 Finalmente, un c&oacute;digo de conducta ayuda a establecer reglas base de comportamiento para los participantes de tus proyectos. Esto es muy deseable si est&aacute;s lanzando un nuevo proyecto de c&oacute;digo abierto para una compa&ntilde;&iacute;a o comunidad. Un c&oacute;digo de conducta facilita un comportamiento en comunidad sano y constructivo, reduciendo tu estr&eacute;s como encargado de mantenimiento.
 
@@ -246,13 +233,8 @@ Durante el ciclo de vida de tu proyecto, escribir&aacute;s una serie grande de d
 
 Ya sea documentaci&oacute;n oficial como casual (un email), tu estilo de redacci&oacute;n debe ser parte de la marca de tu proyecto. Considera c&oacute;mo ser&aacute; visto por tu audiencia y si es o no adecuado.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.
-  <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> He tratado de involucrarme con cada hilo del listado de emails, y mostrando un comportamiento ejemplar, siendo agradable con las personas, tomando sus issues seriamente y tratando de ser de ayuda por sobre todo. Despu&eacute;s de un tiempo las personas no solo me buscaban para hacerme preguntas si no para ayudarme a responderlas, y, para mi sorpresa, imitaban mi estilo.> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Usando un lenguaje inclusivo, puede ir lejos haciendo que tus proyectos reciban de forma m&aacute;s c&aacute;lida a los nuevos participantes. Mant&eacute;n un lenguaje simple.
 

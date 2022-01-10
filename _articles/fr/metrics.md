@@ -33,11 +33,15 @@ Si vous _êtes_ intéressé à comprendre votre projet à un niveau plus profond
 
 ## D&eacute;couverte
 
-Avant que quiconque puisse utiliser ou contribuer à votre projet, ils doivent savoir qu'il existe. Demandez-vous: _Est-ce que les gens trouvent ce projet ?_
+Avant que quiconque puisse utiliser ou contribuer à votre projet, ils doivent savoir qu'il existe. Demandez-vous: _
+Est-ce que les gens trouvent ce projet ?_
 
-![Graphique de trafic](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Graphique de trafic](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Si votre projet est hébergé sur GitHub, [vous pouvez voir](https://help.github.com/articles/about-repository-graphs/#traffic) combien de personnes atterrissent sur votre projet et d'où elles viennent. À partir de la page de votre projet, cliquez sur "Insights", puis sur "Traffic". Sur cette page, vous pouvez voir:
+Si votre projet est hébergé sur
+GitHub, [vous pouvez voir](https://help.github.com/articles/about-repository-graphs/#traffic) combien de personnes
+atterrissent sur votre projet et d'où elles viennent. À partir de la page de votre projet, cliquez sur "Insights", puis
+sur "Traffic". Sur cette page, vous pouvez voir:
 
 * **Le nombre total de pages vues :** Vous indique combien de fois votre projet a été visionné
 
@@ -53,17 +57,26 @@ Vous pouvez également [suivre la découvrabilité dans des lieux spécifiques](
 
 ## Usage
 
-Les gens trouvent votre projet sur cette chose sauvage et folle que nous appelons l'Internet. Idéalement, quand ils verront votre projet, ils se sentiront obligés de faire quelque chose. La deuxième question que vous voudrez poser est: _Est-ce que les gens utilisent ce projet ?_
+Les gens trouvent votre projet sur cette chose sauvage et folle que nous appelons l'Internet. Idéalement, quand ils
+verront votre projet, ils se sentiront obligés de faire quelque chose. La deuxième question que vous voudrez poser
+est: _Est-ce que les gens utilisent ce projet ?_
 
-Si vous utilisez un gestionnaire de paquets, tel que npm ou RubyGems.org, pour distribuer votre projet, vous pourrez peut-être suivre les téléchargements de votre projet.
+Si vous utilisez un gestionnaire de paquets, tel que npm ou RubyGems.org, pour distribuer votre projet, vous pourrez
+peut-être suivre les téléchargements de votre projet.
 
-Chaque gestionnaire de paquets peut utiliser une définition légèrement différente de "téléchargement", et les téléchargements ne sont pas nécessairement corrélés aux installations ou à l'utilisation, mais il fournit une base de comparaison. Essayez d'utiliser [Libraries.io](https://libraries.io/) pour suivre les statistiques d'utilisation de nombreux gestionnaires de paquets populaires.
+Chaque gestionnaire de paquets peut utiliser une définition légèrement différente de "téléchargement", et les
+téléchargements ne sont pas nécessairement corrélés aux installations ou à l'utilisation, mais il fournit une base de
+comparaison. Essayez d'utiliser [Libraries.io](https://libraries.io/) pour suivre les statistiques d'utilisation de
+nombreux gestionnaires de paquets populaires.
 
-Si votre projet est sur GitHub, naviguez à nouveau vers la page "Trafic". Vous pouvez utiliser le [graphe clone](https://github.com/blog/1873-clone-graphs) pour voir combien de fois votre projet a été cloné un jour donné, ventilé par clone total et clonage unique.
+Si votre projet est sur GitHub, naviguez à nouveau vers la page "Trafic". Vous pouvez utiliser
+le [graphe clone](https://github.com/blog/1873-clone-graphs) pour voir combien de fois votre projet a été cloné un jour
+donné, ventilé par clone total et clonage unique.
 
-![Cloner graphe](/assets/images/metrics/clone_graph.png)
+![Cloner graphe](../../assets/images/metrics/clone_graph.png)
 
-Si l'utilisation est faible par rapport au nombre de personnes découvrant votre projet, il y a deux points à considérer, pas plus:
+Si l'utilisation est faible par rapport au nombre de personnes découvrant votre projet, il y a deux points à considérer,
+pas plus:
 
 * Votre projet ne réussit pas à convertir votre public, ou
 * Vous attirez le mauvais public
@@ -86,7 +99,7 @@ Les exemples de statistiques de communauté que vous souhaitez suivre régulièr
 
 * **Nombre total de contributeurs et nombre de commits par contributeur :** Vous indique combien de contributeurs vous avez, et qui est plus ou moins actif. Sur GitHub, vous pouvez voir ceci sous "Insights" -> "Contributors". À l'heure actuelle, ce graphique ne tient compte que des contributeurs qui se sont engagés dans la branche par défaut du référentiel.
 
-![Graphique des contributeurs](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Graphique des contributeurs](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
@@ -98,13 +111,8 @@ Les exemples de statistiques de communauté que vous souhaitez suivre régulièr
 
 * **Types de contributions :** Par exemple, commit, corrige des fautes de frappe ou des bugs, ou commente une issue.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  L'open source, c'est plus que du code. Les projets Open Source qui réussissent comprennent des contributions au code et à la documentation ainsi que des conversations sur ces changements.
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> L'open source, c'est plus que du code. Les projets Open Source qui réussissent comprennent des contributions au code et à la documentation ainsi que des conversations sur ces changements.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Activit&eacute; de responsable
 

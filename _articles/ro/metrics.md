@@ -35,11 +35,15 @@ Dacă _ești_ interesat în înțelegerea proiectului tău la un nivel mai profu
 
 ## Descoperire
 
-Înainte ca oricine să poată folosi sau contribui înapoi la proiectul tău, ei trebuie să știe că el există. Întreabă-te: _găsesc oamenii acest proiect?_
+Înainte ca oricine să poată folosi sau contribui înapoi la proiectul tău, ei trebuie să știe că el există.
+Întreabă-te: _găsesc oamenii acest proiect?_
 
-![Grafic de trafic](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Grafic de trafic](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Dacă proiectul tău este găzduit pe GitHub, [poți vizualiza](https://help.github.com/articles/about-repository-graphs/#traffic) câți oameni ajung la proiectul tău și de unde vin ei. Din pagina proiectului tău, fă clic pe „Insights”, apoi „Traffic”. Pe această pagină, poți vedea:
+Dacă proiectul tău este găzduit pe
+GitHub, [poți vizualiza](https://help.github.com/articles/about-repository-graphs/#traffic) câți oameni ajung la
+proiectul tău și de unde vin ei. Din pagina proiectului tău, fă clic pe „Insights”, apoi „Traffic”. Pe această pagină,
+poți vedea:
 
 * **Vizualizări totale ale paginii:** Îți spune de câte ori a fost văzut proiectul tău
 
@@ -55,17 +59,26 @@ Poate ai dori de asemenea să [urmărești abilitatea de a fi descoperit în loc
 
 ## Folosire
 
-Oamenii îți găsesc proiectul pe acest sălbatic și nebun lucru pe care îl numim Internet. În mod ideal, când îți văd proiectul, ei se vor simți obligați să facă ceva. A doua întrebare pe care o vei vrea să o pui este: _oamenii folosesc acest proiect?_
+Oamenii îți găsesc proiectul pe acest sălbatic și nebun lucru pe care îl numim Internet. În mod ideal, când îți văd
+proiectul, ei se vor simți obligați să facă ceva. A doua întrebare pe care o vei vrea să o pui este: _oamenii folosesc
+acest proiect?_
 
-Dacă folosesți un gestionar de pachete, cum ar fi npm sau RubyGems.org, pentru a-ți distribui proiectul, ai putea să urmărești descărcările proiectului tău.
+Dacă folosesți un gestionar de pachete, cum ar fi npm sau RubyGems.org, pentru a-ți distribui proiectul, ai putea să
+urmărești descărcările proiectului tău.
 
-Fiecare gestionar de pachete ar putea folosi o definiție ușor diferită pentru „descărcare”, și descărcările nu sunt neapărat corelate cu instalările sau utilizarea, dar ele furnizează o bază pentru comparație. Încearcă să folosești [Libraries.io](https://libraries.io/) pentru a urmări statisticile de utilizare pe mulți gestionari populari de pachete.
+Fiecare gestionar de pachete ar putea folosi o definiție ușor diferită pentru „descărcare”, și descărcările nu sunt
+neapărat corelate cu instalările sau utilizarea, dar ele furnizează o bază pentru comparație. Încearcă să
+folosești [Libraries.io](https://libraries.io/) pentru a urmări statisticile de utilizare pe mulți gestionari populari
+de pachete.
 
-Dacă proiectul tău este pe GitHub, navighează din nou pe pagina „Traffic”. Poți folosi [graficul de clonare](https://github.com/blog/1873-clone-graphs) pentru a vedea de câte ori a fost clonat proiectul tău într-o anumită zi, defalcat în funcție de totalul de clone și clonatori unici.
+Dacă proiectul tău este pe GitHub, navighează din nou pe pagina „Traffic”. Poți
+folosi [graficul de clonare](https://github.com/blog/1873-clone-graphs) pentru a vedea de câte ori a fost clonat
+proiectul tău într-o anumită zi, defalcat în funcție de totalul de clone și clonatori unici.
 
-![Grafic de clonare](/assets/images/metrics/clone_graph.png)
+![Grafic de clonare](../../assets/images/metrics/clone_graph.png)
 
-Dacă utilizarea este scăzută în comparație cu numărul de oameni care îți descoperă proiectul, există două probleme de luat în considerare. Fie:
+Dacă utilizarea este scăzută în comparație cu numărul de oameni care îți descoperă proiectul, există două probleme de
+luat în considerare. Fie:
 
 * Proiectul tău nu convertește publicul tău cu succes, fie
 * Atragi publicul greșit
@@ -88,7 +101,7 @@ Exemple de măsurători ale comunității pe care ai putea dori să le urmăreș
 
 * **Numărul total de contributori și numărul de commit-uri per contributor:** Îți spune cât de mulți contributori ai, și cine este mai mult sau mai puțin activ. Pe GitHub, poți vizualiza aceasta în „Insights” -> „Contributors.” În prezent, acest grafic numără doar contributorii care au făcut commit către ramura implicită a depozitului.
 
-![Graficul contributorilor](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Graficul contributorilor](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Contributori pentru prima dată, ocazionali sau repetitivi:** Te ajută să urmărești dacă primești contributori noi, și dacă ei revin. (Contributorii ocazionali sunt contributori cu un număr mic de commit-uri. Fie că aceasta înseamnă un commit, mai puțin de cinci commit-uri, sau altceva, depinde de tine.) Fără contributori noi, comunitatea proiectului tău poate deveni stagnantă.
 
@@ -98,20 +111,15 @@ Exemple de măsurători ale comunității pe care ai putea dori să le urmăreș
 
 * **Tipuri de contribuții:** De exemplu, commit-uri, corectarea greșelilor de scriere sau rezolvarea de bug-uri, sau comentarea asupra unei probleme.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> <p>
     Open source este mai mult decât doar cod. Proiectele open source de succes includ contribuții de cod și documentație împreună cu conversații despre aceste schimbări.
   </p>
   <p>
     <em>
       Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+  </p>> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Activitatea întreținătorilor
 
