@@ -37,7 +37,8 @@ mengembangkan personaliti pengguna.
 
 ## Bantu orang mencari dan mengikuti projek anda
 
-> Anda semestinya memerlukan satu URL "home" yang boleh anda promosikan dan arahkan orang berkaitan dengan projek anda. Anda tidak perlu memaparkan templat mewah atau bahkan nama domain, tetapi projek anda memerlukan titik fokus.> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> Anda semestinya memerlukan satu URL "home" yang boleh anda promosikan dan arahkan orang berkaitan dengan projek anda. Anda tidak perlu memaparkan templat mewah atau bahkan nama domain, tetapi projek anda memerlukan titik fokus.
+> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 Bantu orang mencari dan mengingati projek anda dengan menunjukkan mereka ke satu ruang nama.
 
@@ -46,7 +47,8 @@ Bantu orang mencari dan mengingati projek anda dengan menunjukkan mereka ke satu
 Sekiranya anda belum mahu menyediakan kedai untuk projek anda, promosikan pegangan Twitter atau GitHub anda sendiri dalam semua yang anda lakukan. Mempromosikan pegangan Twitter atau GitHub anda akan memberi tahu orang bagaimana menghubungi anda atau mengikuti kerja anda. Sekiranya anda bercakap di perjumpaan atau acara, pastikan maklumat hubungan anda disertakan dalam bio atau slaid anda.
 
 > ![](https://avatars.githubusercontent.com/nathanmarz?s=180)
-> Kesalahan yang saya buat pada hari-hari awal (...) tidak memulakan akaun Twitter untuk projek tersebut. Twitter adalah kaedah terbaik untuk membuat orang sentiasa mengetahui tentang sesuatu projek dan juga sentiasa memberi pendedahan kepada orang tentang projek tersebut.> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+> Kesalahan yang saya buat pada hari-hari awal (...) tidak memulakan akaun Twitter untuk projek tersebut. Twitter adalah kaedah terbaik untuk membuat orang sentiasa mengetahui tentang sesuatu projek dan juga sentiasa memberi pendedahan kepada orang tentang projek tersebut.
+> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 **Pertimbangkan untuk membuat laman web untuk projek anda.** Laman web menjadikan projek anda lebih mesra dan lebih
 mudah dilayari, terutama jika dipasangkan dengan dokumentasi dan tutorial yang jelas. Mempunyai laman web juga
@@ -73,7 +75,8 @@ Jangkauan dalam talian adalah kaedah terbaik untuk berkongsi dan menyebarkan ber
 Manfaatkan komuniti dan platform dalam talian yang ada untuk menjangkau khalayak anda. Sekiranya projek sumber terbuka anda adalah projek perisian, anda mungkin dapat mencari khalayak anda [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/).Cari saluran di mana anda fikir orang akan mendapat banyak faedah atau teruja dengan kerja anda.
 
 > ![](https://avatars.githubusercontent.com/pazdera?s=180)
-> Setiap program mempunyai fungsi yang sangat spesifik yang hanya berguna bagi sebahagian pengguna. Jangan spam sebanyak mungkin orang. Sebaliknya, sasarkan usaha anda kepada komuniti yang akan mendapat manfaat daripada mengetahui tentang projek anda.> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> Setiap program mempunyai fungsi yang sangat spesifik yang hanya berguna bagi sebahagian pengguna. Jangan spam sebanyak mungkin orang. Sebaliknya, sasarkan usaha anda kepada komuniti yang akan mendapat manfaat daripada mengetahui tentang projek anda.
+> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 Lihat apakah anda dapat mencari cara untuk berkongsi projek anda dengan cara yang relevan:
 
@@ -97,21 +100,24 @@ Jika anda [new to public speaking](https://speaking.io/), mulakan dengan mencari
 dengan bahasa atau ekosistem projek anda.
 
 > ![](https://avatars.githubusercontent.com/jhamrick?s=180)
-> Saya agak gementar pergi ke PyCon. Saya memberi ceramah, saya hanya akan mengetahui beberapa orang di sana, saya akan pergi selama seminggu. (...) Saya tidak seharusnya risau. PyCon sangat hebat! (...) Semua orang sangat ramah dan ramah, sehinggakan saya jarang mendapat masa untuk tidak bercakap dengan orang!> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+> Saya agak gementar pergi ke PyCon. Saya memberi ceramah, saya hanya akan mengetahui beberapa orang di sana, saya akan pergi selama seminggu. (...) Saya tidak seharusnya risau. PyCon sangat hebat! (...) Semua orang sangat ramah dan ramah, sehinggakan saya jarang mendapat masa untuk tidak bercakap dengan orang!
+> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
 
 Sekiranya anda tidak pernah bercakap di acara sebelumnya, adalah normal untuk merasa gementar! Ingatlah bahawa khalayak anda hadir kerana mereka benar-benar ingin mendengar tentang karya anda.
 
 Semasa anda menulis ceramah anda, tumpukan perhatian kepada perkara yang menarik dan menarik perhatian penonton anda. Pastikan bahasa anda mesra dan mudah didekati. Senyum, bernafas, dan bersenang-senang.
 
 > ![](../../assets/images/finding-users/lena.jpg)
-> Apabila anda mula menulis ceramah anda, tidak kira apa topik anda, ia dapat membantu sekiranya anda melihat perbincangan anda sebagai cerita yang anda sampaikan kepada orang lain.> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+> Apabila anda mula menulis ceramah anda, tidak kira apa topik anda, ia dapat membantu sekiranya anda melihat perbincangan anda sebagai cerita yang anda sampaikan kepada orang lain.
+> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 Apabila anda merasa bersedia, pertimbangkan untuk bercakap di persidangan untuk mempromosikan projek anda. Persidangan dapat membantu anda menjangkau lebih banyak orang, kadang-kadang dari seluruh dunia.
 
 Cari persidangan yang khusus untuk bahasa atau ekosistem anda. Sebelum anda menyampaikan ceramah anda, selidiki persidangan untuk menyesuaikan ceramah anda untuk hadirin dan tingkatkan peluang anda untuk diterima untuk bercakap di persidangan. Anda sering dapat mengetahui penonton anda dengan melihat penceramah persidangan.
 
 > ![](https://avatars.githubusercontent.com/ry?s=180)
-> Saya menulis dengan sangat baik kepada orang-orang JSConf dan meminta mereka memberi saya slot di mana saya dapat membentangkannya di JSConf EU. (...) Saya sangat takut, menunjukkan perkara ini yang telah saya kerjakan selama enam bulan. (...) Sepanjang masa saya hanya berfikir, ya Tuhan. Apa yang saya buat di sini?> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+> Saya menulis dengan sangat baik kepada orang-orang JSConf dan meminta mereka memberi saya slot di mana saya dapat membentangkannya di JSConf EU. (...) Saya sangat takut, menunjukkan perkara ini yang telah saya kerjakan selama enam bulan. (...) Sepanjang masa saya hanya berfikir, ya Tuhan. Apa yang saya buat di sini?
+> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
 
 ## Membangun reputasi
 
@@ -120,14 +126,16 @@ Sebagai tambahan kepada strategi yang dinyatakan di atas, cara terbaik untuk men
 Membantu pendatang baru, berkongsi sumber, dan memberikan sumbangan yang teliti untuk projek orang lain akan membantu anda membina reputasi positif. Menjadi ahli yang aktif dalam komuniti sumber terbuka akan membantu orang mempunyai konteks untuk pekerjaan anda dan lebih cenderung untuk memberi perhatian dan berkongsi projek anda. Membangun hubungan dengan projek sumber terbuka yang lain malah boleh menjalin kerjasama rasmi.
 
 > ![](https://avatars.githubusercontent.com/shazow?s=180)
-> Satu-satunya sebab urllib3 adalah perpustakaan Python pihak ketiga yang paling popular hari ini adalah kerana ia adalah sebahagian daripada permintaan.> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+> Satu-satunya sebab urllib3 adalah perpustakaan Python pihak ketiga yang paling popular hari ini adalah kerana ia adalah sebahagian daripada permintaan.
+> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
 
 Tidak terlalu awal, atau terlambat, untuk mula membina reputasi anda Walaupun anda sudah melancarkan projek anda sendiri, teruskan mencari cara untuk menolong orang lain.
 
 Tidak ada penyelesaian semalam untuk membina penonton. Memperoleh kepercayaan dan penghormatan orang lain memerlukan masa, dan membina reputasi anda tidak akan pernah berakhir.
 
 > ![](https://avatars.githubusercontent.com/ariya?s=180)
-> PhantomJS dilancarkan untuk pertama kalinya pada awal tahun 2011. (...) Saya menyebarkan berita dengan cara biasa: Saya tweet mengenainya, saya menulis catatan blog mengenai perkara-perkara yang boleh anda lakukan dengannya, saya menyebutnya semasa pelbagai perbincangan dalam perjumpaan. Ketika menjadi lebih terkenal pada tahun 2014, saya mula memberikan persembahan mengenainya.> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+> PhantomJS dilancarkan untuk pertama kalinya pada awal tahun 2011. (...) Saya menyebarkan berita dengan cara biasa: Saya tweet mengenainya, saya menulis catatan blog mengenai perkara-perkara yang boleh anda lakukan dengannya, saya menyebutnya semasa pelbagai perbincangan dalam perjumpaan. Ketika menjadi lebih terkenal pada tahun 2014, saya mula memberikan persembahan mengenainya.
+> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
 
 ## Terus!
 

@@ -13,7 +13,8 @@ related:
 ## Miért vegyél részt a Nyílt Forráskódú fejlesztésben?
 
 > ![](https://avatars.githubusercontent.com/errietta?s=180)
-> Amikor a \[freenode\]-on dolgoztam, akkor sok olyan jártasságot szereztem, amelyet később az egyetemi tanulmányaimban és a munkámban is használtam. Úgy gondolom, hogy a nyílt forráskódon végzett munka legalább annyira segít engem, mint a projektet!> — @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://www.errietta.me/blog/open-source/)
+> Amikor a \[freenode\]-on dolgoztam, akkor sok olyan jártasságot szereztem, amelyet később az egyetemi tanulmányaimban és a munkámban is használtam. Úgy gondolom, hogy a nyílt forráskódon végzett munka legalább annyira segít engem, mint a projektet!
+> — @errietta, ["Miért szeretek hozzájárulni a nyílt forráskódú projektekhez?"](https://www.errietta.me/blog/open-source/)
 
 A nyílt forráskódhoz való hozzájárulás a tanulás, a tanítás és a tapasztalatok megszerzésének a legjobb útja bármiben, amit csak el tudsz képzelni.
 
@@ -54,12 +55,14 @@ Ne aggódj! Rengeteg módja van annak, hogy részt vegyél a nyílt forráskód�
 Gyakori tévhit a nyílt forráskódhoz való hozzájárulásról, hogy programozni kell hozzá. Valójában gyakran a projekt többi része az, amely [elhanyagolt, vagy mellőzött](https://github.com/blog/2195-the-shape-of-open-source). Óriási segítség a projektnek, ha ilyen jellegű munkával járulsz hozzá!
 
 > ![](https://avatars.githubusercontent.com/orta?s=180)
-> Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.> — @orta, ["Természetes az OSS-re való átállás"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+> Híres vagyok a CocoaPods-szal végzett munkámról, de a legtöbb ember nem is tudja, hogy nem is dolgozom magán a CocoaPods kódján. Az időm nagy részét a projekten dokumentációval és márkaépítéssel töltöm.
+> — @orta, ["Természetes az OSS-re való átállás"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való részvételnek vagy hogy találkozz közösségi tagokkal az, hogy más jellegű hozzájárulásod van a projekthez. Ezeknek a kapcsolatoknak a kiépítése lehetőséget teremt arra, hogy a projekt egyéb részein dolgozz.
 
 > ![](https://avatars.githubusercontent.com/brettcannon?s=180)
-> Az első kapcsolatom a Python fejlesztői csapattal (python-dev) az volt, amikor a 2002 június 17-én kértem őket a levelező listán, hogy fogadják el a javításomat. Gyorsan rákattantam a nyílt forráskódra, így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget biztosítottak, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy észrevettem, ha valaki rámutatott valamire, ami javításra szorult.> — @brettcannon, ["Fenntartói Történetek"](https://github.com/open-source/stories/brettcannon)
+> Az első kapcsolatom a Python fejlesztői csapattal (python-dev) az volt, amikor a 2002 június 17-én kértem őket a levelező listán, hogy fogadják el a javításomat. Gyorsan rákattantam a nyílt forráskódra, így elhatároztam, hogy kezelni fogom a csoport levelezési listáját. Nagyszerű lehetőséget biztosítottak, hogy az adott témában a kérdéseket tisztázzuk, de még fontosabb, hogy észrevettem, ha valaki rámutatott valamire, ami javításra szorult.
+> — @brettcannon, ["Fenntartói Történetek"](https://github.com/open-source/stories/brettcannon)
 
 ### Szeretsz rendezvényt szervezni?
 
@@ -83,7 +86,8 @@ Még ha szeretsz is programozni, akkor is nagyszerű módja a projektben való r
 * Fordíts le a projekt dokumentációját
 
 > ![](https://avatars.githubusercontent.com/kittens?s=180)
-> Komolyan: a \[dokumentáció\] rendkívül fontos. A dokumentáció eddig is nagyszerű volt, és továbbra is a Babel legütősebb része. Biztosan vannak azonban olyan bekezdések, amin lehetne még dolgozni és akár egy bekezdés hozzáadása is nagyon értékes munka.> — @kittens, ["Részvételre való felhívás"](https://github.com/babel/babel/issues/1347)
+> Komolyan: a \[dokumentáció\] rendkívül fontos. A dokumentáció eddig is nagyszerű volt, és továbbra is a Babel legütősebb része. Biztosan vannak azonban olyan bekezdések, amin lehetne még dolgozni és akár egy bekezdés hozzáadása is nagyon értékes munka.
+> — @kittens, ["Részvételre való felhívás"](https://github.com/babel/babel/issues/1347)
 
 ### Szeretsz szervezni?
 
@@ -125,7 +129,8 @@ Még ha szoftverfejlesztő is vagy, egy dokumentációs projekt könnyebbé tesz
 ## Kezdetek egy új projektben
 
 > ![](https://avatars.githubusercontent.com/shaunagm?s=180)
-> Ha megnyitsz egy hibakövető rendszert és a dolgok furának tűnnek, akkor ezzel nem vagy egyedül. Ezek használatához ismerned kell a projektet, de ebben a többi résztvevő tud segíteni, irányt mutatni, csak kérdezned kell.> — @shaunagm, ["Hogyan vegyél részt Nyílt Forráskódú projektben"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+> Ha megnyitsz egy hibakövető rendszert és a dolgok furának tűnnek, akkor ezzel nem vagy egyedül. Ezek használatához ismerned kell a projektet, de ebben a többi résztvevő tud segíteni, irányt mutatni, csak kérdezned kell.
+> — @shaunagm, ["Hogyan vegyél részt Nyílt Forráskódú projektben"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Bármi más dolog, mint mondjuk egy elírás javítása olyan, mintha idegenekkel állnál le beszélgetni. Ha elkezdesz a lámákról beszélni, miközben ők elmélyedt párbeszédet folytatnak az aranyhalakról, akkor lehet kicsit furán fognak rád nézni.
 
@@ -256,7 +261,8 @@ Egy barátságos és befogadó projekt azt jelzi, hogy az új résztvevőket sz�
 [ ] A karbantartók megköszönik a hozzájárulásokat?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
-> Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntéshozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
+> Bármikor amikor hosszú beszélgetést látsz, keresd meg a fő fejlesztők hozzászólásait. Konstruktívak, és előre mozdítják a döntéshozatalt, miközben udvariasak maradnak? Ha sok hitvitát látsz, az gyakran annak a jele, hogy az energia az érvelésre megy el és nem a fejlesztésre.
+> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## Hogyan kell hozzájárulni?
 
@@ -267,7 +273,8 @@ Végül megtaláltad a projekted és készen állsz a részvételre! Nézzük, h
 Akár csak egyszeri résztvevő vagy, vagy csatlakoznál a közösséghez, a másokkal való együttműködés az egyik legfontosabb képesség, amit a nyílt forráskódú munkád során fejleszteni tudsz.
 
 > ![](https://avatars.githubusercontent.com/shubheksha?s=180)
-> \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint némileg megértettem, hogy hogyan működnek a dolgok, további iránymutatást kértem. És _voilà!_ meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+> \[Mint új résztvevő,\] gyorsan észrevettem azt, hogy kérdéseket kell feltennem, ha a végére akarok járni egy problémának. Átrágtam magam a kódon és amint némileg megértettem, hogy hogyan működnek a dolgok, további iránymutatást kértem. És _voilà!_ meg tudtam oldani a problémát, miután megkaptam a szükséges részleteket.
+> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Mielőtt hibát jelzel, beolvasztást kérelmezel vagy esetleg kérdéseket teszel fel a csevegésben, tartsd szem előtt ezeket a pontokat a hatékonyabb munka érdekében.
 
@@ -324,7 +331,8 @@ Mielőtt hibajegyet, észrevételt vennél fel, vagy egy beolvasztási kérelmet
 Ha jelentősebb munkával akarsz részt venni, akkor nyiss egy probléma felvetést tartalmazó jegyet, ahol a kérdéseket meg lehet vitatni, mielőtt még nekikezdenél. Hasznos, ha egy darabig csak nyomon követed a projektet és a közösséget (a GitHub-on, [klikkents a "Watch" linkre](https://help.github.com/articles/watching-repositories/) hogy értesítést kapj az összes beszélgetésről), hogy megismerd a tagjait, mielőtt olyan munkát végeznél benne, amit nem fogadnak el.
 
 > ![](https://avatars.githubusercontent.com/gaearon?s=180)
-> Rendkívül <em>sokat</em> fogsz tanulni egy projektből, amelyen aktívan részt veszel azzal, hogy "figyeled" a GitHub-on és olvasod az összes megnyitott kérdést és beolvasztási kérelmet.> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+> Rendkívül <em>sokat</em> fogsz tanulni egy projektből, amelyen aktívan részt veszel azzal, hogy "figyeled" a GitHub-on és olvasod az összes megnyitott kérdést és beolvasztási kérelmet.
+> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Hibajegy nyitása
 

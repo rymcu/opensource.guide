@@ -38,7 +38,8 @@ redirect_from: /zh-cn/building-community/
 * **如果你不赞成一个贡献，** 首先你需要对他们的想法表示感谢，同时 [解释为什么](../best-practices/#学会说不)它不适合项目，如果有必要的话你可以给出相关的文档链接。
 
 > ![](https://avatars.githubusercontent.com/mikeal?s=180)
-> 为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。> — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+> 为开源做贡献对一些人来说很简单，但对另外一些人可能就不是这样了。有很多人因为没有做正确的事而害怕叫喊，或者只是不适合。（。。。）通过允许贡献者参与一些对技术要求比较低的工作（文档，web content markdown，etc），可以极大的减少你对这些情况的关注。
+> — @mikeal, ["现代开源项目下如何增长贡献者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 多数开源贡献者是"临时贡献者"，因为他们只是偶尔参与项目贡献。一位临时贡献者可能没有充足的时间全程跟踪你的项目，所以你的工作是能让他们很轻松地参与贡献。
 
@@ -136,7 +137,8 @@ request：
 ### 共享项目所有权
 
 > ![](https://avatars.githubusercontent.com/sagesharp?s=180)
-> 社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。> — @sagesharp, ["是什么成就一个好的社区？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+> 社区的领导者们有着不一样的意见，而这也是所有健康社区能够成长的原因之所在！终究你会明白，粗暴鲁莽的做法不能得到大家的认同，谦虚低调的做法更容易让大家接受，才是王道。
+> — @sagesharp, ["是什么成就一个好的社区？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 当大家觉得自己就是项目的主人时，他们就会非常乐意为项目做贡献。但这并不意味着要去改变项目的愿景，又或者接受不想要的贡献。但是社区越信任他们，他们就会越忠实。
 
@@ -159,7 +161,8 @@ request：
 虽然并不是一直都有人在回答问题，但是你可以去增加一些信号，以让他人有能够接触的机会，越是尽早开始，越是能够获得帮助。
 
 > ![](https://avatars.githubusercontent.com/gr2m?s=180)
-> 你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答issues？那么让社区中能做这件事的人去做。> — @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
+> 你们最大的兴趣是招募喜欢你们项目以及能够做你们不能做的事的贡献者。你喜欢编码，但不喜欢回答issues？那么让社区中能做这件事的人去做。
+> — @gr2m, ["打造受欢迎的社区"](http://hood.ie/blog/welcoming-communities.html)
 
 ## 解决冲突
 

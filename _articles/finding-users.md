@@ -37,7 +37,8 @@ for developing user personas.
 
 ## Help people find and follow your project
 
-> You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 Help people find and remember your project by pointing them to a single namespace.
 
@@ -49,7 +50,8 @@ do. Promoting your Twitter or GitHub handle will let people know how to contact 
 a meetup or event, make sure that your contact information is included in your bio or slides.
 
 > ![](https://avatars.githubusercontent.com/nathanmarz?s=180)
-> A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+> A mistake I made in those early days (...) was not starting a Twitter account for the project. Twitter's a great way to keep people up to date about a project as well as constantly expose people to the project.
+> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 **Consider creating a website for your project.** A website makes your project friendlier and easier to navigate,
 especially when it's paired with clear documentation and tutorials. Having a website also suggests that your project is
@@ -75,7 +77,8 @@ Online outreach is a great way to share and spread the word quickly. Using onlin
 Take advantage of existing online communities and platforms to reach your audience. If your open source project is a software project, you can probably find your audience on [Stack Overflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), or [Quora](https://www.quora.com/). Find the channels where you think people will most benefit from or be excited about your work.
 
 > ![](https://avatars.githubusercontent.com/pazdera?s=180)
-> Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> Each program has very specific functions that only a fraction of users will find useful. Don't spam as many people as possible. Instead, target your efforts to communities that will benefit from knowing about your project.
+> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 See if you can find ways to share your project in relevant ways:
 
@@ -98,21 +101,24 @@ If you're [new to public speaking](https://speaking.io/), start by finding a loc
 or ecosystem of your project.
 
 > ![](https://avatars.githubusercontent.com/jhamrick?s=180)
-> I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+> I was pretty nervous about going to PyCon. I was giving a talk, I was only going to know a couple of people there, I was going for an entire week. (...) I shouldn't have worried, though. PyCon was phenomenally awesome! (...) Everyone was incredibly friendly and outgoing, so much that I rarely found time not to talk to people!
+> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
 
 If you've never spoken at an event before, it's perfectly normal to feel nervous! Remember that your audience is there because they genuinely want to hear about your work.
 
 As you write your talk, focus on what your audience will find interesting and get value out of. Keep your language friendly and approachable. Smile, breathe, and have fun.
 
 > ![](../../assets/images/finding-users/lena.jpg)
-> When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+> When you start writing your talk, no matter what your topic is, it can help if you see your talk as a story that you tell people.
+> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](https://web.archive.org/web/20201128162836/http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 When you feel ready, consider speaking at a conference to promote your project. Conferences can help you reach more people, sometimes from all over the world.
 
 Look for conferences that are specific to your language or ecosystem. Before you submit your talk, research the conference to tailor your talk for attendees and increase your chances of being accepted to speak at the conference. You can often get a sense of your audience by looking at a conference's speakers.
 
 > ![](https://avatars.githubusercontent.com/ry?s=180)
-> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+> I wrote very nicely to the JSConf people and begged them to give me a slot where I could present it at JSConf EU. (...) I was extremely scared, presenting this thing that I had been working on for six months. (...) The whole time I was just thinking, oh my God. What am I doing here?
+> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
 
 ## Build a reputation
 
@@ -121,14 +127,16 @@ In addition to the strategies outlined above, the best way to invite people to s
 Helping newcomers, sharing resources, and making thoughtful contributions to others' projects will help you build a positive reputation. Being an active member in the open source community will help people have context for your work and be more likely to pay attention to and share your project. Developing relationships with other open source projects can even lead to official partnerships.
 
 > ![](https://avatars.githubusercontent.com/shazow?s=180)
-> The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+> The only reason urllib3 is the most popular third-party Python library today is because it's part of requests.
+> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
 
 It's never too early, or too late, to start building your reputation. Even if you've launched your own project already, continue to look for ways to help others.
 
 There is no overnight solution to building an audience. Gaining the trust and respect of others takes time, and building your reputation never ends.
 
 > ![](https://avatars.githubusercontent.com/ariya?s=180)
-> PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+> PhantomJS was released for the first time in the beginning of 2011. (...) I spread the word in the usual ways: I tweeted about it, I wrote blog posts on things you could do with it, I mentioned it during various discussions in meetups. When it became more well known in 2014, I started giving presentations about it.
+> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
 
 ## Keep at it!
 

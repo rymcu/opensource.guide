@@ -13,7 +13,8 @@ related:
 ## ¿Para qu&eacute; contribuir?
 
 > ![](https://avatars.githubusercontent.com/errietta?s=180)
-> Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de c&oacute;digo abierto me ayuda tanto como ayuda al proyecto!> — @errietta, ["Por qu&eacute; me gusta contribuir con el software de c&oacute;digo abierto"](https://www.errietta.me/blog/open-source/)
+> Trabajar en \[freenode\] me ha ayudado a conseguir muchas de las habilidades que luego he usado en mis estudios en la universidad y en mi actual trabajo. ¡Creo que trabajar en proyectos de c&oacute;digo abierto me ayuda tanto como ayuda al proyecto!
+> — @errietta, ["Por qu&eacute; me gusta contribuir con el software de c&oacute;digo abierto"](https://www.errietta.me/blog/open-source/)
 
 Contribuir en proyectos de c&oacute;digo abierto puede ser una provechosa manera de aprender, enseñar, y conseguir experiencia en cualquier habilidad que puedas imaginar.
 
@@ -54,12 +55,14 @@ Si eres un colaborador de c&oacute;digo abierto nuevo, el proceso puede ser inti
 Un error conceptual com&uacute;n acerca de contribuir con el c&oacute;digo abierto es que debes contribuir con c&oacute;digo. De hecho, son a menudo las otras partes de un proyecto las [m&aacute;s descuidadas o pasadas por alto](https://github.com/blog/2195-the-shape-of-open-source). ¡Le har&aacute;s un _enorme_ favor al proyecto si te ofreces a trabajar en este tipo de contribuciones!
 
 > ![](https://avatars.githubusercontent.com/orta?s=180)
-> Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoce que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.> — @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+> Me han reconocido por mi trabajo en CocoaPods, pero la mayor&iacute;a de las personas no conoce que en realidad yo no realizo ning&uacute;n trabajo real en la propia herramienta CocoaPods. Mi tiempo en el proyecto se dedica principalmente a hacer cosas como documentar y a trabajar en la marca.
+> — @orta, ["Movi&eacute;ndose al Software de c&oacute;digo abierto por defecto"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera de involucrarse con un proyecto y conocer a otros miembros de la comunidad. Construir esas relaciones te dar&aacute; oportunidades de trabajar en otras partes del proyecto.
 
 > ![](https://avatars.githubusercontent.com/brettcannon?s=180)
-> Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo alguien señalaba algo que necesitaba ser reparado.> — @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
+> Llegu&eacute; por primera vez al equipo de desarrollo de Python (alias python-dev) cuando envi&eacute; un correo electr&oacute;nico a su lista de correos el 17 de junio de 2002, aceptando mi parche. R&aacute;pidamente me encontr&eacute; con un error de c&oacute;digo abierto, y decid&iacute; comenzar a limpiar el resumen de correos electr&oacute;nicos para el grupo. Me dieron una gran excusa para pedir aclaraciones sobre un tema, pero principalmente pude notar cu&aacute;ndo alguien señalaba algo que necesitaba ser reparado.
+> — @brettcannon, ["Hostorias de un encargado"](https://github.com/open-source/stories/brettcannon)
 
 ### ¿Te gusta planificar eventos?
 
@@ -83,7 +86,8 @@ Incluso si te gusta codificar, otro tipo de contribuciones son una gran manera d
 * Escribe una traducci&oacute;n de la documentaci&oacute;n del proyecto
 
 > ![](https://avatars.githubusercontent.com/kittens?s=180)
-> De verdad, \[documentation\] es super-importante. Por lejos la documentaci&oacute;n ha sido enorme y fue el factor que termin&oacute; con la torre de Babel. Hay secciones que ciertamente podr&iacute;an mejorar con algo de trabajo e incluso la adici&oacute;n de un p&aacute;rrafo aqu&iacute; o all&aacute; es extremadamente apreciada.> — @kittens, ["Llamado a los colaboradores"](https://github.com/babel/babel/issues/1347)
+> De verdad, \[documentation\] es super-importante. Por lejos la documentaci&oacute;n ha sido enorme y fue el factor que termin&oacute; con la torre de Babel. Hay secciones que ciertamente podr&iacute;an mejorar con algo de trabajo e incluso la adici&oacute;n de un p&aacute;rrafo aqu&iacute; o all&aacute; es extremadamente apreciada.
+> — @kittens, ["Llamado a los colaboradores"](https://github.com/babel/babel/issues/1347)
 
 ### ¿Te gusta organizar?
 
@@ -125,7 +129,8 @@ Incluso si no eres un desarrollador de software, trabajar en la documentaci&oacu
 ## Orient&aacute;ndote a un nuevo proyecto
 
 > ![](https://avatars.githubusercontent.com/shaunagm?s=180)
-> Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento impl&iacute;cito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.> — @shaunagm, ["C&oacute;mo Contribuir con el C&oacute;digo Abierto"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+> Si vas tras un rastreador de problemas y las cosas parecen confusas, no eres solo tu. Esas herramientas requieren mucho conocimiento impl&iacute;cito, pero las personas puede ayudarte a navegarlo y tu puedes hacerles preguntas.
+> — @shaunagm, ["C&oacute;mo Contribuir con el C&oacute;digo Abierto"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Para cualquier otra cosa distinta de una correcci&oacute;n de error tipogr&aacute;fico, contribuir con el c&oacute;digo abierto es como caminar hacia un grupo de extraños en una fiesta. Si comienzas a hablar sobre las llamas, mientras ellos est&aacute;n muy involucrados en una discusi&oacute;n sobre el pez dorado, es probable que te miren de manera un poco extraña.
 
@@ -255,7 +260,8 @@ Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevo
 [ ] ¿Los encargados agradecen a las personas por sus contribuciones?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
-> Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.> — @kfogel, [_Produciendo Software de c&oacute;digo abierto_](https://producingoss.com/en/evaluating-oss-projects.html)
+> Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.
+> — @kfogel, [_Produciendo Software de c&oacute;digo abierto_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## C&oacute;mo enviar una contribuci&oacute;n
 
@@ -266,7 +272,8 @@ Ya encontraste un proyecto que te gustaba, y est&aacute;s listo para hacer una c
 Sin importar si eres un colaborador para una sola vez o est&aacute;s intentando unirte a una comunidad, trabajar con otras personas es una de las habilidades m&aacute;s importantes que desarrollar&aacute;s en un proyecto de c&oacute;digo abierto.
 
 > ![](https://avatars.githubusercontent.com/shubheksha?s=180)
-> \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.> — @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+> \[Como un nuevo colaborador,\] me di cuenta r&aacute;pidamente que necesitaba hacer preguntas si quer&iacute;a poder cerrar el problema. Recorr&iacute; el c&oacute;digo base. Una vez que comprend&iacute; lo que estaba ocurriendo, pregunt&eacute; que me orientaran. ¡Y voilà! Pude resolver el problema luego de conseguir todos los detalles relevantes que necesitaba.
+> — @shubheksha, [El Muy Accidentado Viaje de un Principiante a trav&eacute;s del Mundo del C&oacute;digo Abierto](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Antes de abrir un problema o un pull request, o de hacer una pregunta en un chat, ten en cuenta los siguientes puntos para ayudar a que tus ideas lleguen a buen puerto de manera efectiva.
 
@@ -323,7 +330,8 @@ Antes de abrir un problema o un pull request, verifica los documentos de verific
 Si quieres hacer una contribuci&oacute;n sustancial, abre un problema para preguntar antes de ponerte a trabajar en ello. Es de gran ayuda observar el proyecto por un tiempo (en GitHub, [puedes hacer click en "Watch"](https://help.github.com/articles/watching-repositories/) para ser notificado de todas las conversaciones), y conocer a los miembros de la comunidad, antes de realizar trabajo alguno que pueda no ser aceptado.
 
 > ![](https://avatars.githubusercontent.com/gaearon?s=180)
-> Aprender&aacute;s <em>mucho</em> tomando un proyecto que utilizas activamente, "observarlo" en GitHub y leyendo cada problema y PR.> — @gaearon [sobre la adhesi&oacute;n a proyectos](https://twitter.com/dan_abramov/status/819555257055322112)
+> Aprender&aacute;s <em>mucho</em> tomando un proyecto que utilizas activamente, "observarlo" en GitHub y leyendo cada problema y PR.
+> — @gaearon [sobre la adhesi&oacute;n a proyectos](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Abriendo un problema
 

@@ -25,7 +25,8 @@ _Özgür yazılım_ , _açık kaynak ile_ aynı proje grubunu ifade eder. Bazen 
 ### İnsanlar neden işlerini açık kaynak olarak sunarlar?
 
 > ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
-> Açık kaynak kullanmaktan ve işbirliği yapmaktan kazandığım en değerli deneyimlerden biri, aynı problemlerle karşı karşıya kalan diğer geliştiricilerle kurduğum ilişkilerden geliyor.> — @kentcdodds, ["Açık Kaynağa Girmek Benim İçin Nasıl Harika Oldu"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+> Açık kaynak kullanmaktan ve işbirliği yapmaktan kazandığım en değerli deneyimlerden biri, aynı problemlerle karşı karşıya kalan diğer geliştiricilerle kurduğum ilişkilerden geliyor.
+> — @kentcdodds, ["Açık Kaynağa Girmek Benim İçin Nasıl Harika Oldu"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 Bir kişinin veya örgütün bir projeyi açmak istemesinin [birçok nedeni](https://ben.balter.com/2015/11/23/why-open-source/) vardır . Bazı örnekler:
 
@@ -64,7 +65,8 @@ Bu sorunun tek bir doğru cevabı yok. Tek bir proje veya farklı hedeflere sahi
 Tek amacınız işinizi göstermekse, katkı bile istemeyebilir ve hatta bunu README'nizde bile söyleyebilirsiniz. Öte yandan, katkıda bulunanlar istiyorsanız, açık belgelere ve yeni gelenlerin hoş karşılanmasına zaman ayıracaksınız.
 
 > ![](https://avatars.githubusercontent.com/mavris?s=180)
-> Bir noktada kullandığım özel bir UIAlertView işlevi oluşturdum ... ve onu açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca, diğer geliştiricilere projelerinde nasıl kullanılacağını açıklayan ilk belgelerimi de yazdım. Muhtemelen hiç kimse bunu kullanmamıştı çünkü bu basit bir projeydi ama katkım hakkında kendimi iyi hissediyordum.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
+> Bir noktada kullandığım özel bir UIAlertView işlevi oluşturdum ... ve onu açık kaynak yapmaya karar verdim. Bu yüzden daha dinamik olacak şekilde değiştirdim ve GitHub'a yükledim. Ayrıca, diğer geliştiricilere projelerinde nasıl kullanılacağını açıklayan ilk belgelerimi de yazdım. Muhtemelen hiç kimse bunu kullanmamıştı çünkü bu basit bir projeydi ama katkım hakkında kendimi iyi hissediyordum.
+> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 Projeniz büyüdükçe, topluluğunuzun sizden sadece kod yazmaktan daha fazlasına ihtiyacı olabilir. Sorunlara cevap vermek, kodu gözden geçirmek ve projenizi geliştirmek, açık kaynaklı bir projedeki önemli görevlerdir.
 
@@ -75,7 +77,8 @@ Kodlama yapmayan görevler için harcadığınız zaman, projenizin boyutuna ve 
 Tanıtım, operasyonlar ve projenin bakımı için özel bir bütçeye veya personele ihtiyacınız varsa, bu görüşmeleri erkenden başlatın.
 
 > ![](https://avatars.githubusercontent.com/captainsafia?s=180)
-> Projeyi açık kaynak yapmaya başladığınızda, yönetim süreçlerinizin projenizin çevresindeki topluluğun katkılarını ve yeteneklerini göz önünde bulundurmasını sağlamak önemlidir. Şirketinizde çalışmayan katılımcıları projenin kilit yönlerine dahil etmekten korkmayın * özellikle de sık sık katkıda bulunanlarsa.> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+> Projeyi açık kaynak yapmaya başladığınızda, yönetim süreçlerinizin projenizin çevresindeki topluluğun katkılarını ve yeteneklerini göz önünde bulundurmasını sağlamak önemlidir. Şirketinizde çalışmayan katılımcıları projenin kilit yönlerine dahil etmekten korkmayın * özellikle de sık sık katkıda bulunanlarsa.
+> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Diğer projelere katkıda bulunmak
 
@@ -136,7 +139,8 @@ README'ler projenizi nasıl kullanacağınızı açıklamaktan daha fazlasını 
 README'nizi, katkıları nasıl ele aldığınız, projenin hedeflerinin ne olduğu ve lisanslar ve atıfla ilgili bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkıları kabul etmek istemiyorsanız veya projeniz henüz üretime hazır değilse, bu bilgileri not edin.
 
 > ![](https://avatars.githubusercontent.com/tracymakes?s=180)
-> Daha iyi dokümantasyon, daha fazla kullanıcı, daha az destek talebi ve daha fazla katılımcı anlamına gelir. (...) Okuyucularınızın siz olmadığını unutmayın. Tamamen farklı deneyimleri olan ve projeye gelebilecek insanlar var.> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&amp;list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&amp;index=10)
+> Daha iyi dokümantasyon, daha fazla kullanıcı, daha az destek talebi ve daha fazla katılımcı anlamına gelir. (...) Okuyucularınızın siz olmadığını unutmayın. Tamamen farklı deneyimleri olan ve projeye gelebilecek insanlar var.
+> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&amp;list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&amp;index=10)
 
 README'nizi, katkıları nasıl ele aldığınız, projenin amaçlarının ne olduğu ve lisanslar ve atıflar hakkında bilgiler gibi diğer soruları yanıtlamak için kullanabilirsiniz. Katkı kabul etmek istemiyorsanız veya projeniz henüz olgun değilse, bunu mutlaka belirtin.
 
@@ -177,7 +181,8 @@ README'nizden CONTRIBUTING dosyanıza bağlantı verin, böylece daha çok insan
 ### Davranış kural listesi oluşturmak
 
 > ![](https://avatars.githubusercontent.com/mlynch?s=180)
-> Hepimiz, muhtemelen bir şeyin neden belirli bir şekilde olması gerektiğini açıklamaya çalışan bir proje sahibi olarak ya da bir kullanıcı olarak basit bir soru gibi sorulan istismarla karşılaştığımız deneyimler yaşadık. (...) Davranış kuralları, ekibinizin yapıcı söylemi çok ciddiye aldığını gösteren, kolayca atıfta bulunulabilir ve bağlanabilir bir belge haline gelir.> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
+> Hepimiz, muhtemelen bir şeyin neden belirli bir şekilde olması gerektiğini açıklamaya çalışan bir proje sahibi olarak ya da bir kullanıcı olarak basit bir soru gibi sorulan istismarla karşılaştığımız deneyimler yaşadık. (...) Davranış kuralları, ekibinizin yapıcı söylemi çok ciddiye aldığını gösteren, kolayca atıfta bulunulabilir ve bağlanabilir bir belge haline gelir.
+> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 Son olarak, bir davranış kural listesi projenizin katılımcı davranışları için temel kurallar koymanıza yardımcı olur. Bir topluluk veya şirket için açık kaynak kodlu bir proje başlatıyorsanız, bu özellikle değerlidir. Davranış kuralları, sağlıklı ve yapıcı topluluk davranışını kolaylaştırmanıza yardımcı olur ve bu da geliştirici olarak stresinizi azaltacaktır.
 
@@ -223,7 +228,8 @@ Projenizin ömrü boyunca birçok yazı yazacaksınız; README'ler, öğretici b
 Projenizin ömrü boyunca birçok yazı yazacaksınız: README'ler, öğretici belgeler, topluluk belgeleri, sorulara cevaplar, belki de haber bültenleri ve posta listeleri.
 
 > ![](https://avatars.githubusercontent.com/janl?s=180)
-> Posta listesindeki her konuya katılmaya ve örnek davranış göstermeye, insanlara iyi davranmaya, sorunlarını ciddiye almaya ve genel olarak yardımcı olmaya çalıştım. Bir süre sonra, insanlar sadece soru sormakla kalmayıp aynı zamanda yanıtlamada da yardımcı olmak için tarzımı taklit ettiler.> — [CouchDB](https://github.com/apache/couchdb)'deki @janl, ["Sürdürülebilir Açık Kaynak"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+> Posta listesindeki her konuya katılmaya ve örnek davranış göstermeye, insanlara iyi davranmaya, sorunlarını ciddiye almaya ve genel olarak yardımcı olmaya çalıştım. Bir süre sonra, insanlar sadece soru sormakla kalmayıp aynı zamanda yanıtlamada da yardımcı olmak için tarzımı taklit ettiler.
+> — [CouchDB](https://github.com/apache/couchdb)'deki @janl, ["Sürdürülebilir Açık Kaynak"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Resmi bir belge veya geçici bir e-posta olsun, yazma stiliniz projenizin markasının bir parçasıdır. Hedef kitlenize nasıl sesleneceğinizi ve bunun iletmek istediğiniz ton olup olmadığını düşünün.
 

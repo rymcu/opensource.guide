@@ -32,7 +32,8 @@ Em comparação, um processo de código fechado seria ir a um restaurante e pedi
 ### Por que as pessoas tornam seu trabalho open source?
 
 > ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
-> Uma das experiências mais recompensadores que eu obtenho do uso e colaboração no open source vêm dos relacionamentos que eu construo com outros desenvolvedores enfrentando muitos dos mesmos problemas que eu.> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
+> Uma das experiências mais recompensadores que eu obtenho do uso e colaboração no open source vêm dos relacionamentos que eu construo com outros desenvolvedores enfrentando muitos dos mesmos problemas que eu.
+> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Há muitas razões](https://ben.balter.com/2015/11/23/why-open-source/) pela qual uma pessoa ou organização iria querer tornar um projeto open source. Alguns exemplos incluem:
 
@@ -71,7 +72,8 @@ Não há uma resposta definitiva para essa questão. Você pode ter múltiplos o
 Se seu único objetivo é mostrar seu trabalho, você pode não querer contribuições e até mesmo deixar isso claro em seu README. Por outro lado, se você procura contribuidores, você investirá um certo tempo em produzir uma documentação clara e fazer com que os novatos se sintam bem vindos.
 
 > ![](https://avatars.githubusercontent.com/mavris?s=180)
-> Em um determinado momento, eu criei um componente customizado UIAlertView que eu estava utilizando... Então, decidi torná-lo open source. Eu o modifiquei para ser mais dinâmico e o coloquei no GitHub. Além disso, escrevi minha primeira documentação explicando a outros desenvolvedores como usá-lo em seus projetos. Provavelmente ninguém nunca o usou porque se tratava de um projeto simples mas eu estava me sentindo bem pela minha contribuição.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+> Em um determinado momento, eu criei um componente customizado UIAlertView que eu estava utilizando... Então, decidi torná-lo open source. Eu o modifiquei para ser mais dinâmico e o coloquei no GitHub. Além disso, escrevi minha primeira documentação explicando a outros desenvolvedores como usá-lo em seus projetos. Provavelmente ninguém nunca o usou porque se tratava de um projeto simples mas eu estava me sentindo bem pela minha contribuição.
+> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
 
 A medida que o seu projeto cresce, sua comunidade pode precisar de mais do que apenas código de você. Responder issues, revisar código e evangelizar o seu projeto são todas tarefas importantes em um projeto open source.
 
@@ -82,7 +84,8 @@ Enquanto a quantidade de tempo que você gasta em tarefas que não envolvem cód
 Se você precisar de uma renda dedicada ou pessoal para promoção, operações e manutenção do projeto, comece essas discussões cedo.
 
 > ![](https://avatars.githubusercontent.com/captainsafia?s=180)
-> Quando você começa a tornar o projeto open source, é importante se certificar de que os seus processos administrativos levam em consideração as contribuições e habilidades da comunidade em torno do seu projeto. Não tenha medo de envolver contribuidores que não são empregados da sua empresa em aspectos chave do projeto - especialmente se eles são contribuidores assíduos.> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
+> Quando você começa a tornar o projeto open source, é importante se certificar de que os seus processos administrativos levam em consideração as contribuições e habilidades da comunidade em torno do seu projeto. Não tenha medo de envolver contribuidores que não são empregados da sua empresa em aspectos chave do projeto - especialmente se eles são contribuidores assíduos.
+> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Contribuindo para outros projetos
 
@@ -142,7 +145,8 @@ No seu README, tente responder as seguintes questões:
 Você pode usar o seu README para responder outras questões, por exemplo como você lida com contribuições, quais são os objetivos do projeto e informações sobre licenças e atribuições. Se você não quer aceitar contribuições, ou seu projeto não está pronto para produção, escreva no README essa informação.
 
 > ![](https://avatars.githubusercontent.com/tracymakes?s=180)
-> Uma documentação melhor significa mais usuários, menos requisições de suporte, e mais contribuidores. (...) Lembre-se de que os seus leitores não são você. Há pessoas que chegarão ao projeto com experiências completamente diferentes.> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
+> Uma documentação melhor significa mais usuários, menos requisições de suporte, e mais contribuidores. (...) Lembre-se de que os seus leitores não são você. Há pessoas que chegarão ao projeto com experiências completamente diferentes.
+> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Algumas vezes, as pessoas evitam escrever um README porque sentem que o projeto não está finalizado, ou não querem contribuições. Essas são todas boas razões para escrever um.
 
@@ -191,7 +195,8 @@ request.
 ### Estabelecendo um código de conduta
 
 > ![](https://avatars.githubusercontent.com/mlynch?s=180)
-> Todos nós já tivemos experiências em que encaramos um provável abuso, seja como um mantenedor tentando explicar porque alguma coisa tinha de ser feita de um certo modo, ou como um usuário... fazendo um simples questionamento. (...) Um código de conduta se torna um documento facilmente referenciável e 'linkavel' que indica como o seu time leva o discurso construtivo de modo bastante sério.> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
+> Todos nós já tivemos experiências em que encaramos um provável abuso, seja como um mantenedor tentando explicar porque alguma coisa tinha de ser feita de um certo modo, ou como um usuário... fazendo um simples questionamento. (...) Um código de conduta se torna um documento facilmente referenciável e 'linkavel' que indica como o seu time leva o discurso construtivo de modo bastante sério.
+> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f#.v4qhl7t7v)
 
 Finalmente, um código de conduta ajuda a criar regras básicas de comportamento para os participantes do seu projeto. Isso possui um valor especial se você está lançando um projeto open source para a comunidade ou alguma empresa. Um código de conduta te dá o poder de facilitar um comportamento saudável e construtivo da comunidade, o que irá reduzir seu estresse como mantenedor.
 
@@ -237,7 +242,8 @@ Ao longo da vida do seu projeto, você escreverá bastante: READMEs, tutoriais, 
 Quer seja documentação oficial ou um email casual, seu estilo de escrita é parte da marca do seu projeto. Considere como você se portará diante de sua audiência e se esse é o tom que você deseja transmitir.
 
 > ![](https://avatars.githubusercontent.com/janl?s=180)
-> Eu procurei estar envolvido com todas as threads na lista de emails e mostrar comportamento exemplar, sendo legal com as pessoas, levando seus problemas a sério e tentando ser útil de um modo geral. Após um tempo, as pessoas permaneceram não somente para fazer questionamentos, mas para ajudar com as respostas também, e, para minha completa alegria, elas imitaram o meu estilo.> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
+> Eu procurei estar envolvido com todas as threads na lista de emails e mostrar comportamento exemplar, sendo legal com as pessoas, levando seus problemas a sério e tentando ser útil de um modo geral. Após um tempo, as pessoas permaneceram não somente para fazer questionamentos, mas para ajudar com as respostas também, e, para minha completa alegria, elas imitaram o meu estilo.
+> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Utilizar uma linguagem acolhedora e inclusiva (como "eles", mesmo quando se referindo a uma única pessoa) pode fazer uma grande diferença em fazer com que seu projeto seja acolhedor para novos contribuidores. Permaneça com uma linguagem simples, já que muitos dos seus leitores podem não ser falantes nativos de inglês.
 

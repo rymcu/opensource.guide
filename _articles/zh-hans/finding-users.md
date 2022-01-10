@@ -32,7 +32,8 @@ redirect_from: /zh-cn/finding-users/
 
 ## 帮助用户找到并且追随你的项目
 
-> 你最好有一个唯一的"主页"链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> 你最好有一个唯一的"主页"链接用来推广，引导人们关注你的项目。你不需要找一个炫酷的模板或者域名，但是你的项目确实需要一个入口。
+> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 通过引导他们到一个唯一的地址来帮助人们发现和记住你的项目。
 
@@ -41,7 +42,8 @@ redirect_from: /zh-cn/finding-users/
 如果你目前还不想给你的项目搞这么多乱七八糟的东西，只要在有机会的时候推广你的Twitter账户和GitHub账户即可。举个例子，如果你在某一个讨论会或者活动上发言要保证在你的简历或者幻灯片上包含这些信息。只有这样人们才会知道怎么找到你或者关注你的工作。
 
 > ![](https://avatars.githubusercontent.com/nathanmarz?s=180)
-> 我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+> 我之前犯过的一个错误就是没有给项目开一个Twitter账户。Twitter是一个让人们知晓项目进展的好渠道，也可以让人们持续的接触到你的项目。
+> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 **考虑给你的项目做一个网站**一个网站可以让你的项目更加友好，而且更加容易浏览，更重要的是附上清晰的文档和教程。这也是象征着你的项目还是活跃的，这会让你的用户在使用项目时感觉更放心。可以用一些例子告诉人们如何使用你的项目。
 
@@ -62,7 +64,8 @@ redirect_from: /zh-cn/finding-users/
 利用好已有的线上社区和平台去找你的受众。如果你的开源项目是一个软件项目，你可能会在[Stack Overflow](https://stackoverflow.com/), [reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)，找到你认为最有可能从你的项目中受益或者对你项目感兴趣的渠道。
 
 > ![](https://avatars.githubusercontent.com/pazdera?s=180)
-> 每个程序都会有那么一些方法只有一部分人才会用到，所以不要想着去打扰每一个人，把你的力气用在可能会从你项目受益的社区就好。> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> 每个程序都会有那么一些方法只有一部分人才会用到，所以不要想着去打扰每一个人，把你的力气用在可能会从你项目受益的社区就好。
+> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 来看看下面的一些方法吧，也许推广你的项目的时候用得着。
 
@@ -83,19 +86,22 @@ redirect_from: /zh-cn/finding-users/
 如果你还是个[公众演讲的新手](https://speaking.io/)，从寻找一个和你项目使用的语言或者生态系统相关的当地的聚会开始吧。
 
 > ![](https://avatars.githubusercontent.com/jhamrick?s=180)
-> 我去PyCon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整整一周。但是其实我不应该焦虑的。PyCon真是太棒了！每个人都是超级友好外向，以至于我很少有时间不和别人讲话。> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+> 我去PyCon的时候非常紧张。我要发表一个演讲，在那儿我就认识几个人，还在那儿呆了整整一周。但是其实我不应该焦虑的。PyCon真是太棒了！每个人都是超级友好外向，以至于我很少有时间不和别人讲话。
+> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
 
 如果你从来没在公共场合讲过话，感觉紧张那就太正常啦！记住你的听众就在那儿，因为他们都是真正的想听你介绍你的项目。
 
 当你在写你的演讲稿的时候，把重点放在你的听众会感兴趣而且能获取价值的事情上。保证你的语言要友好和亲切。笑一笑，深呼吸，幽默一点儿。
 
 > ![](../../assets/images/finding-users/lena.jpg)
-> 当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更好。> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+> 当你开始写你的演讲稿的时候，不管你的主题是什么，如果你能把你的演讲当成是给别人讲故事的话，效果会更好。
+> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 等你准备好了，考虑一下在某个会议上发言的时候推广你的项目研讨会可以帮助你接触更多人，有时候是来自全世界各地的人。
 
 > ![](https://avatars.githubusercontent.com/ry?s=180)
-> 我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间在JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在想，我的天，我在这里都干些什么事啊？> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+> 我非常认真的给JSConf的人写了一封信，然后求他们给我一点时间在JSConf上展示我的项目。同时我又非常担心，这个项目我做了六个月，要是大家不认可怎么办。那时候我就一直在想，我的天，我在这里都干些什么事啊？
+> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
 
 ## 建立声誉
 
@@ -106,14 +112,16 @@ redirect_from: /zh-cn/finding-users/
 有时候，这些关系还会进一步发展成更广阔的生态系统中的官方合作伙伴（意思是你有可能成为那些知名社区的成员）
 
 > ![](https://avatars.githubusercontent.com/shazow?s=180)
-> urllib3现在成为最流行的Python第三方库的唯一原因就是大家都需要它。> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+> urllib3现在成为最流行的Python第三方库的唯一原因就是大家都需要它。
+> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
 
 种一棵树的最好时间是十年前，其次是现在。所以任何时候开始建立你的声望都不晚。即使是你早就已经建立了自己的项目，也还是要继续找办法帮助别人。
 
 建立用户群没有一蹴而就的方法。获取别人的信任和尊重需要时间，同样，建立声望的过程也永远不会停止。
 
 > ![](https://avatars.githubusercontent.com/ariya?s=180)
-> PhantomJS公开第一个版本的时候是在2011年初。我也就是用了一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。到2014年它已经广为人知的时候，我才开始做关于它的演讲。> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+> PhantomJS公开第一个版本的时候是在2011年初。我也就是用了一些常规的方法来推广：发Twitter，写博客告诉别人可以用它来做什么，在各种各样的聚会上我都提到过它。到2014年它已经广为人知的时候，我才开始做关于它的演讲。
+> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
 
 ## 保持下去!
 

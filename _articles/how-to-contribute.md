@@ -13,7 +13,8 @@ related:
 ## Why contribute to open source?
 
 > ![](https://avatars.githubusercontent.com/errietta?s=180)
-> Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+> Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 
 Contributing to open source can be a rewarding way to learn, teach, and build experience in just about any skill you can imagine.
 
@@ -58,12 +59,14 @@ Not to worry! There are all sorts of ways to get involved with an open source pr
 A common misconception about contributing to open source is that you need to contribute code. In fact, it's often the other parts of a project that are [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). You'll do the project a _huge_ favor by offering to pitch in with these types of contributions!
 
 > ![](https://avatars.githubusercontent.com/orta?s=180)
-> I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+> I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
+> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Even if you like to write code, other types of contributions are a great way to get involved with a project and meet other community members. Building those relationships will give you opportunities to work on other parts of the project.
 
 > ![](https://avatars.githubusercontent.com/brettcannon?s=180)
-> I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+> I first reached out to the Python development team (aka python-dev) when I emailed the mailing list on June 17, 2002 about accepting my patch. I quickly caught the open source bug, and decided to start curating email digests for the group. They gave me a great excuse to ask for clarifications about a topic, but more critically I was able to notice when someone pointed out something that needed fixing.
+> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
 
 ### Do you like planning events?
 
@@ -87,7 +90,8 @@ Even if you like to write code, other types of contributions are a great way to 
 * Write a translation for the project's documentation
 
 > ![](https://avatars.githubusercontent.com/kittens?s=180)
-> Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+> Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
 
 ### Do you like organizing?
 
@@ -129,7 +133,8 @@ Even if you're a software developer, working on a documentation project can help
 ## Orienting yourself to a new project
 
 > ![](https://avatars.githubusercontent.com/shaunagm?s=180)
-> If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+> If you go to an issue tracker and things seem confusing, it's not just you. These tools require a lot of implicit knowledge, but people can help you navigate it and you can ask them questions.
+> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 For anything more than a typo fix, contributing to open source is like walking up to a group of strangers at a party. If you start talking about llamas, while they were deep in a discussion about goldfish, they'll probably look at you a little strangely.
 
@@ -258,7 +263,8 @@ A project that is friendly and welcoming signals that they will be receptive to 
 [ ] Do maintainers thank people for their contributions?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
-> Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
+> Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## How to submit a contribution
 
@@ -269,7 +275,8 @@ You've found a project you like, and you're ready to make a contribution. Finall
 Whether you're a one-time contributor or trying to join a community, working with others is one of the most important skills you'll develop in open source.
 
 > ![](https://avatars.githubusercontent.com/shubheksha?s=180)
-> \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+> \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Before you open an issue or pull request, or ask a question in chat, keep these points in mind to help your ideas come across effectively.
 
@@ -326,7 +333,8 @@ Before you open an issue or pull request, check the project's contributing docs 
 If you want to make a substantial contribution, open an issue to ask before working on it. It's helpful to watch the project for a while (on GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) to be notified of all conversations), and get to know community members, before doing work that might not get accepted.
 
 > ![](https://avatars.githubusercontent.com/gaearon?s=180)
-> You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+> You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Opening an issue
 

@@ -100,7 +100,8 @@ redirect_from: /zh-tw/metrics/
 * **不同種類的貢獻者：** 比如說，提交代碼，修復筆誤或者bug，或者在issue下面評論。
 
 > ![](https://avatars.githubusercontent.com/arfon?s=180)
-> 開源遠遠不止程式碼，成功的開源專案包括程式碼、文件，以及它們在演進過程中的所有討論。> — @arfon, ["開源的形態"](https://github.com/blog/2195-the-shape-of-open-source)
+> 開源遠遠不止程式碼，成功的開源專案包括程式碼、文件，以及它們在演進過程中的所有討論。
+> — @arfon, ["開源的形態"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## 維護者活躍度
 

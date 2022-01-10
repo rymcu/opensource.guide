@@ -37,7 +37,8 @@ rozwijające osobowości użytkowników.
 
 ## Pomóż ludziom znaleźć i śledzić Twój projekt
 
-> You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> You ideally need a single "home" URL that you can promote and point people to in relation to your project. You don't need to splash out on a fancy template or even a domain name, but your project needs a focal point.
+> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 Pomóż innym znaleźć i zapamiętać Twój projekt, wskazując je w jednej przestrzeni nazw.
 

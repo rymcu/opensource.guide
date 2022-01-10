@@ -50,7 +50,8 @@ Az [MIT](https://choosealicense.com/licenses/mit/), az [Apache 2.0](https://choo
 Ha új projektet hozol létre a GitHub-on, meg kell adnod, hogy [milyen licencű a projekt](https://help.github.com/articles/open-source-licensing/).
 
 > ![](https://avatars.githubusercontent.com/benbalter?s=180)
-> A szabványosított licenc a laikus személyek érdekeit szolgálja, hogy pontosan tudják, mit tehetnek és mit nem tehetnek a szoftverrel. Hacsak nem feltétlenül szükséges, kerüld az egyéni, módosított vagy nem szabványos feltételeket, ezek akadályt jelenthetnek a kód további felhasználásánál.> — @benbalter, ["Everything a government attorney needs to know about open source software licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+> A szabványosított licenc a laikus személyek érdekeit szolgálja, hogy pontosan tudják, mit tehetnek és mit nem tehetnek a szoftverrel. Hacsak nem feltétlenül szükséges, kerüld az egyéni, módosított vagy nem szabványos feltételeket, ezek akadályt jelenthetnek a kód további felhasználásánál.
+> — @benbalter, ["Everything a government attorney needs to know about open source software licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## Melyik nyílt forráskódú licenc felel meg a projektemnek?
 
@@ -95,7 +96,8 @@ Egy kiegészítő hozzájárulási megállapodás, amelyet gyakran közreműköd
 Amikor ez olyan "papírmunkát" okoz, amit egyesek szükségtelennek, nehezen érthetőnek esetleg tisztességtelennek (ha a megállapodás kedvezményezettje több jogot kap, mint amit a projekt nyílt forráskódú licence alapján a közreműködők vagy a nyilvánosság kapnak) gondolnak, egy kiegészítő hozzájárulási megállapodás barátságtalan lépésnek tűnhet a közösség számára.
 
 > ![](https://avatars.githubusercontent.com/bcantrill?s=180)
-> Megszüntettük a CLA-kat a Node.js projektben. Ezzel csökkenthető a közreműködői belépés előtt álló akadályok száma, ezáltal növelve a projektben résztvevők bázisát.> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+> Megszüntettük a CLA-kat a Node.js projektben. Ezzel csökkenthető a közreműködői belépés előtt álló akadályok száma, ezáltal növelve a projektben résztvevők bázisát.
+> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 Egyes helyzetekben, szükséges lehet további, a projekthez kapcsolódó közreműködői megállapodást kötni:
 
@@ -132,12 +134,14 @@ Hosszabb távon a jogi csapat többet tehet azért, hogy segítsen a vállalatna
 * **Munkavállalói hozzájárulás szabályozása:** Fontold meg olyan vállalati irányelv kidolgozását, amely meghatározza, hogy a munkavállalók hogyan járulnak hozzá a nyílt forráskódú projektekhez. Az egyértelmű szabályozás csökkenti a zavart az alkalmazottak körében, és segít abban, hogy a vállalat érdekeinek megfelelően járuljanak hozzá a nyílt forráskódú projektekhez, akár munkájuk részeként, akár szabadidejükben. Jó példa erre a Rackspace féle [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
 > ![](https://avatars.githubusercontent.com/vanl?s=180)
-> A (nyílt forráskódú) javítások (patch-ek) szellemi tulajdonának elengedése építi a munkavállaló tudásbázisát és hírnevét. Ez azt mutatja, hogy a vállalat befektet a munkavállaló fejlődésébe, valamint erősíti az önállóság és autonómia érzését. Mindezek magasabb morálhoz és a jobb munkavállalók megtartáshoz is vezetnek.> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+> A (nyílt forráskódú) javítások (patch-ek) szellemi tulajdonának elengedése építi a munkavállaló tudásbázisát és hírnevét. Ez azt mutatja, hogy a vállalat befektet a munkavállaló fejlődésébe, valamint erősíti az önállóság és autonómia érzését. Mindezek magasabb morálhoz és a jobb munkavállalók megtartáshoz is vezetnek.
+> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
 
 * **Mit kell kiadni:** [(Majdnem) mindent?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Ha a jogi csapat megérti és hajlandó munkát befektetni a vállalat nyílt forráskódú stratégiájába, akkor az inkább segíteni fog, mint akadályozni.
 * **Megfelelés:** Még ha a céged nem is fejleszt nyílt forráskódot, biztosan használja azt. A [tudatosság és folytonosság](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) megakadályozhatja a fejfájást, a késedelmeket és a pereket.
 
-> A szervezeteknek rendelkezniük kell olyan licenc- és megfelelőségi stratégiával, amely megfelel mind a „megengedő”, mind a „copyleft” kategóriáknak. Ez azzal kezdődik, hogy nyilvántartást vezetnek az általad használt nyílt forráskódú szoftverekre vonatkozó licencfeltételekről, beleértve az alkomponenseket és a függőségeket.> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+> A szervezeteknek rendelkezniük kell olyan licenc- és megfelelőségi stratégiával, amely megfelel mind a „megengedő”, mind a „copyleft” kategóriáknak. Ez azzal kezdődik, hogy nyilvántartást vezetnek az általad használt nyílt forráskódú szoftverekre vonatkozó licencfeltételekről, beleértve az alkomponenseket és a függőségeket.
+> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **szabadalmak:** A céged lehet szívesen csatlakozna az [Open Invention Network-höz](https://www.openinventionnetwork.com/), ami egy védekező szabadalmi társulás, védelmet nyújt tagok számára a nagyobb, nyílt forráskódú projektek használatában, vagy megvizsgálja az [alternatív szabadalmi engedélyezés lehetőségét](https://www.eff.org/document/hacking-patent-system-2016).
 * **Irányítás:** Van-e értelme, és ha igen, akkor mikor érdemes a projektet egy [cégen kívüli jogi személynek átadni](../leadership-and-governance/#szükségem-van-egy-jogi-személyre-a-projektem-támogatásához).

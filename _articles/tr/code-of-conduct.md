@@ -37,7 +37,8 @@ CODE_OF_CONDUCT dosyasını projenizin kök dizinine yerleştirin ve CONTRIBUTIN
 
 ## Davranış kurallarınızı nasıl uygulayacağınıza karar verme
 
-> Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.> — [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+> Uygulanmayan (veya uygulanamayan) bir davranış kural listesi, hiçbir davranış kuralı olmamasından daha kötüdür: davranış kurallarındaki değerlerin, sizin toplumunuzda gerçekten önemli veya saygı duyulmadığı mesajını gönderir.
+> — [Ada Girişimi](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Bir ihlal meydana _gelmeden önce_ davranış kurallarınızın nasıl uygulanacağını açıklamalısınız. Bunu yapmak için birkaç neden var:
 

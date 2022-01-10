@@ -13,7 +13,8 @@ related:
 ## Pourquoi contribuer &agrave; l'open source
 
 > ![](https://avatars.githubusercontent.com/errietta?s=180)
-> Travailler sur \[freenode\] m'a aidé à acquérir plusieurs des compétences que j'ai utilisées plus tard pour mes études à l'université et mon travail actuel. Je pense que travailler sur des projets open source m'aide autant que ça aide le projet !> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+> Travailler sur \[freenode\] m'a aidé à acquérir plusieurs des compétences que j'ai utilisées plus tard pour mes études à l'université et mon travail actuel. Je pense que travailler sur des projets open source m'aide autant que ça aide le projet !
+> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 
 Contribuer à l'open source peut être une manière enrichissante d'apprendre, d'enseigner et de construire une expérience dans presque toutes les compétences que vous pouvez imaginer.
 
@@ -54,12 +55,14 @@ Ne pas s'inquiéter ! Il y a toutes sortes de façons de s'impliquer dans un pro
 Une idée commune fausse sur la contribution à l'open source est que vous devez contribuer au code. En fait, ce sont souvent les autres parties d'un projet qui sont [le plus négligées ou négligées](https://github.com/blog/2195-the-shape-of-open-source). Vous allez faire une faveur au projet en offrant de participer à ces types de contributions !
 
 > ![](https://avatars.githubusercontent.com/orta?s=180)
-> Je suis renommé pour mon travail sur CocoaPods, mais la plupart des gens ne savent pas que je ne travaille pas vraiment sur l'outil CocoaPods lui-même. Mon temps sur le projet est principalement passé à faire des choses comme la documentation et à travailler sur l'image de marque.> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+> Je suis renommé pour mon travail sur CocoaPods, mais la plupart des gens ne savent pas que je ne travaille pas vraiment sur l'outil CocoaPods lui-même. Mon temps sur le projet est principalement passé à faire des choses comme la documentation et à travailler sur l'image de marque.
+> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Même si vous aimez écrire du code, d'autres types de contributions sont un excellent moyen de s'impliquer dans un projet et de rencontrer d'autres membres de la communauté. Construire ces relations vous donnera l'opportunité de travailler sur d'autres parties du projet.
 
 > ![](https://avatars.githubusercontent.com/brettcannon?s=180)
-> J'ai d'abord contacté l'équipe de développement de Python (alias python-dev) quand j'ai envoyé un mail à la liste de diffusion le 17 juin 2002 pour accepter mon patch. J'ai rapidement attrapé le bogue open source, et j'ai décidé de commencer à organiser des résumés d'emails pour le groupe. Ils m'ont donné une bonne excuse pour demander des éclaircissements sur un sujet, mais d'un point de vue plus critique je pouvais remarquer quand quelqu'un a signalait quelque chose qui avait besoin d'être réparé.> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+> J'ai d'abord contacté l'équipe de développement de Python (alias python-dev) quand j'ai envoyé un mail à la liste de diffusion le 17 juin 2002 pour accepter mon patch. J'ai rapidement attrapé le bogue open source, et j'ai décidé de commencer à organiser des résumés d'emails pour le groupe. Ils m'ont donné une bonne excuse pour demander des éclaircissements sur un sujet, mais d'un point de vue plus critique je pouvais remarquer quand quelqu'un a signalait quelque chose qui avait besoin d'être réparé.
+> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
 
 ### Aimez-vous la planification d'événements ?
 
@@ -83,7 +86,8 @@ Même si vous aimez écrire du code, d'autres types de contributions sont un exc
 * Écrire une traduction pour la documentation du projet
 
 > ![](https://avatars.githubusercontent.com/kittens?s=180)
-> Sérieusement, \[documentation\] est méga-important. La documentation à ce jour a été excellente et a été une caractéristique de Babel. Il y a des sections qui pourraient certainement utiliser un peu de travail et même l'ajout d'un paragraphe ici ou là est extrêmement apprécié.> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+> Sérieusement, \[documentation\] est méga-important. La documentation à ce jour a été excellente et a été une caractéristique de Babel. Il y a des sections qui pourraient certainement utiliser un peu de travail et même l'ajout d'un paragraphe ici ou là est extrêmement apprécié.
+> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
 
 ### Aimez-vous l'organisation ?
 
@@ -125,7 +129,8 @@ Même si vous êtes un développeur de logiciels, travailler sur un projet de do
 ## S'orienter vers un nouveau projet
 
 > ![](https://avatars.githubusercontent.com/shaunagm?s=180)
-> Si vous allez sur un issue tracker et les choses semblent confuses, ce n'est pas seulement vous. Ces outils nécessitent beaucoup de connaissances implicites, mais les gens peuvent vous aider à les parcourir et vous pouvez leur poser des questions.> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+> Si vous allez sur un issue tracker et les choses semblent confuses, ce n'est pas seulement vous. Ces outils nécessitent beaucoup de connaissances implicites, mais les gens peuvent vous aider à les parcourir et vous pouvez leur poser des questions.
+> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Pour tout ce qui n'est pas une faute de frappe, contribuer à l'open source, c'est comme aller à un groupe d'étrangers lors d'une fête. Si vous commencez à parler des lamas, alors qu'ils étaient plongés dans une discussion sur les poissons rouges, ils vous regarderont probablement un peu étrangement.
 
@@ -255,7 +260,8 @@ Un projet convivial et accueillant signale qu'il sera réceptif aux nouveaux con
 [ ] Les responsables remercient-ils les gens pour leurs contributions ?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
-> Chaque fois que vous voyez un long fil de discussion, vérifiez les réponses des principaux développeurs arrivant tard dans le fil. Résument-ils de façon constructive la discussion pour prendre une décision tout en restant polis ? Si vous voyez beaucoup de _flame wars_, c'est souvent un signe que l'énergie est dépensée en dispute plutôt qu'en développements.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
+> Chaque fois que vous voyez un long fil de discussion, vérifiez les réponses des principaux développeurs arrivant tard dans le fil. Résument-ils de façon constructive la discussion pour prendre une décision tout en restant polis ? Si vous voyez beaucoup de _flame wars_, c'est souvent un signe que l'énergie est dépensée en dispute plutôt qu'en développements.
+> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## Comment proposer une contribution
 
@@ -266,7 +272,8 @@ Vous avez trouvé un projet que vous aimez et vous êtes prêt à apporter votre
 Que vous soyez un contributeur ponctuel ou que vous essayiez de rejoindre une communauté, travailler avec les autres est l'une des compétences les plus importantes que vous développerez dans l'open source.
 
 > ![](https://avatars.githubusercontent.com/shubheksha?s=180)
-> \[En tant que nouveau contributeur,\] je me suis rapidement rendu compte que je devais poser des questions si je voulais pouvoir fermer une issue. J'ai parcouru la code base. Une fois que j'ai eu une idée de ce qui se passait, j'ai demandé plus de pistes. Et voilà! J'ai été capable de résoudre le problème après avoir obtenu tous les détails pertinents dont j'avais besoin.> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+> \[En tant que nouveau contributeur,\] je me suis rapidement rendu compte que je devais poser des questions si je voulais pouvoir fermer une issue. J'ai parcouru la code base. Une fois que j'ai eu une idée de ce qui se passait, j'ai demandé plus de pistes. Et voilà! J'ai été capable de résoudre le problème après avoir obtenu tous les détails pertinents dont j'avais besoin.
+> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Avant d'ouvrir une issue ou une pull request, ou de poser une question dans une discussion, gardez ces points à l'esprit pour que vos idées soient bien comprises.
 
@@ -323,7 +330,8 @@ Avant d'ouvrir une issue ou une pull request, vérifiez les documents de contrib
 Si vous voulez apporter une contribution substantielle, ouvrez une issue pour demander avant de travailler dessus. Il est utile de regarder le projet pendant un moment (sur GitHub, [vous pouvez cliquer sur "Watch"](https://help.github.com/articles/watching-repositories/) pour être averti de toutes les conversations), et arriver à connaître les membres de la communauté, avant de faire un travail qui pourrait ne pas être accepté.
 
 > ![](https://avatars.githubusercontent.com/gaearon?s=180)
-> Vous apprendrez <em>beaucoup</em> à prendre un seul projet que vous utilisez activement, à le «regarder» sur GitHub et à lire toutes les issues et PR.> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+> Vous apprendrez <em>beaucoup</em> à prendre un seul projet que vous utilisez activement, à le «regarder» sur GitHub et à lire toutes les issues et PR.
+> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Ouvrir une issue
 

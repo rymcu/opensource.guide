@@ -37,7 +37,8 @@ Letakkan fail CODE_OF_CONDUCT di direktori root projek anda, dan jadikan ia dapa
 
 ## Memutuskan bagaimana anda akan menguatkuasakan tatakelakuan anda
 
-> Kod tingkah laku yang tidak (atau tidak dapat) ditegakkan lebih buruk daripada tidak ada kod tingkah laku sama sekali: ia menghantar mesej bahawa nilai-nilai dalam kod tingkah laku sebenarnya tidak penting atau dihormati dalam komuniti anda.> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+> Kod tingkah laku yang tidak (atau tidak dapat) ditegakkan lebih buruk daripada tidak ada kod tingkah laku sama sekali: ia menghantar mesej bahawa nilai-nilai dalam kod tingkah laku sebenarnya tidak penting atau dihormati dalam komuniti anda.
+> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Anda harus menjelaskan bagaimana tatakelakuan anda akan ditegakkan **_sebelum_** pelanggaran berlaku. Terdapat beberapa sebab untuk melakukannya:
 
@@ -67,7 +68,8 @@ Anggota komuniti yang berkenaan mungkin merupakan pesalah berulang yang secara k
 
 Sebelum anda bertindak balas, berikan masa untuk memahami apa yang berlaku. Baca komen dan perbualan orang yang lalu untuk lebih memahami siapa mereka dan mengapa mereka bertindak sedemikian. Cuba kumpulkan perspektif selain pandangan anda mengenai orang ini dan tingkah laku mereka.
 
-> Jangan tertarik dengan hujah. Jangan sesekali berurusan dengan tingkah laku orang lain sebelum anda selesai menangani masalah tersebut. Fokus pada perkara yang anda perlukan.> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+> Jangan tertarik dengan hujah. Jangan sesekali berurusan dengan tingkah laku orang lain sebelum anda selesai menangani masalah tersebut. Fokus pada perkara yang anda perlukan.
+> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
 
 ### Lakukan tindakan yang sewajarnya
 

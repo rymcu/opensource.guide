@@ -91,7 +91,8 @@ Apapun alasannya, sangatlah dimungkinkan untuk menolak kontribusi yang tidak ses
 Jika Anda menerima kontribusi yang tidak Anda inginkan, reaksi pertama Anda mungkin mengabaikan atau pura-pura tidak melihatnya. Melakukan hal ini bisa melukai perasaan orang lain atau bahkan mengurangi motivasi kontributor lainnya pada komunitas Anda.
 
 > ![](https://avatars.githubusercontent.com/krausefx?s=180)
-> Kunci untuk menangani dukungan terhadap proyek open source skala besar adalah memastikan bahwa masalah terus diperhatikan. Cobalah untuk mencegah laporan masalah berhenti. Jika Anda merupakan pengembang ioS, Anda tahu bagaimana frustasinya untuk mengajukan radar. Anda mungkin bisa mendengar balasan 2 tahun kemudian, dan mengatakan untuk mencoba kembali dengan versi terbaru dari iOS.> — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
+> Kunci untuk menangani dukungan terhadap proyek open source skala besar adalah memastikan bahwa masalah terus diperhatikan. Cobalah untuk mencegah laporan masalah berhenti. Jika Anda merupakan pengembang ioS, Anda tahu bagaimana frustasinya untuk mengajukan radar. Anda mungkin bisa mendengar balasan 2 tahun kemudian, dan mengatakan untuk mencoba kembali dengan versi terbaru dari iOS.
+> — @KrauseFx, ["Scaling open source communities"](https://krausefx.com/blog/scaling-open-source-communities)
 
 Jangan biarkan kontribusi yang tidak diinginkan tetap terbuka karena Anda merasa bersalah atau ingin bersikap baik. Pada akhirnya, masalah yang tidak terjawab dan PR akan membuat pekerjaan proyek Anda menjadi lebih berat dan mengintimidasi Anda.
 
@@ -135,7 +136,8 @@ Jika mereka tidak mengikuti aturan Anda, tutup dengan segera dan arahkan pada do
 Meskipun pendekatan ini mungkin terasa tidak menyenangkan pada awalnya, bersikap proaktif sebetulnya baik untuk kedua belah pihak. Hal ini mengurangi kesempatan seseorang untuk menghabiskan terlalu banyak waktu pada pull request yang tidak akan Anda terima. Dan juga membuat beban pekerjaan Anda menjadi lebih mudah untuk dikelola.
 
 > ![](https://avatars.githubusercontent.com/mikemcquaid?s=180)
-> Idealnya, jelaskan kepada mereka dan pada dokumen CONTRIBUTING.md bagaimana mereka bisa mendapatkan indikasi yang lebih baik dimasa depan tentang apa yang akan Anda terima atau tolak sebelum mereka mulai bekerja.> — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
+> Idealnya, jelaskan kepada mereka dan pada dokumen CONTRIBUTING.md bagaimana mereka bisa mendapatkan indikasi yang lebih baik dimasa depan tentang apa yang akan Anda terima atau tolak sebelum mereka mulai bekerja.
+> — @MikeMcQuaid, ["Kindly Closing Pull Requests"](https://github.com/blog/2124-kindly-closing-pull-requests)
 
 Seringkali, ketika Anda mengatakan tidak, kontributor potensial Anda mungkin akan marah atau mengkritisi keputusan Anda. Jika perilaku mereka menjadi tidak menyenangkan, [ambil langkah-langkah untuk menenangkan situasinya](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) atau bahkan hapus mereka dari komunitas Anda, jika mereka tidak berkolaborasi secara konstruktif.
 
@@ -158,7 +160,8 @@ Ketika Anda melihat kontributor baru melakukan kontribusi secara rutin, hargai p
 Doronglah orang lain untuk [berbagi kepemilikan proyek](../building-community/#berbagi-kepemilikan-dari-proyek-anda) dan hal itu bisa mengurangi beban pekerjaan Anda secara drastis, seperti yang ditemukan @lmccart pada proyeknya, [p5.js](https://github.com/processing/p5.js).
 
 > ![](https://avatars.githubusercontent.com/lmccart?s=180)
-> Saya telah banyak berkata, "Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...]." Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.> — @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
+> Saya telah banyak berkata, "Ya, setiap orang bisa terlibat, Anda tidak harus memiliki pengalaman membuat code [...]." Kami mendapati banyak orang mendaftar untuk hadir [pada sebuah acara] dan pada saat itulah saya mulai bertanya: jika hal ini benar, apa yang harus saya katakan? Terdapat lebih dari 40 orang yang hadir, dan saya tidak mungkin duduk bersama-sama dengan masing-masing dari mereka. ...Tetapi orang-orang tersebut hadir, dan semuanya berjalan dengan lancar. Begitu ada satu orang yang berhasil, mereka bisa mengajarkan ke orang lain.
+> — @lmccart, ["What Does "Open Source" Even Mean? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
 
 Jika Anda perlu sedikit menjauh dari proyek Anda, baik sementara atau selamanya, tidak perlu ada rasa malu untuk meminta orang lain untuk meneruskan pekerjaan Anda.
 
@@ -175,7 +178,8 @@ Jika kontributor yang berpotensi memiliki opini yang berbeda tentang apa yang se
 Melakukan sebuah _fork_ terhadap sebuah proyek bukan berarti sesuatu yang jelek. Mampu menyalin dan memodifikasi sebuah proyek adalah salah satu hal terbaik tentang open source. Menyemangati orang lain untuk bekerja pada hasil fork mereka bisa memberikan ide kreatif yang mereka perlukan, tanpa harus menimbulkan konflik dengan visi proyek Anda.
 
 > ![](https://avatars.githubusercontent.com/geerlingguy?s=180)
-> Saya melayani 80% contoh kasus. Jika Anda termasuk salah satu yang tdak setuju, silahkan _fork_ pekerjaan saya. Saya tidak akan tersinggung! Proyek publik saya selalu berusaha untuk menyelesaikan masalah yang umum; Saya berusaha untuk membuatnya mudah untuk menyelesaikan masalah yang lebih kompleks dengan cara melakukan fork atau memperluas proyek tersebut.> — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
+> Saya melayani 80% contoh kasus. Jika Anda termasuk salah satu yang tdak setuju, silahkan _fork_ pekerjaan saya. Saya tidak akan tersinggung! Proyek publik saya selalu berusaha untuk menyelesaikan masalah yang umum; Saya berusaha untuk membuatnya mudah untuk menyelesaikan masalah yang lebih kompleks dengan cara melakukan fork atau memperluas proyek tersebut.
+> — @geerlingguy, ["Why I Close PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
 
 Hal yang sama juga terjadi pada pengguna yang menginginkan solusi dimana Anda tidak mampu membangunnya karena keterbatasan bandwidth. Menawarkan API dan hook bisa membantu orang lain memenuhi kebutuhan mereka, tanpa harus memodifikasi kode secara langsung. @orta [menemukan](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) bahwa mendorong plugin untuk CocoaPods mengarah pada "beberapa ide menarik":
 
@@ -196,7 +200,8 @@ Lakukan pengaturan untuk pengujian otomatis yang akan berjalan pada semua kontri
 Jika Anda menambahkan pengujian, pastikan untuk menjelaskan bagaimana mereka bekerja pada dokumen CONTRIBUTING.
 
 > ![](https://avatars.githubusercontent.com/edunham?s=180)
-> Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang. Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.> — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
+> Saya percaya bahwa pengujian otomatis sangat diperlukan untuk semua kode yang dikerjakan orang-orang. Jika kode tersebut benar, maka tidak diperlukan perubahan - kita hanya menuliskan kode apabila terjadi kesalahan, apakah "crash" atau "kurang fitur". Tanpa memperhatikan perubahan yang Anda lakukan, pengujian otomatis sangatlah penting untuk menangkap regresi kesalahan yang mungkin Anda timbulkan.
+> — @edunham, ["Rust's Community Automation"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
 
 ### Gunakan perangkat untuk mengotomatisasikan tugas perawatan dasar
 
@@ -229,7 +234,8 @@ Meski demikian, ambil waktu untuk istirahat! Anda tidak harus menunggu sampai An
 Sama halnya seperti pekerjaan lainnya, mengambil liburan secara berkala akan membuat Anda segar, bahagia, dan tertarik terhadap pekerjaan Anda.
 
 > ![](https://avatars.githubusercontent.com/danielbachhuber?s=180)
-> Dalam mengelola WP-CLI, Saya menemukan bahwa saya perlu membuat diri saya bahagia terlebih dahulu, dan menentukan batas keterlibatan saya dengan jelas. Keseimbangan terbaik yang saya temukan adalah 2-5 jam per minggu sebagai bagian dari jadwal pekerjaan normal saya. Hal ini menjaga keterlibatan saya sebagai sebuah gairah. Karena saya memprioritaskan masalah-masalah yang saya kerjakan, saya bisa membuat kemajuan berkala tentang apa yang saya anggap penting.> — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
+> Dalam mengelola WP-CLI, Saya menemukan bahwa saya perlu membuat diri saya bahagia terlebih dahulu, dan menentukan batas keterlibatan saya dengan jelas. Keseimbangan terbaik yang saya temukan adalah 2-5 jam per minggu sebagai bagian dari jadwal pekerjaan normal saya. Hal ini menjaga keterlibatan saya sebagai sebuah gairah. Karena saya memprioritaskan masalah-masalah yang saya kerjakan, saya bisa membuat kemajuan berkala tentang apa yang saya anggap penting.
+> — @danielbachhuber, ["My condolences, you're now the maintainer of a popular open source project"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
 
 Seringkali, cukup susah untuk berhenti sejenak dari pekerjaan open source karena Anda merasa semua orang membutuhkan Anda. Orang lain mungkin akan membuat Anda merasa bersalah karena mengabaikan pekerjaan ini.
 

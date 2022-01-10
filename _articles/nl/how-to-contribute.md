@@ -144,7 +144,8 @@ Zelfs als u een softwareontwikkelaar bent, kan het werken aan een documentatiepr
 ## Je oriënteren op een nieuw project
 
 > ![](https://avatars.githubusercontent.com/shaunagm?s=180)
-> Als je naar een issue-tracker gaat en de dingen verwarrend lijken, ben jij het niet alleen. Deze tools vereisen veel impliciete kennis, maar mensen kunnen je helpen er doorheen te navigeren en je kunt ze vragen stellen.> — @shaunagm, ["Hoe u kunt bijdragen aan Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+> Als je naar een issue-tracker gaat en de dingen verwarrend lijken, ben jij het niet alleen. Deze tools vereisen veel impliciete kennis, maar mensen kunnen je helpen er doorheen te navigeren en je kunt ze vragen stellen.
+> — @shaunagm, ["Hoe u kunt bijdragen aan Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Voor meer dan een typefout is bijdragen aan open source net zoiets als naar een groep vreemden lopen op een feestje. Als je over lama's begint te praten, terwijl ze diep in een discussie over goudvissen zaten, zullen ze je waarschijnlijk een beetje vreemd aankijken.
 

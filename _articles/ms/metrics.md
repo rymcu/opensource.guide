@@ -112,7 +112,8 @@ Contoh metrik komuniti yang mungkin ingin anda lacak secara berkala termasuk:
 * **Jenis sumbangan:** Contohnya, melakukan, memperbaiki kesalahan ketik atau pepijat, atau memberi komen mengenai sesuatu masalah.
 
 > ![](https://avatars.githubusercontent.com/arfon?s=180)
-> Sumber terbuka lebih daripada sekadar kod. Projek sumber terbuka yang berjaya merangkumi sumbangan kod dan dokumentasi bersama perbualan mengenai perubahan ini.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+> Sumber terbuka lebih daripada sekadar kod. Projek sumber terbuka yang berjaya merangkumi sumbangan kod dan dokumentasi bersama perbualan mengenai perubahan ini.
+> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Aktiviti penyelenggara
 
