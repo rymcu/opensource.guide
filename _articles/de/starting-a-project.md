@@ -264,97 +264,40 @@ Bereit für den Start Ihres Open-Source-Projektes? Diese Checkliste hilft Ihnen 
 
 **Dokumentation**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Lizenz
-  </label>
-</div>
+[ ] Das Projekt hat eine "LICENSE"-Datei mit einer Open-Source-Lizenz
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Grundlegende Dokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
-  </label>
-</div>
+[ ] Grundlegende Dokumentation (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht mit einem existierenden Projekt oder einem Markennamen
-  </label>
-</div>
+[ ] Der Projektname ist einprägsam, vermittelt Zweck und Nutzen des Projektes, überschneidet sich nicht mit einem
+existierenden Projekt oder einem Markennamen
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-    Die Issue-Liste ist auf dem neuesten Stand, klar organisiert und mit Labels versehen
-  </label>
-</div>
+[ ] Die Issue-Liste ist auf dem neuesten Stand, klar organisiert und mit Labels versehen
 
 **Code**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Der Code nutzt konsistente Konventionen, sowie klare Namen für Funktionen, Methoden und Variablen
-  </label>
-</div>
+[ ] Der Code nutzt konsistente Konventionen, sowie klare Namen für Funktionen, Methoden und Variablen
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Der Code ist gut kommentiert, und dokumentiert Intentionen und Randfälle
-  </label>
-</div>
+[ ] Der Code ist gut kommentiert, und dokumentiert Intentionen und Randfälle
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Weder Versionsgeschichte, noch Issues, oder Pull Requests enthalten sensible Daten (bspw. Passwörter oder andere nicht-öffentliche Informationen)
-  </label>
-</div>
+[ ] Weder Versionsgeschichte, noch Issues, oder Pull Requests enthalten sensible Daten (bspw. Passwörter oder andere
+nicht-öffentliche Informationen)
 
 **Menschen**
 
 Wenn Sie als Einzelperson arbeiten:
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Sie haben mit der Rechtsabteilung gesprochen und/oder verstehen die Immaterialgüterrechter und Open-Source-Politik Ihrer Firma (wenn Sie angestellt sind)
-  </label>
-</div>
+[ ] Sie haben mit der Rechtsabteilung gesprochen und/oder verstehen die Immaterialgüterrechter und Open-Source-Politik
+Ihrer Firma (wenn Sie angestellt sind)
 
 Wenn Sie als Firma oder Organisation arbeiten:
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Sie haben mit der Rechtsabteilung gesprochen
-  </label>
-</div>
+[ ] Sie haben mit der Rechtsabteilung gesprochen
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Sie haben einen Plan zur Ankündigung und Vermarktung Ihres Projektes
-  </label>
-</div>
+[ ] Sie haben einen Plan zur Ankündigung und Vermarktung Ihres Projektes
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Jemand steht für Interaktionen mit der Community bereit (Issues beantworten, Pull Requests prüfen und mergen)
-  </label>
-</div>
+[ ] Jemand steht für Interaktionen mit der Community bereit (Issues beantworten, Pull Requests prüfen und mergen)
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Mindestens zwei Personen haben Admin-Zugang zum Projekt
-  </label>
-</div>
+[ ] Mindestens zwei Personen haben Admin-Zugang zum Projekt
 
 ## Sie haben's geschafft!
 

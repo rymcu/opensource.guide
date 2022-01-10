@@ -225,215 +225,95 @@ Hier ist eine praktische Checkliste, um zu beurteilen, ob ein Projekt für neue 
 
 **Erfüllt die Definition von Open Source**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
+[ ] Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
 
-  Hat es eine Lizenz? In der Regel finden Sie diese in einer Datei namens LICENSE im Hauptordner.
-
-  _Does it have a license? Usually, this is a file called LICENSE in the root of the repository._
-
-  </label>
-</div>
+_Does it have a license? Usually, this is a file called LICENSE in the root of the repository._
 
 **Das Projekt nimmt aktiv Beiträge entgegen**
 
-Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können Sie diese Informationen auf der Repository-Hauptsite sehen.
+Sehen Sie sich die Commit-Aktivität auf dem Main Branch an. Auf GitHub können Sie diese Informationen auf der
+Repository-Hauptsite sehen.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
+[ ] Wann gab es den letzten Commit?
 
-  Wann gab es den letzten Commit?
+_When was the latest commit?_
 
-  _When was the latest commit?_
+[ ] Wie viele Mitwirkende hat das Projekt?
 
-  </label>
-</div>
+_How many contributors does the project have?_
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
+[ ] Wie oft engagieren sich Menschen? (Auf GitHub finden Sie diese Information, indem Sie in der oberen Leiste auf "
+Commits" klicken.)
 
-  Wie viele Mitwirkende hat das Projekt?
-
-  _How many contributors does the project have?_
-
-  </label>
-</div>
-
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-
-  Wie oft engagieren sich Menschen? (Auf GitHub finden Sie diese Information, indem Sie in der oberen Leiste auf "Commits" klicken.)
-
-  _How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)_
-
-  </label>
-</div>
+_How often do people commit? (On GitHub, you can find this by clicking "Commits" in the top bar.)_
 
 Schauen Sie sich als nächstes die Issues des Projekts an.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-
-    Wie viele Issues sind offen?
+[ ] Wie viele Issues sind offen?
 
     _How many open issues are there?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-
-    Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
+[ ] Reagieren die Maintainer\*innen schnell auf neu erstellte Issues?
 
     _Do maintainers respond quickly to issues when they are opened?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-
-    Werden Issues aktiv diskutiert?
+[ ] Werden Issues aktiv diskutiert?
 
     _Is there active discussion on the issues?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-
-    Sind die Issues aktuell?
+[ ] Sind die Issues aktuell?
 
     _Are the issues recent?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-
-    Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene Issues zu sehen.)
+[ ] Werden Issues auch wieder geschlossen? (Klicken Sie bei GitHub auf der Seite "Issues" auf "closed", um geschlossene
+Issues zu sehen.)
 
     _Are issues getting closed? (On GitHub, click the "closed" tab on the Issues page to see closed issues.)_
 
-  </label>
-</div>
-
 Führen Sie nun die selben Schritte für die Pull Requests des Projekts durch.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-
-    Wie viele Pull Requests gibt es?
+[ ] Wie viele Pull Requests gibt es?
 
     _How many open pull requests are there?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">
-
-    Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Requests?
+[ ] Reagieren die Maintainer\*innen schnell auf neu erstellte Pull Requests?
 
     _Do maintainers respond quickly to pull requests when they are opened?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-
-    Werden Pull Requests aktiv diskutiert?
+[ ] Werden Pull Requests aktiv diskutiert?
 
     _Is there active discussion on the pull requests?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-
-    Sind die Pull Requests aktuell?
+[ ] Sind die Pull Requests aktuell?
 
     _Are the pull requests recent?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">
-
-    Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um geschlossene PRs zu sehen).
+[ ] Wie kürzlich wurden Pull Requests ge-merged? (Klicken Sie bei GitHub auf der "Pull Requests"-Seite auf "closed", um
+geschlossene PRs zu sehen).
 
     _How recently were any pull requests merged? (On GitHub, click the "closed" tab on the Pull Requests page to see closed PRs.)_
 
-  </label>
-</div>
 
 **Das Projekt ist einladend**
 
 Ein Projekt, das freundlich und einladend ist, signalisiert Offenheit gegenüber neuen Mitwirkenden.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">
-
-    Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
+[ ] Antworten die Maintainer\*innen auf eine hilfsbereite Art und Weise auf Issues?
 
     _Do the maintainers respond helpfully to questions in issues?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">
-
-    Gehen Leute in den Issues, im Diskussionsforum oder Chat (z.B. IRC oder Slack) freundlich miteinander um?
+[ ] Gehen Leute in den Issues, im Diskussionsforum oder Chat (z.B. IRC oder Slack) freundlich miteinander um?
 
     _Are people friendly in the issues, discussion forum, and chat (for example, IRC or Slack)?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">
-
-    Werden Pull Requests begutachtet?
+[ ] Werden Pull Requests begutachtet?
 
     _Do pull requests get reviewed?_
 
-  </label>
-</div>
-
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">
-
-    Danken die Maintainer\*innen den Beitragenden?
+[ ] Danken die Maintainer\*innen den Beitragenden?
 
     _Do maintainers thank people for their contributions?_
 
-  </label>
-</div>
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Wann immer Sie einen langen Diskussionsbeitrag sehen, überprüfen Sie die Antworten der Core-Entwickler, die spät in die Diskussion einsteigen. Fassen sie konstruktiv zusammen und unternehmen Schritte, um die Diskussion zu einer Entscheidung zu führen, und bleiben sie dabei höflich? Wenn du viele Flame Wars siehst, zeigt dies an, dass Energie im Streit verschwendet wird, anstatt in die Entwicklung gesteckt zu werden.

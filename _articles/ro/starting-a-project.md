@@ -294,97 +294,41 @@ Ești pregătit să deschizi sursa proiectului tău? Iată o listă de verificar
 
 **Documentație**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Proiectul are un fișier LICENSE cu o licență de sursă deschisă
-  </label>
-</div>
+[ ] Proiectul are un fișier LICENSE cu o licență de sursă deschisă
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Proiectul are documentație de bază (README, CONTRIBUTING, CODE_OF_CONDUCT)
-  </label>
-</div>
+[ ] Proiectul are documentație de bază (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    Numele este ușor de memorat, dă o idee despre ce face proiectul tău, și nu intră în conflict cu un proiect existent, nici nu încalcă mărcile comerciale
-  </label>
-</div>
+[ ] Numele este ușor de memorat, dă o idee despre ce face proiectul tău, și nu intră în conflict cu un proiect existent,
+nici nu încalcă mărcile comerciale
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-    Coada de probleme este actualizată, cu problemele clar organizate și etichetate
-  </label>
-</div>
+[ ] Coada de probleme este actualizată, cu problemele clar organizate și etichetate
 
 **Cod**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Proiectul folosește convenții de cod consecvente și nume clare de funcții/metode/variabile
-  </label>
-</div>
+[ ] Proiectul folosește convenții de cod consecvente și nume clare de funcții/metode/variabile
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Codul este clar comentat, documentând intenții și cazuri marginale
-  </label>
-</div>
+[ ] Codul este clar comentat, documentând intenții și cazuri marginale
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Nu există materiale sensibile în istoria reviziilor, probleme, sau cereri de pull (de exemplu, parole sau alte informații non-publice)
-  </label>
-</div>
+[ ] Nu există materiale sensibile în istoria reviziilor, probleme, sau cereri de pull (de exemplu, parole sau alte
+informații non-publice)
 
 **Oameni**
 
 Dacă ești persoană fizică:
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Ai vorbit cu departamentul juridic și/sau înțelegi proprietatea intelectuală și politicile open source ale companiei tale (dacă ești un angajat undeva)
-  </label>
-</div>
+[ ] Ai vorbit cu departamentul juridic și/sau înțelegi proprietatea intelectuală și politicile open source ale companiei
+tale (dacă ești un angajat undeva)
 
 Dacă sunteți o companie sau organizație:
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Ați vorbit cu departamentul juridic
-  </label>
-</div>
+[ ] Ați vorbit cu departamentul juridic
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Aveți un plan de comercializare pentru a anunța și promova proiectul
-  </label>
-</div>
+[ ] Aveți un plan de comercializare pentru a anunța și promova proiectul
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Cineva este angajat să gestioneze interacțiunile comunității (răspunderea la probleme, analizarea și îmbinarea cererilor de pull)
-  </label>
-</div>
+[ ] Cineva este angajat să gestioneze interacțiunile comunității (răspunderea la probleme, analizarea și îmbinarea
+cererilor de pull)
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Cel puțin două persoane au acces administrativ la proiect
-  </label>
-</div>
+[ ] Cel puțin două persoane au acces administrativ la proiect
 
 ## Ai făcut-o!
 

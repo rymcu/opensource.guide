@@ -261,97 +261,41 @@ Klaar om uw project te openen? Hier is een checklist om te helpen. Alle vakjes a
 
 **Documentatie**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Project heeft een LICENSE-bestand met een open source-licentie
-  </label>
-</div>
+[ ] Project heeft een LICENSE-bestand met een open source-licentie
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Project heeft basisdocumentatie (README, CONTRIBUTING, CODE_OF_CONDUCT)
-  </label>
-</div>
+[ ] Project heeft basisdocumentatie (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    De naam is gemakkelijk te onthouden, geeft een idee van wat het project doet en is niet in strijd met een bestaand project of inbreuk op handelsmerken
-  </label>
-</div>
+[ ] De naam is gemakkelijk te onthouden, geeft een idee van wat het project doet en is niet in strijd met een bestaand
+project of inbreuk op handelsmerken
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-    De issue wachtrij is up-to-date, met issues duidelijk geordend en gelabeld
-  </label>
-</div>
+[ ] De issue wachtrij is up-to-date, met issues duidelijk geordend en gelabeld
 
 **Code**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Project gebruikt consistente codeconventies en duidelijke functie/methode/variabelenamen
-  </label>
-</div>
+[ ] Project gebruikt consistente codeconventies en duidelijke functie/methode/variabelenamen
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    De code is duidelijk becommentarieerd en documenteert intenties en randgevallen
-  </label>
-</div>
+[ ] De code is duidelijk becommentarieerd en documenteert intenties en randgevallen
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Er zijn geen gevoelige materialen in de revisiegeschiedenis, problemen of pull-verzoeken (bijvoorbeeld wachtwoorden of andere niet-openbare informatie)
-  </label>
-</div>
+[ ] Er zijn geen gevoelige materialen in de revisiegeschiedenis, problemen of pull-verzoeken (bijvoorbeeld wachtwoorden
+of andere niet-openbare informatie)
 
 **Mensen**
 
 Als je een individu bent:
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Je hebt met de juridische afdeling gesproken en/of je begrijpt het IP/IE en open source-beleid van je bedrijf (als je ergens een werknemer bent)
-  </label>
-</div>
+[ ] Je hebt met de juridische afdeling gesproken en/of je begrijpt het IP/IE en open source-beleid van je bedrijf (als
+je ergens een werknemer bent)
 
 Als u een bedrijf of organisatie bent:
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    U heeft met uw juridische afdeling gesproken
-  </label>
-</div>
+[ ] U heeft met uw juridische afdeling gesproken
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Je hebt een marketingplan om het project aan te kondigen en te promoten
-  </label>
-</div>
+[ ] Je hebt een marketingplan om het project aan te kondigen en te promoten
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Iemand zet zich in voor het beheren van community-interacties (reageren op problemen, beoordelen en samenvoegen van pull-verzoeken)
-  </label>
-</div>
+[ ] Iemand zet zich in voor het beheren van community-interacties (reageren op problemen, beoordelen en samenvoegen van
+pull-verzoeken)
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    At least two people have administrative access to the project
-  </label>
-</div>
+[ ] At least two people have administrative access to the project
 
 ## Je hebt het gedaan!
 

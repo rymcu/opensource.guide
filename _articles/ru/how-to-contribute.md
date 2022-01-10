@@ -235,143 +235,56 @@ related:
 
 **Попадает под определение опенсорса**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-  Есть ли у него лицензия? Обычно в корне репозитория находится файл LICENSE.
-  </label>
-</div>
+[ ] Есть ли у него лицензия? Обычно в корне репозитория находится файл LICENSE.
 
 **Проект активно принимает стороннюю помощь**
 
 Посмотрите на коммиты в основной ветке. Узнать это вы можете на главной странице репозитория на GitHub.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-  Когда был последний коммит?
-  </label>
-</div>
+[ ] Когда был последний коммит?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-  Сколько контрибьюторов у проекта?
-  </label>
-</div>
+[ ] Сколько контрибьюторов у проекта?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-  Как часто люди коммитят в репозиторий? (На GitHub выяснить это можно, кликнув по ссылке «Commits» в верхней панели.)
-  </label>
-</div>
+[ ] Как часто люди коммитят в репозиторий? (На GitHub выяснить это можно, кликнув по ссылке «Commits» в верхней панели.)
 
 Затем посмотрите на ишью проекта.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Сколько сейчас открытых ишью?
-  </label>
-</div>
+[ ] Сколько сейчас открытых ишью?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Быстро ли мейнтейнеры реагируют на ишью после того, когда они открываются?
-  </label>
-</div>
+[ ] Быстро ли мейнтейнеры реагируют на ишью после того, когда они открываются?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Ведётся ли активное обсуждение ишью?
-  </label>
-</div>
+[ ] Ведётся ли активное обсуждение ишью?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Есть ли недавно созданные ишью?
-  </label>
-</div>
+[ ] Есть ли недавно созданные ишью?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Есть ли закрытые ишью? (На странице Issues GitHub-репозитория щелкните на вкладку «Closed», чтобы увидеть закрытые ишью.)
-  </label>
-</div>
+[ ] Есть ли закрытые ишью? (На странице Issues GitHub-репозитория щелкните на вкладку «Closed», чтобы увидеть закрытые
+ишью.)
 
 Теперь выясните такую информацию про пул-реквесты проекта.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Сколько сейчас открытых пул-реквестов?
-  </label>
-</div>
+[ ] Сколько сейчас открытых пул-реквестов?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Быстро ли мейнтейнеры реагируют на пул-реквесты после того, когда они открываются?
-  </label>
-</div>
+[ ] Быстро ли мейнтейнеры реагируют на пул-реквесты после того, когда они открываются?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Ведётся ли активное обсуждение пул-реквестов?
-  </label>
-</div>
+[ ] Ведётся ли активное обсуждение пул-реквестов?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Есть ли недавно отправленные пул-реквесты?
-  </label>
-</div>
+[ ] Есть ли недавно отправленные пул-реквесты?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">
-    Как давно были объединены пул-реквесты? (На странице Pull Request GitHub-репозитория щелкните на вкладку «Closed», чтобы увидеть закрытые пул-реквесты.)
-  </label>
-</div>
+[ ] Как давно были объединены пул-реквесты? (На странице Pull Request GitHub-репозитория щелкните на вкладку «Closed»,
+чтобы увидеть закрытые пул-реквесты.)
 
 **Проект приветливый**
 
-Дружелюбный и доброжелательный проект свидетельствует о том, что в нём будут с пониманием относится к новыми контрибьюторам.
+Дружелюбный и доброжелательный проект свидетельствует о том, что в нём будут с пониманием относится к новыми
+контрибьюторам.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Отвечают ли охотно мейнтейнеры на вопросы в ишью?
-  </label>
-</div>
+[ ] Отвечают ли охотно мейнтейнеры на вопросы в ишью?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Дружелюбны ли люди в вопросах, дискуссионном форуме и чате (например, IRC или Slack)?
-  </label>
-</div>
+[ ] Дружелюбны ли люди в вопросах, дискуссионном форуме и чате (например, IRC или Slack)?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Проверяются ли пул-реквесты?
-  </label>
-</div>
+[ ] Проверяются ли пул-реквесты?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Благодарят ли мейнтейнеры людей за их помощь?
-  </label>
-</div>
+[ ] Благодарят ли мейнтейнеры людей за их помощь?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Всякий раз, когда вы видите длинное обсуждение, выборочно проверяйте ответы основных разработчиков, которые приходят в конце обсуждения. Подводят ли они конструктивные выводы и предпринимают ли шаги, чтобы довести обсуждение до решения, оставаясь при этом вежливыми? Если вы видите, что идет много разборок, это часто является признаком того, что энергия идет на споры, а не на развитие.
