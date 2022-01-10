@@ -202,143 +202,57 @@ Aqu&iacute; tienes una lista pr&aacute;ctica para evaluar si un proyecto es conv
 
 **Satisface la definici&oacute;n de c&oacute;digo abierto**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-  ¿Tiene una licencia? Usualmente, es un archivo ubicado LICENSE en la ra&iacute;z del repositorio.
-  </label>
-</div>
+[ ] ¿Tiene una licencia? Usualmente, es un archivo ubicado LICENSE en la ra&iacute;z del repositorio.
 
 **El proyecto acepta contribuciones activamente**
 
-Observa la actividad de los commit en la rama principal. En GitHub, puedes ver esta informaci&oacute;n en la p&aacute;gina del repositorio.
+Observa la actividad de los commit en la rama principal. En GitHub, puedes ver esta informaci&oacute;n en la
+p&aacute;gina del repositorio.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-  ¿Cu&aacute;ndo ocurri&oacute; el &uacute;ltimo commit?
-  </label>
-</div>
+[ ] ¿Cu&aacute;ndo ocurri&oacute; el &uacute;ltimo commit?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-  ¿Cu&aacute;ntos colaboradores tiene el proyecto?
-  </label>
-</div>
+[ ] ¿Cu&aacute;ntos colaboradores tiene el proyecto?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-  ¿Con qu&eacute; frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta informaci&oacute;n haciendo click en "Commits", en la barra superior.)
-  </label>
-</div>
+[ ] ¿Con qu&eacute; frecuencia las personas hacen un commit? (En GitHub, puedes encontrar esta informaci&oacute;n
+haciendo click en "Commits", en la barra superior.)
 
 Luego, busca en los problemas del proyecto.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    ¿Cu&aacute;ntos problemas abiertos existen?
-  </label>
-</div>
+[ ] ¿Cu&aacute;ntos problemas abiertos existen?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    ¿Los responsables responden r&aacute;pidamente a los problemas cuando son abiertos?
-  </label>
-</div>
+[ ] ¿Los responsables responden r&aacute;pidamente a los problemas cuando son abiertos?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    ¿Existe una discusi&oacute;n activa en los problemas?
-  </label>
-</div>
+[ ] ¿Existe una discusi&oacute;n activa en los problemas?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    ¿Se abrieron recientemente nuevos problemas?
-  </label>
-</div>
+[ ] ¿Se abrieron recientemente nuevos problemas?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    ¿Se est&aacute;n cerrando los problemas? (En GitHub, haz click en el v&iacute;nculo "closed" de la p&aacute;gina de problemas para ver los problemas cerrados.)
-  </label>
-</div>
+[ ] ¿Se est&aacute;n cerrando los problemas? (En GitHub, haz click en el v&iacute;nculo "closed" de la p&aacute;gina de
+problemas para ver los problemas cerrados.)
 
 Ahora haz lo mismo para los pull requests del proyecto.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    ¿Cu&aacute;ntos pull requests existen?
-  </label>
-</div>
+[ ] ¿Cu&aacute;ntos pull requests existen?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">
-    ¿Los responsables responden r&aacute;pidamente a los pull requests cuando se abren?
-  </label>
-</div>
+[ ] ¿Los responsables responden r&aacute;pidamente a los pull requests cuando se abren?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    ¿Existe una discusi&oacute;n activa en los pull requests?
-  </label>
-</div>
+[ ] ¿Existe una discusi&oacute;n activa en los pull requests?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    ¿Existen pull requests recientes?
-  </label>
-</div>
+[ ] ¿Existen pull requests recientes?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">
-    ¿C&oacute;mo de reciente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
-  </label>
-</div>
+[ ] ¿C&oacute;mo de reciente ocurri&oacute; la entrada (merge) de un pull request? (En GitHub, haz click en el
+v&iacute;nculo "closed" en la p&aacute;gina de pull requests para ver los PRs cerrados.)
 
 **El proyecto es acogedor**
 
 Un proyecto que es amigable y acogedor indica que ser&aacute; receptivo de nuevos colaboradores.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">
-    ¿Los encargados responden de manera colaborativa a las preguntas en los problemas?
-  </label>
-</div>
+[ ] ¿Los encargados responden de manera colaborativa a las preguntas en los problemas?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Las personas son amigables en los problemas, foros de discusi&oacute;n y chat (por ejemplo IRC o Slack)?
-  </label>
-</div>
+[ ] Las personas son amigables en los problemas, foros de discusi&oacute;n y chat (por ejemplo IRC o Slack)?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">
-    ¿Los pull requestes son revisados?
-  </label>
-</div>
+[ ] ¿Los pull requestes son revisados?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">
-    ¿Los encargados agradecen a las personas por sus contribuciones?
-  </label>
-</div>
+[ ] ¿Los encargados agradecen a las personas por sus contribuciones?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Siempre que veas un hilo largo, comprueba las respuestas de los principales desarrolladores que llegan m&aacute;s tarde al hilo. ¿Est&aacute;n resumiendo de forma constructiva y tomando medidas para llevar el hilo hacia una decisi&oacute;n y al mismo tiempo contin&uacute;an siendo educados? Si ves que se agitan banderas de guerra pasando en frente, frecuentemente indica que la energ&iacute;a se est&aacute; encaminando a discutir m&aacute;s que en desarrollar.> — @kfogel, [_Produciendo Software de c&oacute;digo abierto_](https://producingoss.com/en/evaluating-oss-projects.html)

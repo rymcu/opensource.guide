@@ -245,97 +245,42 @@ Készen állsz a nyílt forráskódú projektre? Itt egy ellenőrzőlista, amely
 
 **Dokumentáció**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    Van LICENSE állomány, nyílt forráskódú licenccel
-  </label>
-</div>
+[ ] Van LICENSE állomány, nyílt forráskódú licenccel
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    Van README, CONTRIBUTING és CODE_OF_CONDUCT állomány
-  </label>
-</div>
+[ ] Van README, CONTRIBUTING és CODE_OF_CONDUCT állomány
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    A név könnyen megjegyezhető és utal a projektre hogy, mit csinál. A név nem ütközik más projekt nevével, vagy kereskedelmi, védjegy, esetleg márkanevekkel
-  </label>
-</div>
+[ ] A név könnyen megjegyezhető és utal a projektre hogy, mit csinál. A név nem ütközik más projekt nevével, vagy
+kereskedelmi, védjegy, esetleg márkanevekkel
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-    Naprakész a hiba lista, amelyek átláthatóan vannak csoportosítva és címkézve
-  </label>
-</div>
+[ ] Naprakész a hiba lista, amelyek átláthatóan vannak csoportosítva és címkézve
 
 **Code**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    A projekt konzisztens megjelenésű, ha kódot tartalmaz, akkor egységes a konvenció, és tisztán érthetőek a metódusok/függvények/változók nevei
-  </label>
-</div>
+[ ] A projekt konzisztens megjelenésű, ha kódot tartalmaz, akkor egységes a konvenció, és tisztán érthetőek a
+metódusok/függvények/változók nevei
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Az elgondolás, és a kivételek dokumentáltak, és a kód (ha van) szépen kommentezett
-  </label>
-</div>
+[ ] Az elgondolás, és a kivételek dokumentáltak, és a kód (ha van) szépen kommentezett
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Nincs érzéken, vagy titkos adat a git _history-ban,_ vagy a beolvasztási kérelmekben, mint például: jelszavak, nem publikus információk, üzleti titkok, személyes adatok (GDPR betartása)
-  </label>
-</div>
+[ ] Nincs érzéken, vagy titkos adat a git _history-ban,_ vagy a beolvasztási kérelmekben, mint például: jelszavak, nem
+publikus információk, üzleti titkok, személyes adatok (GDPR betartása)
 
 **Emberek**
 
 Ha magánszemély vagy, akkor:
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Beszéltél a jogi osztállyal és/vagy megértetted a vállalatod és a közted lévő munkaszerződésed nyílt forráskódra vonatkozó politikáját (ha valahol alkalmazott vagy)
-  </label>
-</div>
+[ ] Beszéltél a jogi osztállyal és/vagy megértetted a vállalatod és a közted lévő munkaszerződésed nyílt forráskódra
+vonatkozó politikáját (ha valahol alkalmazott vagy)
 
 Ha szervezet, vagy cég vagy, akkor:
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Beszéltél a jogi osztállyal
-  </label>
-</div>
+[ ] Beszéltél a jogi osztállyal
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Van marketing terved a bejelentésre, és a projekt támogatására
-  </label>
-</div>
+[ ] Van marketing terved a bejelentésre, és a projekt támogatására
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Van olyan ember, aki elkötelezett a közösségi interakciók kezelésében (válaszol a problémákra, a beolvasztási kérelmek felülvizsgálatára és beolvasztására)
-  </label>
-</div>
+[ ] Van olyan ember, aki elkötelezett a közösségi interakciók kezelésében (válaszol a problémákra, a beolvasztási
+kérelmek felülvizsgálatára és beolvasztására)
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Legalább két adminisztrátora van a projektnek
-  </label>
-</div>
+[ ] Legalább két adminisztrátora van a projektnek
 
 ## Megcsináltad!
 

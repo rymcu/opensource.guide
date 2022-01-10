@@ -202,143 +202,57 @@ Voici une liste de contrôle pratique pour évaluer si un projet est bon pour le
 
 **Répondre à la définition de l'open source**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-  A-t-il une licence ? Généralement, il s'agit d'un fichier appelé LICENSE à la racine du repository.
-  </label>
-</div>
+[ ] A-t-il une licence ? Généralement, il s'agit d'un fichier appelé LICENSE à la racine du repository.
 
 **Le projet accepte activement les contributions**
 
-Regardez l'activité des commits sur la branche principale. Sur GitHub, vous pouvez voir cette information sur la page d'accueil d'un repository.
+Regardez l'activité des commits sur la branche principale. Sur GitHub, vous pouvez voir cette information sur la page
+d'accueil d'un repository.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-  À quand remonte le dernier commit ?
-  </label>
-</div>
+[ ] À quand remonte le dernier commit ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-  Combien de contributeurs le projet a-t-il ?
-  </label>
-</div>
+[ ] Combien de contributeurs le projet a-t-il ?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-  À quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre du haut.)
-  </label>
-</div>
+[ ] À quelle fréquence les gens commmits ? (Sur GitHub, vous pouvez le trouver en cliquant sur "Commits" dans la barre
+du haut.)
 
 Ensuite, regardez les issues du projet.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Combien d'issues sont ouvertes?
-  </label>
-</div>
+[ ] Combien d'issues sont ouvertes?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    Les responsables répondent-ils rapidement aux issues lorsqu'elles sont ouvertes ?
-  </label>
-</div>
+[ ] Les responsables répondent-ils rapidement aux issues lorsqu'elles sont ouvertes ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    Y a-t-il une discussion active sur les issues ?
-  </label>
-</div>
+[ ] Y a-t-il une discussion active sur les issues ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Les issues sont-elles récentes ?
-  </label>
-</div>
+[ ] Les issues sont-elles récentes ?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Les issues sont-elles fermées ? (Sur GitHub, cliquez sur l'onglet "closed" de la page issue pour voir les issues résolues.)
-  </label>
-</div>
+[ ] Les issues sont-elles fermées ? (Sur GitHub, cliquez sur l'onglet "closed" de la page issue pour voir les issues
+résolues.)
 
 Faites la même chose pour les pull requests du projet.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Combien de pull requests sont ouvertes ?
-  </label>
-</div>
+[ ] Combien de pull requests sont ouvertes ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">
-    Les responsables répondent-ils rapidement aux pull requests lorsqu'elles sont ouvertes ?
-  </label>
-</div>
+[ ] Les responsables répondent-ils rapidement aux pull requests lorsqu'elles sont ouvertes ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Y a-t-il une discussion active sur les pull requests ?
-  </label>
-</div>
+[ ] Y a-t-il une discussion active sur les pull requests ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Les pull requests sont récentes ?
-  </label>
-</div>
+[ ] Les pull requests sont récentes ?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">
-    Dans quelle mesure les pull requests ont-elles été mergées récemment ? (Sur GitHub, cliquez sur l'onglet "Closed" de la page Pull Requests pour voir les PR fermés.)
-  </label>
-</div>
+[ ] Dans quelle mesure les pull requests ont-elles été mergées récemment ? (Sur GitHub, cliquez sur l'onglet "Closed" de
+la page Pull Requests pour voir les PR fermés.)
 
 **Le projet est accueillant**
 
 Un projet convivial et accueillant signale qu'il sera réceptif aux nouveaux contributeurs.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">
-    Les responsables répondent-ils utilement aux questions dans les issues ?
-  </label>
-</div>
+[ ] Les responsables répondent-ils utilement aux questions dans les issues ?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">
-    Les gens sont-ils amicaux dans les issues, le forum de discussion et le chat (par exemple, IRC ou Slack)?
-  </label>
-</div>
+[ ] Les gens sont-ils amicaux dans les issues, le forum de discussion et le chat (par exemple, IRC ou Slack)?
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">
-    Est-ce que les pull request ont bien une review ?
-  </label>
-</div>
+[ ] Est-ce que les pull request ont bien une review ?
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">
-    Les responsables remercient-ils les gens pour leurs contributions ?
-  </label>
-</div>
+[ ] Les responsables remercient-ils les gens pour leurs contributions ?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > Chaque fois que vous voyez un long fil de discussion, vérifiez les réponses des principaux développeurs arrivant tard dans le fil. Résument-ils de façon constructive la discussion pour prendre une décision tout en restant polis ? Si vous voyez beaucoup de _flame wars_, c'est souvent un signe que l'énergie est dépensée en dispute plutôt qu'en développements.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)

@@ -249,97 +249,40 @@ _Свободное ПО_ относится к тем же проектам, ч
 
 **Документация**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    В проекте есть файл LICENSE с опенсорс-лицензией 
-  </label>
-</div>
+[ ] В проекте есть файл LICENSE с опенсорс-лицензией
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    В проекте есть базовая документация (README, CONTRIBUTING, CODE_OF_CONDUCT)
-  </label>
-</div>
+[ ] В проекте есть базовая документация (README, CONTRIBUTING, CODE_OF_CONDUCT)
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    Название легко запоминается, даёт представление о сути проекта, не конфликтует с существующими проектами и не посягает на торговые марки. 
-  </label>
-</div>
+[ ] Название легко запоминается, даёт представление о сути проекта, не конфликтует с существующими проектами и не
+посягает на торговые марки.
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-  Список ишью актуальный, хорошо организован и помечен ярлыками
-  </label>
-</div>
+[ ] Список ишью актуальный, хорошо организован и помечен ярлыками
 
 **Код**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-  В проекте установлены определённые стили оформления кода и функции/методы/переменны имеют понятные названия
-  </label>
-</div>
+[ ] В проекте установлены определённые стили оформления кода и функции/методы/переменны имеют понятные названия
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-  Код хорошо прокомментирован, документируются замыслы и особые случаи. 
-  </label>
-</div>
+[ ] Код хорошо прокомментирован, документируются замыслы и особые случаи.
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-  В истории коммитов, ишью, пул-реквестах не хранится конфиденциальные данные вроде паролей или другой непубличной информации.
-  </label>
-</div>
+[ ] В истории коммитов, ишью, пул-реквестах не хранится конфиденциальные данные вроде паролей или другой непубличной
+информации.
 
 **Люди**
 
 Если вы частное лицо:
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-  Вы поговорили с юридическим отделом и/или поняли правила интеллектуальной собственности и политику в отношении опенсорса в вашей компании (если вы где-то трудоустроены)
-  </label>
-</div>
+[ ] Вы поговорили с юридическим отделом и/или поняли правила интеллектуальной собственности и политику в отношении
+опенсорса в вашей компании (если вы где-то трудоустроены)
 
 Если вы компания или организация:
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-   Вы поговорили с юридическим отделом 
-  </label>
-</div>
+[ ] Вы поговорили с юридическим отделом
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    У вас есть маркетинговый план для запуска и продвижения проекта 
-  </label>
-</div>
+[ ] У вас есть маркетинговый план для запуска и продвижения проекта
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-  Кто-то назначен ответственным за взаимодействие с сообществом (отвечать в ишью, проверять и принимать пул-реквесты)
-  </label>
-</div>
+[ ] Кто-то назначен ответственным за взаимодействие с сообществом (отвечать в ишью, проверять и принимать пул-реквесты)
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Как минимум два человека имеют административный доступ к проекту
-  </label>
-</div>
+[ ] Как минимум два человека имеют административный доступ к проекту
 
 ## Вы сделали это!
 

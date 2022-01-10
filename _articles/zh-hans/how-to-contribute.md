@@ -203,143 +203,53 @@ redirect_from: /zh-cn/how-to-contribute/
 
 **符合开源的定义**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-  有许可协议吗？通常情况下，会在根目录有一个叫做 LICENSE 的文件。
-  </label>
-</div>
+[ ] 有许可协议吗？通常情况下，会在根目录有一个叫做 LICENSE 的文件。
 
 **项目被接收的提交活跃度**
 
 在主干上确认提交的活跃度。在 GitHub 上托管的开源项目，你可以在仓库主页上看到这些信息。
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-  最后一次提交是在什么时候？
-  </label>
-</div>
+[ ] 最后一次提交是在什么时候？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-  项目目前有多少贡献者？
-  </label>
-</div>
+[ ] 项目目前有多少贡献者？
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-  人们提交的频繁吗？ (在 GitHub，可以在顶栏里点击"commits"来展现。）
-  </label>
-</div>
+[ ] 人们提交的频繁吗？ (在 GitHub，可以在顶栏里点击"commits"来展现。）
 
 接下来，就是看项目的 issue 数量。
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    目前有多少个还处于开放状态的 issue？
-  </label>
-</div>
+[ ] 目前有多少个还处于开放状态的 issue？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    项目的维护者对于处于开放状态的 issue 响应是否迅速？
-  </label>
-</div>
+[ ] 项目的维护者对于处于开放状态的 issue 响应是否迅速？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    是否有讨论很活跃的 issue？
-  </label>
-</div>
+[ ] 是否有讨论很活跃的 issue？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    issue 均是近期产生的吗？
-  </label>
-</div>
+[ ] issue 均是近期产生的吗？
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的 issue。)
-  </label>
-</div>
+[ ] 有没有关闭的issue？ (在 GitHub, 点击 "closed" 标签就可以看到所有已经关闭的 issue。)
 
 同样再来看看 PR 的情形。
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    现在有多少处于开放状态的 PR？
-  </label>
-</div>
+[ ] 现在有多少处于开放状态的 PR？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox20" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox20" class="overflow-hidden d-block text-normal">
-    当提交了 PR 后，维护者响应是否迅速？
-  </label>
-</div>
+[ ] 当提交了 PR 后，维护者响应是否迅速？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    是否有活跃讨论的 PR？
-  </label>
-</div>
+[ ] 是否有活跃讨论的 PR？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    均是近期的 PR 吗？
-  </label>
-</div>
+[ ] 均是近期的 PR 吗？
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox13" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox13" class="overflow-hidden d-block text-normal">
-    最近有多少 PR 合并？ (在 GitHub, 点击 PR 页面的 "closed" 的标签页来查看已经关闭的标签页。)
-  </label>
-</div>
+[ ] 最近有多少 PR 合并？ (在 GitHub, 点击 PR 页面的 "closed" 的标签页来查看已经关闭的标签页。)
 
 **项目的受欢迎程度**
 
 一个项目的友好程度和受欢迎意味着更能吸引新的贡献者。
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox14" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox14" class="overflow-hidden d-block text-normal">
-    在 issue 的问题中，维护者的回答是否非常有帮助？
-  </label>
-</div>
+[ ] 在 issue 的问题中，维护者的回答是否非常有帮助？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox15" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox15" class="overflow-hidden d-block text-normal">
-    人们在 issue 的讨论中、在线聊天室、论坛是否很友好？
-  </label>
-</div>
+[ ] 人们在 issue 的讨论中、在线聊天室、论坛是否很友好？
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox16" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox16" class="overflow-hidden d-block text-normal">
-    PR 是否被 review？
-  </label>
-</div>
+[ ] PR 是否被 review？
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox17" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox17" class="overflow-hidden d-block text-normal">
-    维护者是否对做贡献的人们道声"谢谢"？
-  </label>
-</div>
+[ ] 维护者是否对做贡献的人们道声"谢谢"？
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
 > 当你看到一个很长的对话时，来自核心开发者的零星的响应排在列表的后面。你就得考虑，他们在作建设性的总结？是否保持风度的情况下做出最后的决定？如果你看到的是更多的口水仗，而且还在继续，这通常意味着社区的能量重心已经不在开发上了。> — @kfogel, [_开源软件生产力_](https://producingoss.com/en/evaluating-oss-projects.html)

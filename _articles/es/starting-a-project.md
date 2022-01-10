@@ -248,97 +248,41 @@ Est&aacute;s listo para iniciar tu propio proyecto de C&oacute;digo Abierto. Aqu
 
 **Documentaci&oacute;n**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox1" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox1" class="overflow-hidden d-block text-normal">
-    El proyecto tiene un archivo LICENCIA con una licencia de C&oacute;digo Abierto.
-  </label>
-</div>
+[ ] El proyecto tiene un archivo LICENCIA con una licencia de C&oacute;digo Abierto.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox2" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox2" class="overflow-hidden d-block text-normal">
-    El proyecto tiene documentaci&oacute;n b&aacute;sica (README, CONTRIBUYENDO, C&oacute;DIGO_DE_CONDUCTA).
-  </label>
-</div>
+[ ] El proyecto tiene documentaci&oacute;n b&aacute;sica (README, CONTRIBUYENDO, C&oacute;DIGO_DE_CONDUCTA).
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox3" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox3" class="overflow-hidden d-block text-normal">
-    El nombre es f&aacute;cil de recordar, da una idea de lo que el proyecto hace, y no entra en conflicto con un proyecto preexistente ni infringe en marcas registadas.
-  </label>
-</div>
+[ ] El nombre es f&aacute;cil de recordar, da una idea de lo que el proyecto hace, y no entra en conflicto con un
+proyecto preexistente ni infringe en marcas registadas.
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox4" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox4" class="overflow-hidden d-block text-normal">
-    La cola de issues est&aacute; actualizada, organizada y etiquetada.
-  </label>
-</div>
+[ ] La cola de issues est&aacute; actualizada, organizada y etiquetada.
 
 **Code**
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox5" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox5" class="overflow-hidden d-block text-normal">
-    Los proyectos usan c&oacute;digo consistente en cuanto a las convenciones usadas, adem&aacute;s de nombres claros de funciones, m&eacute;todos y variables.
-  </label>
-</div>
+[ ] Los proyectos usan c&oacute;digo consistente en cuanto a las convenciones usadas, adem&aacute;s de nombres claros de
+funciones, m&eacute;todos y variables.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox6" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox6" class="overflow-hidden d-block text-normal">
-    El c&oacute;digo est&aacute; comentado correctamente, y documentado.
-  </label>
-</div>
+[ ] El c&oacute;digo est&aacute; comentado correctamente, y documentado.
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox7" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox7" class="overflow-hidden d-block text-normal">
-    No hay material sensible en la revisi&oacute;n hist&oacute;rica, issues, o pull requests. (Ejemplo: contrase&ntilde;as)
-  </label>
-</div>
+[ ] No hay material sensible en la revisi&oacute;n hist&oacute;rica, issues, o pull requests. (Ejemplo:
+contrase&ntilde;as)
 
 **Personas**
 
 Si eres un individuo:
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox8" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox8" class="overflow-hidden d-block text-normal">
-    Has hablado con el departamento legal y/o entiendes el IP y las pol&iacute;ticas de C&oacute;digo Abierto de tu compa&ntilde;&iacute;a (Si eres empleado en alg&uacute;n lado)
-  </label>
-</div>
+[ ] Has hablado con el departamento legal y/o entiendes el IP y las pol&iacute;ticas de C&oacute;digo Abierto de tu
+compa&ntilde;&iacute;a (Si eres empleado en alg&uacute;n lado)
 
 Si eres una compa&ntilde;&iacute;a u organizaci&oacute;n:
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox9" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox9" class="overflow-hidden d-block text-normal">
-    Has hablado con tu departamento legal.
-  </label>
-</div>
+[ ] Has hablado con tu departamento legal.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox10" class="overflow-hidden d-block text-normal">
-    Tienes un plan de marketing para anunciar y promocionar tu proyecto.
-  </label>
-</div>
+[ ] Tienes un plan de marketing para anunciar y promocionar tu proyecto.
 
-<div class="clearfix mb-2">
-  <input type="checkbox" id="cbox11" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox11" class="overflow-hidden d-block text-normal">
-    Alguien se ha comprometido a administrar las interacciones de la comunidad.
-  </label>
-</div>
+[ ] Alguien se ha comprometido a administrar las interacciones de la comunidad.
 
-<div class="clearfix mb-4">
-  <input type="checkbox" id="cbox12" class="d-block float-left mt-1 mr-2" value="checkbox">
-  <label for="cbox12" class="overflow-hidden d-block text-normal">
-    Al menos dos personas tienen rol y acceso de administradores al proyecto.
-  </label>
-</div>
+[ ] Al menos dos personas tienen rol y acceso de administradores al proyecto.
 
 ## &iexcl;Lo has hecho!
 
