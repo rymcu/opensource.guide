@@ -14,13 +14,8 @@ related:
 
 多くのオープンソース活動はボランティアで行われています。例えば、ある人は自分が使っているプロジェクトでバグを見つけて簡単な修正を提出したのかもしれませんし、他の人は自分の空いた時間にオープンソースプロジェクトをいじるのを楽しんでいるのかもしれません。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-私は、クリスマスの週に取り掛かれる「趣味の」プログラミングプロジェクトを探していました。(...) 家にコンピュータを持っていて、他には特に手持ちがなかったのです。そこで、私は最近考えていた新しいスクリプト言語のインタープリタを書くことにしました。(...) その作品の名前は Python としました。
-  <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gvanrossum?s=180)
+> 私は、クリスマスの週に取り掛かれる「趣味の」プログラミングプロジェクトを探していました。(...) 家にコンピュータを持っていて、他には特に手持ちがなかったのです。そこで、私は最近考えていた新しいスクリプト言語のインタープリタを書くことにしました。(...) その作品の名前は Python としました。> — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
 
 人がオープンソース活動で金銭を受け取りたくないと思う理由はたくさんあります。
 
@@ -28,35 +23,20 @@ related:
 * **オープンソースを趣味として楽しんでいるのかもしれません。** もしくは創造的な現実逃避として活動していて、金銭を得ることでそのプロジェクトに取り掛かるのに義務感を持ちたくないのかもしれません。
 * **オープンソースにコントリビュートすることで他のメリットを得ているのかもしれません。** 例えば、評判やポートフォリオを築いたり、新しいスキルを学んだり、コミュニティの近くにいると感じたり。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  金銭的な寄付を得ることによって、ある程度責任感が植え付けられます。(...) 世界中がつながっていて動きが早いこの世界で、「今は全く違うことがやりたい気分なんです」と言えるようになることは重要です。
-  <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/alloy?s=180)
+> 金銭的な寄付を得ることによって、ある程度責任感が植え付けられます。(...) 世界中がつながっていて動きが早いこの世界で、「今は全く違うことがやりたい気分なんです」と言えるようになることは重要です。> — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
 他の人にとっては、特にコントリビュートが現在進行中でまとまった時間が必要なときには、オープンソース活動によって金銭を得るのは、彼らがプロジェクトに参加できるようになるための唯一の方法です。たとえそれがプロジェクト側の要求であっても、個人的な理由であっても。
 
 有名なプロジェクトを運営するのは大きな責任になるかもしれず、月に数時間ではなく週に10〜20時間も必要となるかもしれません。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースプロジェクトのメンテナーに話を聞いてみてください。そうすると、彼らはプロジェクトを運営するのにどのくらいの仕事量が必要なのか、現実の話を教えてくれるでしょう。あなたには顧客がいます。彼らのために問題を解決しています。あなたは新しい機能を作っています。こういったことがあなたの時間を要求するのです。
-  <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/ashedryden?s=180)
+> オープンソースプロジェクトのメンテナーに話を聞いてみてください。そうすると、彼らはプロジェクトを運営するのにどのくらいの仕事量が必要なのか、現実の話を教えてくれるでしょう。あなたには顧客がいます。彼らのために問題を解決しています。あなたは新しい機能を作っています。こういったことがあなたの時間を要求するのです。> — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 
 有償で仕事ができることで、異なる人生の歩み方をしている人が、コントリビュートを可能にします。現在の財政的状況や負債、家族、その他世話が必要な人がいる等の理由で、オープンソース活動を無償で行う余裕がない人もいます。この事は、ボランティアではオープンソース活動を行う余裕がない人たちからのコントリビュートが実現しないということを意味します。これは @ashedryden [が述べたように](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)、倫理的な問題があります。コントリビュートが、既に余裕のある人からだけに偏ってしまい、このボランティア活動によって彼らが更にメリットを得ることになるのです。その一方、ボランティア活動を行うことのできない人は機会を得ることができず、オープンソースコミュニティにおける多様性の不足がより増長されてしまいます。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   OSS はテクノロジー業界に多大なメリットを生み出し、ひいてはあらゆる産業にメリットをもたらします。 (...) しかし、オープンソース活動に従事できるのがラッキーで夢中になっている人だけであるとしたら、それは大きな機会損失です。
-  <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/isaacs?s=180)
+> OSS はテクノロジー業界に多大なメリットを生み出し、ひいてはあらゆる産業にメリットをもたらします。 (...) しかし、オープンソース活動に従事できるのがラッキーで夢中になっている人だけであるとしたら、それは大きな機会損失です。> — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c#.ftnd5qez0)
 
 もし金銭的なサポートを探しているのであれば、考えられる道は2つあります。コントリビューターとして有償で活動をするか、プロジェクトの支援をしてくれる組織を探すかです。
 
@@ -66,13 +46,8 @@ related:
 
 もし雇用主がそのプロジェクトを使っているのであれば、オープンソース活動をするのはより簡単になるでしょう。しかし、説明の仕方はよく練る必要があります。そのプロジェクトを使っていないかもしれませんが、 Python を使っているとすれば、 Python の有名なプロジェクトに関わることで新しい Python 開発者を惹き付ける役に立つでしょう。こう説明することで、雇用主はより友好的になるでしょう。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  オープンソースを行っている多くの人のように、プロジェクト運営の重荷に苦しんでいました。はじめてオープンソース活動を始めた時、私は遅い時間か、家に帰ってすぐにオープンソース活動を行っていました。 (...) 私が直面していた問題について上司と話すことができたため、自分たちが使っていたBabelに関するタスクを普段の仕事に取り込む良い方法を思いつきました。
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/hzoo?s=180)
+> オープンソースを行っている多くの人のように、プロジェクト運営の重荷に苦しんでいました。はじめてオープンソース活動を始めた時、私は遅い時間か、家に帰ってすぐにオープンソース活動を行っていました。 (...) 私が直面していた問題について上司と話すことができたため、自分たちが使っていたBabelに関するタスクを普段の仕事に取り込む良い方法を思いつきました。> — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
 
 もし取り組みたい既存のオープンソース活動がないけれども、現在の仕事の成果をオープンソースにしたいと望んでいる場合は、社内のソフトウェアをオープンソース化する事例を作りましょう。
 
@@ -84,13 +59,8 @@ related:
 
 あなたの会社がこれと同じ道をたどるのであれば、コミュニティと企業の活動の境界を明確に引いておくことが重要です。結局、オープンソースは世界中の人々のコントリビュートによって維持されており、それはどんな企業や場所よりも大きいのです。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  オープンソース活動で金銭を得るのは稀で素晴らしい機会です。しかし、そうなる過程であなたの熱意を諦めるべきではありません。あなたの熱意こそが、会社がお金を払う理由であるはずだからです。
-  <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/jessfraz?s=180)
+> オープンソース活動で金銭を得るのは稀で素晴らしい機会です。しかし、そうなる過程であなたの熱意を諦めるべきではありません。あなたの熱意こそが、会社がお金を払う理由であるはずだからです。> — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
 
 オープンソース活動を優先するということを現在の雇用主に納得してもらえなかった場合、オープンソースへのコントリビュートを奨励している新しい雇用主を探すことを検討しましょう。オープンソース活動へのコントリビュートを明確にしている企業を探しましょう。例えば：
 
@@ -173,13 +143,8 @@ related:
 
 資金提供者は、支払いに関して何か要求していることはあるでしょうか？例えば、非営利である必要があったり、非営利の資金スポンサーがついている必要があるかもしれません。もしくは、資金が組織に対してではなく個人の請負として提供される必要があるかもしれません。これらの要求は資金提供者によって異なるので、事前に確かめておきましょう。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  何年もの間、私達はウェブサイトで使いやすいアイコンの提供する先進的なプロジェクトです。コミュニティには2000万人以上のメンバーがおり、7000万以上のウェブサイトで使われてきました。その中には、Whitehouse.gov も含まれています。 (...) バージョン4は3年前にリリースされました。その当時からウェブ技術は大きく変わりましたが、率直に言うと Font Awesome は少し古くなってしまいました。 (...) そのため、私達は Font Awesome 5 を作りました。 CSS をモダンにするために書き直し、すべてのアイコンを再デザインしています。私達は、よりよいデザイン、よりよい一貫性、よりよい可読性について話しています。
-  <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/davegandy?s=180)
+> 何年もの間、私達はウェブサイトで使いやすいアイコンの提供する先進的なプロジェクトです。コミュニティには2000万人以上のメンバーがおり、7000万以上のウェブサイトで使われてきました。その中には、Whitehouse.gov も含まれています。 (...) バージョン4は3年前にリリースされました。その当時からウェブ技術は大きく変わりましたが、率直に言うと Font Awesome は少し古くなってしまいました。 (...) そのため、私達は Font Awesome 5 を作りました。 CSS をモダンにするために書き直し、すべてのアイコンを再デザインしています。私達は、よりよいデザイン、よりよい一貫性、よりよい可読性について話しています。> — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 
 ## 実験し、諦めないようにしよう
 

@@ -18,11 +18,15 @@ Een gastvrije gemeenschap is een investering in de toekomst en reputatie van uw 
 
 ### Zorg ervoor dat mensen zich welkom voelen
 
-Een manier om na te denken over de gemeenschap van uw project is door wat @MikeMcQuaid het [bijdrager trechter](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) noemt:
+Een manier om na te denken over de gemeenschap van uw project is door wat @MikeMcQuaid
+het [bijdrager trechter](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/)
+noemt:
 
-![bijdrager trechter](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![bijdrager trechter](../../assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-Bedenk bij het opbouwen van uw community hoe iemand bovenaan de trechter (een potentiële gebruiker) theoretisch de weg naar de bodem kan vinden (een actieve onderhouder). Uw doel is om wrijving in elke fase van de bijdragerservaring te verminderen. Als mensen gemakkelijk winnen, voelen ze zich gestimuleerd om meer te doen.
+Bedenk bij het opbouwen van uw community hoe iemand bovenaan de trechter (een potentiële gebruiker) theoretisch de weg
+naar de bodem kan vinden (een actieve onderhouder). Uw doel is om wrijving in elke fase van de bijdragerservaring te
+verminderen. Als mensen gemakkelijk winnen, voelen ze zich gestimuleerd om meer te doen.
 
 Begin met uw documentatie:
 
@@ -36,16 +40,11 @@ Begin met uw documentatie:
 * **Sta open voor de soorten bijdragen die u accepteert.** Veel bijdragers beginnen met een bugrapport of een kleine oplossing. Er zijn [veel manieren om bij te dragen](../how-to-contribute/#waarom-bijdragen-aan-open-source) aan een project. Laat mensen helpen zoals ze willen helpen.
 * **Als er een bijdrage is waar u het niet mee eens bent,** bedank ze voor hun idee, en [vertel waarom](../best-practices/#nee-leren-zeggen) het niet past in de scope van het project en linkt naar relevante documentatie als je die hebt.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Bijdragen aan open source is voor sommigen gemakkelijker dan voor anderen. Er is veel angst om te worden uitgescholden omdat ze iets niet goed doen of gewoon niet passen. (...) Door bijdragers een plek te geven om bij te dragen met een zeer lage technische vaardigheid (documentatie, afwaardering van webinhoud, enz.), Kunt u aanzienlijk verminderen die zorgen.
+> ![](https://avatars.githubusercontent.com/mikeal?s=180)
+> Bijdragen aan open source is voor sommigen gemakkelijker dan voor anderen. Er is veel angst om te worden uitgescholden omdat ze iets niet goed doen of gewoon niet passen. (...) Door bijdragers een plek te geven om bij te dragen met een zeer lage technische vaardigheid (documentatie, afwaardering van webinhoud, enz.), Kunt u aanzienlijk verminderen die zorgen.
 
   _Contributing to open source is easier for some than others. There's a lot of fear of being yelled at for not doing something right or just not fitting in. (...) By giving contributors a place to contribute with very low technical proficiency (documentation, web content markdown, etc) you can greatly reduce those concerns._
-
-  <p markdown="1" class="pquote-credit">
-— @mikeal, ["Een bijdrage leveren in moderne open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-  </p>
-</aside>
+> — @mikeal, ["Een bijdrage leveren in moderne open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 De meeste open source-bijdragers zijn "casual bijdragers": mensen die slechts af en toe bijdragen aan een project. Een toevallige bijdrager heeft misschien geen tijd om volledig op de hoogte te zijn van uw project, dus het is uw taak om het hem gemakkelijk te maken om bij te dragen.
 
@@ -53,16 +52,11 @@ Andere bijdragers aanmoedigen is ook een investering in uzelf. Als u uw grootste
 
 ### Documenteer alles
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Ben je ooit naar een (tech-) evenement geweest waar je niemand kende, maar iedereen leek in groepen te staan en te chatten als oude vrienden? (...) Stel je nu voor dat je wilt bijdragen aan een open source-project, maar je begrijpt niet waarom of hoe dit gebeurt.
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> Ben je ooit naar een (tech-) evenement geweest waar je niemand kende, maar iedereen leek in groepen te staan en te chatten als oude vrienden? (...) Stel je nu voor dat je wilt bijdragen aan een open source-project, maar je begrijpt niet waarom of hoe dit gebeurt.
 
   _Have you ever been to a (tech-) event where you didn't know anyone, but everyone else seemed to stand in groups and chat like old friends? (...) Now imagine you want to contribute to an open source project, but you don't see why or how this is happening._
-
-  <p markdown="1" class="pquote-credit">
-— @janl, ["Duurzame open source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> — @janl, ["Duurzame open source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Wanneer u aan een nieuw project begint, kan het natuurlijk aanvoelen om uw werk privé te houden. Maar open source-projecten gedijen goed wanneer u uw proces openbaar documenteert.
 
@@ -80,17 +74,25 @@ Alles documenteren is ook van toepassing op het werk dat u doet. Als u aan een s
 
 ### Wees responsief
 
-Als jij [je project promoot](../finding-users), zullen mensen feedback voor je hebben. Ze hebben misschien vragen over hoe dingen werken of hebben hulp nodig om aan de slag te gaan.
+Als jij [je project promoot](../finding-users), zullen mensen feedback voor je hebben. Ze hebben misschien vragen over
+hoe dingen werken of hebben hulp nodig om aan de slag te gaan.
 
-Probeer responsief te zijn wanneer iemand een probleem issue, een pull-verzoek indient of een vraag stelt over uw project. Als je snel reageert, zullen mensen het gevoel hebben dat ze deel uitmaken van een dialoog en zullen ze enthousiaster zijn over deelname.
+Probeer responsief te zijn wanneer iemand een probleem issue, een pull-verzoek indient of een vraag stelt over uw
+project. Als je snel reageert, zullen mensen het gevoel hebben dat ze deel uitmaken van een dialoog en zullen ze
+enthousiaster zijn over deelname.
 
-Zelfs als u het verzoek niet onmiddellijk kunt beoordelen, helpt het vroegtijdig erkennen van het verzoek de betrokkenheid te vergroten. Hier is hoe @tdreyno reageerde op een pull-verzoek op [Middleman](https://github.com/middleman/middleman/pull/1466):
+Zelfs als u het verzoek niet onmiddellijk kunt beoordelen, helpt het vroegtijdig erkennen van het verzoek de
+betrokkenheid te vergroten. Hier is hoe @tdreyno reageerde op een pull-verzoek
+op [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![Middleman pull request](/assets/images/building-community/middleman_pr.png)
+![Middleman pull request](../../assets/images/building-community/middleman_pr.png)
 
-[Een Mozilla-studie zag dat](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) bijdragers die binnen 48 uur codebeoordelingen ontvingen, een veel hoger rendement hadden en een veel hogere bijdrage.
+[Een Mozilla-studie zag dat](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+bijdragers die binnen 48 uur codebeoordelingen ontvingen, een veel hoger rendement hadden en een veel hogere bijdrage.
 
-Gesprekken over uw project kunnen ook plaatsvinden op andere plaatsen op internet, zoals Stack Overflow, Twitter of Reddit. U kunt op sommige van deze plaatsen meldingen instellen, zodat u wordt gewaarschuwd wanneer iemand uw project noemt.
+Gesprekken over uw project kunnen ook plaatsvinden op andere plaatsen op internet, zoals Stack Overflow, Twitter of
+Reddit. U kunt op sommige van deze plaatsen meldingen instellen, zodat u wordt gewaarschuwd wanneer iemand uw project
+noemt.
 
 ### Geef uw gemeenschap een plek om samen te komen
 
@@ -118,16 +120,11 @@ Elk populair project zal onvermijdelijk mensen aantrekken die uw gemeenschap sch
 
 Doe je best om een nultolerantiebeleid te voeren ten aanzien van dit soort mensen. Als dit niet wordt aangevinkt, zullen negatieve mensen andere mensen in uw gemeenschap ongemakkelijk maken. Ze kunnen zelfs vertrekken.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  De waarheid is dat het hebben van een ondersteunende gemeenschap de sleutel is. Ik zou dit werk nooit kunnen doen zonder de hulp van mijn collega's, vriendelijke internetvreemdelingen en spraakzame IRC-kanalen. (...) Neem geen genoegen met minder. Neem geen genoegen met klootzakken.
+> ![](https://avatars.githubusercontent.com/okdistribute?s=180)
+> De waarheid is dat het hebben van een ondersteunende gemeenschap de sleutel is. Ik zou dit werk nooit kunnen doen zonder de hulp van mijn collega's, vriendelijke internetvreemdelingen en spraakzame IRC-kanalen. (...) Neem geen genoegen met minder. Neem geen genoegen met klootzakken.
 
   _The truth is that having a supportive community is key. I'd never be able to do this work without the help of my colleagues, friendly internet strangers, and chatty IRC channels. (...) Don't settle for less. Don't settle for assholes._
-
-  <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
-  </p>
-</aside>
+> — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
 
 Regelmatige debatten over triviale aspecten van uw project leiden anderen, waaronder u, af om zich op belangrijke taken te concentreren. Nieuwe mensen die naar uw project komen, kunnen deze gesprekken zien en willen niet deelnemen.
 
@@ -135,13 +132,19 @@ Als u negatief gedrag in uw project ziet gebeuren, meld dit dan in het openbaar.
 
 ### Ontmoet bijdragers waar ze zijn
 
-Goede documentatie wordt alleen maar belangrijker naarmate uw gemeenschap groeit. Toevallige bijdragers, die anders misschien niet bekend zijn met uw project, lezen uw documentatie om snel de context te krijgen die ze nodig hebben.
+Goede documentatie wordt alleen maar belangrijker naarmate uw gemeenschap groeit. Toevallige bijdragers, die anders
+misschien niet bekend zijn met uw project, lezen uw documentatie om snel de context te krijgen die ze nodig hebben.
 
-Vertel nieuwe bijdragers in uw CONTRIBUTORS-bestand expliciet hoe ze aan de slag kunnen. Misschien wilt u voor dit doel zelfs een speciale sectie maken. [Django](https://github.com/django/django), heeft bijvoorbeeld een speciale bestemmingspagina om nieuwe bijdragers te verwelkomen.
+Vertel nieuwe bijdragers in uw CONTRIBUTORS-bestand expliciet hoe ze aan de slag kunnen. Misschien wilt u voor dit doel
+zelfs een speciale sectie maken. [Django](https://github.com/django/django), heeft bijvoorbeeld een speciale
+bestemmingspagina om nieuwe bijdragers te verwelkomen.
 
-![Django niewe bijdragers pagina](/assets/images/building-community/django_new_contributors.png)
+![Django niewe bijdragers pagina](../../assets/images/building-community/django_new_contributors.png)
 
-Label in uw issue wachtrij bugs die geschikt zijn voor verschillende soorten bijdragers: bijvoorbeeld [_"alleen first timers"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentatie"_. [Deze labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) maken het gemakkelijk voor iemand die nieuw is bij uw project om snel uw problemen te scannen en aan de slag te gaan.
+Label in uw issue wachtrij bugs die geschikt zijn voor verschillende soorten bijdragers: bijvoorbeeld [_"alleen first
+timers"_](https://kentcdodds.com/blog/first-timers-only), _"good first issue"_, or _"documentatie"_
+. [Deze labels](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+maken het gemakkelijk voor iemand die nieuw is bij uw project om snel uw problemen te scannen en aan de slag te gaan.
 
 Gebruik ten slotte uw documentatie om ervoor te zorgen dat mensen zich bij elke stap welkom voelen.
 
@@ -153,16 +156,11 @@ Hier is bijvoorbeeld hoe [Rubinius](https://github.com/rubinius/rubinius/) start
 
 ### Deel het eigendom van uw project
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
-  Je leiders zullen verschillende meningen hebben, zoals alle gezonde gemeenschappen zouden moeten! U moet echter maatregelen nemen om ervoor te zorgen dat de luidste stem niet altijd wint door mensen uit te putten, en dat minder prominente stemmen en minderheidsstemmen worden gehoord.
+> ![](https://avatars.githubusercontent.com/sagesharp?s=180)
+> Je leiders zullen verschillende meningen hebben, zoals alle gezonde gemeenschappen zouden moeten! U moet echter maatregelen nemen om ervoor te zorgen dat de luidste stem niet altijd wint door mensen uit te putten, en dat minder prominente stemmen en minderheidsstemmen worden gehoord.
 
   _Your leaders will have different opinions, as all healthy communities should! However, you need to take steps to ensure the loudest voice doesn't always win by tiring people out, and that less prominent and minority voices are heard._
-
-  <p markdown="1" class="pquote-credit">
-— @sagesharp, ["Wat maakt een goede gemeenschap?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
-  </p>
-</aside>
+> — @sagesharp, ["Wat maakt een goede gemeenschap?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 Mensen zijn enthousiast om bij te dragen aan projecten als ze een gevoel van eigenaarschap voelen. Dat betekent niet dat u de visie van uw project moet overdragen of bijdragen moet accepteren die u niet wilt. Maar hoe meer je anderen erkent, hoe meer ze blijven hangen.
 
@@ -170,7 +168,7 @@ Kijk of je manieren kunt vinden om het eigendom zoveel mogelijk met je gemeensch
 
 * **Weersta het oplossen van gemakkelijke (niet-kritieke) bugs.** Gebruik ze in plaats daarvan als kansen om nieuwe bijdragers te werven of iemand te begeleiden die een bijdrage wil leveren. In het begin lijkt het misschien onnatuurlijk, maar uw investering zal zich na verloop van tijd terugbetalen. @Michaeljoseph vroeg bijvoorbeeld een bijdrager om een pull-verzoek in te dienen voor een [Cookiecutter](https://github.com/audreyr/cookiecutter) issue hieronder, in plaats van het zelf te repareren.
 
-![Cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![Cookiecutter issue](../../assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Start een CONTRIBUTORS- of AUTHORS-bestand in uw project** met een lijst van iedereen die aan uw project heeft bijgedragen, zoals [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md) doet.
 
@@ -185,16 +183,11 @@ De realiteit is dat bij [de meeste projecten]
 
 Hoewel je misschien niet altijd iemand vindt om de oproep te beantwoorden, vergroot het geven van een signaal de kans dat andere mensen meedoen. En hoe eerder je begint, hoe eerder mensen kunnen helpen.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[Het is in uw belang\] om bijdragers te werven die plezier hebben en die in staat zijn om de dingen te doen die u niet bent. Houd je van coderen, maar beantwoord je geen problemen? Identificeer vervolgens die personen in uw gemeenschap die dat wel doen en laat ze het hebben.
+> ![](https://avatars.githubusercontent.com/gr2m?s=180)
+> \[Het is in uw belang\] om bijdragers te werven die plezier hebben en die in staat zijn om de dingen te doen die u niet bent. Houd je van coderen, maar beantwoord je geen problemen? Identificeer vervolgens die personen in uw gemeenschap die dat wel doen en laat ze het hebben.
 
   _\[It's in your\] best interest to recruit contributors who enjoy and who are capable of doing the things that you are not. Do you enjoy coding, but not answering issues? Then identify those individuals in your community who do and let them have it._
-
-  <p markdown="1" class="pquote-credit">
-— @gr2m, ["Gastvrije gemeenschappen"](http://hood.ie/blog/welcoming-communities.html)
-  </p>
-</aside>
+> — @gr2m, ["Gastvrije gemeenschappen"](http://hood.ie/blog/welcoming-communities.html)
 
 ## Conflicten oplossen
 
@@ -210,16 +203,11 @@ Wanneer uw gemeenschap worstelt met een moeilijk probleem, kunnen de gemoederen 
 
 Het is jouw taak als onderhouder om te voorkomen dat deze situaties escaleren. Zelfs als je een uitgesproken mening over het onderwerp hebt, probeer dan de positie van moderator of facilitator in te nemen, in plaats van de strijd aan te gaan en je mening te benadrukken. Als iemand onaardig is of het gesprek monopoliseert, [reageer meteen](../building-community/#sta-geen-slechte-acteurs-toe) discussies netjes en productief houden.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  Als projectonderhouder is het uiterst belangrijk om respectvol te zijn voor uw bijdragers. Ze vatten wat je zegt vaak heel persoonlijk op.
+> ![](https://avatars.githubusercontent.com/kennethreitz?s=180)
+> Als projectonderhouder is het uiterst belangrijk om respectvol te zijn voor uw bijdragers. Ze vatten wat je zegt vaak heel persoonlijk op.
 
   _As a project maintainer, it's extremely important to be respectful to your contributors. They often take what you say very personally._
-
-  <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Wees hartelijk of ga op weg"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
-  </p>
-</aside>
+> — @kennethreitz, ["Wees hartelijk of ga op weg"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
 
 Andere mensen vragen je om advies. Geef een goed voorbeeld. U kunt nog steeds teleurstelling, ongeluk of bezorgdheid uiten, maar doe dit rustig.
 
@@ -239,16 +227,11 @@ Soms is stemmen een noodzakelijk kwaad. Zoveel als je kunt, leg echter de nadruk
 
 In het kader van een proces voor het zoeken naar consensus, bespreken leden van de gemeenschap belangrijke zorgen totdat ze vinden dat ze voldoende zijn gehoord. Als er nog maar kleine zorgen zijn, gaat de gemeenschap vooruit. "Consensus zoeken" erkent dat een gemeenschap misschien niet in staat zal zijn om tot een perfect antwoord te komen. In plaats daarvan geeft het prioriteit aan luisteren en discussiëren.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Een deel van de reden waarom er geen stemsysteem bestaat voor Atom Issues is dat het Atom-team niet in alle gevallen een stemsysteem gaat volgen. Soms moeten we kiezen wat we vinden dat juist is, zelfs als het niet populair is. (...) Wat ik kan bieden en beloven te doen ... is dat het mijn taak is om naar de gemeenschap te luisteren.
+> ![](https://avatars.githubusercontent.com/lee-dohm?s=180)
+> Een deel van de reden waarom er geen stemsysteem bestaat voor Atom Issues is dat het Atom-team niet in alle gevallen een stemsysteem gaat volgen. Soms moeten we kiezen wat we vinden dat juist is, zelfs als het niet populair is. (...) Wat ik kan bieden en beloven te doen ... is dat het mijn taak is om naar de gemeenschap te luisteren.
 
   _Part of the reason why a voting system doesn't exist for Atom Issues is because the Atom team isn't going to follow a voting system in all cases. Sometimes we have to choose what we feel is right even if it is unpopular. (...) What I can offer and pledge to do...is that it is my job to listen to the community._
-
-  <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's besluitvormingsproces](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
-  </p>
-</aside>
+> — @lee-dohm on [Atom's besluitvormingsproces](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
 
 Zelfs als u niet echt een consensuszoekproces toepast, is het als projectonderhouder belangrijk dat mensen weten dat u luistert. Door ervoor te zorgen dat andere mensen zich gehoord voelen en zich ertoe verbinden hun zorgen op te lossen, kunnen gevoelige situaties aanzienlijk worden verspreid. Volg vervolgens uw woorden met daden.
 
@@ -268,16 +251,11 @@ Als het gesprek begint te ontrafelen, vraag dan aan de groep: _"Welke stappen mo
 
 Als een gesprek duidelijk nergens heen gaat, er geen duidelijke acties kunnen worden ondernomen, of als de juiste actie al is ondernomen, sluit dan het probleem af en leg uit waarom je het hebt gesloten.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Een draad naar bruikbaarheid leiden zonder opdringerig te zijn, is een kunst. Het zal niet werken om mensen simpelweg te vermanen om te stoppen met het verspillen van hun tijd, of om hen te vragen niet te posten tenzij ze iets constructiefs te melden hebben. (...) In plaats daarvan moet je voorwaarden stellen voor verdere vooruitgang: geef mensen een route, een pad om te volgen dat leidt tot de resultaten die je wilt, maar zonder dat het lijkt alsof je gedrag dicteert.
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> Een draad naar bruikbaarheid leiden zonder opdringerig te zijn, is een kunst. Het zal niet werken om mensen simpelweg te vermanen om te stoppen met het verspillen van hun tijd, of om hen te vragen niet te posten tenzij ze iets constructiefs te melden hebben. (...) In plaats daarvan moet je voorwaarden stellen voor verdere vooruitgang: geef mensen een route, een pad om te volgen dat leidt tot de resultaten die je wilt, maar zonder dat het lijkt alsof je gedrag dicteert.
 
   _Guiding a thread toward usefulness without being pushy is an art. It won't work to simply admonish people to stop wasting their time, or to ask them not to post unless they have something constructive to say. (...) Instead, you have to suggest conditions for further progress: give people a route, a path to follow that leads to the results you want, yet without sounding like you're dictating conduct._
-
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_OSS Produceren_](https://producingoss.com/en/producingoss.html#common-pitfalls)
-  </p>
-</aside>
+> — @kfogel, [_OSS Produceren_](https://producingoss.com/en/producingoss.html#common-pitfalls)
 
 ### Kies je gevechten verstandig
 

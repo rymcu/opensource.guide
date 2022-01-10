@@ -12,13 +12,8 @@ related:
 
 ## Why contribute to open source?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Mengusahakan \ [freenode \] membantu saya memperoleh banyak kemahiran yang kemudian saya gunakan untuk pengajian di universiti dan pekerjaan sebenar saya. Saya fikir mengusahakan projek sumber terbuka membantu saya sama seperti membantu projek!
-  <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/errietta?s=180)
+> Mengusahakan \ [freenode \] membantu saya memperoleh banyak kemahiran yang kemudian saya gunakan untuk pengajian di universiti dan pekerjaan sebenar saya. Saya fikir mengusahakan projek sumber terbuka membantu saya sama seperti membantu projek!> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 
 Menyumbang kepada sumber terbuka boleh menjadi kaedah yang bermanfaat untuk belajar, mengajar, dan membina pengalaman dalam apa sahaja kemahiran yang dapat anda bayangkan.
 
@@ -62,23 +57,13 @@ Tidak perlu risau! Terdapat pelbagai cara untuk terlibat dengan projek sumber te
 
 Kesalahpahaman umum mengenai menyumbang kepada sumber terbuka ialah anda perlu menyumbang kod. Sebenarnya, selalunya bahagian lain dari projek itu [most neglected or overlooked](https://github.com/blog/2195-the-shape-of-open-source). Anda akan melaksanakan projek ini dengan menawarkan banyak sumbangan seperti ini!
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
- Saya terkenal dengan karya saya di CocoaPods, tetapi kebanyakan orang tidak tahu bahawa saya sebenarnya tidak membuat kerja sebenar pada alat CocoaPods itu sendiri. Masa saya dalam projek ini kebanyakannya dihabiskan untuk melakukan perkara seperti dokumentasi dan mengerjakan penjenamaan.
-  <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/orta?s=180)
+> Saya terkenal dengan karya saya di CocoaPods, tetapi kebanyakan orang tidak tahu bahawa saya sebenarnya tidak membuat kerja sebenar pada alat CocoaPods itu sendiri. Masa saya dalam projek ini kebanyakannya dihabiskan untuk melakukan perkara seperti dokumentasi dan mengerjakan penjenamaan.> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Walaupun anda suka menulis kod, jenis sumbangan lain adalah kaedah terbaik untuk terlibat dengan projek dan bertemu dengan ahli komuniti lain. Membina hubungan tersebut akan memberi anda peluang untuk bekerja di bahagian lain projek.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/brettcannon?s=180" class="pquote-avatar" alt="avatar">
-  Saya pertama kali menghubungi pasukan pengembangan Python (aka python-dev) ketika saya menghantar e-mel kepada senarai mel pada 17 Jun 2002 mengenai penerimaan tampalan saya. Saya dengan cepat menangkap bug sumber terbuka, dan memutuskan untuk mula menguruskan pencernaan e-mel untuk kumpulan itu. Mereka memberi saya alasan yang baik untuk meminta penjelasan mengenai sesuatu topik, tetapi lebih kritikal saya dapat melihat ketika seseorang menunjukkan sesuatu yang perlu diperbaiki.
-  <p markdown="1" class="pquote-credit">
-— @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/brettcannon?s=180)
+> Saya pertama kali menghubungi pasukan pengembangan Python (aka python-dev) ketika saya menghantar e-mel kepada senarai mel pada 17 Jun 2002 mengenai penerimaan tampalan saya. Saya dengan cepat menangkap bug sumber terbuka, dan memutuskan untuk mula menguruskan pencernaan e-mel untuk kumpulan itu. Mereka memberi saya alasan yang baik untuk meminta penjelasan mengenai sesuatu topik, tetapi lebih kritikal saya dapat melihat ketika seseorang menunjukkan sesuatu yang perlu diperbaiki.> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
 
 ### Adakah anda suka merancang acara?
 
@@ -101,13 +86,8 @@ Walaupun anda suka menulis kod, jenis sumbangan lain adalah kaedah terbaik untuk
 * Tulis tutorial untuk projek itu,[like PyPA's contributors did](https://github.com/pypa/python-packaging-user-guide/issues/194)
 * Tulis terjemahan untuk dokumentasi projek
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
- Serius, \ [dokumentasi \] sangat penting. Dokumentasi setakat ini hebat dan menjadi ciri pembunuh Babel. Ada bahagian yang tentu dapat menggunakan beberapa karya dan bahkan penambahan perenggan di sini atau di sana sangat dihargai.
-  <p markdown="1" class="pquote-credit">
-— @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kittens?s=180)
+> Serius, \ [dokumentasi \] sangat penting. Dokumentasi setakat ini hebat dan menjadi ciri pembunuh Babel. Ada bahagian yang tentu dapat menggunakan beberapa karya dan bahkan penambahan perenggan di sini atau di sana sangat dihargai.> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
 
 ### Adakah anda suka mengatur?
 
@@ -148,13 +128,8 @@ Walaupun anda seorang pembangun perisian, mengerjakan projek dokumentasi dapat m
 
 ## Mengarahkan diri anda ke projek baru
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/shaunagm?s=180" class="pquote-avatar" alt="avatar">
-  Sekiranya anda pergi ke pelacak masalah dan perkara kelihatan membingungkan, itu bukan hanya anda. Alat ini memerlukan banyak pengetahuan tersirat, tetapi orang dapat menolong anda menavigasi dan anda boleh mengemukakan soalan kepada mereka.
-  <p markdown="1" class="pquote-credit">
-— @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/shaunagm?s=180)
+> Sekiranya anda pergi ke pelacak masalah dan perkara kelihatan membingungkan, itu bukan hanya anda. Alat ini memerlukan banyak pengetahuan tersirat, tetapi orang dapat menolong anda menavigasi dan anda boleh mengemukakan soalan kepada mereka.> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Untuk apa-apa yang lebih daripada kesalahan typo, menyumbang kepada sumber terbuka adalah seperti berjalan ke sekumpulan orang asing di pesta. Sekiranya anda mula bercakap tentang llamas, semasa mereka sedang dalam perbincangan mengenai ikan mas, mereka mungkin akan melihat anda sedikit aneh.
 
@@ -371,13 +346,8 @@ Projek yang mesra dan mesra memberi isyarat bahawa mereka akan menerima penyumba
   </label>
 </div>
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Bila-bila masa anda melihat urutan panjang, periksa jawapan dari pemaju teras yang datang lewat. Adakah mereka merangkum secara konstruktif, dan mengambil langkah-langkah untuk membuat keputusan dengan tetap sopan? Sekiranya anda melihat banyak peperangan api berlaku, itu sering kali menandakan bahawa tenaga akan menjadi hujah dan bukannya menjadi pembangunan.
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> Bila-bila masa anda melihat urutan panjang, periksa jawapan dari pemaju teras yang datang lewat. Adakah mereka merangkum secara konstruktif, dan mengambil langkah-langkah untuk membuat keputusan dengan tetap sopan? Sekiranya anda melihat banyak peperangan api berlaku, itu sering kali menandakan bahawa tenaga akan menjadi hujah dan bukannya menjadi pembangunan.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## Cara menghantar sumbangan
 
@@ -387,13 +357,8 @@ Anda telah menjumpai projek yang anda suka, dan anda sudah bersedia untuk member
 
 Sama ada anda penyumbang sekali atau cuba menyertai komuniti, bekerja dengan orang lain adalah salah satu kemahiran terpenting yang akan anda kembangkan dalam sumber terbuka.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \ [Sebagai penyumbang baru, \] Saya dengan cepat menyedari bahawa saya harus mengemukakan soalan sekiranya saya mahu menutup masalah ini. Saya melayari asas kod. Setelah mengetahui apa yang sedang berlaku, saya meminta lebih banyak arah. Dan voilà! Saya dapat menyelesaikan masalah ini setelah mendapat semua butiran berkaitan yang saya perlukan.
-  <p markdown="1" class="pquote-credit">
-— @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/shubheksha?s=180)
+> \ [Sebagai penyumbang baru, \] Saya dengan cepat menyedari bahawa saya harus mengemukakan soalan sekiranya saya mahu menutup masalah ini. Saya melayari asas kod. Setelah mengetahui apa yang sedang berlaku, saya meminta lebih banyak arah. Dan voilà! Saya dapat menyelesaikan masalah ini setelah mendapat semua butiran berkaitan yang saya perlukan.> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Sebelum anda membuka masalah atau menarik permintaan, atau mengajukan soalan dalam sembang, ingatlah perkara ini untuk membantu idea anda disampaikan dengan berkesan.
 
@@ -449,13 +414,8 @@ Sebelum anda membuka masalah atau menarik permintaan, periksa dokumen penyumbang
 
 Sekiranya anda ingin memberikan sumbangan yang besar, buka isu yang perlu ditanyakan sebelum mengusahakannya. Sangat berguna untuk menonton projek sebentar (di GitHub, [you can click "Watch"](https://help.github.com/articles/watching-repositories/) untuk diberitahu tentang semua perbualan), dan berkenalan dengan anggota masyarakat, sebelum melakukan pekerjaan yang mungkin tidak diterima.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gaearon?s=180" class="pquote-avatar" alt="avatar">
-  Anda akan belajar <em> banyak </em> dari mengambil satu projek yang anda gunakan secara aktif, "menonton" di GitHub dan membaca setiap isu dan PR.
-<p markdown="1" class="pquote-credit">
-— @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gaearon?s=180)
+> Anda akan belajar <em> banyak </em> dari mengambil satu projek yang anda gunakan secara aktif, "menonton" di GitHub dan membaca setiap isu dan PR.> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Membuka masalah
 

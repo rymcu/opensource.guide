@@ -36,13 +36,8 @@ Llevando una clara, documentada visi&oacute;n te mantiene en foco y ayuda a evit
 
 Por ejemplo, @lord descubri&oacute; que tener la visi&oacute;n de un proyecto lo ayud&oacute; a darse cuenta que peticiones priorizar. Como un mantenedor de c&oacute;digo novato, se lament&oacute; de no ser fiel al alcance del proyecto cuando recibi&oacute; su primer pedido de funcionalidad por [Slate](https://github.com/lord/slate).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lord?s=180" class="pquote-avatar" alt="avatar">
-  Lo intent&eacute;. No le puse el esfuerzo necesario para salir adelante con una soluci&oacute;n completa. En lugar de una soluci&oacute;n a medias, hubiera deseado haber dicho "En este momento no tengo tiempo para eso, pero voy a agregar la funcionalidad a la lista de pendientes a desarrollar en el futuro."
-  <p markdown="1" class="pquote-credit">
-— @lord, ["Tips para mantenedores de c&oacute;digo abierto"](https://lord.io/blog/2014/oss-tips/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/lord?s=180)
+> Lo intent&eacute;. No le puse el esfuerzo necesario para salir adelante con una soluci&oacute;n completa. En lugar de una soluci&oacute;n a medias, hubiera deseado haber dicho "En este momento no tengo tiempo para eso, pero voy a agregar la funcionalidad a la lista de pendientes a desarrollar en el futuro."> — @lord, ["Tips para mantenedores de c&oacute;digo abierto"](https://lord.io/blog/2014/oss-tips/)
 
 ### Comunicar tus expectativas
 
@@ -93,13 +88,8 @@ Independientemente de la raz&oacute;n, es posible manejar con tacto las contribu
 
 Si recibes una contribuci&oacute;n que no deseas aceptar, tu primera reacci&oacute;n podr&iacute;a ser ignorarla o fingir que no la has visto. Hacerlo podr&iacute;a da&ntilde;ar los sentimientos de la otra persona e incluso desmotivar a otros posibles contribuyentes en tu comunidad.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/krausefx?s=180" class="pquote-avatar" alt="avatar">
-  La clave para manejar el soporte para proyectos de c&oacute;digo abierto de gran escala es mantener las issues en movimiento. Intenta evitar tener issues quietas. Si eres un desarrollador de iOS sabes lo frustrante que puede ser enviar radares. Podr&iacute;as recibir alguna noticia dos a&ntilde;os despues, y se les pedir&aacute; que vuelvan a intentarlo con la &uacute;ltima versi&oacute;n de iOS.
-  <p markdown="1" class="pquote-credit">
-— @KrauseFx, ["Escalando comunidades de c&oacute;digo abierto"](https://krausefx.com/blog/scaling-open-source-communities)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/krausefx?s=180)
+> La clave para manejar el soporte para proyectos de c&oacute;digo abierto de gran escala es mantener las issues en movimiento. Intenta evitar tener issues quietas. Si eres un desarrollador de iOS sabes lo frustrante que puede ser enviar radares. Podr&iacute;as recibir alguna noticia dos a&ntilde;os despues, y se les pedir&aacute; que vuelvan a intentarlo con la &uacute;ltima versi&oacute;n de iOS.> — @KrauseFx, ["Escalando comunidades de c&oacute;digo abierto"](https://krausefx.com/blog/scaling-open-source-communities)
 
 No dejes abierta una contribuci&oacute;n no deseada porque te sientas culpable o quieras ser amable. Con el tiempo, tus issues sin respuesta y PRs har&aacute; que trabajar en tu proyecto se sienta mucho m&aacute;s estresante e intimidante.
 
@@ -114,11 +104,14 @@ Si no quieres aceptar una contribuci&oacute;n:
 * **Comparte informaci&oacute;n relevante**, si la tienes. Si notas peticiones repetidas de cosas que no deseas aceptar, agr&eacute;galas a tu documentaci&oacute;n para evitar explicar siempre lo mismo.
 * **Cierra la solicitud**
 
-no deber&iacute;as necesitar m&aacute;s de 1-2 oraciones para responder. Por ejemplo, cuando un usuario de [celery](https://github.com/celery/celery/) report&oacute; un error relacionado a Windows, @berkerpeksag [respondi&oacute; con](https://github.com/celery/celery/issues/3383):
+no deber&iacute;as necesitar m&aacute;s de 1-2 oraciones para responder. Por ejemplo, cuando un usuario
+de [celery](https://github.com/celery/celery/) report&oacute; un error relacionado a Windows,
+@berkerpeksag [respondi&oacute; con](https://github.com/celery/celery/issues/3383):
 
-[celery screenshot](/assets/images/best-practices/celery.png)
+[celery screenshot](../../assets/images/best-practices/celery.png)
 
-Si te aterra la idea de decir que no, no te sientas s&oacute;lo. Como @jessfraz [dice](https://blog.jessfraz.com/post/the-art-of-closing/):
+Si te aterra la idea de decir que no, no te sientas s&oacute;lo. Como
+@jessfraz [dice](https://blog.jessfraz.com/post/the-art-of-closing/):
 
 > He hablado con los mantenedores de c&oacute;digo de numerosos proyectos de c&oacute;digo abierto diferentes, Mesos, Kubernetes, Chromium, y todos est&aacute;n de acuerdo en que una de las partes m&aacute;s dif&iacute;ciles de ser un mantenedor de c&oacute;digo es decir "No" a los parches que no quieres.
 
@@ -139,13 +132,8 @@ Si no siguen tus reglas, cierra la issue inmediatamente y dir&iacute;gelos a tu 
 
 Si bien este enfoque puede parecer desagradable al principio, ser proactivo es realmente bueno para ambas partes. Reduce la posibilidad de que alguien ponga muchas horas de trabajo desperdiciado en un pull request que no vas a aceptar. Y hace que tu carga de trabajo sea m&aacute;s f&aacute;cil de manejar.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikemcquaid?s=180" class="pquote-avatar" alt="avatar">
-  Idealmente, expl&iacute;cales y en un archivo CONTRIBUTING.md c&oacute;mo pueden obtener una mejor indicaci&oacute;n en el futuro de lo que ser&iacute;a o no aceptado antes de comenzar el trabajo.
-  <p markdown="1" class="pquote-credit">
-— @MikeMcQuaid, ["Cerrando Pull Requests amablemente"](https://github.com/blog/2124-kindly-closing-pull-requests)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mikemcquaid?s=180)
+> Idealmente, expl&iacute;cales y en un archivo CONTRIBUTING.md c&oacute;mo pueden obtener una mejor indicaci&oacute;n en el futuro de lo que ser&iacute;a o no aceptado antes de comenzar el trabajo.> — @MikeMcQuaid, ["Cerrando Pull Requests amablemente"](https://github.com/blog/2124-kindly-closing-pull-requests)
 
 A veces, cuando dices que no, tu contribuyente potencial puede molestarse o criticar tu decisi&oacute;n. Si su comportamiento se vuelve hostil, [tomar medidas para desactivar la situaci&oacute;n](https://github.com/jonschlinkert/maintainers-guide-to-staying-positive#action-items) o incluso eliminarlos de tu comunidad, si no est&aacute;n dispuestos a colaborar constructivamente.
 
@@ -167,13 +155,8 @@ Cuando veas nuevos contribuyentes haciendo contribuciones repetidas, deber&iacut
 
 Alentar a otros a [compartir la propiedad del proyecto](../building-community/#comparte-la-propiedad-de-tu-proyecto) puede reducir en gran medida tu carga de trabajo, como @lmccart descubri&oacute; en su proyecto, [p5.js](https://github.com/processing/p5.js).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lmccart?s=180" class="pquote-avatar" alt="avatar">
-  Estuve diciendo, "Si, cualquier persona puede formar parte, no necesitas tener mucha experiencia en programaci&oacute;n [...]." Hemos tenido personas inscriptas [a eventos] y ah&iacute; fue cuando me pregunt&eacute;: es esto cierto, lo que estuve diciendo? Habr&aacute;n 40 personas que se presentar&aacute;n, y no es como si pudiera sentarme con cada uno de ellos...Pero la gente se reuni&oacute;, y funcion&oacute;. tan pronto como una persona lo consiguiera, podr&iacute;a ense&ntilde;arle a sus vecinos.
-  <p markdown="1" class="pquote-credit">
-—  @lmccart, ["¿Qu&eacute; significa, al fin y al cabo, "C&oacute;digo Abierto"? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/lmccart?s=180)
+> Estuve diciendo, "Si, cualquier persona puede formar parte, no necesitas tener mucha experiencia en programaci&oacute;n [...]." Hemos tenido personas inscriptas [a eventos] y ah&iacute; fue cuando me pregunt&eacute;: es esto cierto, lo que estuve diciendo? Habr&aacute;n 40 personas que se presentar&aacute;n, y no es como si pudiera sentarme con cada uno de ellos...Pero la gente se reuni&oacute;, y funcion&oacute;. tan pronto como una persona lo consiguiera, podr&iacute;a ense&ntilde;arle a sus vecinos.> — @lmccart, ["¿Qu&eacute; significa, al fin y al cabo, "C&oacute;digo Abierto"? p5.js Edition"](https://medium.com/@kenjagan/what-does-open-source-even-mean-p5-js-edition-98c02d354b39)
 
 Si necesitas alejarte de tu proyecto, ya sea por un tiempo o permanentemente, no hay vergüenza en pedirle a alguien m&aacute;s que se haga cargo por t&iacute;.
 
@@ -189,13 +172,8 @@ Si un contribuyente potencial tiene una opini&oacute;n diferente sobre lo que tu
 
 Hacer fork de un proyecto no tiene por qu&eacute; ser una cosa mala. Ser capaz de copiar y modificar proyectos es una de las mejores cosas sobre es c&oacute;digo abierto. Alentar a los miembros de su comunidad a trabajar en su propio fork puede proporcionar la salida creativa que necesitan, sin entrar en conflicto con la visi&oacute;n de tu proyecto.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/geerlingguy?s=180" class="pquote-avatar" alt="avatar">
-  Yo atiendo el 80% de los casos de uso. Si eres uno de los unicornios, por favor, haz un fork de mi trabajo. ¡No me ofender&eacute;! Mis proyectos p&uacute;blicos casi siempre est&aacute;n destinados a resolver los problemas m&aacute;s comunes; Trato de hacer que sea f&aacute;cil ir m&aacute;s lejos ya sea con un fork de mi trabajo o extendi&eacute;ndolo.
-  <p markdown="1" class="pquote-credit">
-— @geerlingguy, ["Por qu&eacute; cierro PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/geerlingguy?s=180)
+> Yo atiendo el 80% de los casos de uso. Si eres uno de los unicornios, por favor, haz un fork de mi trabajo. ¡No me ofender&eacute;! Mis proyectos p&uacute;blicos casi siempre est&aacute;n destinados a resolver los problemas m&aacute;s comunes; Trato de hacer que sea f&aacute;cil ir m&aacute;s lejos ya sea con un fork de mi trabajo o extendi&eacute;ndolo.> — @geerlingguy, ["Por qu&eacute; cierro PRs"](https://www.jeffgeerling.com/blog/2016/why-i-close-prs-oss-project-maintainer-notes)
 
 Lo mismo se aplica a un usuario que realmente quiere una soluci&oacute;n que simplemente no tienes el alcance para construir. Ofrecer APIs y hooks personalizables puede ayudar a otros a satisfacer sus propias necesidades, sin tener que modificar la fuente directamente.
 @orta [encontr&oacute; que](https://artsy.github.io/blog/2016/07/03/handling-big-projects/) alentando plugins para CocoaPods llev&oacute; a "algunas de las ideas m&aacute;s interesantes":
@@ -217,13 +195,8 @@ Configura los tests autom&aacute;ticos que se ejecutar&aacute;n en todas las con
 
 Si agregas testing, aseg&uacute;rate de explicar c&oacute;mo funcionan en su archivo CONTRIBUTING.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/edunham?s=180" class="pquote-avatar" alt="avatar">
-  Creo que las pruebas son necesarias para todo c&oacute;digo en el que la gente trabaja. Si el c&oacute;digo era totalmente y perfectamente correcto, no necesitar&iacute;a cambios - s&oacute;lo escribimos c&oacute;digo cuando algo est&aacute; mal, ya sea "Se bloquea" o "Falta tal o cual caracter&iacute;stica". Independientemente de los cambios que est&eacute;s haciendo, las pruebas son esenciales para capturar cualquier regresi&oacute;n que pueda introducir accidentalmente.
-  <p markdown="1" class="pquote-credit">
-— @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/edunham?s=180)
+> Creo que las pruebas son necesarias para todo c&oacute;digo en el que la gente trabaja. Si el c&oacute;digo era totalmente y perfectamente correcto, no necesitar&iacute;a cambios - s&oacute;lo escribimos c&oacute;digo cuando algo est&aacute; mal, ya sea "Se bloquea" o "Falta tal o cual caracter&iacute;stica". Independientemente de los cambios que est&eacute;s haciendo, las pruebas son esenciales para capturar cualquier regresi&oacute;n que pueda introducir accidentalmente.> — @edunham, ["Automatizaci&oacute;n de la comunidad de Rust"](https://edunham.net/2016/09/27/rust_s_community_automation.html)
 
 ### Utilizar herramientas para automatizar tareas b&aacute;sicas de mantenimiento
 
@@ -255,13 +228,8 @@ Aunque deber&iacute;a darse por sabido, ¡Toma un descanso! No debes esperar has
 
 Al igual que cualquier otro tipo de trabajo, tomar pausas regulares te mantendr&aacute; fresco, feliz y emocionado acerca de tu trabajo.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/danielbachhuber?s=180" class="pquote-avatar" alt="avatar">
-  Durante el mantenimiento de WP-CLI, descubr&iacute; que tengo que preocuparme por mi felicidad primero, y establecer l&iacute;mites claros en mi participaci&oacute;n. El mejor equilibrio que he encontrado es 2-5 horas por semana, como parte de mi horario de trabajo normal. Esto mantiene mi participaci&oacute;n una pasi&oacute;n, y de sentirse demasiado como el trabajo. Como priorizo ​​las issues en las que estoy trabajando, puedo hacer progresos regulares en lo que creo que es lo m&aacute;s importante.
-  <p markdown="1" class="pquote-credit">
-— @danielbachhuber, ["Mis condolencias, ahora eres el mantenedor de un proyecto de c&oacute;digo abierto popular"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/danielbachhuber?s=180)
+> Durante el mantenimiento de WP-CLI, descubr&iacute; que tengo que preocuparme por mi felicidad primero, y establecer l&iacute;mites claros en mi participaci&oacute;n. El mejor equilibrio que he encontrado es 2-5 horas por semana, como parte de mi horario de trabajo normal. Esto mantiene mi participaci&oacute;n una pasi&oacute;n, y de sentirse demasiado como el trabajo. Como priorizo ​​las issues en las que estoy trabajando, puedo hacer progresos regulares en lo que creo que es lo m&aacute;s importante.> — @danielbachhuber, ["Mis condolencias, ahora eres el mantenedor de un proyecto de c&oacute;digo abierto popular"](https://danielbachhuber.com/2016/06/26/my-condolences-youre-now-the-maintainer-of-a-popular-open-source-project/)
 
 A veces, puede ser dif&iacute;cil tomar un descanso del trabajo de c&oacute;digo abierto cuando sientes como si todo el mundo te necesitara. La gente puede incluso tratar de hacerte sentir culpable por alejarte.
 

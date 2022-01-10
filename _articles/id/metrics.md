@@ -33,11 +33,15 @@ Jika Anda _memang_ tertarik untuk memahami proyek Anda pada level yang lebih dal
 
 ## Penemuan
 
-Sebelum setiap orang bisa menggunakan atau berkontribusi pada proyek Anda, mereka perlu tahu bahwa proyek itu ada. Tanyakan pada diri Anda: _apakah orang-orang menemukan proyek ini?_
+Sebelum setiap orang bisa menggunakan atau berkontribusi pada proyek Anda, mereka perlu tahu bahwa proyek itu ada.
+Tanyakan pada diri Anda: _apakah orang-orang menemukan proyek ini?_
 
-![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Jika proyek Anda berada di GitHub, [Anda dapat melihat](https://help.github.com/articles/about-repository-graphs/#traffic) berapa banyak orang yang sampai pada proyek Anda dan darimana mereka berasal. Dari halaman proyek Anda, klik "Graphs", lalu "Traffic". Pada halaman ini, Anda bisa melihat:
+Jika proyek Anda berada di
+GitHub, [Anda dapat melihat](https://help.github.com/articles/about-repository-graphs/#traffic) berapa banyak orang yang
+sampai pada proyek Anda dan darimana mereka berasal. Dari halaman proyek Anda, klik "Graphs", lalu "Traffic". Pada
+halaman ini, Anda bisa melihat:
 
 * **Total pageviews:** Menginformasikan berapa banyak proyek Anda dilihat
 
@@ -53,17 +57,26 @@ Anda mungkin ingin [melacak temuan pada tempat khusus](https://opensource.com/bu
 
 ## Penggunaan
 
-Orang-orang menemukan proyek Anda pada sesuatu yang kita sebut dengan Internet. Idealnya, ketika mereka melihat proyek Anda, mereka akan tertarik untuk melakukan sesuatu. Pertanyaan kedua yang ingin Anda tanyakan adalah: _apakah orang-orang menggunakan proyek ini?_
+Orang-orang menemukan proyek Anda pada sesuatu yang kita sebut dengan Internet. Idealnya, ketika mereka melihat proyek
+Anda, mereka akan tertarik untuk melakukan sesuatu. Pertanyaan kedua yang ingin Anda tanyakan adalah: _apakah
+orang-orang menggunakan proyek ini?_
 
-Jika Anda menggunakan perangkat manajemen paket, seperti npm atau RubyGems.org, untuk mendistribusikan proyek Anda, Anda bisa melacak jumlah total download dari proyek Anda.
+Jika Anda menggunakan perangkat manajemen paket, seperti npm atau RubyGems.org, untuk mendistribusikan proyek Anda, Anda
+bisa melacak jumlah total download dari proyek Anda.
 
-Setiap perangkat manajemen paket mungkin menggunakan definisi "download" yang berbeda, dan jumlah download tidak langsung berkorelasi dengan installasi atau penggunaan, tetapi informasi ini menyediakan dasar untuk perbandingan. Cobalah untuk menggunakan [Libraries.io](https://libraries.io/) untuk melacak statistik pada banyak perangkat manajemen paket.
+Setiap perangkat manajemen paket mungkin menggunakan definisi "download" yang berbeda, dan jumlah download tidak
+langsung berkorelasi dengan installasi atau penggunaan, tetapi informasi ini menyediakan dasar untuk perbandingan.
+Cobalah untuk menggunakan [Libraries.io](https://libraries.io/) untuk melacak statistik pada banyak perangkat manajemen
+paket.
 
-Jika proyek Anda berada pada GitHub, kunjungi halaman "Traffic". Anda bisa menggunakan [clone graph](https://github.com/blog/1873-clone-graphs) untuk melihat berapa kali proyek Anda telah di-clone pada hari tertentu, dipecah pada jumlah clone dan orang-orang yang melakukan clone secara unik.
+Jika proyek Anda berada pada GitHub, kunjungi halaman "Traffic". Anda bisa
+menggunakan [clone graph](https://github.com/blog/1873-clone-graphs) untuk melihat berapa kali proyek Anda telah
+di-clone pada hari tertentu, dipecah pada jumlah clone dan orang-orang yang melakukan clone secara unik.
 
-![clone graph](/assets/images/metrics/clone_graph.png)
+![clone graph](../../assets/images/metrics/clone_graph.png)
 
-Jika penggunaan ternyata rendah dibandingkan jumlah orang yang menemukan proyek Anda, terdapat dua hal yang perlu dipertimbangkan:
+Jika penggunaan ternyata rendah dibandingkan jumlah orang yang menemukan proyek Anda, terdapat dua hal yang perlu
+dipertimbangkan:
 
 * Proyek Anda tidak sukses dalam mengkonversi pengguna Anda, atau
 * Anda menarik pengguna yang salah
@@ -86,7 +99,7 @@ Contoh dari metrik komunitas yang perlu Anda perhatikan secara berkala meliputi:
 
 * **Jumlah total kontributor dan commit per kontributor:** Menginformasikan berapa banyak kontributor yang Anda miliki, dan siapa yang lebih atau kurang aktif. Pada GitHub, Anda bisa melihat informasi ini pada "Graphs" -> "Contributors." Saat ini, grafik ini hanya menghitung kontributor yang telah melakukan commit pada branch default dari repositori.
 
-![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Kontributor perdana, umum, dan rutin:** Membantu Anda melacak apakah Anda mendapatkan kontributor baru, dan apakah mereka kembali. (Kontributor umum adalah kontributor dengan jumlah commit yang rendah. Apakah itu satu, kurang dari lima, atau jumlah commit lain sesuai definisi Anda.) Tanpa kontributor baru, komunitas proyek Anda menjadi stagnan.
 
@@ -96,13 +109,8 @@ Contoh dari metrik komunitas yang perlu Anda perhatikan secara berkala meliputi:
 
 * **Jenis kontribusi:** Sebagai contoh, commit, memperbaiki kesalahan ketik atau kesalahan program, atau memberikan komentar pada sebuah laporan masalah.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source lebih dari sekedar kode. Proyek open source yang sukses meliputi kontribusi kode dan dokumentasi bersama dengan diskusi tentang perubahan ini.
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Open source lebih dari sekedar kode. Proyek open source yang sukses meliputi kontribusi kode dan dokumentasi bersama dengan diskusi tentang perubahan ini.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Aktivitas pengelola
 

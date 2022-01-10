@@ -14,13 +14,8 @@ related:
 
 A legtöbb nyílt forráskódú munka önkéntes. Például, ha valaki találkozik egy hibával egy projektben amelyet használ, akkor gyors javítást nyújt be, vagy szabadidejében a nyílt forráskódú projektet javítgatja.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-Kerestem egy hobbi projektet, amivel a Karácsonyi szabadságom alatt elfoglalhatom magam. (...) Volt egy PC-m, de azon kívül más nem nagyon. Gondoltam írok egy értelmezőt ahhoz a programnyelvhez, amin már régóta gondolkodtam. (...) Akkor választottam a Python nevet.
-  <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gvanrossum?s=180)
+> Kerestem egy hobbi projektet, amivel a Karácsonyi szabadságom alatt elfoglalhatom magam. (...) Volt egy PC-m, de azon kívül más nem nagyon. Gondoltam írok egy értelmezőt ahhoz a programnyelvhez, amin már régóta gondolkodtam. (...) Akkor választottam a Python nevet.> — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
 
 Számos oka lehet annak, hogy valaki nem akar fizetést a nyílt forráskódú munkájáért.
 
@@ -28,35 +23,20 @@ Számos oka lehet annak, hogy valaki nem akar fizetést a nyílt forráskódú m
 * **Hobbiként tekint a nyílt forráskódú fejlesztésre** vagy a kreatív szabadság kiteljesedéseként és nem akarja magát korlátozni.
 * **Más előnye származik a nyílt forráskódú munkájából,** például a hírnév vagy portfólió építés, tanulás, vagy a közösségi munka öröme.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  A pénzügyi támogatás sok embernek felelősséget is jelent. (...) Számunkra viszont fontos, hogy a világszerte összekapcsolt, gyors tempójú világban, amelyben élünk, azt mondhassuk „ezt nem akarom, úgy érzem, hogy ezt teljesen másként szeretném csinálni”.
-  <p markdown="1" class="pquote-credit">
-— @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/alloy?s=180)
+> A pénzügyi támogatás sok embernek felelősséget is jelent. (...) Számunkra viszont fontos, hogy a világszerte összekapcsolt, gyors tempójú világban, amelyben élünk, azt mondhassuk „ezt nem akarom, úgy érzem, hogy ezt teljesen másként szeretném csinálni”.> — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
 Mások számára, különösen, ha a hozzájárulásuk folyamatosak vagy jelentős időre van szükségük, a nyílt forráskódban való munkájuk megfizetése az egyetlen módja annak, hogy részt vehessenek benne, akár a projekt igényei, akár személyes okok miatt.
 
 A népszerű projektek fenntartása jelentős felelősséggel járhat, havi néhány óra helyett akár heti 10 vagy 20 órát is igénybe vehet.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Kérdezz meg egy nyílt forráskódú karbantartót, és el fogja mondani, hogy a valóságban mennyi munkával is jár fenntartani a projektet. Vannak ügyfeleid. Végzel javításokat nekik. Létrehozol új funkciókat. Ez valós igény a te idődre és munkádra.
-  <p markdown="1" class="pquote-credit">
-— @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/ashedryden?s=180)
+> Kérdezz meg egy nyílt forráskódú karbantartót, és el fogja mondani, hogy a valóságban mennyi munkával is jár fenntartani a projektet. Vannak ügyfeleid. Végzel javításokat nekik. Létrehozol új funkciókat. Ez valós igény a te idődre és munkádra.> — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 
 A fizetett munka az élet különböző területein élő emberek számára is lehetővé teszi, hogy érdemi hozzájárulást nyújtsanak a projekthez. Egyesek nem engedhetik meg maguknak, hogy fizetetlen időt töltsenek a nyílt forráskódú projekteken a jelenlegi pénzügyi helyzetük, adósságuk, családi vagy egyéb gondoskodási kötelezettségeik miatt. Ez azt jelenti, soha nem jutnak el a világba azoknak a tehetséges embereknek a hozzájárulásai, akik nem engedhetik meg maguknak, hogy ingyen dolgozzanak. Ennek etikai következményei vannak, ahogy @ashedryden [írta](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), azoknak akiknek nincs szüksége pénzügyi támogatásra könnyebben végezhetnek nyílt forráskódú munkát, így azzal további előnyöket szerezhetnek, míg aki nem tud pénzügyi okokból ilyen munkát végezni, ezt az előnyt értelemszerűen nem is szerezheti meg, ezzel tovább erősítve a sokszínűség hiányát a nyílt forráskódú közösségben.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-   Az OSS (nyílt forráskódú szoftver) jelentős előnyökkel jár a technológiai ipar számára, ami viszont minden iparág számára előnyöket jelent. (...) Ha azonban csak azok tudnak ezzel foglalkozni, akik szerencsések és megszállottak, hatalmas a kihasználatlan potenciál.
-  <p markdown="1" class="pquote-credit">
-— @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/isaacs?s=180)
+> Az OSS (nyílt forráskódú szoftver) jelentős előnyökkel jár a technológiai ipar számára, ami viszont minden iparág számára előnyöket jelent. (...) Ha azonban csak azok tudnak ezzel foglalkozni, akik szerencsések és megszállottak, hatalmas a kihasználatlan potenciál.> — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
 
 Ha pénzügyi támogatást keresel, akkor két irány lehet. Résztvevőként finanszírozhatod a saját idődet vagy találsz egy szervezetet, aki támogatja a projektet.
 
@@ -66,13 +46,8 @@ Ma sok embernek fizetnek részmunkaidőben vagy teljes munkaidőben nyílt forr�
 
 Egyszerűbb elérni ezt, ha az adott nyílt forráskódú projektet a munkaadód is használja. Lehet, hogy a munkaadód nem használja a projektet, de használja a Python-t, és egy népszerű Python projekt fenntartása segíti, hogy új Python fejlesztőket találjon a munkaadód. Ezzel a munkaadód még fejlesztő-barátabbnak tűnik.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba.
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/hzoo?s=180)
+> Mint sokan mások a nyílt forráskódú közösségben, én is küzdöttem egy projekt fenntartásának terheivel. Amikor először kezdtem el a nyílt forráskódú munkát, későig maradtam a munkahelyemen, hogy dolgozhassak, vagy rögtön nekikezdtem, ahogy hazaértem. (...) Meg tudtam beszélni a vezetőmmel a problémákat, amikkel szembesültem és kitaláltuk, hogy mivel használjuk a Babel-t, be tudjuk beépíteni a nyílt forráskódú feladatokat a saját munkánkba.> — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
 
 Ha még nincs nyílt forráskódú projekted, amin dolgoznál, de szeretnéd, ha munkád eredménye nyílt forrású lenne, győzd meg a munkaadódat, hogy valamelyik belső projekt forráskódját tegye nyílttá.
 
@@ -84,13 +59,8 @@ Számos cég fejleszt nyílt forráskódú programokat azért, hogy az imázsuka
 
 Ha a vállalatod ezt az utat választja, fontos, hogy a közösségi és a vállalati tevékenység jól elhatárolódjon. Végső soron a nyílt forráskód fenntartja saját magát a világ minden tájáról érkező emberek hozzájárulásaival, és ez jóval nagyobb, mint bármelyik vállalat vagy hely.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  A nyílt forráskódú munkádért fizetést kapni ritka és csodálatos lehetőség, de eközben nem kell lemondanod a szenvedélyedről. A szenvedélyed kell hogy legyen az, amiért a cégek meg akarnak fizetni téged.
-  <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/jessfraz?s=180)
+> A nyílt forráskódú munkádért fizetést kapni ritka és csodálatos lehetőség, de eközben nem kell lemondanod a szenvedélyedről. A szenvedélyed kell hogy legyen az, amiért a cégek meg akarnak fizetni téged.> — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
 
 Ha nem tudod meggyőzni a jelenlegi munkáltatót a nyílt forráskódú munka fontosságáról, fontold meg, hogy keresel egy új munkaadót, aki ösztönzi a munkavállalók hozzájárulását a nyílt forráskódhoz. Keress olyan cégeket, amelyek kifejezetten a nyílt forráskódú munkát támogatják. Például:
 
@@ -176,13 +146,8 @@ Pontosan mit fogsz elérni a javasolt finanszírozással? Az emberek fizetése h
 
 A támogatónak vannak kikötései a kifizetéssel kapcsolatosan? Például lehet, hogy non-profit vállalkozásnak kell lenned vagy rendelkezned kell egy non-profit támogatóval. Lehetséges, hogy csak magánszemélyt támogatnak, szervezeteket vagy cégeket nem. Az igények támogatónként eltérhetnek, ezért érdemes ezeket előre felderíteni.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  Évek óta a weboldal barát ikonok piacvezető forrása, több mint 20 millió ember részvételével, és több mint 70 millió webhelyen szerepelt, beleértve Whitehouse.gov oldalt is. (...) A v4 verzió 3 éves. Azóta a webes technológia sokat változott, és őszintén szólva, a Font Awesome egy kicsit elavult. (...) Épp ezért bevezettük a Font Awesome 5-öt. Modernizáljuk és újraírjuk a CSS-eket és újratervezünk minden ikont elejétől a végéig. Szebb megjelenésről, egységesebb kinézetről és jobb olvashatóságról beszélünk.
-  <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/davegandy?s=180)
+> Évek óta a weboldal barát ikonok piacvezető forrása, több mint 20 millió ember részvételével, és több mint 70 millió webhelyen szerepelt, beleértve Whitehouse.gov oldalt is. (...) A v4 verzió 3 éves. Azóta a webes technológia sokat változott, és őszintén szólva, a Font Awesome egy kicsit elavult. (...) Épp ezért bevezettük a Font Awesome 5-öt. Modernizáljuk és újraírjuk a CSS-eket és újratervezünk minden ikont elejétől a végéig. Szebb megjelenésről, egységesebb kinézetről és jobb olvashatóságról beszélünk.> — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 
 ## Kísérletezz és ne add fel
 

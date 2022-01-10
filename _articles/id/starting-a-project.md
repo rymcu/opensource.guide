@@ -31,13 +31,8 @@ Sebagai perbandingan, sebuah proses yang tertutup akan seperti dimana Anda pergi
 
 ### Kenapa orang-orang membuka hasil karya mereka?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> Salah satu pengalaman yang paling berharga dengan menggunakan dan berkolaborasi pada open source datang dari relasi yang saya bangun dengan pengembang yang lain ketika menghadapi masalah yang sama seperti yang saya alami.> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Terdapat banyak alasan](https://ben.balter.com/2015/11/23/why-open-source/) kenapa seseorang atau sebuah organisasi ingin membuka proyek open source. Beberapa diantaranya meliputi:
 
@@ -75,13 +70,8 @@ Tidak ada jawaban benar tunggal pada pertanyaan ini. Anda boleh memiliki banyak 
 
 Jika tujuan akhir Anda adalah untuk menunjukkan hasil pekerjaan Anda, Anda mungkin tidak perlu adanya kontribusi, dan mungkin bisa saja dituliskan pada dokumen README Anda. Di satu sisi, jika Anda ingin adanya kontributor, Anda harus menginvestasikan waktu untuk dokumentasi yang jelas dan membuat pendatang baru merasa disambut.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  Pada suatu titik saya menciptakan UIAlertView hasil modifikasi yang saya gunakan...dan saya memutuskan untuk membuatnya menjadi open source. Lalu saya memodifikasinya menjadi lebih dinamis dan menyimpannya di GitHub. Saya menulis dokumentasi pertama saya dengan menjelaskan kepada pengembang lain bagaimana untuk menggunakannya pada proyek mereka. Mungkin saja tidak ada orang lain yang akan menggunakannya karena merupakan proyek sederhana, tetapi saya memiliki perasaan yang baik tentang kontribusi yang saya lakukan.
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> Pada suatu titik saya menciptakan UIAlertView hasil modifikasi yang saya gunakan...dan saya memutuskan untuk membuatnya menjadi open source. Lalu saya memodifikasinya menjadi lebih dinamis dan menyimpannya di GitHub. Saya menulis dokumentasi pertama saya dengan menjelaskan kepada pengembang lain bagaimana untuk menggunakannya pada proyek mereka. Mungkin saja tidak ada orang lain yang akan menggunakannya karena merupakan proyek sederhana, tetapi saya memiliki perasaan yang baik tentang kontribusi yang saya lakukan.> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 Ketika proyek Anda berkembang, komunitas Anda mungkin membutuhkan lebih dari sekedar kode dari Anda. Merespon terhadap laporan masalah, melakukan review terhadap kode, dan mempopulerkan proyek Anda menjadi kegiatan penting dalam proyek open source.
 
@@ -91,13 +81,8 @@ Meskipun jumlah waktu yang Anda habiskan untuk kegiatan yang tidak berhubungan d
 
 Jika Anda membutuhkan pendanaan yang permanen atau alokasi staf untuk promosi, operasi, dan pengelolaan proyek, lakukan diskusi di awal.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  Ketika Anda mulai untuk membuka proyek Anda pada open source, sangatlah penting untuk memastikan bahwa proses manajemen Anda memperhatikan kontribusi dan kemampuan dari komunitas disekeliling proyek Anda. Jangan takut untuk melibatkan kontributor yang bukan merupakan karyawan sebagai aspek kunci dalam proyek - terutama jika mereka adalah kontributor yang aktif.
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> Ketika Anda mulai untuk membuka proyek Anda pada open source, sangatlah penting untuk memastikan bahwa proses manajemen Anda memperhatikan kontribusi dan kemampuan dari komunitas disekeliling proyek Anda. Jangan takut untuk melibatkan kontributor yang bukan merupakan karyawan sebagai aspek kunci dalam proyek - terutama jika mereka adalah kontributor yang aktif.> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Kontribusi ke proyek lain
 
@@ -124,17 +109,24 @@ Jika proyek Anda berada pada GitHub, meletakkan dokumen-dokumen diatas pada dire
 
 ### Memilih sebuah lisensi
 
-Sebuah lisensi open source menjamin bahwa orang lain mampu menggunakan, menyalin, memodifikasi, dan berkontribusi kembali pada proyek Anda tanpa adanya masalah. Lisensi juga menjaga dari masalah legalitas. **Anda harus menyertakan sebuah lisensi ketika Anda merilis sebuah proyek open source.**
+Sebuah lisensi open source menjamin bahwa orang lain mampu menggunakan, menyalin, memodifikasi, dan berkontribusi
+kembali pada proyek Anda tanpa adanya masalah. Lisensi juga menjaga dari masalah legalitas. **Anda harus menyertakan
+sebuah lisensi ketika Anda merilis sebuah proyek open source.**
 
-Pekerjaan hukum bukan sesuatu yang menyenangkan. Berita baiknya adalah Anda bisa menyalin dan menggunakan lisensi yang sudah ada pada repositori Anda. Proses ini hanya membutuhkan waktu satu menit untuk menjaga hasil kerja keras Anda.
+Pekerjaan hukum bukan sesuatu yang menyenangkan. Berita baiknya adalah Anda bisa menyalin dan menggunakan lisensi yang
+sudah ada pada repositori Anda. Proses ini hanya membutuhkan waktu satu menit untuk menjaga hasil kerja keras Anda.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), dan [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lisensi open source yang paling populer, tetapi [terdapat opsi lain](https://choosealicense.com) yang bisa Anda pilih.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),
+dan [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) adalah lisensi open source yang paling populer,
+tetapi [terdapat opsi lain](https://choosealicense.com) yang bisa Anda pilih.
 
-Ketika Anda membuat proyek baru pada GitHub, Anda diberikan pilihan untuk memilih sebuah lisensi. Menyertakan sebuah lisensi open source akan membuat proyek GitHub Anda sebagai open source.
+Ketika Anda membuat proyek baru pada GitHub, Anda diberikan pilihan untuk memilih sebuah lisensi. Menyertakan sebuah
+lisensi open source akan membuat proyek GitHub Anda sebagai open source.
 
-![memilih sebuah lisensi](/assets/images/starting-a-project/repository-license-picker.png)
+![memilih sebuah lisensi](../../assets/images/starting-a-project/repository-license-picker.png)
 
-Jika Anda memiliki pertanyaan lain atau khawatir tentang aspek legalitas tentang mengelola proyek open source, [kami punya solusinya](../legal/).
+Jika Anda memiliki pertanyaan lain atau khawatir tentang aspek legalitas tentang mengelola proyek open
+source, [kami punya solusinya](../legal/).
 
 ### Menulis dokumen README
 
@@ -149,13 +141,8 @@ Pada dokumen README, cobalah untuk menjawab pertanyaan berikut:
 
 Anda bisa menggunakan README untuk menjawab pertanyaan lainnya, seperti bagaiman Anda akan menangani kontribusi, apa tujuan akhir dari proyek, dan informasi tentang lisensi. Jika Anda tidak ingin menerima kontribusi, atau proyek Anda belum siap untuk produksi, tuliskan informasi ini.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  Dokumentasi yang lebih baik berarti lebih banyak pengguna, lebih sedikit bantuan untuk dukungan ke pengguna, dan lebih banyak kontributor. (...) Ingatlah bahwa pembaca bukanlah Anda. Terdapat orang-orang yang datang pada sebuah proyek yang memiliki pengalaman yang sama sekali berbeda.
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> Dokumentasi yang lebih baik berarti lebih banyak pengguna, lebih sedikit bantuan untuk dukungan ke pengguna, dan lebih banyak kontributor. (...) Ingatlah bahwa pembaca bukanlah Anda. Terdapat orang-orang yang datang pada sebuah proyek yang memiliki pengalaman yang sama sekali berbeda.> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Seringkali, banyak orang menghindari untuk menulis README karena mereka merasa bahwa proyek belum selesai, atau mereka tidak menginginkan adanya kontribusi. Berikut ini adalah berbagai alasan bagus bagi Anda untuk menulis dokumen README.
 
@@ -183,25 +170,30 @@ Sebagai contoh, [Active Admin](https://github.com/activeadmin/activeadmin/) memu
 
 > Pertama-tama, terima kasih karena Anda mempertimbangkan untuk berpartisipasi pada Active Admin. Orang-orang seperti Anda yang membuat Active Admin menjadi sebuah perangkat yang hebat.
 
-Pada fase awal dari proyek Anda, dokumen CONTRIBUTING bisa sangat sederhana. Anda perlu menjelaskan bagaimana melaporkan kesalahan dan kebutuhan teknis (seperti pengujian), atau bagaimana cara berkontribusi.
+Pada fase awal dari proyek Anda, dokumen CONTRIBUTING bisa sangat sederhana. Anda perlu menjelaskan bagaimana melaporkan
+kesalahan dan kebutuhan teknis (seperti pengujian), atau bagaimana cara berkontribusi.
 
-Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling sering ditanyakan pada dokumen CONTRIBUTING. Menuliskan informasi ini berarti lebih sedikit orang yang akan bertanya pertanyaan yang sama kepada Anda berulang kali.
+Seiring dengan berjalannya waktu, Anda bisa menambahkan pertanyaan yang paling sering ditanyakan pada dokumen
+CONTRIBUTING. Menuliskan informasi ini berarti lebih sedikit orang yang akan bertanya pertanyaan yang sama kepada Anda
+berulang kali.
 
-Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) milik @nayafia atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) milik @mozilla.
+Untuk bantuan tentang penulisan dokumen CONTRIBUTING, silahkan
+lihat  [template panduan berkontribusi](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+milik @nayafia
+atau ["Bagaimana Membangun Dokumen CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/)
+milik @mozilla.
 
-Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah atau membuat pull request.
+Hubungkan dokumen CONTRIBUTING dari README, sehingga lebih banyak orang yang melihatnya. Jika
+Anda [meletakkan dokumen CONTRIBUTING pada repositori proyek](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+, GitHub akan secara otomatis menghubungkan ke dokumen Anda ketika seorang kontributor membuat sebuah laporan masalah
+atau membuat pull request.
 
-![panduan kontribusi](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![panduan kontribusi](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Membangun kode etik
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  Kita semua pernah memiliki pengalaman dimana kita dihadapkan dengan penyalahgunaan, baik sebagai pengelola yang menjelaskan kenapa sesuatu harus dilakukan dengan cara tertentu, atau sebagai pengguna...bertanya sebuah pertanyaan sederhana. (...) Kode etik merupakan dokumen yang mudah untuk dijadikan referensi yang mengindikasikan bahwa tim Anda sangat memperhatikan wacana yang bersifat membangun.
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> Kita semua pernah memiliki pengalaman dimana kita dihadapkan dengan penyalahgunaan, baik sebagai pengelola yang menjelaskan kenapa sesuatu harus dilakukan dengan cara tertentu, atau sebagai pengguna...bertanya sebuah pertanyaan sederhana. (...) Kode etik merupakan dokumen yang mudah untuk dijadikan referensi yang mengindikasikan bahwa tim Anda sangat memperhatikan wacana yang bersifat membangun.> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 Akhirnya, sebuah kode etik membantu menentukan aturan perilaku dasar bagi partisipan proyek Anda. Hal ini akan sangat berguna apabila Anda merilis proyek open source untuk sebuah komunitas atau perusahaan. Kode etik memampukan Anda untuk memfasilitasi perilaku yang sehat dan konstruktif, sehingga mengurangi kadar stress Anda sebagai pengelola.
 
@@ -246,13 +238,8 @@ Pada siklus hidup proyek Anda, Anda akan banyak menulis:  README, tutorial, doku
 
 Baik dokumentasi resmi atau email sehari-hari, gaya penulisan Anda merupakan bagian dari citra proyek Anda. Perhatikan bagaimana Anda bisa hadir pada pengguna Anda dan apakah hal itu merupakan pesan yang ingin Anda sampaikan?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.
-  <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> Saya berusaha untuk ikut terlibat pada setiap diskusi pada mailing list, dan memberikan contoh panutan, bertindak baik kepada orang-orang, menganggap masalah mereka sebagai sesuatu yang serius, dan berusaha untuk membantu. Setelah beberapa waktu, orang-orang tidak hanya berhenti karena ada masalah, namun juga ikut membantu, dan mereka mengikuti gaya saya.> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Menggunakan bahasa yang hangat, inklusif (seperti "mereka", meskipun mengacu pada satu orang) bisa membuat proyek Anda lebih nyaman bagi kontributor baru. Gunakan bahasa sederhana, karena bisa jadi banyak pengguna Anda bukan merupakan pengguna yang menggunakan bahasa Inggris sehari-harinya.
 

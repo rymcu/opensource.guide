@@ -33,11 +33,15 @@ Si tu _est&aacute;s_ interesado en entender tu proyecto a un nivel m&aacute;s pr
 
 ## Descubrimiento
 
-Antes de que alguien pueda usar o contribuir a tu proyecto, quiz&aacute;s necesiten saber que el mismo existe. Debes preguntarte: _¿Las personas pueden encontrar el proyecto?_
+Antes de que alguien pueda usar o contribuir a tu proyecto, quiz&aacute;s necesiten saber que el mismo existe. Debes
+preguntarte: _¿Las personas pueden encontrar el proyecto?_
 
-![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Si tu proyecto est&aacute; hosteado en GitHub, [puedes ver](https://help.github.com/articles/about-repository-graphs/#traffic) cu&aacute;ntas personas lo visitan, y de d&oacute;nde vienen. En la p&aacute;gina de tu proyecto haz click en "Graphs", y luego "Traffic". En esta p&aacute;gina puedes ver:
+Si tu proyecto est&aacute; hosteado en
+GitHub, [puedes ver](https://help.github.com/articles/about-repository-graphs/#traffic) cu&aacute;ntas personas lo
+visitan, y de d&oacute;nde vienen. En la p&aacute;gina de tu proyecto haz click en "Graphs", y luego "Traffic". En esta
+p&aacute;gina puedes ver:
 
 * **Total de vistas:** Informa la cantidad de veces que tu p&aacute;gina fue vista
 
@@ -53,17 +57,26 @@ Quiz&aacute;s tambi&eacute;n quieras [rastrear la forma que te descubren desde l
 
 ## Uso
 
-Las personas hallan tu proyecto en ese lugar salvaje y loco llamado Internet. Lo mejor ser&iacute;a que, cuando vean tu proyecto, se sientan obligados o atra&iacute;dos a hacer algo. La segunda pregunta que queremos hacer es: _¿Las personas est&aacute;n usando tu proyecto?_
+Las personas hallan tu proyecto en ese lugar salvaje y loco llamado Internet. Lo mejor ser&iacute;a que, cuando vean tu
+proyecto, se sientan obligados o atra&iacute;dos a hacer algo. La segunda pregunta que queremos hacer es: _¿Las personas
+est&aacute;n usando tu proyecto?_
 
-Si usas un administrador de paquetes, como npm o Rubygems.org para distribuir tu proyecto, quiz&aacute;s quieras rastrear las descargas del mismo
+Si usas un administrador de paquetes, como npm o Rubygems.org para distribuir tu proyecto, quiz&aacute;s quieras
+rastrear las descargas del mismo
 
-Cada administrador de paquetes usa diferentes definiciones de "descarga", y las descargas no est&aacute;n necesariamente relacionadas con la instalaci&oacute;n o el uso, pero provee una l&iacute;nea base para la comparaci&oacute;n. Trata de usar [Libraries.io](https://libraries.io/) para rastrear el uso de estad&iacute;sticas a trav&eacute;s de algunos de los administradores de paquetes m&aacute;s populares.
+Cada administrador de paquetes usa diferentes definiciones de "descarga", y las descargas no est&aacute;n necesariamente
+relacionadas con la instalaci&oacute;n o el uso, pero provee una l&iacute;nea base para la comparaci&oacute;n. Trata de
+usar [Libraries.io](https://libraries.io/) para rastrear el uso de estad&iacute;sticas a trav&eacute;s de algunos de los
+administradores de paquetes m&aacute;s populares.
 
-Si tu proyecto est&aacute; en GitHub, navega nuevamente a "Traffic". Puedes usar [clone graph](https://github.com/blog/1873-clone-graphs) para ver cu&aacute;ntas veces tu proyecto ha sido clonado en un d&iacute;a determinado.
+Si tu proyecto est&aacute; en GitHub, navega nuevamente a "Traffic". Puedes
+usar [clone graph](https://github.com/blog/1873-clone-graphs) para ver cu&aacute;ntas veces tu proyecto ha sido clonado
+en un d&iacute;a determinado.
 
-![clone graph](/assets/images/metrics/clone_graph.png)
+![clone graph](../../assets/images/metrics/clone_graph.png)
 
-Si el uso es bajo comparado con el número de personas descubriendo tu proyecto, debes considerar que est&aacute;s enfrentando uno de dos problemas:
+Si el uso es bajo comparado con el número de personas descubriendo tu proyecto, debes considerar que est&aacute;s
+enfrentando uno de dos problemas:
 
 * Tu proyecto no est&aacute; atrayendo exitosamente a la audiencia, o
 * est&aacute;s atrayendo a la audiencia incorrecta
@@ -86,7 +99,7 @@ Ejemplos de m&eacute;tricas de comunidad que quieres rastrear incluyen:
 
 * **El total de commits por contribuyente, y el número de ellos:** Te informa cu&aacute;ntos contribuyentes tienes y qui&eacute;n es m&aacute;s o menos activo. En GitHub, pudes ver esto debajo de "Graphs" -> "Contributors". Actualmente est&eacute; gr&aacute;fico solo cuenta los contribuyentes que han hecho algún commit a la rama por defecto del repositorio.
 
-![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Contribuyentes nuevos, casuales y repetidos** Te ayuda a rastrear si est&aacute;s obteniendo nuevos contribuyentes, y si vuelven. (Los casuales son aquellos con un número bajo de commits, elige tu criterio para definir dicho número). Sin nuevos contribuyentes, la comunidad de tu proyecto puede permanecer estancada.
 
@@ -96,13 +109,8 @@ Ejemplos de m&eacute;tricas de comunidad que quieres rastrear incluyen:
 
 * **Tipos de contribuci&oacute;n:** Por ejemplo commits, arreglar typos, solucionar bugs o comentando en un issue.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  C&oacute;digo Abierto es m&aacute;s que solo c&oacute;digo. Proyectos de este tipo exitosos han incluido contribuciones de c&oacute;digo y documentaci&oacute;n acompañados por una conversaci&oacute;n acerca de estos cambios.
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> C&oacute;digo Abierto es m&aacute;s que solo c&oacute;digo. Proyectos de este tipo exitosos han incluido contribuciones de c&oacute;digo y documentaci&oacute;n acompañados por una conversaci&oacute;n acerca de estos cambios.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Actividad de mantenimiento
 

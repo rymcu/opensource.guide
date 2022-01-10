@@ -31,20 +31,15 @@ Prin comparație, într-un proces cu sursă închisă mergi la un restaurant și
 
 ### De ce oamenii deschid sursa muncii lor?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> <p>
     Cele mai recompensante experiențe pe care le scot din folosirea și colaborarea pe open source vin din relațiile pe care le construiesc cu alți dezvoltatori care fac față la multe din aceleași probleme pe care le întâmpin eu.
   </p>
   <p>
     <em>
       One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+  </p>> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Există numeroase motive](https://ben.balter.com/2015/11/23/why-open-source/) pentru care o persoană sau o organizație ar dori să deschidă sursa unui proiect. Exemplele includ:
 
@@ -82,20 +77,15 @@ Nu există un răspuns singur corect la această întrebare. Ai putea avea multi
 
 Dacă propriul tău scop este să îți arăți munca, poate nici nu vei vrea contribuții, și poate chiar vei spune asta în README. Pe de altă parte, dacă tu vrei contributori, vei investi timp într-o documentație clară și în a face noii veniți să se simtă bineveniți.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> <p>
     La un moment dat am creat un UIAlertView personalizat pe care îl foloseam... și am decis să-i deschid sursa. Astfel că l-am modificat să fie mai dinamic și l-am încărcat pe GitHub. De asemenea am scris prima mea documentație explicând altor dezvoltatori cum să-l folosească în proiectele lor. Probabil nimeni nu l-a folosit deoarce era un proiect simplu dar m-am simțit bine din cauza contribuției mele.
   </p>
   <p>
     <em>
       At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+  </p>> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 Pe măsură ce proiectul tău crește, comunitatea ta poate avea nevoie de mai mult decât doar cod din partea ta. Răspunzând la probleme, analizând cod, și promovând proiectul sunt toate sarcini importante într-un proiect cu sursă deschisă.
 
@@ -105,20 +95,15 @@ Pe măsură ce proiectul tău crește, comunitatea ta poate avea nevoie de mai m
 
 Dacă aveți nevoie de un buget dedicat sau de personal pentru promovare, logistică și menținerea proiectului, începeți aceste conversații devreme.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> <p>
     Pe măsură ce începi să deschizi sursa proiectului tău, este important să te asiguri că procesele tale de gestionare iau în considerare contribuțiile și abilitățile comunității din jurul proiectului tău. Nu-ți fie frică să implici contributori care nu sunt angajați în afacerea ta în aspecte cheie ale proiectului — în special dacă ei contribuie frecvent.
   </p>
   <p>
     <em>
       As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+  </p>> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Contribuind pe alte proiecte
 
@@ -145,17 +130,24 @@ Dacă proiectul tău este pe GitHub, punerea acestor fișiere în directorul ră
 
 ### Alegerea unei licențe
 
-O licență de sursă deschisă garantează că alții pot folosi, copia, modifica, și contribui înapoi la proiectul tău fără repercursiuni. De asemenea te protejează de situații juridice lipicioase. **Tu trebuie să incluzi o licență când lansezi un proiect cu sursă deschisă.**
+O licență de sursă deschisă garantează că alții pot folosi, copia, modifica, și contribui înapoi la proiectul tău fără
+repercursiuni. De asemenea te protejează de situații juridice lipicioase. **Tu trebuie să incluzi o licență când lansezi
+un proiect cu sursă deschisă.**
 
-Munca judiciară nu este distractivă. Veștile bune sunt că tu poți copia și lipi o licență existentă în depozitul tău. Îți va lua doar un minut pentru a proteja munca ta grea.
+Munca judiciară nu este distractivă. Veștile bune sunt că tu poți copia și lipi o licență existentă în depozitul tău.
+Îți va lua doar un minut pentru a proteja munca ta grea.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), și [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sunt cele mai populare licențe de sursă deschisă, dar [sunt și alte opțiuni](https://choosealicense.com) din care să alegi.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),
+și [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sunt cele mai populare licențe de sursă deschisă,
+dar [sunt și alte opțiuni](https://choosealicense.com) din care să alegi.
 
-Când creezi un nou proiect pe GitHub, ți se dă opțiunea de a selecta o licență. Incluzând o licență de sursă deschisă îți va face proiectul GitHub open source.
+Când creezi un nou proiect pe GitHub, ți se dă opțiunea de a selecta o licență. Incluzând o licență de sursă deschisă
+îți va face proiectul GitHub open source.
 
-![Alege o licență](/assets/images/starting-a-project/repository-license-picker.png)
+![Alege o licență](../../assets/images/starting-a-project/repository-license-picker.png)
 
-Dacă ai alte întrebări sau îngrijorări în legătură cu aspectele juridice de gestionare a unui proiect cu sursă deschisă, [te-am acoperit](../legal/).
+Dacă ai alte întrebări sau îngrijorări în legătură cu aspectele juridice de gestionare a unui proiect cu sursă
+deschisă, [te-am acoperit](../legal/).
 
 ### Scrierea unui README
 
@@ -170,20 +162,15 @@ README-urile fac mai mult decât să explice cum să se folosească proiectul t�
 
 Poți să-ți folosești README-ul pentru a răspunde altor întrebări, cum ar fi cum tratezi contribuțiile, care sunt scopurile proiectului, și informații despre licențe și drepturi. Dacă tu nu vrei să accepți contribuții, sau proiectul tău nu este pregătit încă pentru producție, scrie aceste informații.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> <p>
     Documentație mai bună înseamnă mai mulți utilizatori, mai puține cereri de asistență, și mai mulți contributori. (...) Ține minte că cititorii tăi nu sunt tu. Sunt oameni care ar putea veni la un proiect care au experiențe complet diferite.
   </p>
   <p>
     <em>
       Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+  </p>> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Uneori, oamenii evită scrierea unui README deoarece simt că proiectul este nefinalizat, sau ei nu vor contribuții. Acestea sunt toate motive foarte bune pentru a scrie unul.
 
@@ -213,32 +200,34 @@ De exemplu, [Active Admin](https://github.com/activeadmin/activeadmin/) începe 
 >
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
-În primele etape ale proiectului tău, fișierul tău CONTRIBUTING poate fi simplu. Ar trebui mereu să explici cum se raportează bug-uri sau înregistrează probleme, și oricare cerință tehnică (cum ar fi teste) pentru a face o contribuție.
+În primele etape ale proiectului tău, fișierul tău CONTRIBUTING poate fi simplu. Ar trebui mereu să explici cum se
+raportează bug-uri sau înregistrează probleme, și oricare cerință tehnică (cum ar fi teste) pentru a face o contribuție.
 
-Cu timpul, ai putea adăuga alte întrebări puse des în fișierul tău CONTRIBUTING. Scriind aceste informații înseamnă că mai puțini oameni vă vor întreba aceleași întrebări de mai multe ori.
+Cu timpul, ai putea adăuga alte întrebări puse des în fișierul tău CONTRIBUTING. Scriind aceste informații înseamnă că
+mai puțini oameni vă vor întreba aceleași întrebări de mai multe ori.
 
-Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire la [șablonul de ghid de contribuire](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) al @nayafia sau [„How to Build a CONTRIBUTING.md”](https://mozillascience.github.io/working-open-workshop/contributing/) al @mozilla.
+Pentru mai mult ajutor cu scrierea fișierului tău CONTRIBUTING, aruncă o privire
+la [șablonul de ghid de contribuire](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+al @nayafia sau [„How to Build a CONTRIBUTING.md”](https://mozillascience.github.io/working-open-workshop/contributing/)
+al @mozilla.
 
-Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd. Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
+Leagă către fișierul tău CONTRIBUTING din README-ul tău, astfel încât mai mulți oameni îl văd.
+Dacă [amplasezi fișierul tău CONTRIBUTING în depozitul proiectului tău](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+, GitHub va lega automat către fișierul tău când un contributor creează o problemă sau deschide o cerere de pull.
 
-![Direcții de contribuire](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Direcții de contribuire](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Stabilirea unui cod de conduită
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> <p>
     Toți am avut experiențe în care am făcut față la ceva ce probabil era abuz fie ca un întreținător încercând să explice de ce ceva trebuia să fie într-un anumit fel, sau ca un utilizator... punând o întrebare simplă. (...) Un cod de conduită devine un document ușor referit și la care se poate lega, care indică faptul că echipa ta ia discursul constructiv foarte în serios.
   </p>
   <p>
     <em>
       We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+  </p>> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 În cele din urmă, un cod de conduită ajută la stabilirea unor reguli de bază pentru comportament pentru participanții la proiectul tău. Acest lucru este valoros în special dacă lansezi un proiect cu sursă deschisă pentru o comunitate sau o companie. Un cod de conduită te împuternicește să facilitezi comportamentul sănătos, constructiv al comunității, ceea ce îți va reduce stresul în calitate de întreținător.
 
@@ -283,20 +272,15 @@ De-a lungul vieții proiectului tău, veți face multă scriere: README-uri, tut
 
 Fie că este vorba de documentație oficială sau de un email obișnuit, stilul tău de scriere este parte a mărcii proiectului tău. Consideră cum ai putea să ajungi la audiență și dacă acesta este tonul pe care dorești să-l transmiți.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  <p>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> <p>
     Am încercat să mă implic în toate firele de discuție din lista de email-uri, și să arăt comportament exemplar, fiind drăguț cu oamenii, luându-le în serios problemele și încercând în ansamblu să fiu de ajutor. După un timp, oamenii au rămas în jur nu doar pentru a pune întrebări, ci de asemenea pentru a ajuta cu răspunsurile, și spre bucuria mea completă, ei mi-au imitat stilul.
   </p>
   <p>
     <em>
       I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
     </em>
-  </p>
-  <p markdown="1" class="pquote-credit">
-— @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+  </p>> — @janl despre [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Folosirea unui limbaj cald și incluziv (cum ar fi „ei”, chiar când mă refeream la o singură persoană) poate face un drum lung în a face proiectul tău să fie simțit primitor de noii contributori. Lipește-te de limbajul simplu, fiindcă mulți din cititorii tăi ar putea să nu fie vorbitori nativi de engleză.
 

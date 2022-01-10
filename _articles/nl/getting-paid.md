@@ -14,16 +14,11 @@ related:
 
 Veel van het open source-werk wordt op vrijwillige basis aangeboden. Iemand kan bijvoorbeeld een bug tegenkomen in een project dat ze gebruiken en een snelle oplossing indienen, of ze kunnen in hun vrije tijd graag aan een open source-project sleutelen.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gvanrossum?s=180" class="pquote-avatar" alt="avatar">
-  Ik was op zoek naar een "hobby" programmeerproject dat me doordeweeks rond Kerstmis bezig zou houden. (...) Ik had een homecomputer, en verder niet veel. Ik besloot een tolk te schrijven voor de nieuwe scripttaal waar ik de laatste tijd aan had gedacht. (...) Ik koos Python als werktitel.
+> ![](https://avatars.githubusercontent.com/gvanrossum?s=180)
+> Ik was op zoek naar een "hobby" programmeerproject dat me doordeweeks rond Kerstmis bezig zou houden. (...) Ik had een homecomputer, en verder niet veel. Ik besloot een tolk te schrijven voor de nieuwe scripttaal waar ik de laatste tijd aan had gedacht. (...) Ik koos Python als werktitel.
 
   _I was looking for a "hobby" programming project that would keep me occupied during the week around Christmas. (...) I had a home computer, and not much else on my hands. I decided to write an interpreter for the new scripting language I had been thinking about lately. (...) I chose Python as a working title._
-
-  <p markdown="1" class="pquote-credit">
-— @gvanrossum, ["Python programmeren"](https://www.python.org/doc/essays/foreword/)
-  </p>
-</aside>
+> — @gvanrossum, ["Python programmeren"](https://www.python.org/doc/essays/foreword/)
 
 Er zijn veel redenen waarom iemand niet zou willen worden betaald voor zijn open source-werk.
 
@@ -31,44 +26,29 @@ Er zijn veel redenen waarom iemand niet zou willen worden betaald voor zijn open
 * **Ze vinden open source graag een hobby** of een creatieve ontsnapping en willen zich niet financieel verplicht voelen om aan hun projecten te werken.
 * **Ze profiteren van andere voordelen door bij te dragen aan open source,** zoals het opbouwen van hun reputatie of portfolio, het leren van een nieuwe vaardigheid of het gevoel dichter bij een gemeenschap te zijn.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/alloy?s=180" class="pquote-avatar" alt="avatar">
-  Financiële donaties voegen voor sommigen een gevoel van verantwoordelijkheid toe. (...) Het is belangrijk voor ons, in de wereldwijd verbonden, snelle wereld waarin we leven, om te kunnen zeggen "niet nu, ik heb zin om iets heel anders te doen".
+> ![](https://avatars.githubusercontent.com/alloy?s=180)
+> Financiële donaties voegen voor sommigen een gevoel van verantwoordelijkheid toe. (...) Het is belangrijk voor ons, in de wereldwijd verbonden, snelle wereld waarin we leven, om te kunnen zeggen "niet nu, ik heb zin om iets heel anders te doen".
 
   _Financial donations do add a feeling of responsibility, for some. (...) It's important for us, in the globally connected, fast-paced world we live in, to be able to say "not now, I feel like doing something completely different"._
-
-  <p markdown="1" class="pquote-credit">
-— @alloy, ["Waarom we geen donaties accepteren"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
-  </p>
-</aside>
+> — @alloy, ["Waarom we geen donaties accepteren"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
 Voor anderen, vooral wanneer bijdragen doorlopend zijn of veel tijd vergen, is betaald krijgen om bij te dragen aan open source de enige manier waarop ze kunnen deelnemen, hetzij omdat het project dit vereist, hetzij om persoonlijke redenen.
 
 Het onderhouden van populaire projecten kan een aanzienlijke verantwoordelijkheid zijn, die 10 of 20 uur per week in beslag neemt in plaats van een paar uur per maand.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/ashedryden?s=180" class="pquote-avatar" alt="avatar">
-  Vraag het aan een willekeurige open source projectbeheerder, en zij zullen u vertellen over de realiteit van de hoeveelheid werk die nodig is om een project te beheren. Je hebt klanten. U lost problemen voor hen op. U creëert nieuwe functies. Dit wordt een echte tijdrovende bezigheid.
+> ![](https://avatars.githubusercontent.com/ashedryden?s=180)
+> Vraag het aan een willekeurige open source projectbeheerder, en zij zullen u vertellen over de realiteit van de hoeveelheid werk die nodig is om een project te beheren. Je hebt klanten. U lost problemen voor hen op. U creëert nieuwe functies. Dit wordt een echte tijdrovende bezigheid.
 
   _Ask any open source project maintainer, and they will tell you about the reality of the amount of work that goes into managing a project. You have clients. You are fixing issues for them. You are creating new features. This becomes a real demand on your time._
-
-  <p markdown="1" class="pquote-credit">
-— @ashedryden, ["De ethiek van onbetaalde arbeid en de OSS-gemeenschap"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
-  </p>
-</aside>
+> — @ashedryden, ["De ethiek van onbetaalde arbeid en de OSS-gemeenschap"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 
 Betaald werk stelt mensen uit verschillende rangen en standen ook in staat om een zinvolle bijdrage te leveren. Sommige mensen kunnen het zich niet veroorloven om onbetaalde tijd aan open source-projecten te besteden, op basis van hun huidige financiële positie, schulden, familie- of andere zorgverplichtingen. Dat betekent dat de wereld nooit bijdragen ziet van getalenteerde mensen die het zich niet kunnen veroorloven om vrijwilligerswerk te doen. Dit heeft ethische implicaties, zoals @ashedryden [heeft beschreven](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), aangezien werk dat wordt gedaan, bevooroordeeld ten gunste van degenen die al voordelen in het leven hebben, die vervolgens extra voordelen krijgen op basis van hun vrijwilligersbijdragen, terwijl anderen die niet in staat zijn om vrijwilligerswerk te doen, later geen kansen krijgen, wat het huidige gebrek aan diversiteit in de open source versterkt gemeenschap.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/isaacs?s=180" class="pquote-avatar" alt="avatar">
-  OSS levert enorme voordelen op voor de technologische industrie, wat op zijn beurt voordelen betekent voor alle industrieën. (...) Als de enige mensen die zich erop kunnen concentreren de gelukkigen en geobsedeerd zijn, dan is er een enorm onbenut potentieel.
+> ![](https://avatars.githubusercontent.com/isaacs?s=180)
+> OSS levert enorme voordelen op voor de technologische industrie, wat op zijn beurt voordelen betekent voor alle industrieën. (...) Als de enige mensen die zich erop kunnen concentreren de gelukkigen en geobsedeerd zijn, dan is er een enorm onbenut potentieel.
 
    _OSS yields massive benefits to the technology industry, which, in turn, means benefits to all industries. (...) However, if the only people who can focus on it are the lucky and the obsessed, then there's a huge untapped potential._
-
-  <p markdown="1" class="pquote-credit">
-— @isaacs, ["Geld en Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
-  </p>
-</aside>
+> — @isaacs, ["Geld en Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
 
 Als u op zoek bent naar financiële ondersteuning, zijn er twee manieren om te overwegen. U kunt uw eigen tijd als donateur financieren, of u kunt organisatorische financiering voor het project vinden.
 
@@ -78,16 +58,11 @@ Tegenwoordig worden veel mensen betaald om part- of fulltime aan open source te 
 
 Het is gemakkelijker om een pleidooi te houden voor open source-werk als je werkgever het project ook daadwerkelijk gebruikt, maar wees creatief met je pitch. Misschien gebruikt je werkgever het project niet, maar ze gebruiken Python, en het onderhouden van een populair Python-project helpt nieuwe Python-ontwikkelaars aan te trekken. Misschien zorgt het ervoor dat uw werkgever er in het algemeen ontwikkelaarvriendelijker uitziet.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/hzoo?s=180" class="pquote-avatar" alt="avatar">
-  Zoals velen in open source, worstelde ik met de last om een project te onderhouden. Toen ik voor het eerst met open source begon, bleef ik gewoon te laat om eraan te werken of toen ik thuiskwam. (...) Ik was in staat om met mijn baas de problemen te bespreken waarmee ik werd geconfronteerd en we kwamen met ideeën over hoe we open source-taken konden integreren met ons eigen gebruik van Babel.
+> ![](https://avatars.githubusercontent.com/hzoo?s=180)
+> Zoals velen in open source, worstelde ik met de last om een project te onderhouden. Toen ik voor het eerst met open source begon, bleef ik gewoon te laat om eraan te werken of toen ik thuiskwam. (...) Ik was in staat om met mijn baas de problemen te bespreken waarmee ik werd geconfronteerd en we kwamen met ideeën over hoe we open source-taken konden integreren met ons eigen gebruik van Babel.
 
   _Like many in open source, I was struggling with the burden of maintaining a project. When I first started doing open source, I used to just stay late to work on it or right when I got home. (...) I was able to discuss with my boss the issues I was facing and we came up with ideas on how we could incorporate open source tasks given our own use of Babel._
-
-  <p markdown="1" class="pquote-credit">
-— @hzoo, ["Open source-onderhouder verhalen"](https://github.com/open-source/stories/hzoo)
-  </p>
-</aside>
+> — @hzoo, ["Open source-onderhouder verhalen"](https://github.com/open-source/stories/hzoo)
 
 Als je geen bestaand open source-project hebt waaraan je zou willen werken, maar liever hebt dat je huidige werkoutput open source is, pleit er dan voor dat je werkgever een deel van hun interne software open source maakt.
 
@@ -99,16 +74,11 @@ Veel bedrijven ontwikkelen open source-programma's om hun merk op te bouwen en t
 
 Als uw bedrijf deze weg inslaat, is het belangrijk om de grenzen tussen gemeenschap en bedrijfsactiviteiten duidelijk te houden. Uiteindelijk houdt open source zichzelf in stand door bijdragen van mensen over de hele wereld, en dat is groter dan welk bedrijf of locatie dan ook.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/jessfraz?s=180" class="pquote-avatar" alt="avatar">
-  Betaald worden om aan open source te werken is een zeldzame en geweldige kans, maar je zou je passie in het proces niet moeten opgeven. Uw passie zou moeten zijn waarom bedrijven u willen betalen.
+> ![](https://avatars.githubusercontent.com/jessfraz?s=180)
+> Betaald worden om aan open source te werken is een zeldzame en geweldige kans, maar je zou je passie in het proces niet moeten opgeven. Uw passie zou moeten zijn waarom bedrijven u willen betalen.
 
   _Getting paid to work on open source is a rare and wonderful opportunity, but you should not have to give up your passion in the process. Your passion should be why companies want to pay you._
-
-  <p markdown="1" class="pquote-credit">
-— @jessfraz, ["Wazige lijnen"](https://blog.jessfraz.com/post/blurred-lines/)
-  </p>
-</aside>
+> — @jessfraz, ["Wazige lijnen"](https://blog.jessfraz.com/post/blurred-lines/)
 
 Als u uw huidige werkgever niet kunt overtuigen om prioriteit te geven aan open source-werk, overweeg dan om een nieuwe werkgever te zoeken die werknemersbijdragen aan open source aanmoedigt. Zoek naar bedrijven die hun toewijding aan open source-werk expliciet maken. Bijvoorbeeld:
 
@@ -192,16 +162,11 @@ Wat gaat u precies bereiken met de voorgestelde financiering? Concentreer u op m
 
 Heeft de financier enige vereisten met betrekking tot uitbetaling? U moet bijvoorbeeld een non-profitorganisatie zijn of een fiscale sponsor hebben. Of misschien moet het geld aan een individuele aannemer worden gegeven in plaats van aan een organisatie. Deze vereisten variëren tussen financiers, dus zorg ervoor dat u van tevoren uw onderzoek doet.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/davegandy?s=180" class="pquote-avatar" alt="avatar">
-  We zijn al jaren de toonaangevende bron van websitevriendelijke pictogrammen, met een community van meer dan 20 miljoen mensen en zijn te zien op meer dan 70 miljoen websites, waaronder Whitehouse.gov. (...) Versie 4 bestond drie jaar geleden. Webtechnologie is sindsdien veel veranderd, en eerlijk gezegd is Font Awesome een beetje muf geworden. (...) Daarom introduceren we Font Awesome 5. We moderniseren en herschrijven de CSS en herontwerpen elk pictogram van boven naar beneden. We hebben het over een beter ontwerp, betere consistentie en betere leesbaarheid.
+> ![](https://avatars.githubusercontent.com/davegandy?s=180)
+> We zijn al jaren de toonaangevende bron van websitevriendelijke pictogrammen, met een community van meer dan 20 miljoen mensen en zijn te zien op meer dan 70 miljoen websites, waaronder Whitehouse.gov. (...) Versie 4 bestond drie jaar geleden. Webtechnologie is sindsdien veel veranderd, en eerlijk gezegd is Font Awesome een beetje muf geworden. (...) Daarom introduceren we Font Awesome 5. We moderniseren en herschrijven de CSS en herontwerpen elk pictogram van boven naar beneden. We hebben het over een beter ontwerp, betere consistentie en betere leesbaarheid.
 
   _For years, we've been the leading resource of website friendly icons, with a community of over 20 million people and been featured on over 70 million websites, including Whitehouse.gov. (...) Version 4 was three years ago. Web tech's changed a lot since then, and frankly, Font Awesome's gotten a bit stale. (...) That's why we're introducing Font Awesome 5. We're modernizing and rewriting the CSS and redesigning every icon from top to bottom. We're talking better design, better consistency, and better readability._
-
-  <p markdown="1" class="pquote-credit">
-— @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
-  </p>
-</aside>
+> — @davegandy, [Font Awesome Kickstarter video](https://www.kickstarter.com/projects/232193852/font-awesome-5)
 
 ## Experimenteer en geef niet op
 

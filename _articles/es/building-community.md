@@ -18,11 +18,15 @@ Una comunidad de bienvenida es una inversi&oacute;n a futuro a tu proyecto y a t
 
 ### Haz que la gente se sienta bienvenida
 
-Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid llama [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
+Una manera de pensar acerca de la comunidad del proyecto es a trav&eacute;s de lo que @MikeMcQuaid
+llama [contributor funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/):
 
-![contributor funnel](/assets/images/building-community/contributor_funnel_mikemcquaid.png)
+![contributor funnel](../../assets/images/building-community/contributor_funnel_mikemcquaid.png)
 
-A medida que construyes tu comunidad, considera c&oacute;mo alguien que se encuentra en la parte superior del embudo (un usuario potencial) puede te&oacute;ricamente hacer su camino hacia abajo (un mantenedor activo). Tu objetivo es reducir la fricci&oacute;n en cada etapa de la experiencia del colaborador. Cuando las personas  obtienen victorias f&aacute;ciles, se sentir&aacute;n incentivadas a hacer m&aacute;s.
+A medida que construyes tu comunidad, considera c&oacute;mo alguien que se encuentra en la parte superior del embudo (un
+usuario potencial) puede te&oacute;ricamente hacer su camino hacia abajo (un mantenedor activo). Tu objetivo es reducir
+la fricci&oacute;n en cada etapa de la experiencia del colaborador. Cuando las personas obtienen victorias
+f&aacute;ciles, se sentir&aacute;n incentivadas a hacer m&aacute;s.
 
 Comienza con tu documentaci&oacute;n:
 
@@ -36,13 +40,8 @@ Una buena documentaci&oacute;n invita a las personas a interactuar con tu proyec
 * **Tener la mente abierta acerca de los tipos de contribuciones que aceptar&aacute;.** Muchos colaboradores comienzan reportando un error o con un arreglo peque&ntilde;o. Hay [muchas maneras de contribuir](../how-to-contribute/#qué-significa-contribuir) con un proyecto. Permite que las personas ayuden de la manera que ellos quieran ayudar.
 * **Si existe alguna contribuci&oacute;n con la que est&aacute;s en desacuerdo,** agrad&eacute;cele por su idea y [expl&iacute;cale porqu&eacute;](../best-practices/#aprendiendo-a-decir-no) no encaja en la incumbencia del proyecto, enlazando con documentaci&oacute;n relevante si la tienes.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-  Contribuir con c&oacute;digo abierto es m&aacute;s f&aacute;cil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los colaboradores un lugar para contribuir con aspectos de muy baja competencia t&eacute;cnica (documentaci&oacute;n, reducci&oacute;n del contenido web, etc) puedes ayudar a reducir esas preocupaciones significativamente.
-  <p markdown="1" class="pquote-credit">
-— @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mikeal?s=180)
+> Contribuir con c&oacute;digo abierto es m&aacute;s f&aacute;cil para algunos que para otros. Hay mucho miedo de recibir un alarido por no haber hecho algo bien o simplemente por no encajar. (...) Al dar a los colaboradores un lugar para contribuir con aspectos de muy baja competencia t&eacute;cnica (documentaci&oacute;n, reducci&oacute;n del contenido web, etc) puedes ayudar a reducir esas preocupaciones significativamente.> — @mikeal, ["Growing a contributor base in modern open source"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 La mayor&iacute;a de los colaboradores con el c&oacute;digo abierto son "colaboradores casuales": personas que contribuyen con un proyecto solo ocasionalmente. Un colaborador casual probablemente no disponga del tiempo para dedicarse a tiempo completo a tu proyecto, por lo que tu trabajo es el de hacer que sea m&aacute;s sencillo para ellos contribuir.
 
@@ -50,13 +49,8 @@ Animar a otros colaboradores es tambi&eacute;n invertir en t&iacute; mismo . Cua
 
 ### Documenta todo
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  ¿Alguna vez viste un evento (t&eacute;cnico) en donde no conozcas a nadie, pero todos los dem&aacute;s parece que se encuentran en grupos y conversan como viejos amigos? (...) Ahora imag&iacute;nate queriendo contribuir con un proyecto de c&oacute;digo abierto, pero no distingues porqu&eacute; o c&oacute;mo esto est&aacute; sucediendo.
-  <p markdown="1" class="pquote-credit">
-— @janl, ["C&oacute;digo abierto sostenible"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> ¿Alguna vez viste un evento (t&eacute;cnico) en donde no conozcas a nadie, pero todos los dem&aacute;s parece que se encuentran en grupos y conversan como viejos amigos? (...) Ahora imag&iacute;nate queriendo contribuir con un proyecto de c&oacute;digo abierto, pero no distingues porqu&eacute; o c&oacute;mo esto est&aacute; sucediendo.> — @janl, ["C&oacute;digo abierto sostenible"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Cuando comienzas un proyecto, mantener tu trabajo en privado puede sentirse natural. Pero los proyectos de c&oacute;digo abierto avanzan mucho m&aacute;s cuando procesas tu documento en p&uacute;blico.
 
@@ -74,17 +68,26 @@ Documentar todo tambi&eacute;n se aplica al trabajo que tu haces. Si est&aacute;
 
 ### Comp&oacute;rtate de manera sensible
 
-A medida que [promocionas tu proyecto](../finding-users),las personas te har&aacute;n llegar sus comentarios. Pueden tener preguntas acerca de c&oacute;mo funcionan las cosas, o necesitar ayuda para comenzar.
+A medida que [promocionas tu proyecto](../finding-users),las personas te har&aacute;n llegar sus comentarios. Pueden
+tener preguntas acerca de c&oacute;mo funcionan las cosas, o necesitar ayuda para comenzar.
 
-Trata de responder cuando &aacute;lguien presenta un problema, env&iacute;a un pull request o realiza una pregunta acerca de tu proyecto. Cuando respondes r&aacute;pidamente, logras que las personas se sientan parte del di&aacute;logo, y estar&aacute;n m&aacute;s entusiasmadas de participar.
+Trata de responder cuando &aacute;lguien presenta un problema, env&iacute;a un pull request o realiza una pregunta
+acerca de tu proyecto. Cuando respondes r&aacute;pidamente, logras que las personas se sientan parte del di&aacute;logo,
+y estar&aacute;n m&aacute;s entusiasmadas de participar.
 
-Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su temprana ayuda incrementar&aacute; su compromiso. As&iacute; es como @tdreyno respondi&oacute; a un pull request en [Middleman](https://github.com/middleman/middleman/pull/1466):
+Incluso si no puedes revisar su solicitud inmediatamente, con solo agradecer su temprana ayuda incrementar&aacute; su
+compromiso. As&iacute; es como @tdreyno respondi&oacute; a un pull request
+en [Middleman](https://github.com/middleman/middleman/pull/1466):
 
-![middleman pull request](/assets/images/building-community/middleman_pr.png)
+![middleman pull request](../../assets/images/building-community/middleman_pr.png)
 
-Un [estudio de Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) encontr&oacute; que los colaboradores que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
+Un [estudio de Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+encontr&oacute; que los colaboradores que reciben una revisi&oacute;n de su c&oacute;digo dentro de las 48 horas tienen
+una significativa mayor tasa de retornar y de repetir alguna contribuci&oacute;n.
 
-Las conversaciones acerca de tu proyecto pueden tambi&eacute;n ocurrir en otros lugares a lo largo de la internet, como en Stack Overflow, Twitter o reddit. Puedes configurar tus notificaciones en cualquiera de esos tres lugares de manera de ser alertado cuando &aacute;lguien mencione tu proyecto.
+Las conversaciones acerca de tu proyecto pueden tambi&eacute;n ocurrir en otros lugares a lo largo de la internet, como
+en Stack Overflow, Twitter o reddit. Puedes configurar tus notificaciones en cualquiera de esos tres lugares de manera
+de ser alertado cuando &aacute;lguien mencione tu proyecto.
 
 ### Brinda a tu comunidad un lugar para congregarse
 
@@ -112,13 +115,8 @@ Cualquier proyecto popular inevitablemente atraer&aacute; a personas que perjudi
 
 Haz todo lo posible para adoptar una pol&iacute;tica de tolerancia cero hacia este tipo de personas. Si no se controla, las personas negativas har&aacute;n que otras personas de tu comunidad se sientan inc&oacute;modas. Incluso pueden irse.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/okdistribute?s=180" class="pquote-avatar" alt="avatar">
-  La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.
-  <p markdown="1" class="pquote-credit">
-— @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/okdistribute?s=180)
+> La verdad es que tener una comunidad de apoyo es clave. Nunca hubiera sido capaz de realizar este trabajo sin la ayuda de mis colegas, los extra&ntilde;os de internet que fueron amigables y los canales IRC de conversaci&oacute;n. (...) No te conformes con menos. No te conformes con los idiotas.> — @okdistribute, ["How to Run a FOSS Project"](https://okdistribute.xyz/post/okf-de)
 
 Los debates regulares sobre aspectos triviales de tu proyecto distrae a otros, incluy&eacute;ndote tambi&eacute;n a t&iacute;, de enfocarte en tareas importantes. Las nuevas personas que llegan a tu proyecto pueden ver estas conversaciones y pueden o no querer participar.
 
@@ -126,13 +124,22 @@ Cuando ves que ocurre alg&uacute;n comportamiento negativo, haz la observaci&oac
 
 ### Re&uacute;nete con los colaboradores donde ellos est&aacute;n
 
-La buena documentaci&oacute;n solo se vuelve importante a medida que tu comunidad crece. Los colaboradores casuales, quienes no estar&iacute;an familiarizados con tu proyecto de otra manera, leen tu documentaci&oacute;n para entender r&aacute;pidamente el contexto de lo que necesitas.
+La buena documentaci&oacute;n solo se vuelve importante a medida que tu comunidad crece. Los colaboradores casuales,
+quienes no estar&iacute;an familiarizados con tu proyecto de otra manera, leen tu documentaci&oacute;n para entender
+r&aacute;pidamente el contexto de lo que necesitas.
 
-En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colaboradores c&oacute;mo pueden comenzar. Tal vez quieras dedicar incluso una secci&oacute;n para tal prop&oacute;sito. [Django](https://github.com/django/django), por ejemplo, tiene una p&aacute;gina especial para dar la bienvenida a los nuevos colaboradores.
+En tu archivo CONTRIBUTING, indica de manera expl&iacute;cita a los nuevos colaboradores c&oacute;mo pueden comenzar.
+Tal vez quieras dedicar incluso una secci&oacute;n para tal prop&oacute;sito. [Django](https://github.com/django/django)
+, por ejemplo, tiene una p&aacute;gina especial para dar la bienvenida a los nuevos colaboradores.
 
-![django new contributors page](/assets/images/building-community/django_new_contributors.png)
+![django new contributors page](../../assets/images/building-community/django_new_contributors.png)
 
-En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"solo principiantes"_](https://kentcdodds.com/blog/first-timers-only), "conveniente para quienes resuelven su primer bug", o "documentaci&oacute;n". [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14) hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder comenzar.
+En tu cola de asuntos, etiqueta errores que son convenientes para diferentes tipos de colaboradores: por ejemplo, [_"
+solo principiantes"_](https://kentcdodds.com/blog/first-timers-only), "conveniente para quienes resuelven su primer bug"
+, o "documentaci&oacute;n"
+. [Estas etiquetas](https://github.com/librariesio/libraries.io/blob/6afea1a3354aef4672d9b3a9fc4cc308d60020c8/app/models/github_issue.rb#L8-L14)
+hacen que sea m&aacute;s f&aacute;cil buscar problemas a resolver para alguien nuevo en el proyecto y as&iacute; poder
+comenzar.
 
 Finalmente, utiliza tu documentaci&oacute;n para hacer que las personas se sientan bienvenidas en cada etapa del camino.
 
@@ -144,14 +151,9 @@ Por ejemplo, as&iacute; es como [Rubinius](https://github.com/rubinius/rubinius/
 
 ### Comparte la propiedad de tu proyecto
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/sagesharp?s=180" class="pquote-avatar" alt="avatar">
- Los l&iacute;deres tendr&aacute;n diferentes opiniones, como deber&iacute;a ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces m&aacute;s potentes no ganen siempre por haber cansado a los dem&aacute;s, y que tambi&eacute;n se escuchen las voces menos potentes y minoritarias.
-
-  <p markdown="1" class="pquote-credit">
-— @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/sagesharp?s=180)
+> Los l&iacute;deres tendr&aacute;n diferentes opiniones, como deber&iacute;a ocurrir en todas las comunidades saludables. De todos modos, necesitas tomar algunas medidas para asegurar que las voces m&aacute;s potentes no ganen siempre por haber cansado a los dem&aacute;s, y que tambi&eacute;n se escuchen las voces menos potentes y minoritarias.
+> — @sagesharp, ["What makes a good community?"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 Las personas se entusiasman por contribuir con proyectos cuando perciben un sentido de pertenencia. Eso no significa que tengas que cambiar la visi&oacute;n de tu proyecto o aceptar contribuciones que no quieres. Pero cuanto m&aacute;s cr&eacute;dito les des a los otros, m&aacute;s se quedar&aacute;n.
 
@@ -159,7 +161,7 @@ Observa si puedes encontrar maneras de compartir la propiedad de tu comunidad ta
 
 * **Evita corregir errores sencillos (no cr&iacute;ticos).** En su lugar, utilizalos como oportunidades para reclutar nuevos colaboradores, o mentorear a alguien que quiere contribuir. Puede parecer antinatural al principio, pero tu inversi&oacute;n se ver&aacute; compensada en el tiempo. Por ejemplo,  @michaeljoseph le pidi&oacute; a un colaborador que enviara un pull request de un problema detallado a continuaci&oacute;n [Cookiecutter](https://github.com/audreyr/cookiecutter) en lugar de arreglarlo &eacute;l mismo.
 
-![cookiecutter issue](/assets/images/building-community/cookiecutter_submit_pr.png)
+![cookiecutter issue](../../assets/images/building-community/cookiecutter_submit_pr.png)
 
 * **Inicia un archivo de COLABORADORES o AUTORES en tu proyecto** que liste a todos los que colaboraron con tu proyecto, como lo hace [Sinatra](https://github.com/sinatra/sinatra/blob/HEAD/AUTHORS.md).
 
@@ -174,14 +176,9 @@ La realidad es que [la mayor&iacute;a de los proyectos solo tienen](https://peer
 
 Aunque no siempre encuentres quien responda tu pedido, poner una se&ntilde;al por fuera incrementa las probabilidades de que otras personas se presenten. Y mientras m&aacute;s temprano comiences, m&aacute;s pronto las personas podr&aacute;n ayudar.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/gr2m?s=180" class="pquote-avatar" alt="avatar">
-  \[Est&aacute; entre\] tus mayores intereses se encuentra reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir c&oacute;digo, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
-
-  <p markdown="1" class="pquote-credit">
-— @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/gr2m?s=180)
+> \[Est&aacute; entre\] tus mayores intereses se encuentra reclutar colaboradores que disfruten y que sean capaces de hacer las cosas que tu no puedes. ¿Te gusta escribir c&oacute;digo, pero no responder a los problemas? Entonces identifica aquellos individuos en tu comunidad que lo hacen y permiteles hacer lo suyo.
+> — @gr2m, ["Welcoming Communities"](http://hood.ie/blog/welcoming-communities.html)
 
 ## Resolviendo conflictos
 
@@ -197,13 +194,8 @@ Cuando tu comunidad se encuentre lidiando con una cuesti&oacute;n dif&iacute;cil
 
 Tu trabajo como encargado es evitar que estas situaciones escalen. Incluso si tienes una fuerte opini&oacute;n sobre un tema, trata de mantener una posici&oacute;n de moderador o de facilitador, en lugar de ir a la lucha y empujar tus propios puntos de vista. Si alguien est&aacute; comport&aacute;ndose de manera poco educada o monopolizando la conversaci&oacute;n, [act&uacute;a inmediatamente](../building-community/#no-toleres-a-los-malos-actores) para mantener una discusi&oacute;n civilizada y productiva.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kennethreitz?s=180" class="pquote-avatar" alt="avatar">
-  Como responsable de un proyecto, es extremadamente importante ser respetuoso con los colaboradores. A menudo toman lo que les dices de manera personal.
-  <p markdown="1" class="pquote-credit">
-— @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kennethreitz?s=180)
+> Como responsable de un proyecto, es extremadamente importante ser respetuoso con los colaboradores. A menudo toman lo que les dices de manera personal.> — @kennethreitz, ["Be Cordial or Be on Your Way"](https://web.archive.org/web/20200509154531/https://kenreitz.org/essays/be-cordial-or-be-on-your-way)
 
 Otras personas te mirar&aacute;n como un gu&iacute;a. Da un buen ejemplo. Todav&iacute;a puedes expresar desacuerdo, tristeza o preocupaci&oacute;n, pero de manera calmada.
 
@@ -223,13 +215,8 @@ Algunas veces, la votaci&oacute;n se vuelve un desempate necesario. La mayoría 
 
 Bajo un proceso de b&uacute;squeda de concenso, los miembros de la comunidad discuten las principales preocupaciones hasta que sienten que fueron escuchadas adecuadamente. Cuando solo quedan preocupaciones menores, la comunidad avanza. La "B&uacute;squeda de Concenso" reconoce que una comunidad puede no ser capaz de alcanzar una respuesta perfecta. En su lugar prioriza el escuchar y la discusi&oacute;n.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/lee-dohm?s=180" class="pquote-avatar" alt="avatar">
-  Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votaci&oacute;n en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo que puedo ofrecer y prometo hacer... es escuchar a la comunidad.
-  <p markdown="1" class="pquote-credit">
-— @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/lee-dohm?s=180)
+> Parte de la raz&oacute;n por la que la votaci&oacute;n no existe para Cuestiones At&oacute;micas es porque un Grupo At&oacute;mico no llevar&aacute; adelante un sistema de votaci&oacute;n en todos los casos. Algunas veces tenemos que elegir lo que nos parece correcto incluso aunque no sea popular. (...) Lo que puedo ofrecer y prometo hacer... es escuchar a la comunidad.> — @lee-dohm on [Atom's decisionmaking process](https://discuss.atom.io/t/prioritize-issues-feature-requests-based-on-voting-system/27642/2)
 
 Incluso si no adopta un proceso de b&uacute;squeda de consenso, como responsable del proyecto, es importante que las personas sepan que est&aacute;s escuchando. Hacer que las personas se sientan escuchadas y comprometerte a resolver sus preocupaciones, facilita gran parte del camino para resolver situaciones delicadas. Luego, contin&uacute;a tus palabras con acciones.
 
@@ -249,13 +236,8 @@ Si la conversaci&oacute;n comienza a desenredarse, pregunta al grupo, _"¿Qu&eac
 
 Si la conversaci&oacute;n claramente no va a ning&uacute;n lado, no existen acciones claras para tomar, o las acciones correctas ya se llevaron adelante, cierra el tema y explica porqu&eacute; lo cerraste.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kfogel?s=180" class="pquote-avatar" alt="avatar">
-  Guiar un t&oacute;pico hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: brinda a las personas una ruta, un camino a seguir que los lleve al resultado que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.
-  <p markdown="1" class="pquote-credit">
-— @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kfogel?s=180)
+> Guiar un t&oacute;pico hacia algo &uacute;til sin ser agresivo es un arte. No funcionar&aacute; simplemente con llamar la atenci&oacute;n a las personas para impedir que contin&uacute;en perdiendo tiempo, ni pedirles que no publiquen a menos que tengan algo constructivo que decir. (...) En su lugar, debes sugerir condiciones para continuar progresando: brinda a las personas una ruta, un camino a seguir que los lleve al resultado que quieres, pero sin aparentar que les est&aacute;s dictando una conducta.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/producingoss.html#common-pitfalls)
 
 ### Elige tus batallas sabiamente
 

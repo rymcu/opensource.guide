@@ -33,11 +33,14 @@ Als u _geïnteresseerd_ bent om uw project op een dieper niveau te begrijpen, le
 
 ## Ontdekking
 
-Voordat iemand uw project kan gebruiken of eraan kan bijdragen, moet hij of zij weten dat het bestaat. Stel uzelf de vraag: _vinden mensen dit project?_
+Voordat iemand uw project kan gebruiken of eraan kan bijdragen, moet hij of zij weten dat het bestaat. Stel uzelf de
+vraag: _vinden mensen dit project?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Als je project wordt gehost op GitHub, [je kunt zien](https://help.github.com/articles/about-repository-graphs/#traffic) hoeveel mensen op je project terechtkomen en waar ze vandaan komen. Klik op de pagina van uw project op "Insights" en vervolgens op "Traffic". Op deze pagina ziet u:
+Als je project wordt gehost op GitHub, [je kunt zien](https://help.github.com/articles/about-repository-graphs/#traffic)
+hoeveel mensen op je project terechtkomen en waar ze vandaan komen. Klik op de pagina van uw project op "Insights" en
+vervolgens op "Traffic". Op deze pagina ziet u:
 
 * **Total page views:** geeft aan hoe vaak uw project is bekeken
 
@@ -53,17 +56,25 @@ U kunt ook [vindbaarheid op specifieke plaatsen bijhouden](https://opensource.co
 
 ## Gebruik
 
-Mensen vinden uw project op dit wilde en gekke ding dat we internet noemen. Idealiter voelen ze zich genoodzaakt om iets te doen als ze uw project zien. De tweede vraag die u wilt stellen is: _gebruiken mensen dit project?_
+Mensen vinden uw project op dit wilde en gekke ding dat we internet noemen. Idealiter voelen ze zich genoodzaakt om iets
+te doen als ze uw project zien. De tweede vraag die u wilt stellen is: _gebruiken mensen dit project?_
 
-Als u een pakketbeheerder gebruikt, zoals npm of RubyGems.org, om uw project te distribueren, kunt u mogelijk de downloads van uw project volgen.
+Als u een pakketbeheerder gebruikt, zoals npm of RubyGems.org, om uw project te distribueren, kunt u mogelijk de
+downloads van uw project volgen.
 
-Elke pakketbeheerder kan een iets andere definitie van "downloaden" gebruiken, en downloads correleren niet noodzakelijkerwijs met installaties of gebruik, maar het biedt een basis ter vergelijking. Probeer [Libraries.io](https://libraries.io/) te gebruiken om gebruiksstatistieken bij te houden van veel populaire pakketbeheerders.
+Elke pakketbeheerder kan een iets andere definitie van "downloaden" gebruiken, en downloads correleren niet
+noodzakelijkerwijs met installaties of gebruik, maar het biedt een basis ter vergelijking.
+Probeer [Libraries.io](https://libraries.io/) te gebruiken om gebruiksstatistieken bij te houden van veel populaire
+pakketbeheerders.
 
-Als je project op GitHub staat, navigeer dan opnieuw naar de "Traffic"-pagina. U kunt de [kloongrafiek](https://github.com/blog/1873-clone-graphs) gebruiken om te zien hoe vaak uw project op een bepaalde dag is gekloond, opgesplitst in totaal aantal klonen en unieke klonen.
+Als je project op GitHub staat, navigeer dan opnieuw naar de "Traffic"-pagina. U kunt
+de [kloongrafiek](https://github.com/blog/1873-clone-graphs) gebruiken om te zien hoe vaak uw project op een bepaalde
+dag is gekloond, opgesplitst in totaal aantal klonen en unieke klonen.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](../../assets/images/metrics/clone_graph.png)
 
-Als het gebruik laag is in vergelijking met het aantal mensen dat uw project ontdekt, zijn er twee zaken waarmee u rekening moet houden. Een van beide:
+Als het gebruik laag is in vergelijking met het aantal mensen dat uw project ontdekt, zijn er twee zaken waarmee u
+rekening moet houden. Een van beide:
 
 * Uw project slaagt er niet in uw publiek te converteren, of
 * Je trekt het verkeerde publiek aan
@@ -86,35 +97,43 @@ Voorbeelden van communitystatistieken die u regelmatig wilt bijhouden, zijn:
 
 * **Totaal aantal bijdragers en aantal commits per bijdrager:** vertelt je hoeveel bijdragers je hebt en wie er meer of minder actief is. Op GitHub kun je dit bekijken onder "Insights" -> "Contributors". Op dit moment telt deze grafiek alleen bijdragers die zich hebben gecommitteerd aan de standaardvertakking van de repository.
 
-![Bijdrager-grafiek](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Bijdrager-grafiek](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **Eerste keer, losse en terugkerende bijdragers:** Helpt u bij te houden of u nieuwe bijdragers krijgt en of ze terugkomen. (Toevallige bijdragers zijn bijdragers met een laag aantal commits. Of dat nu één commit is, minder dan vijf commits of iets anders, is aan jou.) Zonder nieuwe bijdragers kan de community van je project stagneren.
+* **Eerste keer, losse en terugkerende bijdragers:** Helpt u bij te houden of u nieuwe bijdragers krijgt en of ze
+  terugkomen. (Toevallige bijdragers zijn bijdragers met een laag aantal commits. Of dat nu één commit is, minder dan
+  vijf commits of iets anders, is aan jou.) Zonder nieuwe bijdragers kan de community van je project stagneren.
 
-* **Aantal openstaande issues en openstaande pull-verzoeken:** Als deze aantallen te hoog worden, heb je wellicht hulp nodig bij het testen van issues en codebeoordelingen.
+* **Aantal openstaande issues en openstaande pull-verzoeken:** Als deze aantallen te hoog worden, heb je wellicht hulp
+  nodig bij het testen van issues en codebeoordelingen.
 
-* **Aantal _geopende_ issues en _geopende_ pull requests:** Geopende issues betekent dat iemand genoeg geeft om je project om een ​​issue te openen. Als dat aantal in de loop van de tijd toeneemt, suggereert dit dat mensen geïnteresseerd zijn in uw project.
+* **Aantal _geopende_ issues en _geopende_ pull requests:** Geopende issues betekent dat iemand genoeg geeft om je
+  project om een ​​issue te openen. Als dat aantal in de loop van de tijd toeneemt, suggereert dit dat mensen
+  geïnteresseerd zijn in uw project.
 
 * **Soorten bijdragen:** Bijvoorbeeld commits, typefouten of bugs verhelpen, of commentaar geven op een probleem.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Open source is meer dan alleen code. Succesvolle open source-projecten omvatten bijdragen aan code en documentatie, samen met gesprekken over deze veranderingen.
-  
-  _Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes._
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Open source is meer dan alleen code. Succesvolle open source-projecten omvatten bijdragen aan code en documentatie, samen met gesprekken over deze veranderingen.
+
+_Open source is more than just code. Successful open source projects include code and documentation contributions
+together with conversations about these changes._> —
+@arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## open source beheerdersactiviteit
 
-Ten slotte wilt u de cirkel sluiten door ervoor te zorgen dat de beheerders van uw project het volume van de ontvangen bijdragen aankunnen. De laatste vraag die je jezelf wilt stellen is: _Reageer ik (of zijn wij) op onze community?_
+Ten slotte wilt u de cirkel sluiten door ervoor te zorgen dat de beheerders van uw project het volume van de ontvangen
+bijdragen aankunnen. De laatste vraag die je jezelf wilt stellen is: _Reageer ik (of zijn wij) op onze community?_
 
-Niet-reagerende beheerders worden een bottleneck voor open source-projecten. Als iemand een bijdrage indient maar nooit iets van een onderhouder hoort, kan hij of zij zich ontmoedigd voelen en vertrekken.
+Niet-reagerende beheerders worden een bottleneck voor open source-projecten. Als iemand een bijdrage indient maar nooit
+iets van een onderhouder hoort, kan hij of zij zich ontmoedigd voelen en vertrekken.
 
-[Onderzoek van Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177) suggereert dat het reactievermogen van de open source-onderhouder een cruciale factor is bij het aanmoedigen van herhaalde bijdragen.
+[Onderzoek van Mozilla](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+suggereert dat het reactievermogen van de open source-onderhouder een cruciale factor is bij het aanmoedigen van
+herhaalde bijdragen.
 
-Overweeg om bij te houden hoe lang het duurt voordat u (of een andere onderhouder) reageert op bijdragen, of dit nu een probleem of een pull-verzoek is. Reageren vereist geen actie. Het kan zo simpel zijn als te zeggen: _"Bedankt voor uw inzending! Ik zal dit binnen de komende week beoordelen."_
+Overweeg om bij te houden hoe lang het duurt voordat u (of een andere onderhouder) reageert op bijdragen, of dit nu een
+probleem of een pull-verzoek is. Reageren vereist geen actie. Het kan zo simpel zijn als te zeggen: _"Bedankt voor uw
+inzending! Ik zal dit binnen de komende week beoordelen."_
 
 U kunt ook de tijd meten die nodig is om tussen fasen in het bijdrageproces te schakelen, zoals:
 

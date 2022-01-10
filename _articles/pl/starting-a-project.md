@@ -24,15 +24,9 @@ _Wolne oprogramowanie_ odnosi się do tego samego zestawu projektów, co _otwart
 
 ### Dlaczego ludzie open source-ują swoją pracę?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am.
+</i>> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Jest wiele powodów](https://ben.balter.com/2015/11/23/why-open-source/) dlaczego osoba lub organizacja chciałaby otworzyć projekt. Niektóre przykłady obejmują:
 
@@ -70,15 +64,9 @@ Nie ma jednej właściwej odpowiedzi na to pytanie. Możesz mieć wiele celów d
 
 Jeśli Twoim jedynym celem jest pochwalenie się swoją pracą, możesz nawet nie chcieć wkładów, a nawet powiedzieć to w swoim README. Z drugiej strony, jeśli chcesz współpracowników, zainwestujesz czas w przejrzystą dokumentację i sprawi, że nowicjusze będą mile widziani.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+</i>> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 W miarę rozwoju projektu Twoja społeczność może potrzebować czegoś więcej niż tylko kodu. Odpowiadanie na problemy, przeglądanie kodu i ewangelizacja projektu to ważne zadania w projekcie typu open source.
 
@@ -88,15 +76,9 @@ Chociaż ilość czasu poświęcanego na zadania niekodujące będzie zależeć 
 
 Jeśli potrzebujesz specjalnego budżetu lub personelu na promocję, operacje i utrzymanie projektu, rozpocznij te rozmowy wcześniej.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors.
+</i>> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Wkład w inne projekty
 
@@ -123,17 +105,24 @@ Jeśli Twój projekt jest w GitHub, umieszczenie tych plików w katalogu główn
 
 ### Wybór licencji
 
-Licencja typu open source gwarantuje, że inni mogą używać, kopiować, modyfikować i wnosić wkład w projekt bez żadnych konsekwencji. Chroni również przed trudnymi sytuacjami prawnymi. **Musisz dołączyć licencję podczas uruchamiania projektu typu open source.**
+Licencja typu open source gwarantuje, że inni mogą używać, kopiować, modyfikować i wnosić wkład w projekt bez żadnych
+konsekwencji. Chroni również przed trudnymi sytuacjami prawnymi. **Musisz dołączyć licencję podczas uruchamiania
+projektu typu open source.**
 
-Legalna praca to nie zabawa. Dobrą wiadomością jest to, że możesz skopiować i wkleić istniejącą licencję do swojego repozytorium. Ochrona twojej ciężkiej pracy zajmie tylko chwilę.
+Legalna praca to nie zabawa. Dobrą wiadomością jest to, że możesz skopiować i wkleić istniejącą licencję do swojego
+repozytorium. Ochrona twojej ciężkiej pracy zajmie tylko chwilę.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), i [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) są najpopularniejszymi licencjami typu open source, ale [istnieją inne opcje](https://choosealicense.com) do wyboru.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),
+i [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) są najpopularniejszymi licencjami typu open source,
+ale [istnieją inne opcje](https://choosealicense.com) do wyboru.
 
-Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie licencji open source sprawi, że Twój projekt GitHub stanie się open source.
+Podczas tworzenia nowego projektu w GitHub masz możliwość wybrania licencji. Dołączenie licencji open source sprawi, że
+Twój projekt GitHub stanie się open source.
 
-![Pick a license](/assets/images/starting-a-project/repository-license-picker.png)
+![Pick a license](../../assets/images/starting-a-project/repository-license-picker.png)
 
-Jeśli masz inne pytania lub wątpliwości związane z aspektami prawnymi zarządzania projektem typu open source, [zapewniamy Ci ochronę](../legal/).
+Jeśli masz inne pytania lub wątpliwości związane z aspektami prawnymi zarządzania projektem typu open
+source, [zapewniamy Ci ochronę](../legal/).
 
 ### Pisanie README
 
@@ -148,15 +137,9 @@ W README spróbuj odpowiedzieć na następujące pytania:
 
 Możesz użyć swojego README, aby odpowiedzieć na inne pytania, takie jak sposób obsługi wkładów, jakie są cele projektu oraz informacje na temat licencji i atrybucji. Jeśli nie chcesz przyjmować datków lub twój projekt nie jest jeszcze gotowy do produkcji, zapisz te informacje.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences.
+</i>> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Czasami ludzie unikają pisania pliku README, ponieważ uważają, że projekt jest niedokończony lub nie chcą wkładów. Są to bardzo dobre powody, aby napisać jeden.
 
@@ -184,27 +167,27 @@ Na przykład [Active Admin](https://github.com/activeadmin/activeadmin/) urucham
 
 > Po pierwsze, dziękuję za rozważenie włączenia się w Active Admin. Ludzie tacy jak Ty sprawiają, że Active Admin jest tak doskonałym narzędziem.
 
-Na najwcześniejszych etapach projektu plik WKŁADU może być prosty. Zawsze powinieneś wyjaśniać, jak zgłaszać błędy lub problemy z plikami, a także wszelkie wymagania techniczne (takie jak testy), aby wnieść swój wkład.
+Na najwcześniejszych etapach projektu plik WKŁADU może być prosty. Zawsze powinieneś wyjaśniać, jak zgłaszać błędy lub
+problemy z plikami, a także wszelkie wymagania techniczne (takie jak testy), aby wnieść swój wkład.
 
-Z czasem możesz dodawać inne często zadawane pytania do pliku WKŁAD. Zapisanie tych informacji oznacza, że coraz mniej osób będzie zadawać ci te same pytania w kółko.
+Z czasem możesz dodawać inne często zadawane pytania do pliku WKŁAD. Zapisanie tych informacji oznacza, że coraz mniej
+osób będzie zadawać ci te same pytania w kółko.
 
-Aby uzyskać więcej pomocy w pisaniu pliku WKŁAD, sprawdź @nayafia [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) lub @mozilla ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
+Aby uzyskać więcej pomocy w pisaniu pliku WKŁAD, sprawdź
+@nayafia [contributing guide template](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+lub @mozilla ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/).
 
-Link do pliku CONTRIBUTING  z README, dzięki czemu więcej osób go zobaczy. Jeśli [umieścisz plik CONTRIBUTING w repozytorium swojego projektu](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), GitHub automatycznie doda link do Twojego pliku, gdy współtwórca utworzy problem lub otworzy żądanie ściągnięcia.
+Link do pliku CONTRIBUTING z README, dzięki czemu więcej osób go zobaczy.
+Jeśli [umieścisz plik CONTRIBUTING w repozytorium swojego projektu](https://help.github.com/articles/setting-guidelines-for-repository-contributors/)
+, GitHub automatycznie doda link do Twojego pliku, gdy współtwórca utworzy problem lub otworzy żądanie ściągnięcia.
 
-![Contributing guidelines](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Contributing guidelines](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Ustanowienie kodeksu postępowania
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> We’ve all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously.
+</i>> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 Wreszcie kodeks postępowania pomaga ustalić podstawowe zasady postępowania dla uczestników projektu. Jest to szczególnie cenne, jeśli uruchamiasz projekt open source dla społeczności lub firmy. Kodeks postępowania umożliwia ci zdrowe, konstruktywne zachowanie społeczności, które zmniejszy stres jako opiekuna.
 
@@ -249,15 +232,9 @@ Przez cały czas trwania projektu będziesz dużo pisać: CZYTELNIKI, samouczki,
 
 Niezależnie od tego, czy jest to oficjalna dokumentacja, czy zwykły e-mail, styl pisania jest częścią marki Twojego projektu. Zastanów się, w jaki sposób możesz dotrzeć do odbiorców i czy to jest ton, który chcesz przekazać.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style.
+</i>> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Używanie ciepłego, inkluzywnego języka (takiego jak „je”, nawet w odniesieniu do jednej osoby) może znacznie przyczynić się do tego, aby Twój projekt był przyjemny dla nowych współpracowników. Trzymaj się prostego języka, ponieważ wielu czytelników może nie być rodzimym językiem angielskim.
 

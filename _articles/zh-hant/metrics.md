@@ -36,9 +36,10 @@ redirect_from: /zh-tw/metrics/
 
 在有人能夠使用或者回饋你的專案之前，他們得知道是否有這樣的專案存在，問問你自己：_人們都在尋找這樣專案嗎？_
 
-![traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-如果你的專案是託管在GitHub, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic) 獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
+如果你的專案是託管在GitHub, 你可以[訪問](https://help.github.com/articles/about-repository-graphs/#traffic)
+獲取諸如多少人訪問過你的專案，他們從哪裏得知的之類的資訊。在你的專案主頁，點擊"Graphs", 然後"Traffic"。在這個頁面，你可以看到:
 
 * **總瀏覽量:** 專案被查看了多少次
 
@@ -60,9 +61,10 @@ redirect_from: /zh-tw/metrics/
 
 每個包管理工具可能會對下載量有着大同小異的定義，而且下載量並不直接和安裝、使用有關，但是它提供了一個基本的比較標準。嘗試使用[Libraries.io](https://libraries.io/) 來跟蹤很多流行包管理工具的使用數據。
 
-如果你的專案是託管在GitHub上，再一次切換到"Traffic" 頁面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的專案在一個給定的日期被克隆了多少次，按照獨立克隆者的總克隆數排序。
+如果你的專案是託管在GitHub上，再一次切換到"Traffic"
+頁面，你可以用[clone graph](https://github.com/blog/1873-clone-graphs)看看你的專案在一個給定的日期被克隆了多少次，按照獨立克隆者的總克隆數排序。
 
-![clone graph](/assets/images/metrics/clone_graph.png)
+![clone graph](../../assets/images/metrics/clone_graph.png)
 
 如果使用專案的數量低於發現專案的數量的話，那麼就有兩個問題值得考慮。他們是：
 
@@ -87,7 +89,7 @@ redirect_from: /zh-tw/metrics/
 
 * **貢獻者的總數和每個貢獻者的提交次數：** 有多少貢獻者，哪些是活躍的，哪些是不活躍。github上，你可以在"Graphs" -> "Contributors"面板查看這些資訊。目前，這個圖標只計算了那些往倉庫默認分支推送的貢獻者。
 
-![contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **第一次，偶爾爲之的，和持續的貢獻者：** 幫助檢測是否有新的貢獻者，以及他們是不是會再來。（偶爾的貢獻者是那些提交的次數很少的人，當然啦，這個數目是多少取決於你，比如說五次。）如果沒有新的貢獻者，你的專案就會停滯不前。
 
@@ -97,13 +99,8 @@ redirect_from: /zh-tw/metrics/
 
 * **不同種類的貢獻者：** 比如說，提交代碼，修復筆誤或者bug，或者在issue下面評論。
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-開源遠遠不止程式碼，成功的開源專案包括程式碼、文件，以及它們在演進過程中的所有討論。
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["開源的形態"](https://github.com/blog/2195-the-shape-of-open-source)
-</p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> 開源遠遠不止程式碼，成功的開源專案包括程式碼、文件，以及它們在演進過程中的所有討論。> — @arfon, ["開源的形態"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## 維護者活躍度
 

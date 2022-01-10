@@ -28,13 +28,20 @@ Schlussendlich könnte Ihr Projekt auch von anderen abhängen, die wiederum Lize
 
 ## Sind publizierte GitHub-Projekte Open Source?
 
-Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articles/creating-a-new-repository/), können Sie dies **öffentlich** oder **privat** tun.
+Wenn Sie [ein neues Projekt auf GitHub erstellen](https://help.github.com/articles/creating-a-new-repository/), können
+Sie dies **öffentlich** oder **privat** tun.
 
-![Ein Repo erstellen](/assets/images/legal/repo-create-name.png)
+![Ein Repo erstellen](../../assets/images/legal/repo-create-name.png)
 
-**Ihr GitHub-Projekt öffentlich zu machen, ist nicht dasselbe, wie eine Lizenz zu vergeben.** Öffentliche Projekte unterliegen [GitHubs Servicebedingungen](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr Werk mit sich.
+**Ihr GitHub-Projekt öffentlich zu machen, ist nicht dasselbe, wie eine Lizenz zu vergeben.** Öffentliche Projekte
+unterliegen [GitHubs Servicebedingungen](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)
+, die Anderen das Ansehen und Forken Ihres Projektes erlauben. Dies bringt allerdings keine weiteren Erlaubnisse für Ihr
+Werk mit sich.
 
-Wenn Sie anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben möchten, sowie zu ihm beizutragen, müssen Sie eine Open-Source-Lizenz vergeben. Beispielsweise darf legalerweise kein Mensch irgendeinen Teil Ihres GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn es öffentlich ist) solange Sie nicht das Recht dazu explizit eingeräumt haben.
+Wenn Sie anderen die Nutzung, Verbreitung, Modifikation Ihres Projektes erlauben möchten, sowie zu ihm beizutragen,
+müssen Sie eine Open-Source-Lizenz vergeben. Beispielsweise darf legalerweise kein Mensch irgendeinen Teil Ihres
+GitHub-Projektes in seinen/ihren eigenen Code nutzen (selbst wenn es öffentlich ist) solange Sie nicht das Recht dazu
+explizit eingeräumt haben.
 
 ## Sag mir nur kurz, wie ich mein Projekt schützen kann.
 
@@ -44,17 +51,11 @@ Sie haben Glück, denn Open-Source-Lizenzen sind heutzutage standardisiert und e
 
 Wenn Sie ein neues Projekt auf GitHub anlegen, wird Ihnen [die Nutzung einer Lizenz vorgeschlagen](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-
-  Eine Standardlizenz fasst für juristisch nicht vorgebildete Leute zusammen, was diese mit der Software tun können, und was nicht. Solange es nicht absolut nötig ist, sollten Sie eigene, modifizierte oder nicht-Standard-Klauseln vermeiden, denn diese behindern die Nachnutzung des Codes.
+> ![](https://avatars.githubusercontent.com/benbalter?s=180)
+> Eine Standardlizenz fasst für juristisch nicht vorgebildete Leute zusammen, was diese mit der Software tun können, und was nicht. Solange es nicht absolut nötig ist, sollten Sie eigene, modifizierte oder nicht-Standard-Klauseln vermeiden, denn diese behindern die Nachnutzung des Codes.
 
   _A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code._
-
-  <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
-  </p>
-</aside>
+> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## Welche Open-Source-Lizenz passt zu meinem Projekt?
 
@@ -98,17 +99,12 @@ Eine zusätzliche Kontributionsvereinbarung - oft auch Contributor License Agree
 
 Durch das Hinzufügen von "Papierkram", den einige für unnötig, schwer verständlich oder ungerecht halten (wenn der/die Empfänger\*in der Vereinbarung mehr Rechte erhält als die Mitwirkenden oder die Öffentlichkeit über die Open-Source-Lizenz des Projekts erhält), kann eine zusätzliche Kontributionsvereinbarung als unfreundlich für die Gemeinschaft des Projekts empfunden werden.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-
-    Wir haben den CLA für Node.js eliminiert, was die Eintrittsbarriere für Node.js-Mitwirkende senkt und damit die Basis der Kontributor\*innen verbreitert.
+> ![](https://avatars.githubusercontent.com/bcantrill?s=180)
+> Wir haben den CLA für Node.js eliminiert, was die Eintrittsbarriere für Node.js-Mitwirkende senkt und damit die Basis der Kontributor\*innen verbreitert.
 
     _We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base._
 
-  <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
-  </p>
-</aside>
+> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 Einige Situationen, in denen Sie eine zusätzliche Kontributionsvereinbarung für Ihr Projekt in Betracht ziehen sollten, sind z.B:
 
@@ -144,31 +140,19 @@ Längerfristig kann Ihre Rechtsabteilung mehr tun, um dem Unternehmen zu helfen,
 
 * **Richtlinie für Beiträge von Angestellten:** Erwägen Sie die Entwicklung einer Unternehmenspolitik, die festlegt, wie Ihre Mitarbeiter\*innen zu Open-Source-Projekten beitragen. Eine klare Richtlinie verringert die Verwirrung unter Ihren Mitarbeiter\*innen und hilft ihnen dabei, Open-Source-Projekte im besten Interesse des Unternehmens zu unterstützen, sei es als Teil ihrer Arbeit oder in ihrer Freizeit. Ein gutes Beispiel von Rackspace ist deren [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-
-  Die Herausgabe des mit einem Patch verbundenen Rechte baut die Wissensbasis und das Ansehen der Mitarbeiterin / des Mitarbeiters auf und zeigt, dass das Unternehmen in die Entwicklung seiner Angestellten investiert, sowie ein Gefühl von Eigenverantwortung und Autonomie schafft. All diese Vorteile führen auch zu höherer Moral und besserer Mitarbeiterbindung.
+> ![](https://avatars.githubusercontent.com/vanl?s=180)
+> Die Herausgabe des mit einem Patch verbundenen Rechte baut die Wissensbasis und das Ansehen der Mitarbeiterin / des Mitarbeiters auf und zeigt, dass das Unternehmen in die Entwicklung seiner Angestellten investiert, sowie ein Gefühl von Eigenverantwortung und Autonomie schafft. All diese Vorteile führen auch zu höherer Moral und besserer Mitarbeiterbindung.
 
   _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
-
-  <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
-  </p>
-</aside>
+> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
 
 * **Was veröffentlichen?** [(Fast) alles?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html). Wenn Ihre Rechtsabteilung die Open-Source-Strategie Ihres Unternehmens versteht und in sie investiert, kann sie Ihnen am besten helfen, anstatt Ihre Bemühungen zu behindern.
 * **Compliance:** Auch wenn Ihr Unternehmen keine Open-Source-Projekte veröffentlicht, verwendet es die Open-Source-Software von anderen. [Bewusstsein darüber und Prozesse dafür](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) helfen, Kopfschmerzen, Produktverzögerungen und Klagen zu vermeiden.
 
-<aside markdown="1" class="pquote">
-
-  Organisationen müssen über eine Lizenz- und Compliance-Strategie verfügen, die sowohl in die Kategorien \["permissive" als auch "copyleft"\] passt, beginnend mit der Aufzeichnung der Lizenzbedingungen, die für die von Ihnen verwendete Open-Source-Software gelten - einschließlich Unterkomponenten und Abhängigkeiten.
+> Organisationen müssen über eine Lizenz- und Compliance-Strategie verfügen, die sowohl in die Kategorien \["permissive" als auch "copyleft"\] passt, beginnend mit der Aufzeichnung der Lizenzbedingungen, die für die von Ihnen verwendete Open-Source-Software gelten - einschließlich Unterkomponenten und Abhängigkeiten.
 
   _Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you're using — including subcomponents and dependencies._
-
-  <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
-  </p>
-</aside>
+> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **Patente:** Ihr Unternehmen kann dem [Open Invention Network](https://www.openinventionnetwork.com/) beitreten: Einem gemeinsamen defensiven Patent-Pool, um die Nutzung großer Open-Source-Projekte durch Mitglieder zu schützen, oder kann andere [alternative Patentlizenzen](https://www.eff.org/document/hacking-patent-system-2016) in Betracht ziehen.
 * **Governance:** Vor allem, wenn es sinnvoll ist, ein Projekt in eine [juristische Person außerhalb des Unternehmens](../leadership-and-governance/#brauche-ich-für-mein-projekt-eine-juristische-person) zu verlegen.

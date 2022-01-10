@@ -33,11 +33,14 @@ Eğer daha derin bir seviyede projenizi anlamak isteğiniz _varsa_, projenizin e
 
 ## Keşif
 
-Herhangi biriniz projenizi kullanmadan veya katkıda bulunmadan önce, onun var olduğunu bilmeleri gerekir. Kendinize sorun: _insanlar bu projeden haberdarlar mı?_
+Herhangi biriniz projenizi kullanmadan veya katkıda bulunmadan önce, onun var olduğunu bilmeleri gerekir. Kendinize
+sorun: _insanlar bu projeden haberdarlar mı?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden geldikleri [görüntüleyebilirsiniz](https://help.github.com/articles/about-repository-graphs/#traffic). Projenizin sayfasından "Insights" menüsünü, ardından "Traffic" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
+Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü ve nereden
+geldikleri [görüntüleyebilirsiniz](https://help.github.com/articles/about-repository-graphs/#traffic). Projenizin
+sayfasından "Insights" menüsünü, ardından "Traffic" alt menüsünü tıklayın. Bu sayfada şunları görebilirsiniz:
 
 * **Toplam sayfa görüntüleme:** Projenizin kaç kez görüntülendiğini gösterir
 
@@ -53,15 +56,21 @@ Projeniz GitHub'da barındırıyorsanız, projenizi kaç kişinin gördüğünü
 
 ## Kullanım
 
-İnsanlar projenizi internet dediğimiz bu vahşi ve çılgın şey üzerinde buluyorlar. İdeal olarak, projenizi gördüklerinde, bir şeyler yapmaya zorlanırlar. Sormak isteyeceğiniz ikinci soru şudur: _insanlar bu projeyi kullanıyorlar mı?_
+İnsanlar projenizi internet dediğimiz bu vahşi ve çılgın şey üzerinde buluyorlar. İdeal olarak, projenizi gördüklerinde,
+bir şeyler yapmaya zorlanırlar. Sormak isteyeceğiniz ikinci soru şudur: _insanlar bu projeyi kullanıyorlar mı?_
 
-Projenizi dağıtmak için npm veya RubyGems.org gibi bir paket yöneticisi kullanıyorsanız, projenizin indirmelerini takip edebilirsiniz.
+Projenizi dağıtmak için npm veya RubyGems.org gibi bir paket yöneticisi kullanıyorsanız, projenizin indirmelerini takip
+edebilirsiniz.
 
-Her paket yöneticisi "indirme" nin biraz farklı bir tanımını olabilir ve indirme işlemleri kurulum veya kullanım ile mutlaka ilişkili değildir, ancak karşılaştırma için bazı temel bilgiler sağlar. Birçok popüler paket yöneticisinde kullanım istatistiklerini izlemek için [Libraries.io](https://libraries.io/) servisini kullanmayı deneyin.
+Her paket yöneticisi "indirme" nin biraz farklı bir tanımını olabilir ve indirme işlemleri kurulum veya kullanım ile
+mutlaka ilişkili değildir, ancak karşılaştırma için bazı temel bilgiler sağlar. Birçok popüler paket yöneticisinde
+kullanım istatistiklerini izlemek için [Libraries.io](https://libraries.io/) servisini kullanmayı deneyin.
 
-Projeniz GitHub'daysa, tekrar "Trafik" sayfasına gidin. [Klon grafiğini](https://github.com/blog/1873-clone-graphs), projenizin belirli bir günde kaç kez klonlandığını, toplam klonların ve benzersiz klonların karşılaştırmlı hallerini görmek için kullanabilirsiniz.
+Projeniz GitHub'daysa, tekrar "Trafik" sayfasına gidin. [Klon grafiğini](https://github.com/blog/1873-clone-graphs),
+projenizin belirli bir günde kaç kez klonlandığını, toplam klonların ve benzersiz klonların karşılaştırmlı hallerini
+görmek için kullanabilirsiniz.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](../../assets/images/metrics/clone_graph.png)
 
 Kullanım, projenizi keşfeden kişi sayısına kıyasla düşükse, göz önünde bulundurulması gereken iki husus vardır. Ya:
 
@@ -86,33 +95,41 @@ Düzenli olarak izlemek isteyebileceğiniz topluluk ölçümleri örnekleri şun
 
 * **Katkıda bulunan toplam katılımcı sayısı ve komisyon sayısı:** Ne kadar katılımcının bulunduğunu ve kimin ya da daha az aktif olduğunu gösterir. GitHub'da bunu "Insights" -> "Katkıda Bulunanlar" altında görebilirsiniz. Şu anda, bu grafik yalnızca deponun varsayılan koluna bağlı olan katılımcıları sayar.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
-* **İlk kez, geçici ve tekrar eden katılımcılar:** Yeni katılımcılar alıp almadığınızı ve geri gelip gelmeyeceklerini izlemenize yardımcı olur. (Sıradan katkıda bulunanlar, az sayıda katkı veren katılımcılardır. Bu, bir katkı, beş katkıdan az veya size kalmış başka bir sayı.) Yeni katılımcılar olmadan, projenizin topluluğu durgun hale gelebilir.
+* **İlk kez, geçici ve tekrar eden katılımcılar:** Yeni katılımcılar alıp almadığınızı ve geri gelip gelmeyeceklerini
+  izlemenize yardımcı olur. (Sıradan katkıda bulunanlar, az sayıda katkı veren katılımcılardır. Bu, bir katkı, beş
+  katkıdan az veya size kalmış başka bir sayı.) Yeni katılımcılar olmadan, projenizin topluluğu durgun hale gelebilir.
 
-* **Açık işlerin ve PR'lerin sayısı:** Bu sayılar çok yükselirse, sorun giderme ve kod incelemeleri konusunda yardıma ihtiyacınız olabilir.
+* **Açık işlerin ve PR'lerin sayısı:** Bu sayılar çok yükselirse, sorun giderme ve kod incelemeleri konusunda yardıma
+  ihtiyacınız olabilir.
 
-* **Açılan işlerin ve açılan PR'lerin sayısı:** Açılan sorunlar, birinin projenizi açması için yeterince önemsediği anlamına gelir. Bu sayı zaman içinde artarsa, insanların projenize ilgi duyduğunu gösterir.
+* **Açılan işlerin ve açılan PR'lerin sayısı:** Açılan sorunlar, birinin projenizi açması için yeterince önemsediği
+  anlamına gelir. Bu sayı zaman içinde artarsa, insanların projenize ilgi duyduğunu gösterir.
 
 * **Katkı türleri:** Örneğin, yazım hatalarını veya hataları düzeltme veya bir konuda yorum yapma.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  Açık kaynak koddan daha fazlasıdır. Başarılı açık kaynaklı projeler, bu değişikliklerle ilgili tartışmalar ile birlikte kod ve dokümantasyon katkılarını içerir.
-  <p markdown="1" class="pquote-credit">
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Açık kaynak koddan daha fazlasıdır. Başarılı açık kaynaklı projeler, bu değişikliklerle ilgili tartışmalar ile birlikte kod ve dokümantasyon katkılarını içerir.
+>
+
 - @arfon, ["Açık Kaynağın Şekli"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
 
 ## Geliştirici etkinliği
 
-Son olarak, projenizin sahiplerinin alınan katkıların hacmini karşılayabildiğinden emin olarak döngüyü kapatmak isteyeceksiniz. Kendinize sormak isteyeceğiniz son soru şudur: _Topluluğumuza cevap veriyor muyum (muyuz)?_
+Son olarak, projenizin sahiplerinin alınan katkıların hacmini karşılayabildiğinden emin olarak döngüyü kapatmak
+isteyeceksiniz. Kendinize sormak isteyeceğiniz son soru şudur: _Topluluğumuza cevap veriyor muyum (muyuz)?_
 
-Tepki vermeyen geliştiriciler açık kaynaklı projeler için bir el freni haline gelir. Birisi bir katkı gönderirse, ancak bir geliştiriciden bir geri bildirim gelmezse, cesareti kırılır ve projeden ayrılabilir.
+Tepki vermeyen geliştiriciler açık kaynaklı projeler için bir el freni haline gelir. Birisi bir katkı gönderirse, ancak
+bir geliştiriciden bir geri bildirim gelmezse, cesareti kırılır ve projeden ayrılabilir.
 
-[Mozilla'da yapılan bir araştırma](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177), geliştiricilerin sürdürülebilirlik konusundaki duyarlılığının, tekrar eden katkıları teşvik etmede kritik bir faktör olduğunu öne sürüyor.
+[Mozilla'da yapılan bir araştırma](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g43d857af8_0177)
+, geliştiricilerin sürdürülebilirlik konusundaki duyarlılığının, tekrar eden katkıları teşvik etmede kritik bir faktör
+olduğunu öne sürüyor.
 
-Bir sorunun ya da PR talebinin katkısına yanıt vermenizin (veya başka bir geliştiricinin) ne kadar sürdüğünü takip edin. Yanıt vermek, harekete geçmek gerektirmez. Şunu söylemek kadar basit olabilir: _"Gönderiminiz için teşekkürler! Bunu önümüzdeki hafta içinde gözden geçireceğim."_
+Bir sorunun ya da PR talebinin katkısına yanıt vermenizin (veya başka bir geliştiricinin) ne kadar sürdüğünü takip edin.
+Yanıt vermek, harekete geçmek gerektirmez. Şunu söylemek kadar basit olabilir: _"Gönderiminiz için teşekkürler! Bunu
+önümüzdeki hafta içinde gözden geçireceğim."_
 
 Ayrıca, katkı sürecindeki aşamalar arasında geçiş için geçen süreyi ölçebilirsiniz, örneğin:
 

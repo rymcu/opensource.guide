@@ -24,17 +24,11 @@ _Freie Software_ meint dieselbe Art von Projekten wie _Open Source_. Der [Begrif
 
 ### Warum öffnen Menschen den Quellcode ihrer Software?
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/kentcdodds?s=180" class="pquote-avatar" alt="avatar">
-
-  Die lohnenswertesten Erfahrungen, die ich bei der Verwendung von Open Source und der Zusammenarbeit daran mache, kommen von den Beziehungen, die ich mit anderen Entwickler\*innen aufbaue, die mit vielen der gleichen Probleme konfrontiert sind wie ich.
+> ![](https://avatars.githubusercontent.com/kentcdodds?s=180)
+> Die lohnenswertesten Erfahrungen, die ich bei der Verwendung von Open Source und der Zusammenarbeit daran mache, kommen von den Beziehungen, die ich mit anderen Entwickler\*innen aufbaue, die mit vielen der gleichen Probleme konfrontiert sind wie ich.
 
   _One of the most rewarding experiences I get out of using and collaborating on open source comes from the relationships that I build with other developers facing many of the same problems I am._
-
-  <p markdown="1" class="pquote-credit">
-— @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
-  </p>
-</aside>
+> — @kentcdodds, ["How getting into Open Source has been awesome for me"](https://kentcdodds.com/blog/how-getting-into-open-source-has-been-awesome-for-me)
 
 [Es gibt viele Gründe](https://ben.balter.com/2015/11/23/why-open-source/) warum eine Person oder Organisation ein Projekt open-sourcen wollen würde. Beispielsweise:
 
@@ -72,17 +66,11 @@ Es gibt keine richtige Antwort auf diese Frage. Vielleicht haben Sie mehrere Zie
 
 Wenn es Ihr einziges Ziel ist, Ihre Arbeit zu zeigen, wollen Sie vielleicht nicht einmal Beiträge und sagen dies sogar in Ihrer README. Andererseits, wenn Sie sich Beiträge wünschen: Investieren Sie Zeit in eine klare Dokumentation, damit sich Neuankömmlinge willkommen fühlen.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mavris?s=180" class="pquote-avatar" alt="avatar">
-
-  Irgendwann habe ich eine eigene UIAlertView erstellt, die ich benutzt habe... Und ich entschied mich dafür, sie zu veröffentlichen, also habe ich sie dynamischer gestaltet und auf GitHub hochgeladen und auch meine erste Dokumentation geschrieben, die anderen Entwickler\*innen erklärt, wie sie meine UIAlertView in ihren Projekten verwenden können. Wahrscheinlich hat es nie jemand benutzt, weil es ein einfaches Projekt war, aber ich fühlte mich wegen meines Beitrags gut.
+> ![](https://avatars.githubusercontent.com/mavris?s=180)
+> Irgendwann habe ich eine eigene UIAlertView erstellt, die ich benutzt habe... Und ich entschied mich dafür, sie zu veröffentlichen, also habe ich sie dynamischer gestaltet und auf GitHub hochgeladen und auch meine erste Dokumentation geschrieben, die anderen Entwickler\*innen erklärt, wie sie meine UIAlertView in ihren Projekten verwenden können. Wahrscheinlich hat es nie jemand benutzt, weil es ein einfaches Projekt war, aber ich fühlte mich wegen meines Beitrags gut.
 
   _At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution._
-
-  <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
-  </p>
-</aside>
+> — @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576)
 
 Wenn Ihr Projekt wächst, braucht Ihre Community mehr als nur Code von Ihnen. Die Reaktion auf Probleme, die Überprüfung von Code und das Anpreisen Ihres Projekts sind alles wichtige Aufgaben in einem Open-Source-Projekt.
 
@@ -92,17 +80,11 @@ Während die Zeit, die Sie für nicht-Programmieraufgaben aufwenden, von der Gr�
 
 Wenn Sie ein dediziertes Budget oder Personal für Werbung, Betrieb und Wartung des Projekts benötigen, planen Sie dies frühzeitig.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/captainsafia?s=180" class="pquote-avatar" alt="avatar">
-
-  Wenn Sie mit dem Open-Source-Projekt beginnen, ist es wichtig, dass Ihre Managementprozesse die Beiträge und Fähigkeiten der Community rund um Ihr Projekt berücksichtigen. Scheuen Sie sich nicht, Mitarbeiter\*innen, die nicht in Ihrem Unternehmen beschäftigt sind, in Kernbereiche des Projekts einzubeziehen - besonders wenn sie häufig mitwirken.
+> ![](https://avatars.githubusercontent.com/captainsafia?s=180)
+> Wenn Sie mit dem Open-Source-Projekt beginnen, ist es wichtig, dass Ihre Managementprozesse die Beiträge und Fähigkeiten der Community rund um Ihr Projekt berücksichtigen. Scheuen Sie sich nicht, Mitarbeiter\*innen, die nicht in Ihrem Unternehmen beschäftigt sind, in Kernbereiche des Projekts einzubeziehen - besonders wenn sie häufig mitwirken.
 
   _As you begin to open source the project, it's important to make sure that your management processes take into consideration the contributions and abilities of the community around your project. Don't be afraid to involve contributors who are not employed in your business in key aspects of the project — especially if they are frequent contributors._
-
-  <p markdown="1" class="pquote-credit">
-— @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
-  </p>
-</aside>
+> — @captainsafia, ["So you wanna open source a project, eh?"](https://dev.to/captainsafia/so-you-wanna-open-source-a-project-eh-5779)
 
 ### Zu anderen Projekten beitragen
 
@@ -129,17 +111,24 @@ Wenn sich Ihr Projekt auf GitHub befindet, können Sie diese Dateien mit den emp
 
 ### Eine Lizenz auswählen
 
-Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und wieder einbringen können und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt starten, müssen Sie eine Lizenz angeben.**
+Eine Open-Source-Lizenz garantiert, dass andere Ihr Projekt ohne Nebenwirkungen nutzen, kopieren, modifizieren und
+wieder einbringen können und schützt Sie vor unangenehmen rechtlichen Situationen. **Wenn Sie ein Open-Source-Projekt
+starten, müssen Sie eine Lizenz angeben.**
 
-Rechtsangelegenheiten sind kein Spaß. Die gute Nachricht ist, dass Sie eine bestehende Lizenz kopieren und in Ihr Repository einfügen können. Es dauert also nur eine Minute, Ihre harte Arbeit zu schützen.
+Rechtsangelegenheiten sind kein Spaß. Die gute Nachricht ist, dass Sie eine bestehende Lizenz kopieren und in Ihr
+Repository einfügen können. Es dauert also nur eine Minute, Ihre harte Arbeit zu schützen.
 
-[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/), und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen, aber [es gibt viele andere](https://choosealicense.com) zur Auswahl.
+[MIT](https://choosealicense.com/licenses/mit/), [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/),
+und [GPLv3](https://choosealicense.com/licenses/gpl-3.0/) sind die populärsten Open-Source-Lizenzen,
+aber [es gibt viele andere](https://choosealicense.com) zur Auswahl.
 
-Wenn Sie ein neues Projekt auf GitHub erstellen, haben Sie die Möglichkeit, eine Lizenz auszuwählen. Mit einer Open-Source-Lizenz wird Ihr GitHub-Projekt auch wirklich zum Open-Source-Projekt.
+Wenn Sie ein neues Projekt auf GitHub erstellen, haben Sie die Möglichkeit, eine Lizenz auszuwählen. Mit einer
+Open-Source-Lizenz wird Ihr GitHub-Projekt auch wirklich zum Open-Source-Projekt.
 
-![Eine Lizenz auswählen](/assets/images/starting-a-project/repository-license-picker.png)
+![Eine Lizenz auswählen](../../assets/images/starting-a-project/repository-license-picker.png)
 
-Wenn Sie weitere Fragen oder Bedenken bezüglich der rechtlichen Aspekte der Verwaltung eines Open-Source-Projekts haben, [können Sie sich an uns wenden](../legal/).
+Wenn Sie weitere Fragen oder Bedenken bezüglich der rechtlichen Aspekte der Verwaltung eines Open-Source-Projekts
+haben, [können Sie sich an uns wenden](../legal/).
 
 ### Eine README schreiben
 
@@ -154,17 +143,11 @@ Versuchen Sie in Ihrer README folgende Fragen zu beantworten:
 
 Sie können Ihre README verwenden, um andere Fragen zu beantworten: z.B. wie Sie mit Beiträgen handhaben, welche Ziele das Projekt verfolgt, oder wie es um Lizenzen und Zuschreibungen steht. Wenn Sie keine Beiträge annehmen wollen oder Ihr Projekt noch nicht produktionsreif ist, schreiben Sie auch diese Informationen auf.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/tracymakes?s=180" class="pquote-avatar" alt="avatar">
-
-  Bessere Dokumentation bedeutet mehr Benutzer\*innen, weniger Supportanfragen und mehr Mitwirkende. (...) Denken Sie daran, dass Ihre Leser\*innen und andere Leute, die auf Ihr Projekt stoßen andere Erfahrungshintergründe haben.
+> ![](https://avatars.githubusercontent.com/tracymakes?s=180)
+> Bessere Dokumentation bedeutet mehr Benutzer\*innen, weniger Supportanfragen und mehr Mitwirkende. (...) Denken Sie daran, dass Ihre Leser\*innen und andere Leute, die auf Ihr Projekt stoßen andere Erfahrungshintergründe haben.
 
   _Better documentation means more users, less support requests, and more contributors. (...) Remember that your readers aren't you. There are people who might come to a project who have completely different experiences._
-
-  <p markdown="1" class="pquote-credit">
-— @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
-  </p>
-</aside>
+> — @tracymakes, ["Writing So Your Words Are Read (video)"](https://www.youtube.com/watch?v=8LiV759Bje0&list=PLmV2D6sIiX3U03qc-FPXgLFGFkccCEtfv&index=10)
 
 Manchmal vermeiden es Leute, eine README zu schreiben, weil sie das Gefühl haben, das Projekt sei unvollendet, oder weil sie keine Beiträge wollen. Aber auch dies sind gute Gründe, eine zu schreiben.
 
@@ -195,29 +178,30 @@ Beispielsweise leitet [Active Admin](https://github.com/activeadmin/activeadmin/
 >
 > First off, thank you for considering contributing to Active Admin. It's people like you that make Active Admin such a great tool.
 
-In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Sie sollten immer erklären, wie Fehler oder Probleme gemeldet werden können und welche technischen Anforderungen (z.B. Tests) Leute erfüllen müssen, um einen Beitrag zu leisten.
+In der Anfangsphase Ihres Projekts kann Ihre CONTRIBUTING-Datei einfach sein. Sie sollten immer erklären, wie Fehler
+oder Probleme gemeldet werden können und welche technischen Anforderungen (z.B. Tests) Leute erfüllen müssen, um einen
+Beitrag zu leisten.
 
-Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
+Im Laufe der Zeit können Sie weitere häufig gestellte Fragen zu Ihrer CONTRIBUTING-Datei hinzufügen. Diese Informationen
+aufzuschreiben verhindert, dass weniger Leute die immer wieder gleichen Fragen stellen werden.
 
-@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md) oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/) helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
+@nayafia's [CONTRIBUTING-Vorlage](https://github.com/nayafia/contributing-template/blob/HEAD/CONTRIBUTING-template.md)
+oder @mozilla's ["How to Build a CONTRIBUTING.md"](https://mozillascience.github.io/working-open-workshop/contributing/)
+helfen Ihnen, Ihre Beitragsrichtlinien zu entwerfen.
 
-Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
+Verlinken Sie Ihre CONTRIBUTING-Datei in Ihrer README, sodass mehr Leute sie bemerken. Wenn Sie sie
+zudem [in Ihr Repo einchecken](https://help.github.com/articles/setting-guidelines-for-repository-contributors/), wird
+GitHub automatisch auf sie aufmerksam machen, wenn jemand ein Issue oder Pull Request erstellt.
 
-![Beitragsrichtlinien](/assets/images/starting-a-project/Contributing-guidelines.jpg)
+![Beitragsrichtlinien](../../assets/images/starting-a-project/Contributing-guidelines.jpg)
 
 ### Einen Verhaltenskodex etablieren
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mlynch?s=180" class="pquote-avatar" alt="avatar">
-
-  Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einer einfachen Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
+> ![](https://avatars.githubusercontent.com/mlynch?s=180)
+> Wir haben alle Erfahrungen gemacht, wo wir mit Beleidigungen zu tun hatten, entweder als Betreuer\*in beim Erklären, warum etwas auf eine bestimmte Weise geschehen musste, oder als Benutzer\*in (...) beim Stellen einer einfachen Frage. (...) Ein Verhaltenskodex wird zu einem leicht referenzierbaren und verlinkbaren Dokument, das klar stellt, dass Ihr Team den konstruktiven Diskurs sehr ernst nimmt.
 
   _We've all had experiences where we faced what was probably abuse either as a maintainer trying to explain why something had to be a certain way, or as a user...asking a simple question. (...) A code of conduct becomes an easily referenced and linkable document that indicates that your team takes constructive discourse very seriously._
-
-  <p markdown="1" class="pquote-credit">
-— @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
-  </p>
-</aside>
+> — @mlynch, ["Making Open Source a Happier Place"](https://medium.com/ionic-and-the-mobile-web/making-open-source-a-happier-place-3b90d254f5f)
 
 Letztendlich hilft ein Verhaltenskodex, Grundregeln für das Verhalten der Projektbeteiligten festzulegen. Insbesondere wenn Sie ein Open-Source-Projekt für eine Community oder ein Unternehmen starten. Ein Verhaltenskodex hilft Ihnen, ein gesundes, konstruktives Gemeinschaftsverhalten zu fördern, das Ihnen als Maintainer\*in Stress erspart.
 
@@ -262,17 +246,11 @@ Während der Lebenszeit Ihres Projektes werden Sie eine Menge schreiben: README,
 
 Egal ob offizielle Dokumentation oder informelle E-Mail: Ihr Schreibstil ist ein Markenzeichen Ihres Projektes. Bedenken Sie, wie er bei Ihrem Publikum ankommt, und ob dies dem Tonfall entspricht, den Sie rüberbringen möchten.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/janl?s=180" class="pquote-avatar" alt="avatar">
-
-  Ich versuchte, an jeder Diskussion auf der Mailingliste teilzunehmen, in guter Manier, nett zu Leuten zu sein, ihre Anfragen ernst zu nehmen und Hilfe anzubieten. Nach einer Weile blieben Leuten einfach dabei, nicht nur um Fragen zu stellen, sondern auch um anderen zu antworten, und erfreulicherweise übernahmen sie meinen Schreibstil.
+> ![](https://avatars.githubusercontent.com/janl?s=180)
+> Ich versuchte, an jeder Diskussion auf der Mailingliste teilzunehmen, in guter Manier, nett zu Leuten zu sein, ihre Anfragen ernst zu nehmen und Hilfe anzubieten. Nach einer Weile blieben Leuten einfach dabei, nicht nur um Fragen zu stellen, sondern auch um anderen zu antworten, und erfreulicherweise übernahmen sie meinen Schreibstil.
 
   _I tried to be involved with every thread on the mailing list, and showing exemplary behaviour, being nice to people, taking their issues seriously and trying to be helpful overall. After a while, people stuck around not to only ask questions, but to help with the answering as well, and to my complete delight, they mimicked my style._
-
-  <p markdown="1" class="pquote-credit">
-— @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
-  </p>
-</aside>
+> — @janl on [CouchDB](https://github.com/apache/couchdb), ["Sustainable Open Source"](https://web.archive.org/web/20200723213552/https://writing.jan.io/2015/11/20/sustainable-open-source.html)
 
 Freundliche, [inklusive Sprache](https://fairlanguage.com/service/) kann Ihr Projekt einladender für neue Helfer\*innen machen. Bleiben Sie auch bei einfacher/leichter Sprache, denn nicht alle Ihrer Leser\*innen sind Muttersprachler\*innen.
 

@@ -28,13 +28,19 @@ Ten slotte kan uw project afhankelijkheden hebben met licentievereisten waarvan 
 
 ## Zijn openbare GitHub-projecten open source?
 
-Wanneer je [een nieuw project maakt](https://help.github.com/articles/creating-a-new-repository/) op GitHub, heb je de optie om de repository **privé** of **openbaar te maken**.
+Wanneer je [een nieuw project maakt](https://help.github.com/articles/creating-a-new-repository/) op GitHub, heb je de
+optie om de repository **privé** of **openbaar te maken**.
 
-![Create repository](/assets/images/legal/repo-create-name.png)
+![Create repository](../../assets/images/legal/repo-create-name.png)
 
-**Het openbaar maken van uw GitHub-project is niet hetzelfde als het licentiëren van uw project.** Openbare projecten vallen onder de [Servicevoorwaarden van GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), waarmee anderen uw project kunnen bekijken en splitsen (_een fork_), maar uw werk heeft verder geen rechten.
+**Het openbaar maken van uw GitHub-project is niet hetzelfde als het licentiëren van uw project.** Openbare projecten
+vallen onder
+de [Servicevoorwaarden van GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)
+, waarmee anderen uw project kunnen bekijken en splitsen (_een fork_), maar uw werk heeft verder geen rechten.
 
-Als u wilt dat anderen uw project gebruiken, distribueren, wijzigen of eraan bijdragen, moet u een open source-licentie opnemen. Iemand kan bijvoorbeeld geen enkel deel van je GitHub-project legaal in zijn code gebruiken, zelfs niet als het openbaar is, tenzij je hem expliciet het recht geeft om dit te doen.
+Als u wilt dat anderen uw project gebruiken, distribueren, wijzigen of eraan bijdragen, moet u een open source-licentie
+opnemen. Iemand kan bijvoorbeeld geen enkel deel van je GitHub-project legaal in zijn code gebruiken, zelfs niet als het
+openbaar is, tenzij je hem expliciet het recht geeft om dit te doen.
 
 ## Geef me gewoon de TL;DR over wat ik nodig heb om mijn project te beschermen
 
@@ -44,16 +50,11 @@ Je hebt geluk, want tegenwoordig zijn open source-licenties gestandaardiseerd en
 
 Wanneer u een nieuw project op GitHub maakt, wordt u [gevraagd om een licentie toe te voegen](https://help.github.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-    Een gestandaardiseerde licentie dient als een proxy voor degenen zonder juridische opleiding om precies te weten wat ze wel en niet kunnen doen met de software. Vermijd, tenzij absoluut vereist, aangepaste, gewijzigde of niet-standaard voorwaarden, die een belemmering zullen vormen voor het downstream-gebruik van de agentschapscode.
+> ![](https://avatars.githubusercontent.com/benbalter?s=180)
+> Een gestandaardiseerde licentie dient als een proxy voor degenen zonder juridische opleiding om precies te weten wat ze wel en niet kunnen doen met de software. Vermijd, tenzij absoluut vereist, aangepaste, gewijzigde of niet-standaard voorwaarden, die een belemmering zullen vormen voor het downstream-gebruik van de agentschapscode.
 
   _A standardized license serves as a proxy for those without legal training to know precisely what they can and can't do with the software. Unless absolutely required, avoid custom, modified, or non-standard terms, which will serve as a barrier to downstream use of the agency code._
-
-  <p markdown="1" class="pquote-credit">
-— @benbalter, ["Alles wat een overheidsadvocaat moet weten over open source softwarelicenties"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
-  </p>
-</aside>
+> — @benbalter, ["Alles wat een overheidsadvocaat moet weten over open source softwarelicenties"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## Welke open source-licentie is geschikt voor mijn project?
 
@@ -97,16 +98,12 @@ Een aanvullende bijdragersovereenkomst -- vaak een bijdragerslicentieovereenkoms
 
 Door ook 'papierwerk' toe te voegen waarvan sommigen denken dat het onnodig, moeilijk te begrijpen of oneerlijk is (wanneer de ontvanger van de overeenkomst meer rechten krijgt dan bijdragers of het publiek via de open source-licentie van het project), kan een aanvullende overeenkomst voor bijdragers als onvriendelijk worden ervaren aan de gemeenschap van het project.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-    We hebben de CLA voor Node.js. Door dit te doen, wordt de toegangsdrempel voor Node.js-bijdragers verlaagd, waardoor het aantal bijdragers wordt verbreed.
+> ![](https://avatars.githubusercontent.com/bcantrill?s=180)
+> We hebben de CLA voor Node.js. Door dit te doen, wordt de toegangsdrempel voor Node.js-bijdragers verlaagd, waardoor het aantal bijdragers wordt verbreed.
     
     _We have eliminated the CLA for Node.js. Doing this lowers the barrier to entry for Node.js contributors thereby broadening the contributor base._
 
-  <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Node.js-bijdragen verbreden"](https://www.joyent.com/blog/broadening-node-js-contributions)
-  </p>
-</aside>
+> — @bcantrill, ["Node.js-bijdragen verbreden"](https://www.joyent.com/blog/broadening-node-js-contributions)
 Enkele situaties waarin u wellicht een aanvullende bijdrageovereenkomst voor uw project wilt overwegen, zijn onder meer:
 
 * Uw advocaten willen dat alle bijdragers uitdrukkelijk (_tekenen_, online of offline) contributievoorwaarden accepteren, misschien omdat ze vinden dat de open source-licentie zelf niet voldoende is (ook al is het dat wel!). Als dit de enige zorg is, zou een bijdragersovereenkomst moeten volstaan ​​die de open source-licentie van het project bevestigt. De [jQuery Individual Contributor License Agreement](https://contribute.jquery.org/CLA/) is een goed voorbeeld van een lichtgewicht aanvullende overeenkomst voor bijdragers.
@@ -141,29 +138,19 @@ Op de langere termijn kan uw juridische team meer doen om het bedrijf te helpen 
 
 * **Beleid inzake werknemersbijdragen:** Overweeg om een ​​bedrijfsbeleid te ontwikkelen dat aangeeft hoe uw werknemers bijdragen aan open source-projecten. Een duidelijk beleid zal de verwarring onder uw medewerkers verminderen en hen helpen bij te dragen aan open source-projecten in het belang van het bedrijf, zowel als onderdeel van hun baan als in hun vrije tijd. Een goed voorbeeld is Rackspace's [Model IP and Open Source Contribution Policy] (https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  Door de interlectuele eigenschap die aan een patch is gekoppeld, te verhuren, wordt de kennisbasis en de reputatie van de werknemer opgebouwd. Het laat zien dat het bedrijf investeert in de ontwikkeling van die medewerker en creëert een gevoel van empowerment en autonomie. Al deze voordelen leiden ook tot een hoger moreel en een beter behoud van werknemers.
+> ![](https://avatars.githubusercontent.com/vanl?s=180)
+> Door de interlectuele eigenschap die aan een patch is gekoppeld, te verhuren, wordt de kennisbasis en de reputatie van de werknemer opgebouwd. Het laat zien dat het bedrijf investeert in de ontwikkeling van die medewerker en creëert een gevoel van empowerment en autonomie. Al deze voordelen leiden ook tot een hoger moreel en een beter behoud van werknemers.
   
   _Letting out the IP associated with a patch builds the employee's knowledge base and reputation. It shows that the company is invested in the development of that employee and creates a sense of empowerment and autonomy. All of these benefits also lead to higher morale and better employee retention._
-
-  <p markdown="1" class="pquote-credit">
-— @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
-  </p>
-</aside>
+> — @vanl, ["Een modelbeleid inzake intellectuele eigendom en bijdragen aan open source"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
 
 * **Wat vrij te geven:** [(Bijna) alles?] (Http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Als uw juridische team het begrijpt en geïnvesteerd in de open source-strategie van uw bedrijf, zullen ze u het beste kunnen helpen in plaats van hinderen.
 * **Naleving:** Zelfs als uw bedrijf geen open source-projecten vrijgeeft, gebruikt het open source-software van anderen. [Bewustwording en proces](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) kan hoofdpijn, productvertragingen, en rechtszaken voorkomen.
 
-<aside markdown="1" class="pquote">
-  Organisaties moeten een licentie- en nalevingsstrategie hebben die past in de categorieën \["tolerant" en "copyleft"\]. Dit begint met het bijhouden van de licentievoorwaarden die van toepassing zijn op de open source-software die u gebruikt, inclusief subcomponenten en afhankelijkheden.
+> Organisaties moeten een licentie- en nalevingsstrategie hebben die past in de categorieën \["tolerant" en "copyleft"\]. Dit begint met het bijhouden van de licentievoorwaarden die van toepassing zijn op de open source-software die u gebruikt, inclusief subcomponenten en afhankelijkheden.
   
   _Organizations must have a license and compliance strategy in place that fits both \["permissive" and "copyleft"\] categories. This begins with keeping a record of the licensing terms that apply to the open source software you’re using — including subcomponents and dependencies._
-  
-  <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open source-software: basisprincipes van compliance en best practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
-  </p>
-</aside>
+> — Heather Meeker, ["Open source-software: basisprincipes van compliance en best practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **Patenten:** Uw bedrijf wil wellicht lid worden van het [Open Invention Network](https://www.openinventionnetwork.com/), een gedeelde defensieve patentpool om het gebruik van grote open source-projecten door leden te beschermen, of andere [alternatieve patentlicenties](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governance:** Zeker als en wanneer het zinvol is om een project te verhuizen naar een [juridische entiteit buiten het bedrijf](../leadership-and-governance/#heb-ik-een-juridische-entiteit-nodig-om-mijn-project-te-ondersteunen).

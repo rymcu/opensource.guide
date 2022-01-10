@@ -28,13 +28,19 @@ Finalmente, tu proyecto puede tener dependencias con requisitos de licencia que 
 
 ## ¿Son p&uacute;blicos los proyectos de c&oacute;digo abierto de GitHub?
 
-Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/creating-a-new-repository/) en GitHub, tienes la opci&oacute;n de hacerlo **privado** o **p&uacute;blico**.
+Cuando t&uacute; [creas un nuevo proyecto](https://help.GitHub.com/articles/creating-a-new-repository/) en GitHub,
+tienes la opci&oacute;n de hacerlo **privado** o **p&uacute;blico**.
 
-![crear repositorio](/assets/images/legal/repo-create-name.png)
+![crear repositorio](../../assets/images/legal/repo-create-name.png)
 
-**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos son cubiertos por [los T&eacute;rminos de Servicio de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants), lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
+**Hacer tu proyecto de GitHub p&uacute;blico, no es lo mismo que licenciar tu proyecto.** Los proyectos p&uacute;blicos
+son cubiertos
+por [los T&eacute;rminos de Servicio de GitHub](https://help.github.com/en/github/site-policy/github-terms-of-service#3-ownership-of-content-right-to-post-and-license-grants)
+, lo que les permite a otros ver y bifurcar el proyecto, pero su trabajo viene de otra manera sin permisos.
 
-Si quieres que otros usen, copien, modifiquen, o contribuyan a tu proyecto, debes incluir una licencia de c&oacute;digo abierto. Por ejemplo, nadie puede usar legalmente cualquier parte de tu proyecto de GitHub en su c&oacute;digo, incluso si es p&uacute;blico, a menos que expl&iacute;citamente le concedas dicho derecho.
+Si quieres que otros usen, copien, modifiquen, o contribuyan a tu proyecto, debes incluir una licencia de c&oacute;digo
+abierto. Por ejemplo, nadie puede usar legalmente cualquier parte de tu proyecto de GitHub en su c&oacute;digo, incluso
+si es p&uacute;blico, a menos que expl&iacute;citamente le concedas dicho derecho.
 
 ## Solo dame un resumen acerca de lo que necesito para proteger mi proyecto.
 
@@ -44,14 +50,8 @@ Tienes suerte, porque hoy, las licencias de c&oacute;digo abierto est&aacute;n e
 
 Cuando crees un nuevo proyecto en GitHub, se te [pedir&aacute; que agregues una licencia](https://help.GitHub.com/articles/open-source-licensing/).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/benbalter?s=180" class="pquote-avatar" alt="avatar">
-  Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software.
-A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.
-  <p markdown="1" class="pquote-credit">
-— @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/benbalter?s=180)
+> Una licencia estandarizada sirve como aproximaci&oacute;n para quienes no tengan entrenamiento legal para saber con precisi&oacute;n lo que pueden y lo que no pueden hacer con el software. A menos que sea absolutamente necesario, evita t&eacute;rminos personalizados, modificados o no estandarizados, lo cual te servir&aacute; como barrera para el uso posterior de la agencia de c&oacute;digo.> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## ¿Cu&aacute;l licencia de c&oacute;digo abierto es apropiada para mi proyecto?
 
@@ -95,13 +95,8 @@ Un acuerdo adicional de colaboradores – a menudo llamado Acuerdo de Licencia d
 
 Tambi&eacute;n, al a&ntilde;adir "papeleo" que algunos consideran innecesario, dif&iacute;cil de entender, o injusto (cuando el beneficiario del acuerdo obtiene m&aacute;s derechos que los colaboradores o el p&uacute;blico a trav&eacute;s de la licencia de c&oacute;digo abierto del proyecto), un acuerdo adicional de colaboradores puede ser percibido poco amigable a la comunidad del proyecto.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/bcantrill?s=180" class="pquote-avatar" alt="avatar">
-    Hemos eliminado la CLA para Node.js. Esto, reduce la barrera de entrada para colaboradores de Node.js, ampliando as&iacute; la base de contribuyentes.
-  <p markdown="1" class="pquote-credit">
-— @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/bcantrill?s=180)
+> Hemos eliminado la CLA para Node.js. Esto, reduce la barrera de entrada para colaboradores de Node.js, ampliando as&iacute; la base de contribuyentes.> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 Algunas situaciones en las cuales deber&iacute;as considerar un acuerdo adicional de colaboradores pueden ser:
 
@@ -125,41 +120,70 @@ Probablemente tengas un "acuerdo IP de empleado" con tu empresa que les da ciert
 
 **Si est&aacute;s trabajando en un proyecto de c&oacute;digo abierto para tu empresa** entonces definitivamente debes hacerles saber. Tu equipo legal seguramente ya cuenta con pol&iacute;ticas para esa licencia de c&oacute;digo abierto (y puede que tambi&eacute;n un acuerdo adicional de colaboradores) para usar basado en los requisitos y pericia del negocio de la empresa para asegurar que tu proyecto cumple con la licencia de sus dependencias. De lo contrario, tanto t&uacute; como ellos, est&aacute;n de suerte! tu equipo legal deber&iacute;a estar ansioso por trabajar con usted para acordar estas cosas. Algunos aspectos a considerar:
 
-* **Material de terceros**   ¿tiene tu proyecto dependencias creadas por otros o bien incluye o usa c&oacute;digos ajenos? Esto comienza con la elecci&oacute;n de una licencia que funcione con las licencias de c&oacute;digo abierto de terceros (ver arriba). Si su proyecto modifica o distribuye c&oacute;digo abierto de terceros, su equipo legal tambi&eacute;n querr&aacute; saber si cumple con otras condiciones de las licencias de c&oacute;digo abierto de terceros, como la retenci&oacute;n de avisos de derechos de autor. Si tu proyecto utiliza c&oacute;digo de otros que no tienen una licencia de c&oacute;digo abierto, probablemente tendr&aacute;s que pedirle a los mantenedores que [agreguen una licencia de c&oacute;digo abierto](https://choosealicense.com/no-license/#for-users), y si no puedes conseguir una, deja de usar su c&oacute;digo en tu proyecto.
+* **Material de terceros**   ¿tiene tu proyecto dependencias creadas por otros o bien incluye o usa c&oacute;digos
+  ajenos? Esto comienza con la elecci&oacute;n de una licencia que funcione con las licencias de c&oacute;digo abierto
+  de terceros (ver arriba). Si su proyecto modifica o distribuye c&oacute;digo abierto de terceros, su equipo legal
+  tambi&eacute;n querr&aacute; saber si cumple con otras condiciones de las licencias de c&oacute;digo abierto de
+  terceros, como la retenci&oacute;n de avisos de derechos de autor. Si tu proyecto utiliza c&oacute;digo de otros que
+  no tienen una licencia de c&oacute;digo abierto, probablemente tendr&aacute;s que pedirle a los mantenedores
+  que [agreguen una licencia de c&oacute;digo abierto](https://choosealicense.com/no-license/#for-users), y si no puedes
+  conseguir una, deja de usar su c&oacute;digo en tu proyecto.
 
-* **Secretos comerciales:**   Considera si hay algo en el proyecto que la empresa no quiere poner a disposici&oacute;n del p&uacute;blico en general. Si es as&iacute;, puedes hacer de c&oacute;digo abierto al resto del proyecto, despu&eacute;s de extraer el material que desea mantener privado.
+* **Secretos comerciales:**   Considera si hay algo en el proyecto que la empresa no quiere poner a disposici&oacute;n
+  del p&uacute;blico en general. Si es as&iacute;, puedes hacer de c&oacute;digo abierto al resto del proyecto,
+  despu&eacute;s de extraer el material que desea mantener privado.
 
-* **Patentes:** ¿Est&aacute; tu empresa solicitando una patente, cuya liberaci&oacute;n del c&oacute;digo fuente del proyecto implique una [revelaci&oacute;n p&uacute;blica](https://en.wikipedia.org/wiki/Public_disclosure)? Tristemente, puede que te pidan que esperes (o tal vez, la empresa volver&aacute; a considerar la sabidur&iacute;a de la aplicaci&oacute;n). Si est&aacute;s esperando contribuciones a tu proyecto de los empleados de empresas con cantidades grandes de patentes, tu equipo legal puede que desee que utilices una licencia con una concesi&oacute;n de patente expresa de los contribuyentes (como Apache 2.0 o GPLv3), o un acuerdo adicional de colaboradores (ver m&aacute;s arriba).
+* **Patentes:** ¿Est&aacute; tu empresa solicitando una patente, cuya liberaci&oacute;n del c&oacute;digo fuente del
+  proyecto implique una [revelaci&oacute;n p&uacute;blica](https://en.wikipedia.org/wiki/Public_disclosure)?
+  Tristemente, puede que te pidan que esperes (o tal vez, la empresa volver&aacute; a considerar la sabidur&iacute;a de
+  la aplicaci&oacute;n). Si est&aacute;s esperando contribuciones a tu proyecto de los empleados de empresas con
+  cantidades grandes de patentes, tu equipo legal puede que desee que utilices una licencia con una concesi&oacute;n de
+  patente expresa de los contribuyentes (como Apache 2.0 o GPLv3), o un acuerdo adicional de colaboradores (ver
+  m&aacute;s arriba).
 
-* **Marca comercial** Verifica que el nombre de tu proyecto [no entre en conflicto con alguna marca existente](../starting-a-project/#evitando-conflictos-con-los-nombres). Si utilizas marcas comerciales de tu empresa en el proyecto, comprueba que no genere ning&uacute;n conflicto. [FOSSmarks](http://fossmarks.org/) es una gu&iacute;a pr&aacute;ctica para la comprensi&oacute;n de las marcas en el contexto de los proyectos de c&oacute;digo libre y abierto.
+* **Marca comercial** Verifica que el nombre de tu
+  proyecto [no entre en conflicto con alguna marca existente](../starting-a-project/#evitando-conflictos-con-los-nombres)
+  . Si utilizas marcas comerciales de tu empresa en el proyecto, comprueba que no genere ning&uacute;n
+  conflicto. [FOSSmarks](http://fossmarks.org/) es una gu&iacute;a pr&aacute;ctica para la comprensi&oacute;n de las
+  marcas en el contexto de los proyectos de c&oacute;digo libre y abierto.
 
-* **Privacidad** ¿Recolecta tu proyecto datos de sus usuarios? ¿Recopila su proyecto datos en los servidores de la empresa sin el consentimiento de los usuarios? Tu equipo legal puede ayudarte a cumplir con las pol&iacute;ticas de la empresa y las regulaciones externas.
+* **Privacidad** ¿Recolecta tu proyecto datos de sus usuarios? ¿Recopila su proyecto datos en los servidores de la
+  empresa sin el consentimiento de los usuarios? Tu equipo legal puede ayudarte a cumplir con las pol&iacute;ticas de la
+  empresa y las regulaciones externas.
 
-Si est&aacute;s lanzando el primer proyecto de c&oacute;digo abierto de tu empresa, lo anterior es m&aacute;s que suficiente para conseguirlo.
+Si est&aacute;s lanzando el primer proyecto de c&oacute;digo abierto de tu empresa, lo anterior es m&aacute;s que
+suficiente para conseguirlo.
 
-A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a obtener su participaci&oacute;n en c&oacute;digo abierto y mantenerse a salvo:
+A largo plazo, tu equipo legal puede hacer m&aacute;s para ayudar a la empresa a obtener su participaci&oacute;n en
+c&oacute;digo abierto y mantenerse a salvo:
 
-* **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen ejemplo es Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/).
+* **Pol&iacute;ticas de contribuci&oacute;n de empleados:**  Considera la posibilidad de desarrollar una pol&iacute;tica
+  corporativa que especifique c&oacute;mo sus empleados contribuyen a proyectos de c&oacute;digo abierto. Una
+  pol&iacute;tica clara reducir&aacute; la confusi&oacute;n entre sus empleados y los ayudar&aacute; a contribuir a
+  proyectos de c&oacute;digo abierto de la empresa, ya sea como parte de su trabajo o en su tiempo libre. Un buen
+  ejemplo es
+  Rackspace's [Model IP and Open Source Contribution Policy](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+  .
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
-  Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.
-  <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
-     </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/vanl?s=180)
+> Liberar el IP asociado con un parche genera la base de conocimientos y la reputaci&oacute;n del empleado. Demuestra que la empresa invierte en el desarrollo del empleado y crea un sentido de autonom&iacute;a y autonom&iacute;a. Todos estos beneficios tambi&eacute;n conducen a una mayor moral y mejor retenci&oacute;n de empleados.> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
 
-* **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s capaces de ayudar en lugar de dificultar tus esfuerzos.
+* **Qu&eacute; liberar:** [¿(casi) todo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Si tu
+  equipo legal entiende e invierte en la estrategia de c&oacute;digo abierto de su empresa, ser&aacute;n m&aacute;s
+  capaces de ayudar en lugar de dificultar tus esfuerzos.
 
-* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro software de c&oacute;digo abierto. La [conciencia y el proceso](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) puede prevenir dolores de cabeza, retrasos del producto, y demandas.
+* **Conformidad:** Incluso si tu empresa no libera ning&uacute;n proyecto de c&oacute;digo abierto, utiliza otro
+  software de c&oacute;digo abierto.
+  La [conciencia y el proceso](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)
+  puede prevenir dolores de cabeza, retrasos del producto, y demandas.
 
-<aside markdown="1" class="pquote">
-  Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.
-  <p markdown="1" class="pquote-credit">
-— Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
-  </p>
-</aside>
+> Las organizaciones deben tener una estrategia de licencia y cumplimiento que se ajuste tanto a categor&iacute;as \["permisiva" y "copyleft"\]. Esto comienza con el mantenimiento de un registro de los t&eacute;rminos de licencia que se aplican al software de c&oacute;digo abierto que est&aacute; utilizando - incluidos subcomponentes y dependencias.> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
-* **Patentes:** Es posible que su empresa desee unirse a la [Red de Invenci&oacute;n Abierta](http://www.openinventionnetwork.com/), Un conjunto de patentes defensivas compartido para proteger el uso de los miembros de los principales proyectos de c&oacute;digo abierto, o explorar otras [licencias de patentes alternativas](https://www.eff.org/document/hacking-patent-system-2016).
+* **Patentes:** Es posible que su empresa desee unirse a
+  la [Red de Invenci&oacute;n Abierta](http://www.openinventionnetwork.com/), Un conjunto de patentes defensivas
+  compartido para proteger el uso de los miembros de los principales proyectos de c&oacute;digo abierto, o explorar
+  otras [licencias de patentes alternativas](https://www.eff.org/document/hacking-patent-system-2016).
 
-* **Gobernancia:**   Especialmente si tiene sentido mover un proyecto a una [entidad jur&iacute;dica ajena a la empresa](../leadership-and-governance/#necesito-una-entidad-legal-para-apoyar-a-mi-proyecto).
+* **Gobernancia:**   Especialmente si tiene sentido mover un proyecto a
+  una [entidad jur&iacute;dica ajena a la empresa](../leadership-and-governance/#necesito-una-entidad-legal-para-apoyar-a-mi-proyecto)
+  .

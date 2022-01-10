@@ -33,11 +33,15 @@ Jeśli _jesteś_ zainteresowany zrozumieniem swojego projektu na głębszym pozi
 
 ## Discovery
 
-Zanim ktokolwiek będzie mógł wykorzystać Twój projekt lub wesprzeć go, musi wiedzieć, że on istnieje. Zadaj sobie pytanie: _czy ludzie znajdują ten projekt?_
+Zanim ktokolwiek będzie mógł wykorzystać Twój projekt lub wesprzeć go, musi wiedzieć, że on istnieje. Zadaj sobie
+pytanie: _czy ludzie znajdują ten projekt?_
 
-![Traffic graph](/assets/images/metrics/repo_traffic_graphs_tooltip.png)
+![Traffic graph](../../assets/images/metrics/repo_traffic_graphs_tooltip.png)
 
-Jeśli Twój projekt jest hostowany na GitHub, [możesz zobaczyć](https://help.github.com/articles/about-repository-graphs/#traffic), ile osób wylądowało na twoim projekcie i skąd pochodzi. Na stronie projektu kliknij „Statystyki”, a następnie „Ruch”. Na tej stronie możesz zobaczyć:
+Jeśli Twój projekt jest hostowany na
+GitHub, [możesz zobaczyć](https://help.github.com/articles/about-repository-graphs/#traffic), ile osób wylądowało na
+twoim projekcie i skąd pochodzi. Na stronie projektu kliknij „Statystyki”, a następnie „Ruch”. Na tej stronie możesz
+zobaczyć:
 
 * **Łączna liczba wyświetleń strony:** Informuje, ile razy Twój projekt był oglądany
 
@@ -53,15 +57,22 @@ Możesz także chcieć [śledzić wykrywalność w określonych miejscach](https
 
 ## Stosowanie
 
-Ludzie znajdują Twój projekt w tej szalonej i szalonej rzeczy, którą nazywamy internetem. Idealnie, gdy zobaczą Twój projekt, poczują się zmuszeni do zrobienia czegoś. Drugie pytanie, które chcesz zadać, to: _czy ludzie korzystają z tego projektu?_
+Ludzie znajdują Twój projekt w tej szalonej i szalonej rzeczy, którą nazywamy internetem. Idealnie, gdy zobaczą Twój
+projekt, poczują się zmuszeni do zrobienia czegoś. Drugie pytanie, które chcesz zadać, to: _czy ludzie korzystają z tego
+projektu?_
 
-Jeśli używasz menedżera pakietów, takiego jak npm lub RubyGems.org, do rozpowszechniania projektu, możesz być w stanie śledzić pobrania projektu.
+Jeśli używasz menedżera pakietów, takiego jak npm lub RubyGems.org, do rozpowszechniania projektu, możesz być w stanie
+śledzić pobrania projektu.
 
-Każdy menedżer pakietów może używać nieco innej definicji „pobierania”, a pobieranie niekoniecznie koreluje z instalacjami lub użyciem, ale zapewnia pewną podstawę do porównania. Spróbuj użyć [Libraries.io](https://libraries.io/) do śledzenia statystyk użytkowania wielu popularnych menedżerów pakietów.
+Każdy menedżer pakietów może używać nieco innej definicji „pobierania”, a pobieranie niekoniecznie koreluje z
+instalacjami lub użyciem, ale zapewnia pewną podstawę do porównania. Spróbuj użyć [Libraries.io](https://libraries.io/)
+do śledzenia statystyk użytkowania wielu popularnych menedżerów pakietów.
 
-Jeśli Twój projekt znajduje się na GitHub, ponownie przejdź do strony „Ruch drogowy”. Możesz użyć [wykres klonowania](https://github.com/blog/1873-clone-graphs), aby zobaczyć, ile razy twój projekt został sklonowany w danym dniu, w podziale na całkowitą liczbę klonów i unikatowych klonerów.
+Jeśli Twój projekt znajduje się na GitHub, ponownie przejdź do strony „Ruch drogowy”. Możesz
+użyć [wykres klonowania](https://github.com/blog/1873-clone-graphs), aby zobaczyć, ile razy twój projekt został
+sklonowany w danym dniu, w podziale na całkowitą liczbę klonów i unikatowych klonerów.
 
-![Clone graph](/assets/images/metrics/clone_graph.png)
+![Clone graph](../../assets/images/metrics/clone_graph.png)
 
 Jeśli użycie jest niskie w porównaniu z liczbą osób odkrywających Twój projekt, należy rozważyć dwa problemy. Zarówno:
 
@@ -86,7 +97,7 @@ Przykłady wskaźników społeczności, które warto regularnie śledzić, obejm
 
 * **Łączna liczba współpracowników i liczba zatwierdzeń na jednego współpracownika:** Informuje, ilu masz współpracowników i kto jest mniej lub bardziej aktywny. W serwisie GitHub możesz to wyświetlić w sekcji „Statystyki” -> „Współtwórcy”. W tej chwili ten wykres zlicza tylko autorów, którzy zaangażowali się w domyślną gałąź repozytorium.
 
-![Contributor graph](/assets/images/metrics/repo_contributors_specific_graph.png)
+![Contributor graph](../../assets/images/metrics/repo_contributors_specific_graph.png)
 
 * **Po raz pierwszy, nieformalny i powtarzający się współautorzy:** Pomagają śledzić, czy zdobywasz nowych współpracowników i czy wrócą. (Przypadkowi współpracownicy to współautorzy z małą liczbą zatwierdzeń. Niezależnie od tego, czy jest to jeden zatwierdzenie, mniej niż pięć zatwierdzeń, czy coś innego zależy od ciebie.) Bez nowych współpracowników społeczność twojego projektu może stać w stagnacji.
 
@@ -96,15 +107,9 @@ Przykłady wskaźników społeczności, które warto regularnie śledzić, obejm
 
 * **Rodzaje wkładów:** Na przykład zatwierdza, naprawia literówki lub błędy lub komentuje problem.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/arfon?s=180" class="pquote-avatar" alt="avatar">
-  <i>
-  Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
-  </i>
-  <p markdown="1" class="pquote-credit">
-— @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
-  </p>
-</aside>
+> ![](https://avatars.githubusercontent.com/arfon?s=180)
+> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+</i>> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Działalność maintainera
 

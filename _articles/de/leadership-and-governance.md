@@ -30,33 +30,21 @@ Ein\*e Maintainer\*in muss in Ihrem Projekt nicht zwangsläufig Code schreiben. 
 
 "Kontributor\*innen" könnten alle Menschen sein, die ein Issue oder Pull Request kommentiert, die dem Projekt einen Mehrwert verleihen (sei es durch Problembehebungen, das Schreiben von Code oder die Veranstaltungsorganisation) oder alle, deren Pull Requests akzeptiert wurden (vielleicht die engste Definition für Kontribution).
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/mikeal?s=180" class="pquote-avatar" alt="avatar">
-
-  \[Für Node.js,\] ist jede Person, die durch Kommentieren in einem Issue mithilft, oder Code einreicht, Mitglied der Projekt-Community. Dass sie einfach durch aktive Beteiligung sichtbar werden, bedeutet, dass sie die Benutzer-Kontributor-Grenze überschritten haben.
+> ![](https://avatars.githubusercontent.com/mikeal?s=180)
+> \[Für Node.js,\] ist jede Person, die durch Kommentieren in einem Issue mithilft, oder Code einreicht, Mitglied der Projekt-Community. Dass sie einfach durch aktive Beteiligung sichtbar werden, bedeutet, dass sie die Benutzer-Kontributor-Grenze überschritten haben.
 
   _\[For Node.js,\] every person who shows up to comment on an issue or submit code is a member of a project's community. Just being able to see them means that they have crossed the line from being a user to being a contributor._
-
-  <p markdown="1" class="pquote-credit">
-— @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
-  </p>
-</aside>
+> — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
 
 **Der Begriff "Committer\*in"** könnte verwendet werden, um die höhere Verantwortung des Commit-Rechtes zu unterscheiden von anderen Formen der Mitarbeit.
 
 Sie können Ihre Projektrollen zwar nach Belieben definieren, aber Sie sollten die Verwendung von [breiteren Definitionen in Betracht ziehen](../how-to-contribute/#was-einen-beitrag-leisten-bedeutet), um mehr Beitragsformen zu fördern. Mit Hilfe von Führungsrollen können Sie Personen, die unabhängig von ihren fachlichen Fähigkeiten herausragende Leistungen für Ihr Projekt erbracht haben, formell auszeichnen.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/jacobian?s=180" class="pquote-avatar" alt="avatar">
-
-  Sie kennen mich vielleicht als den "Erfinder" von Django... Aber ich bin in Wirklichkeit der Typ, der angeheuert wurde, um an einer seit einem Jahr fertigen Sache zu arbeiten. (...) Die Leute vermuten, dass ich wegen meiner Programmierfähigkeiten erfolgreich bin... Aber ich bin bestenfalls ein durchschnittlicher Programmierer.
+> ![](https://avatars.githubusercontent.com/jacobian?s=180)
+> Sie kennen mich vielleicht als den "Erfinder" von Django... Aber ich bin in Wirklichkeit der Typ, der angeheuert wurde, um an einer seit einem Jahr fertigen Sache zu arbeiten. (...) Die Leute vermuten, dass ich wegen meiner Programmierfähigkeiten erfolgreich bin... Aber ich bin bestenfalls ein durchschnittlicher Programmierer.
 
   _You might know me as the "inventor" of Django...but really I'm the guy who got hired to work on a thing a year after it was already made. (...) People suspect that I'm successful because of my programming skill...but I'm at best an average programmer._
-
-  <p markdown="1" class="pquote-credit">
-— @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
-  </p>
-</aside>
+> — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
 
 ## Wie formalisiere ich diese Führungsrollen?
 
@@ -68,16 +56,10 @@ Für ein größeres Projekt mit einer Website, erstellen Sie eine Teamseite und 
 
 Wenn Ihr Projekt eine sehr aktive Gemeinschaft von Mitwirkenden hat, können Sie ein Maintainer\*innen-"Kernteam" bilden oder sogar Gremien, welche die Verantwortung für verschiedene Themengebiete übernehmen (z.B. Sicherheit, Issue-Bearbeitung oder Community-Management). Lassen Sie die Leute sich selbst organisieren! Anstatt ihnen Rollen zuzuweisen, lassen Sie Freiwillige das übernehmen, was diese am meisten begeistert.
 
-<aside markdown="1" class="pquote">
-
-  \[Wir\] ergänzen das Kernteam mit mehreren "Subteams". Jedes Subteam ist auf einen bestimmten Bereich fokussiert, z.B. Sprachdesign oder Bibliotheken. Um eine globale Koordination und eine starke, kohärente Sichtweise für das Gesamtprojekt zu gewährleisten, wird jedes Subteam von einem Mitglied des Kernteams geleitet.
+> \[Wir\] ergänzen das Kernteam mit mehreren "Subteams". Jedes Subteam ist auf einen bestimmten Bereich fokussiert, z.B. Sprachdesign oder Bibliotheken. Um eine globale Koordination und eine starke, kohärente Sichtweise für das Gesamtprojekt zu gewährleisten, wird jedes Subteam von einem Mitglied des Kernteams geleitet.
 
   _\[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team._
-
-  <p markdown="1" class="pquote-credit">
-— ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
-  </p>
-</aside>
+> — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
 
 Führungsteams können einen Kommunikationskanal einrichten (z.B. im IRC) oder sich regelmäßig treffen, um das Projekt zu besprechen (z.B. in Gitter oder Google Hangout). Sie können diese Meetings sogar öffentlich machen, damit andere Leute zuhören können. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby) zum Beispiel, [lädt zu wöchentlichen Sprechstunden ein](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -95,17 +77,11 @@ Andererseits, besonders bei größeren, komplexeren Projekten, möchten Sie viel
 
 Wenn sich Ihr Projekt auf GitHub befindet, können Sie unter [protected branches](https://help.github.com/articles/about-protected-branches/) verwalten, wer unter welchen Umständen auf einen bestimmten Branch committen darf.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/felixge?s=180" class="pquote-avatar" alt="avatar">
-
-  Wann immer Ihnen jemand einen Pull Request schickt, geben Sie ihm Commit-Zugriff auf Ihr Projekt. Auch wenn es auf den ersten Blick unglaublich dumm klingt, können Sie mit dieser Strategie die wahre Kraft von GitHub entfalten. (...) Sobald Leute Commit-Zugriff haben, haben sie keine Angst mehr, dass ihr Patch nicht mehr angenommen werden könnte... Dies veranlasst sie dazu, viel mehr Arbeit in Patches zu stecken.
+> ![](https://avatars.githubusercontent.com/felixge?s=180)
+> Wann immer Ihnen jemand einen Pull Request schickt, geben Sie ihm Commit-Zugriff auf Ihr Projekt. Auch wenn es auf den ersten Blick unglaublich dumm klingt, können Sie mit dieser Strategie die wahre Kraft von GitHub entfalten. (...) Sobald Leute Commit-Zugriff haben, haben sie keine Angst mehr, dass ihr Patch nicht mehr angenommen werden könnte... Dies veranlasst sie dazu, viel mehr Arbeit in Patches zu stecken.
 
   _Whenever somebody sends you a pull request, give them commit access to your project. While it may sound incredibly stupid at first, using this strategy will allow you to unleash the true power of GitHub. (...) Once people have commit access, they are no longer worried that their patch might go unmerged...causing them to put much more work into it._
-
-  <p markdown="1" class="pquote-credit">
-— @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
-  </p>
-</aside>
+> — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
 
 ## Welche Lenkungsstrukturen nutzen Open-Source-Projekte häufiger?
 
@@ -131,17 +107,11 @@ Frühzeitige Dokumentationen wird selbst auch dazu beitragen, wie sich Ihr Proje
 
 Wenn Sie Teil eines Unternehmens sind, das ein Open-Source-Projekt startet, lohnt sich eine interne Diskussion vor dem Start. Wie erwartet Ihr Unternehmen, dass es das Projekt aufrechterhält und Entscheidungen trifft? Möglicherweise möchten Sie auch öffentlich erklären, wie oder ob Ihr Unternehmen in das Projekt eingebunden wird.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/caabernathy?s=180" class="pquote-avatar" alt="avatar">
-
-  Wir beauftragen kleine Teams mit der Leitung von Projekten auf GitHub, die aktuell bei Facebook an diesen arbeiten. Beispielsweise wird das React-Projekt von einer React-Ingenieurin betreut.
+> ![](https://avatars.githubusercontent.com/caabernathy?s=180)
+> Wir beauftragen kleine Teams mit der Leitung von Projekten auf GitHub, die aktuell bei Facebook an diesen arbeiten. Beispielsweise wird das React-Projekt von einer React-Ingenieurin betreut.
 
   _We assign small teams to manage projects on GitHub who are actually working on these at Facebook. For example, React is run by a React engineer._
-
-  <p markdown="1" class="pquote-credit">
-— @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
-  </p>
-</aside>
+> — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
 
 ## Was passiert, wenn Firmenangehörige Beiträge einreichen?
 
@@ -165,16 +135,10 @@ Wenn Sie Spenden für Ihr Open-Source-Projekt annehmen möchten, können Sie ein
 
 Viele Projekte wollen sich nicht die Mühe machen, einen gemeinnützigen Verein zu gründen, also finden sie stattdessen einen gemeinnützigen, steuerrechtlichen Sponsor. Ein solcher Sponsor nimmt Spenden in Ihrem Namen entgegen (teilweise im Austausch gegen einen prozentualen Anteil der Spende). [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects), [Open Collective](https://opencollective.com/opensource), und das deutsche [Center for the Cultivation of Technology](https://techcultivation.org/) sind Beispiele für Organisationen, die als steuerrechtliche Sponsoren für Open-Source-Projekte fungieren.
 
-<aside markdown="1" class="pquote">
-  <img src="https://avatars.githubusercontent.com/piamancini?s=180" class="pquote-avatar" alt="avatar">
-
-  Unser Ziel ist es, eine Infrastruktur bereitzustellen, die Communities nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
+> ![](https://avatars.githubusercontent.com/piamancini?s=180)
+> Unser Ziel ist es, eine Infrastruktur bereitzustellen, die Communities nutzen können, um selbsttragend zu sein, und so ein Umfeld zu schaffen, in dem alle (Beitragende, Geldgeber\*innen und Sponsor\*innen) konkrete Vorteile daraus ziehen können.
 
   _Our goal is to provide an infrastructure that communities can use to be self sustainable, thus creating an environment where everyone — contributors, backers, sponsors — get concrete benefits out of it._
-
-  <p markdown="1" class="pquote-credit">
-— @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
-  </p>
-</aside>
+> — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
 
 Wenn Ihr Projekt spezifisch für eine bestimmte Programmiersprache oder ein bestimmtes Ökosystem gedacht ist, kann es auch eine entsprechende Software-Stiftung geben, mit der Sie zusammenarbeiten können. So unterstützt beispielsweise die [Python Software Foundation](https://www.python.org/psf/) den Paketmanager [PyPI](https://pypi.org/), und die [Node.js-Foundation](https://foundation.nodejs.org/) unterstützt das Node-basierte Framework [Express.js](https://expressjs.com/).
