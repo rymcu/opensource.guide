@@ -15,7 +15,8 @@ related:
 La mayor parte del trabajo realizado en proyectos de c&oacute;digo abierto es voluntario. Por ejemplo, alguien puede encontrarse con un error en un proyecto que usan y aplican una correcci&oacute;n r&aacute;pida, o simplemente les puede gustar corregir proyectos de c&oacute;digo abierto en su tiempo libre.
 
 > ![](https://avatars.githubusercontent.com/gvanrossum?s=180)
-> Estaba buscando un proyecto de programaci&oacute;n para tenerlo como "hobby" y que me mantuviese ocupado en la semana de Navidad. (...) Ten&iacute;a un ordenador personal y no mucho m&aacute;s. Decid&iacute; escribir un interpretador para un nuevo lenguaje en el que he estado pensando &uacute;ltimamente. (...) Eleg&iacute; Python como t&iacute;tulo de mi trabajo.> — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
+> Estaba buscando un proyecto de programaci&oacute;n para tenerlo como "hobby" y que me mantuviese ocupado en la semana de Navidad. (...) Ten&iacute;a un ordenador personal y no mucho m&aacute;s. Decid&iacute; escribir un interpretador para un nuevo lenguaje en el que he estado pensando &uacute;ltimamente. (...) Eleg&iacute; Python como t&iacute;tulo de mi trabajo.
+> — @gvanrossum, ["Programming Python"](https://www.python.org/doc/essays/foreword/)
 
 Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pagaran por su trabajo en c&oacute;digo abierto.
 
@@ -24,19 +25,22 @@ Hay muchas razones por las cuales a una persona no le gustar&iacute;a que le pag
 * **Reciben otros beneficios al contribuir al c&oacute;digo abierto,** como construir su portfolio de reputaci&oacute;n, obtener nuevas habilidades, o sentirse cercanos a una comunidad.
 
 > ![](https://avatars.githubusercontent.com/alloy?s=180)
-> Las donaciones financieras agregan un sentimiento de responsabilidad, para algunos. (...) Es importante para nosotros, en el mundo globalmente conectado y apresurado en el que vivimos, ser capaces de decir: "Espera, no ahora, quiero hacer algo completamente diferente".> — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
+> Las donaciones financieras agregan un sentimiento de responsabilidad, para algunos. (...) Es importante para nosotros, en el mundo globalmente conectado y apresurado en el que vivimos, ser capaces de decir: "Espera, no ahora, quiero hacer algo completamente diferente".
+> — @alloy, ["Why We Don't Accept Donations"](https://blog.cocoapods.org/Why-we-dont-accept-donations/)
 
 Para otros, especialmente cuando las contribuciones est&aacute;n en proceso o requieren tiempo significativo, recibir dinero al contribuir al c&oacute;digo abierto es la &uacute;nica manera en la que pueden participar. Porque el proyecto lo requiera o por razones personales.
 
 Mantener proyectos populares puede ser una responsabilidad significativa, tomando de 10 a 20 horas por semana en vez de un par de horas por mes.
 
 > ![](https://avatars.githubusercontent.com/ashedryden?s=180)
-> Preg&uacute;ntale a cualquier responsable de proyecto de c&oacute;digo abierto, y te informar&aacute; sobre la realidad de la cantidad de trabajo que se dedica a la gesti&oacute;n de un proyecto. Tienes clientes. Est&aacute;s arreglando los problemas para ellos. Est&aacute;s creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.> — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
+> Preg&uacute;ntale a cualquier responsable de proyecto de c&oacute;digo abierto, y te informar&aacute; sobre la realidad de la cantidad de trabajo que se dedica a la gesti&oacute;n de un proyecto. Tienes clientes. Est&aacute;s arreglando los problemas para ellos. Est&aacute;s creando nuevas funciones. Esto se convierte en una demanda real de tu tiempo.
+> — @ashedryden, ["The Ethics of Unpaid Labor and the OSS Community"](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community)
 
 El trabajo pagado tambi&eacute;n habilita a todo tipo de personas a aportar significativamente. Algunas no pueden afrontar un trabajo ad-honorem (trabajo gratis) en proyectos de c&oacute;digo abierto, ya sea por su posici&oacute;n financiera, deudas, familia u otras responsabilidades. Eso significa que el mundo nunca ve contribuciones de personas talentosas que no pueden donar horas de trabajo. Estas implicaciones &eacute;ticas como @ashedryden [ha descrito](https://www.ashedryden.com/blog/the-ethics-of-unpaid-labor-and-the-oss-community), desde que el trabajo hecho es parcialmente en favor de las personas que tienen ventajas en su vida, quienes de vuelta ganan ventajas adicionales basadas en sus contribuciones voluntarias, mientras que otros que no pueden ofrecerse voluntariamente no obtiene nuevas oportunidades, lo cual refuerza la actual falta de diversidad en la comunidad de c&oacute;digo abierto.
 
 > ![](https://avatars.githubusercontent.com/isaacs?s=180)
-> OSS obtiene beneficios mas&iacute;vos de la industria de la tecnolog&iacute;a, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las &uacute;nicas personas que pueden concentrarse en ello son aquellas con suerte y obsesionadas, entonces hay un gran potencial no explotado.> — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
+> OSS obtiene beneficios mas&iacute;vos de la industria de la tecnolog&iacute;a, que, al mismo tiempo, significa beneficios para todas las industrias. (...) Por otro lado, si las &uacute;nicas personas que pueden concentrarse en ello son aquellas con suerte y obsesionadas, entonces hay un gran potencial no explotado.
+> — @isaacs, ["Money and Open Source"](https://medium.com/open-source-life/money-and-open-source-d44a1953749c)
 
 Si tu est&aacute;s buscando apoyo financiero, hay dos posibles caminos a seguir: puedes pagar por tu propio tiempo como contribuyente, o puedes encontrar organizaciones que aporten a tu proyecto.
 
@@ -47,7 +51,8 @@ Hoy en d&iacute;a, muchas personas reciben pagos por trabajos a tiempo parcial o
 Es m&aacute;s f&aacute;cil establecer un trabajo en c&oacute;digo abierto si tu empleador usa el proyecto, pero ponte creativo. Puede que tu empleador no use el proyecto, pero usa Python, y mantener un proyecto popular de Python puede atraer nuevos desarrolladores de Python. Tambi&eacute;n puede que haga que tu empleador se vea m&aacute;s desarrollador-amigable en general.
 
 > ![](https://avatars.githubusercontent.com/hzoo?s=180)
-> Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforz&aacute;ndome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre c&oacute;mo podr&iacute;amos incorporar las tareas de c&oacute;digo abierto dado nuestro propio uso de Babel.> — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
+> Como muchos desarrolladores en proyectos de c&oacute;digo abierto, yo estaba esforz&aacute;ndome por seguir manteniendo uno. Cuando por primera vez comenc&eacute; a aportar a un proyecto, sol&iacute;a quedarme despierto hasta tarde o me pon&iacute;a a trabajar ni bien llegaba a mi hogar. (...) Fui capaz de discutir con mi jefe los problemas que estaba enfrentando y nos surgieron ideas sobre c&oacute;mo podr&iacute;amos incorporar las tareas de c&oacute;digo abierto dado nuestro propio uso de Babel.
+> — @hzoo, ["Maintainer Stories"](https://github.com/open-source/stories/hzoo)
 
 Si tu no tienes un excitante proyecto de c&oacute;digo abierto en el que quisieras trabajar, pero te gustar&iacute;a que tu actual trabajo genere aportes al c&oacute;digo abierto, establece un acuerdo con tu empleador para aportar algo del software interno de la organizaci&oacute;n a la comunidad de c&oacute;digo abierto.
 
@@ -60,7 +65,8 @@ Muchas empresas est&aacute;n desarrollando programas de c&oacute;digo abierto pa
 Si tu empresa va por esta ruta, es importante mantener clara la relaci&oacute;n entre la comunidad y la actividad corporativa. &uacute;ltimamente, el c&oacute;digo abierto se mantiene a s&iacute; mismo a trav&eacute;s de contribuciones de personas de todo el mundo, y eso es m&aacute;s importante que la empresa o la ubicaci&oacute;n de la misma.
 
 > ![](https://avatars.githubusercontent.com/jessfraz?s=180)
-> Recibir dinero por trabajar en proyectos de c&oacute;digo abierto es una rara y hermosa oportunidad, pero no tienes que dejar de lado tu pasi&oacute;n en el proceso. Tu pasi&oacute;n deber&iacute;a ser el porqu&eacute; las empresas te pagar&iacute;an a t&iacute;.> — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
+> Recibir dinero por trabajar en proyectos de c&oacute;digo abierto es una rara y hermosa oportunidad, pero no tienes que dejar de lado tu pasi&oacute;n en el proceso. Tu pasi&oacute;n deber&iacute;a ser el porqu&eacute; las empresas te pagar&iacute;an a t&iacute;.
+> — @jessfraz, ["Blurred Lines"](https://blog.jessfraz.com/post/blurred-lines/)
 
 Si no pueden convencer a tu actual empleador de priorizar un trabajo de c&oacute;digo abierto, considera encontrar un nuevo empleador que motive a los empleados a contribuir. Busca empresas que hagan su dedicaci&oacute;n al c&oacute;digo abierto expl&iacute;cita. Por ejemplo:
 

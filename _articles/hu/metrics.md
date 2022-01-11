@@ -107,7 +107,8 @@ Példák a közösségi metrikákra, amelyeket érdemes rendszeresen nyomon köv
 * **Közreműködők típusai:** Például: kód módosítás, elírás javítás, hibajavítás, vagy kommentelés egy hibajegyhez, módosításhoz.
 
 > ![](https://avatars.githubusercontent.com/arfon?s=180)
-> A nyílt forráskód több, mint maga a kód. A sikeres nyílt forráskódú projektek magukban foglalják a kód és dokumentációs hozzájárulásokat, valamint ezen változásokkal kapcsolatos beszélgetéseket.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+> A nyílt forráskód több, mint maga a kód. A sikeres nyílt forráskódú projektek magukban foglalják a kód és dokumentációs hozzájárulásokat, valamint ezen változásokkal kapcsolatos beszélgetéseket.
+> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Karbantartói aktivitás
 

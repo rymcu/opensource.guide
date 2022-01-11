@@ -13,7 +13,8 @@ related:
 ## Mengapa berkontribusi pada open source?
 
 > ![](https://avatars.githubusercontent.com/errietta?s=180)
-> Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+> Bekerja pada \[freenode\] membantu saya mendapatkan banyak ketrampilan yang saya gunakan pada pembelajaran di universitas dan pekerjaan saya nantinya. Saya pikir bekerja pada proyek open source membantu saya sebanyak saya membantu proyek itu sendiri.!
+> — @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
 
 Berkontribusi pada open source bisa jadi merupakan cara yang bermanfaat untuk belajar, mengajar, dan membangun pengalaman pada segala ketrampilan yang dapat Anda bayangkan.
 
@@ -54,12 +55,14 @@ Tidak perlu khawatir! Terdapat banyak cara untuk bisa ikut terlibat pada proyek 
 Kesalahpahaman yang sering terjadi tentang berkontribusi pada open source adalah Anda harus memberikan kontribusi dalam bentuk kode. Kenyataannya, seringkali banyak bagian lain dari proyek yang [seringkali terabaikan atau diabaikan](https://github.com/blog/2195-the-shape-of-open-source). Anda bisa memberikan bantuan _besar_ bagi proyek dengan menawarkan diri untuk jenis kontribusi semacam ini.
 
 > ![](https://avatars.githubusercontent.com/orta?s=180)
-> Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+> Saya menjadi terkenal karena pekerjaan saya pada CocoaPods, tetapi banyak orang tidak tahu bahwa saya tidak melakukan pekerjaan yang berarti pada perangkat CocoaPods itu sendiri. Waktu saya pada proyek lebih banyak dihabiskan untuk melakukan kegiatan seperti dokumentasi dan pencitraan.
+> — @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
 
 Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan cara yang baik untuk bisa berpartisipasi pada proyek dan bertemu dengan anggota komunitas lainnya. Membangun hubungan tersebut akan memberikan Anda kesempatan untuk bekerja pada bagian lain dari proyek.
 
 > ![](https://avatars.githubusercontent.com/brettcannon?s=180)
-> Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
+> Saya pertama kali menghubungi tim pengembang Python (python-dev) ketika saya mengirimkan pesan email kepada mailing list pada 17 Juni 2002 tentang perbaikan dari saya. Saya dengan cepat menemukan kesalahan, dan memutuskan untuk mulai memilih email dari grup. Mereka memberikan saya alasan yang baik untuk bertanya tentang klarifikasi sebuah topik, tetapi yang lebih penting lagi saya mampu mendeteksi apabila seseorang menunjukkan sesuatu yang perlu diperbaiki.
+> — @brettcannon, ["Maintainer Stories"](https://github.com/open-source/stories/brettcannon)
 
 ### Apakah Anda suka merencanakan kegiatan?
 
@@ -83,7 +86,8 @@ Meskipun Anda suka untuk menulis kode program, kontribusi jenis lain merupakan c
 * Menulis terjemahan untuk dokumentasi proyek
 
 > ![](https://avatars.githubusercontent.com/kittens?s=180)
-> Serius, \[dokumentasi\] sangatlah penting. Dokumentasi sejauh ini sudah sangat bagus dan merupakan fitur utama dari Babel. Terdapat beberapa bagian yang bisa dikembangkan dan bahkan penambahan sebuah paragraf disini dan disana akan sangat dihargai.> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
+> Serius, \[dokumentasi\] sangatlah penting. Dokumentasi sejauh ini sudah sangat bagus dan merupakan fitur utama dari Babel. Terdapat beberapa bagian yang bisa dikembangkan dan bahkan penambahan sebuah paragraf disini dan disana akan sangat dihargai.
+> — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
 
 ### Apakah Anda suka mengelola?
 
@@ -125,7 +129,8 @@ Meskipun Anda seorang pengembang perangkat lunak, bekerja pada proyek dokumentas
 ## Berorientasi pada proyek baru
 
 > ![](https://avatars.githubusercontent.com/shaunagm?s=180)
-> Jika Anda mengunjungi issue tracker dan tampaknya membingungkan, hal itu terjadi bukan hanya kepada Anda saja. Perangkat ini membutuhkan banyak pemahaman implisit, tetapi orang lain mampu membantu Anda dalam mengeksplorasi dan Anda bisa bertanya kepada mereka.> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
+> Jika Anda mengunjungi issue tracker dan tampaknya membingungkan, hal itu terjadi bukan hanya kepada Anda saja. Perangkat ini membutuhkan banyak pemahaman implisit, tetapi orang lain mampu membantu Anda dalam mengeksplorasi dan Anda bisa bertanya kepada mereka.
+> — @shaunagm, ["How to Contribute to Open Source"](https://readwrite.com/2014/10/10/open-source-diversity-how-to-contribute/)
 
 Untuk aktivitas yang lebih dari sekedar kesalahan penulisan, berkontribusi pada open source seperti berjalan pada sebuah kelompok orang asing pada sebuah pesta. Jika Anda berbicara tentang hewan llamas, sedangkan mereka sedang membicarakan tentang ikan mas, mungkin mereka akan memandang Anda dengan aneh.
 
@@ -254,7 +259,8 @@ Sebuah proyek yang bersahabat dan menyambut menandai bahwa mereka sangat menerim
 * [ ] Apakah pengelola berterima kasih kepada orang lain atas kontribusinya?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
-> Setiap kali Anda melihat diskusi yang panjang, amati respon dari pengembang inti di bagian akhir dari diskusi. Apakah mereka meringkasnya secara konstruktif dan mengambil langkah-langkah untuk mendapatkan kesimpulan tanpa mengabaikan sopan santun? Jika Anda melihat banyak perdebatan yang tidak konstruktif (_flame war_), biasanya merupakan sebuah tanda bahwa energi dihabiskan untuk berargumentasi dibandingkan untuk pengembangan proyek.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
+> Setiap kali Anda melihat diskusi yang panjang, amati respon dari pengembang inti di bagian akhir dari diskusi. Apakah mereka meringkasnya secara konstruktif dan mengambil langkah-langkah untuk mendapatkan kesimpulan tanpa mengabaikan sopan santun? Jika Anda melihat banyak perdebatan yang tidak konstruktif (_flame war_), biasanya merupakan sebuah tanda bahwa energi dihabiskan untuk berargumentasi dibandingkan untuk pengembangan proyek.
+> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## Bagaimana mengajukan kontribusi
 
@@ -265,7 +271,8 @@ Anda telah menemukan sebuah proyek yang Anda sukai, dan Anda siap untuk membuat 
 Apakah Anda merupakan kontributor atau mencoba untuk bergabung dengan sebuah komunitas, bekerja dengan orang lain merupakan salah satu keahlian paling penting yang perlu diasah dalam dunia open source.
 
 > ![](https://avatars.githubusercontent.com/shubheksha?s=180)
-> \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+> \[Sebagai kontributor baru,\] saya menyadari bahwa saya perlu bertanya jika ingin menutup sebuah laporan masalah. Saya mengamati kode program. Setelah saya mengetahui situasinya, saya bertanya untuk pengarahan lebih lanjut. Dan akhirnya! Saya berhasil menutup sebuah laporan masalah setelah mendapatkan semua informasi relevan yang saya butuhkan.
+> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Sebelum Anda membuka sebuah laporan masalah atau pull request, atau bertanya pada media chat, perhatikan beberapa poin berikut untuk membantu ide Anda secara efektif.
 
@@ -322,7 +329,8 @@ Sebelum Anda membuka sebuah laporan masalah atau melakukan pull request, periksa
 Jika Anda hendak melakukan kontribusi yang cukup substansial, buatlah sebuah laporan masalah sebelum memulai bekerja. Sangatlah bermanfaat untuk mengamati proyek dalam kurun waktu tertentu (pada GitHub, [Anda bisa memilih menu "Watch"](https://help.github.com/articles/watching-repositories/) untuk mendapatkan notifikasi dari semua percakapan), dan mengenal anggota komunitas, sebelum memulai pekerjaan yang belum tentu akan diterima.
 
 > ![](https://avatars.githubusercontent.com/gaearon?s=180)
-> Anda akan belajar <em>banyak</em> dari proyek yang Anda gunakan secara aktif, "melihatnya" pada GitHub dan membaca semua laporan masalah dan PR.> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+> Anda akan belajar <em>banyak</em> dari proyek yang Anda gunakan secara aktif, "melihatnya" pada GitHub dan membaca semua laporan masalah dan PR.
+> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Membuka laporan masalah
 

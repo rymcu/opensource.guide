@@ -51,7 +51,8 @@ Você pode copiar e colar uma licença existente diretamente no seu projeto.
 Quando você criar um novo projeto no GitHub, será [dada a opção de adição de uma licença](https://help.github.com/articles/open-source-licensing/).
 
 > ![](https://avatars.githubusercontent.com/benbalter?s=180)
-> Uma licença padronizada serve como um proxy para aqueles sem treinamento jurídico saberem precisamente o que eles podem ou não fazer com o software. Ao menos que seja absolutamente necessário, evite termos customizados, modificados ou não-padrão, que irão servir como uma barreira para o uso final do código da agência.> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+> Uma licença padronizada serve como um proxy para aqueles sem treinamento jurídico saberem precisamente o que eles podem ou não fazer com o software. Ao menos que seja absolutamente necessário, evite termos customizados, modificados ou não-padrão, que irão servir como uma barreira para o uso final do código da agência.
+> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## Qual licença open source é apropriada para meu projeto?
 
@@ -96,7 +97,8 @@ Um contrato de contribuidor adicional - geralmente chamado de Contrato de Licen�
 Além disso, adicionando "papelada" que alguns acreditam ser desnecessária, difícil de entender ou injusta (quando o destinatário do contrato obtém mais direitos que os contribuidores ou o público por meio da licença open source do projeto), um acordo de contribuição adicional pode ser considerado hostil para a comunidade do projeto.
 
 > ![](https://avatars.githubusercontent.com/bcantrill?s=180)
-> Nós eliminamos o CLA do Node.js. Isso reduziu a barreira de entrada para contribuidores Node.js, consequentemente expandindo a base de contribuidores.> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+> Nós eliminamos o CLA do Node.js. Isso reduziu a barreira de entrada para contribuidores Node.js, consequentemente expandindo a base de contribuidores.
+> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 Algumas situações em que você pode querer considerar um contrato de contribuição adicional para o seu projeto incluem:
 
@@ -132,12 +134,14 @@ A longo prazo, sua equipe jurídica pode fazer mais para ajudar a empresa a obte
 * **Políticas de contribuição para funcionários:** Considere desenvolver uma política corporativa que especifique como seus funcionários contribuem para projetos open source. Uma política clara reduzirá a confusão entre seus funcionários e os ajudará a contribuir para projetos open source no melhor interesse da empresa, seja como parte de seus trabalhos ou em seu tempo livre. Um bom exemplo é o  [Modelo de propriedade intelectual e políticas de contribuição para projetos abertos](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/) da Rackspace.
 
 > ![](https://avatars.githubusercontent.com/vanl?s=180)
-> Liberar a propriedade intelectual associada com um patch constrói a base de conhecimento do funcionário e sua reputação. Mostra que a empresa é empenhada no desenvolvimento desse funcionário e cria um senso de emponderamento e autonomia. Todos esses benefícios também levam a uma maior moral e uma melhor retenção de funcionários.> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+> Liberar a propriedade intelectual associada com um patch constrói a base de conhecimento do funcionário e sua reputação. Mostra que a empresa é empenhada no desenvolvimento desse funcionário e cria um senso de emponderamento e autonomia. Todos esses benefícios também levam a uma maior moral e uma melhor retenção de funcionários.
+> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
 
 * **O que liberar:** [(Quase) tudo?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Se a sua equipe jurídica entender e investir na estratégia open source da sua empresa, ela será mais capaz de ajudar do que atrapalhar seus esforços.
 * **Conformidade:** Mesmo que sua empresa não libere nenhum projeto open source, ela usa o software open source dos outros. [Conscientização e processo](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) pode evitar dores de cabeça, atrasos de produtos e ações judiciais.
 
-> Organizações devem ter uma estratégia de licença e conformidade funcionando que encaixe ambas as categorias \["permissive" e "copyleft"\]. Isso começa com a manutenção de um registro dos termos de licença que se aplicam ao software open source que você está utilizando — incluindo subcomponentes e dependências.> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+> Organizações devem ter uma estratégia de licença e conformidade funcionando que encaixe ambas as categorias \["permissive" e "copyleft"\]. Isso começa com a manutenção de um registro dos termos de licença que se aplicam ao software open source que você está utilizando — incluindo subcomponentes e dependências.
+> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **Patentes:** Sua empresa pode querer participar do [Open Invention Network](https://www.openinventionnetwork.com/), um conjunto de patentes defensivas compartilhadas para proteger o uso de grandes projetos open source pelos membros, ou explorar outros [licenciamentos alternativos de patentes](https://www.eff.org/document/hacking-patent-system-2016).
 * **Governança:** Especialmente se e quando fizer sentido mover um projeto para um [entidade legal fora da empresa](../leadership-and-governance/#preciso-de-uma-entidade-legal-para-apoiar-o-meu-projeto).

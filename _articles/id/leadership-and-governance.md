@@ -31,14 +31,16 @@ Seorang pengelola (maintainer) tidak harus merupakan orang yang menuliskan kode 
 **Seorang "kontributor" bisa siapa saja** yang memberikan komentar pada sebuah masalah atau pull request, orang-orang yang memberikan nilai pada proyek (baik menyelesaikan masalah, menuliskan kode, atau mengelola sebuah acara), atau siapapun dengan pull request yang diterima (mungkin definisi tersingkat dari seorang kontributor).
 
 > ![](https://avatars.githubusercontent.com/mikeal?s=180)
-> \[Untuk Node.js,\] setiap orang yang memberikan komentar pada sebuah masalah atau mengirimkan kode adalah anggota dari komunitas proyek. Cukup dengan melihat apa yang mereka lakukan berarti mereka sudah beralih dari seorang pengguna menjadi seorang kontributor.> — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
+> \[Untuk Node.js,\] setiap orang yang memberikan komentar pada sebuah masalah atau mengirimkan kode adalah anggota dari komunitas proyek. Cukup dengan melihat apa yang mereka lakukan berarti mereka sudah beralih dari seorang pengguna menjadi seorang kontributor.
+> — @mikeal, ["Healthy Open Source"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
 
 **Istilah "committer"** mungkin digunakan untuk membedakan akses commit, yang merupakan tanggung jawab yang spesifik, dari jenis kontribusi lainnya.
 
 Walaupun Anda bisa mendefinisikan peran pada proyek Anda sesuka Anda, [pertimbangkan untuk menggunakan definisi yang lebih luas](../how-to-contribute/#apa-artinya-berkontribusi) untuk mendorong lebih banyak jenis kontribusi. Anda bisa menggunakan peran kepemimpinan untuk secara formal mengakui orang-orang yang memiliki kontribusi yang besar pada proyek Anda, terlepas dari ketrampilan teknis mereka.
 
 > ![](https://avatars.githubusercontent.com/jacobian?s=180)
-> Anda mungkin mengenal saya sebagai "pencipta" dari Django...tetapi saya hanyalah orang yang dipekerjakan untuk bekerja pada sesuatu setelah satu tahun dibuat. (...) Orang menduga bahwa saya sukses karena ketrampilan pemrograman saya...tetapi saya hanyalah programmer biasa.> — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+> Anda mungkin mengenal saya sebagai "pencipta" dari Django...tetapi saya hanyalah orang yang dipekerjakan untuk bekerja pada sesuatu setelah satu tahun dibuat. (...) Orang menduga bahwa saya sukses karena ketrampilan pemrograman saya...tetapi saya hanyalah programmer biasa.
+> — @jacobian, ["PyCon 2015 Keynote" (video)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
 
 ## Bagaimana saya memformalkan peran kepemimpinan ini?
 
@@ -50,7 +52,8 @@ Untuk proyek yang lebih besar, jika Anda memiliki sebuah website, buatlah halama
 
 Jika proyek Anda memiliki komunitas kontributor yang aktif, Anda mungkin perlu membuat "tim inti" dari pengelola, atau sub komite dari orang-orang yang memiliki peran pada beberapa area yang berbeda (misalnya keamanan, laporan masalah, atau kode etik). Biarkan orang lain mengatur dirinya sendiri dan berkontribusi pada peran yang mereka sukai.
 
-> \[Kami\] melengkapi tim inti dengan beberapa "sub tim". Setiap sub tim berfokus pada area tertentu, misalnya desain bahasa atau pustaka. (...) Untuk memastikan koordinasi yang kuat dan global, penyamaan visi pada proyek secara keseluruhan, setiap sub tim dipimpin oleh anggota dari tim inti.> — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+> \[Kami\] melengkapi tim inti dengan beberapa "sub tim". Setiap sub tim berfokus pada area tertentu, misalnya desain bahasa atau pustaka. (...) Untuk memastikan koordinasi yang kuat dan global, penyamaan visi pada proyek secara keseluruhan, setiap sub tim dipimpin oleh anggota dari tim inti.
+> — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
 
 Tim pemimpin mungkin perlu membuat chanel khusus (seperti IRC) atau bertemu secara rutin untuk mendiskusikan proyek (seperti pada Gitter atau Google Hangout). Anda bisa membuat hasil rapat tersebut secara terbuka sehingga orang lain bisa mendengarkan. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), misalnya, [mengadakan jam kerja setiap minggunya](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
 
@@ -69,7 +72,8 @@ Disisi lain, terutama untuk proyek yang besar dan kompleks, Anda mungkin hanya a
 Jika proyek Anda berada pada GitHub, Anda bisa menggunakan [protected branches](https://help.github.com/articles/about-protected-branches/) untuk mengelola siapa saja yang boleh mengirimkan pada branch tertentu, dan pada kondisi apa.
 
 > ![](https://avatars.githubusercontent.com/felixge?s=180)
-> Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.> — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
+> Ketika seseorang mengirimkan sebuah pull request, berikan mereka akses commit pada proyek Anda. Meskipun tampaknya hal bodoh pada awalnya, menggunakan strategi ini akan memaksimalkan kekuatan utama dari GitHub. (...) Setelah orang-orang memiliki akses commit, mereka tidak lagi khawatir bahwa perubahan mereka tidak akan digunakan...hal ini akan membuat mereka bekerja lebih keras pada perubahan yang diusulkan.
+> — @felixge, ["The Pull Request Hack"](https://felixge.de/2013/03/11/the-pull-request-hack.html)
 
 ## Apa struktur pengelolaan yang umum untuk proyek open source?
 
@@ -96,7 +100,8 @@ Beberapa dokumentasi awal akan membantu pengelolaan proyek Anda, sehingga mulail
 Jika Anda bagian dari sebuah perusahaan yang merilis proyek open source, maka akan sangat berguna untuk melakukan diskusi internal tentang bagaimana perusahaan Anda akan mengelola dan mengambil keputusan ketika proyek sudah mulai berkembang. Anda juga mungkin perlu menjelaskan tentang bagaimana perusahaan Anda (tidak) akan terlibat dengan proyek.
 
 > ![](https://avatars.githubusercontent.com/caabernathy?s=180)
-> Kami menugaskan kelompok kecil untuk mengelola proyek pada GitHub di Facebook. Sebagai contoh, React dikelola oleh pengembang React.> — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+> Kami menugaskan kelompok kecil untuk mengelola proyek pada GitHub di Facebook. Sebagai contoh, React dikelola oleh pengembang React.
+> — @caabernathy, ["An inside look at open source at Facebook"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
 
 ## Apa yang terjadi jika karyawan perkantoran mulai mengajukan kontribusi?
 
@@ -121,6 +126,7 @@ Jika Anda hendak menerima donasi untuk proyek open source Anda, Anda bisa membua
 Banyak proyek tidak ingin kerepotan untuk membuat nirlaba, sehingga mereka mencari sponsor fiskal nonprofit. Sponsor fiskal menerima donasi untuk Anda, biasanya dengan imbalan beberapa pesen dari donasi. [Software Freedom Conservancy](https://sfconservancy.org/), [Apache Foundation](https://www.apache.org/), [Eclipse Foundation](https://eclipse.org/org/foundation/), [Linux Foundation](https://www.linuxfoundation.org/projects) dan [Open Collective](https://opencollective.com/opensource) adalah contoh organisasi yang melayani sebagai sponsor fiskal untuk proyek open source.
 
 > ![](https://avatars.githubusercontent.com/piamancini?s=180)
-> Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.> — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
+> Tujuan kami adalah menyediakan infrastruktur yang bisa digunakan oleh komunitas untuk pengelolaan mandiri, sehingga menciptakan sebuah lingkungan dimana setiap orang - kontributor, pendukung, sponsor - bisa menerima keuntungan yang jelas.
+> — @piamancini, ["Moving beyond the charity framework"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141)
 
 Jika proyek Anda sangat erat hubungannya dengan bahasa atau ekosistem tertentu, seringkali terdapat yayasan yang bisa Anda ajak kerjasama. Sebagai contoh, [Python Software Foundation](https://www.python.org/psf/) membantu [PyPI](https://pypi.org/), Python package manager, dan [Node.js Foundation](https://foundation.nodejs.org/) membantu [Express.js](https://expressjs.com/), framework berbasis Node.

@@ -37,7 +37,8 @@ Umieść plik CODE_OF_CONDUCT w katalogu głównym projektu i uczyń go widoczny
 
 ## Decydowanie o tym, jak będziesz egzekwować swój kodeks postępowania
 
-> A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+> A code of conduct that isn't (or can't be) enforced is worse than no code of conduct at all: it sends the message that the values in the code of conduct aren't actually important or respected in your community.
+> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Musisz wyjaśnić, w jaki sposób Twój kodeks postępowania będzie egzekwowany **_zanim_** nastąpi naruszenie. Istnieje kilka powodów:
 
@@ -67,7 +68,8 @@ Członek społeczności, o którym mowa, może być wielokrotnym przestępcą, k
 
 Zanim odpowiesz, daj sobie czas na zrozumienie, co się stało. Przeczytaj wcześniejsze komentarze i rozmowy tej osoby, aby lepiej zrozumieć, kim ona jest i dlaczego mogła postąpić w taki sposób. Spróbuj zebrać inne niż własne opinie na temat tej osoby i jej zachowania.
 
-> Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+> Don’t get pulled into an argument. Don’t get sidetracked into dealing with someone else’s behavior before you’ve finished dealing with the matter at hand. Focus on what you need.
+> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
 
 ### Podejmij odpowiednie działania
 

@@ -51,7 +51,8 @@ projenizin herhangi bir bölümünü yasalarında kullanamaz.
 GitHub'da yeni bir proje oluşturduğunuzda sizden [bir lisans eklemeniz istenir](https://help.github.com/articles/open-source-licensing/).
 
 > ![](https://avatars.githubusercontent.com/benbalter?s=180)
-> Standartlaştırılmış bir lisans, yasal eğitim almayanların yazılımla neler yapabileceklerini ve yapamadıklarını tam olarak bilmeleri için bir vekil olarak hizmet eder. Kesinlikle gerekli olmadıkça, ajans kodunun akış aşağı kullanımına engel teşkil edecek özel, değiştirilmiş veya standart olmayan terimlerden kaçının.> — @benbalter, ["Bir devlet avukatının açık kaynaklı yazılım lisanslama hakkında bilmesi gereken her şey"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+> Standartlaştırılmış bir lisans, yasal eğitim almayanların yazılımla neler yapabileceklerini ve yapamadıklarını tam olarak bilmeleri için bir vekil olarak hizmet eder. Kesinlikle gerekli olmadıkça, ajans kodunun akış aşağı kullanımına engel teşkil edecek özel, değiştirilmiş veya standart olmayan terimlerden kaçının.
+> — @benbalter, ["Bir devlet avukatının açık kaynaklı yazılım lisanslama hakkında bilmesi gereken her şey"](https://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## Projem için hangi açık kaynak lisansı uygundur?
 
@@ -96,7 +97,8 @@ Ek bir katılımcı sözleşmesi - genellikle Katılımcı Lisans Sözleşmesi (
 Ayrıca, bazılarının gereksiz olduğuna, anlaşılmasının zor veya haksız olduğuna inandığı "evraklar" ekleyerek (sözleşme alıcısı katkıda bulunanlardan veya halkın projenin açık kaynak lisansı aracılığıyla yaptığı haklardan daha fazla hak kazandığında), ek bir katılımcı anlaşması projenin topluluğuna dostça görülmeyebilir.
 
 > ![](https://avatars.githubusercontent.com/bcantrill?s=180)
-> Node.js için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti.> — @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
+> Node.js için CLA'yı kaldırdık. Bunu yapmak, Node.js katılımcısı için giriş engelini azalttı ve böylece katılımcı tabanını genişletti.
+> — @bcantrill, ["Node.js Katkıları Genişletmek"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 Projeniz için ek bir katılımcı sözleşmesi düşünmek isteyebileceğiniz bazı durumlar şunlardır:
 
@@ -133,12 +135,14 @@ Daha uzun vadede hukuk ekibiniz, şirketin açık kaynaklara katılımından dah
 * **Çalışanlar için katkı politikaları:** Çalışanlarınızın açık kaynaklı projelere nasıl katkıda bulunduğunu belirten bir kurumsal politika geliştirmeyi düşünün. Açık bir politika, çalışanlarınız arasındaki karmaşayı azaltacaktır ve işlerinin bir parçası olarak veya boş zamanlarında, şirketin çıkarlarına faydalı olacak şekilde açık kaynak projelere katkıda bulunmalarına yardımcı olacaktır. Buna iyi bir örnek Rackspace'in [Model IP'si ve Açık Kaynak Katkı Politikası](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)'dır.
 
 > ![](https://avatars.githubusercontent.com/vanl?s=180)
-> Bir yama ile ilgili IP'nin serbest bırakılması, çalışanın bilgi birikimini ve itibarını arttırır. Şirketin bu çalışanın gelişimine yatırım yaptığını ve bir güçlendirme ve özerklik duygusu yarattığını göstermektedir. Tüm bu faydalar ayrıca daha yüksek moral ve daha iyi bir çalışanın kalmasına yol açmaktadır.> — @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
+> Bir yama ile ilgili IP'nin serbest bırakılması, çalışanın bilgi birikimini ve itibarını arttırır. Şirketin bu çalışanın gelişimine yatırım yaptığını ve bir güçlendirme ve özerklik duygusu yarattığını göstermektedir. Tüm bu faydalar ayrıca daha yüksek moral ve daha iyi bir çalışanın kalmasına yol açmaktadır.
+> — @vanl, ["Bir Model IP ve Açık Kaynak Katkı Politikası"](https://processmechanics.com/2015/07/22/a-model-ip-and-open-source-contribution-policy/)
 
 * **Neyi yayınlama:** [(Neredeyse) her şey?](http://tom.preston-werner.com/2011/11/22/open-source-everything.html) Eğer yasal ekibiniz şirketinizin açık kaynaklı stratejisini anlıyor ve yatırım yapıyorsa, çabalarınızı engellemekten ziyade en iyi şekilde yardım edebileceklerdir.
 * **Uyumluluk:** Şirketiniz herhangi bir açık kaynaklı proje yayınlamamış olsa bile, başkalarının açık kaynaklı yazılımını kullanır. [Farkındalık ve süreç](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/) baş ağrısını, ürün gecikmelerini ve davaları önleyebilir.
 
-> Kuruluşların hem \["izin verilen" hem de "copyleft"\] kategorilerine uyan bir lisans ve uyum stratejisi olmalıdır. Bu, alt bileşenler ve bağımlılıklar dahil, kullanmakta olduğunuz açık kaynaklı yazılım için geçerli olan lisans terimlerinin kaydını tutmakla başlar.> — Heather Meeker, ["Açık Kaynak Kodlu Yazılım: Uygunluk Esasları ve En İyi Uygulamalar"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+> Kuruluşların hem \["izin verilen" hem de "copyleft"\] kategorilerine uyan bir lisans ve uyum stratejisi olmalıdır. Bu, alt bileşenler ve bağımlılıklar dahil, kullanmakta olduğunuz açık kaynaklı yazılım için geçerli olan lisans terimlerinin kaydını tutmakla başlar.
+> — Heather Meeker, ["Açık Kaynak Kodlu Yazılım: Uygunluk Esasları ve En İyi Uygulamalar"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **Patentler:** Şirketiniz, üyelerin büyük açık kaynaklı projeleri kullanmalarını korumak için ortak bir savunma patenti havuzu olan [Açık Buluşma Ağı](https://www.openinventionnetwork.com/)'na katılmak veya başka bir [alternatif patent lisansını](https://www.eff.org/document/hacking-patent-system-2016) keşfetmek isteyebilir.
 * **Yönetişim:** Özellikle bir projeyi [şirket dışındaki](../leadership-and-governance/#projemi-desteklemek-i%C3%A7in-t%C3%BCzel-ki%C5%9Fili%C4%9Fe-ihtiyac%C4%B1m-var-m%C4%B1) bir {a2}tüzel kişiliğe{/a2} taşımanın ne zaman anlamlı olacağı.

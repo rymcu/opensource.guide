@@ -37,7 +37,8 @@ felhasználói személyiség fejlesztéséről szóló útmutatóját.
 
 ## Segítsd az embereket abban, hogy megtalálják és kövessék a projektedet
 
-> Ideális esetben egyetlen URL-címre van szükség, amelyet a projekthez kapcsolódóan népszerűsíthetsz és ahová az embereket irányíthatod. Nem kell egy kifinomult weboldal de még domain név sem, ugyanakkor a projektnek szüksége van egy központi helyre.> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> Ideális esetben egyetlen URL-címre van szükség, amelyet a projekthez kapcsolódóan népszerűsíthetsz és ahová az embereket irányíthatod. Nem kell egy kifinomult weboldal de még domain név sem, ugyanakkor a projektnek szüksége van egy központi helyre.
+> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 Segíts az embereknek megjegyezni a projektedet azáltal, hogy egyetlen pontra, helyre irányítod őket.
 
@@ -50,7 +51,8 @@ projektet. Ha eseményen vagy szakmai találkozókon adsz elő, akkor bizonyosod
 feltüntetted az előadásodban.
 
 > ![](https://avatars.githubusercontent.com/nathanmarz?s=180)
-> Akkoriban vétettem egy hibát azzal, hogy nem indítottam Twitter csatornát a projektnek. A Twitter nagyszerű hely arra, hogy az emberek megismerjék a projektet és naprakész információjuk legyen a változásokról, eseményekről.> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+> Akkoriban vétettem egy hibát azzal, hogy nem indítottam Twitter csatornát a projektnek. A Twitter nagyszerű hely arra, hogy az emberek megismerjék a projektet és naprakész információjuk legyen a változásokról, eseményekről.
+> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 **Fontold meg webhely létrehozását a projektedhez.** A weboldal barátságosabbá teszi a projektet és könnyebbé teszi a
 keresést, főleg ha ez áttekinthető dokumentációval és útmutatókkal párosul. Egy weboldal azt sugallja, hogy a projekt
@@ -77,7 +79,8 @@ Az online tájékoztatás nagyszerű módja annak, hogy gyorsan megoszthasd és 
 Használd ki a meglévő online közösségeket és platformokat, hogy elérd a saját közönségedet. Ha a nyílt forráskódú projekted szoftver projekt, akkor közönségedet megtalálhatod a [StackOverflow](https://stackoverflow.com/), [Reddit](https://www.reddit.com), [Hacker News](https://news.ycombinator.com/), vagy [Quora](https://www.quora.com/) oldalakon. Találd meg azokat a csatornákat, ahol olyan emberek vannak, akik a legtöbbet profitálhatnak a munkádból, vagy a leginkább kíváncsiak lehetnek rá.
 
 > ![](https://avatars.githubusercontent.com/pazdera?s=180)
-> Minden programnak vannak olyan speciális funkciói, amelyet a felhasználóknak csak egy része talál hasznosnak. Nem kell minden embert elérni, akiket nem érdekel ez. Inkább célozz meg olyan közösségeket, amelyeknek előnyére válik a te projekted.> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> Minden programnak vannak olyan speciális funkciói, amelyet a felhasználóknak csak egy része talál hasznosnak. Nem kell minden embert elérni, akiket nem érdekel ez. Inkább célozz meg olyan közösségeket, amelyeknek előnyére válik a te projekted.
+> — @pazdera, ["Marketing for open source projects"](https://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 Nézzük, hogyan lehet megtalálni a lényeges helyeket, ahol megoszthatod a projekted:
 
@@ -101,14 +104,16 @@ Ha teljesen [új vagy az előadásban](https://speaking.io/), keress egy helyi s
 kapcsolódik a projekted témájához vagy programnyelvéhez.
 
 > ![](https://avatars.githubusercontent.com/jhamrick?s=180)
-> Nagyon feszült voltam, amikor a PyCon rendezvényre készültem. Előadást kellett tartanom, miközben alig ismertem ott pár embert, és ezt egy egész héten keresztül. (...) Nem kellett volna aggódnom. A PyCon fantasztikus volt! (...) Mindenki hihetetlenül barátságos és nyitott volt, annyira, hogy ritkán találtam időt arra, hogy ne beszélgessek az emberekkel!> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+> Nagyon feszült voltam, amikor a PyCon rendezvényre készültem. Előadást kellett tartanom, miközben alig ismertem ott pár embert, és ezt egy egész héten keresztül. (...) Nem kellett volna aggódnom. A PyCon fantasztikus volt! (...) Mindenki hihetetlenül barátságos és nyitott volt, annyira, hogy ritkán találtam időt arra, hogy ne beszélgessek az emberekkel!
+> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
 
 Ha még soha nem beszéltél egy eseményen, teljesen normális, hogy feszültnek érzed magad. Ne feledd, hogy a közönség azért van ott, mert valóban szeretne hallani a munkádról.
 
 A beszéd írásakor összpontosíts arra, amit szerinted a közönség érdekesnek talál és mutasd meg az értéket a munkádban. Barátságos, elfogadható nyelvezetet használj. Mosolyogj, lélegezz és érezd jól magad!
 
 > ![](../../assets/images/finding-users/lena.jpg)
-> Amikor az előadásodat készíted, segíthet – függetlenül a témától –, ha úgy tekintesz rá, mint egy történetre, amit elmesélsz a hallgatóságnak.> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+> Amikor az előadásodat készíted, segíthet – függetlenül a témától –, ha úgy tekintesz rá, mint egy történetre, amit elmesélsz a hallgatóságnak.
+> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 Amikor késznek érzed magad, gondolkozz el, hogy hol, milyen konferenciákon tudnád bemutatni a projektedet. A konferenciák segítenek abban, hogy több embert elérj, gyakran a világ minden részéről.
 
@@ -124,14 +129,16 @@ A fent vázolt stratégiák mellett a legjobb módja annak, hogy részvételre b
 Új résztvevők segítése, információ megosztása és átgondolt részvétel mások projektjeiben segít, hogy pozitív kép alakuljon ki rólad. Aktív nyílt forráskódú közösségi tagként az emberek felfigyelnek rád és könnyebben befogadják a projektedet. A más projektekkel kialakított kapcsolat akár hivatalos partnerséghez is vezethet.
 
 > ![](https://avatars.githubusercontent.com/shazow?s=180)
-> Az egyetlen oka annak, hogy az urllib3 a legnépszerűbb független Python csomag ma az, hogy a requests csomag részévé vált.> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
+> Az egyetlen oka annak, hogy az urllib3 a legnépszerűbb független Python csomag ma az, hogy a requests csomag részévé vált.
+> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov/)
 
 Soha sincs túl késő vagy túl korán a hírnév építéséhez. Még ha el is indítottad a saját projektedet, folyamatosan keresd a lehetőséget arra, hogy másoknak segíts.
 
 Nem létezik olyan módszer, amivel hirtelen közönséget és hírnevet tudsz szerezni. A bizalom és tisztelet megszerzéséhez idő kell, és a hírnév építése sohasem érhet véget.
 
 > ![](https://avatars.githubusercontent.com/ariya?s=180)
-> A PhantomJS 2011 elején jelent meg először. (...) A hírét a szokásos módon terjesztettem: Twitter-en írtam róla, írtam Blog-ot arról hogyan és mire jó, és számos szakmai összejövetelen beszélgettem róla. 2014-re, mikorra ismertté vált, elkezdtem önálló előadásokat is tartani.> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+> A PhantomJS 2011 elején jelent meg először. (...) A hírét a szokásos módon terjesztettem: Twitter-en írtam róla, írtam Blog-ot arról hogyan és mire jó, és számos szakmai összejövetelen beszélgettem róla. 2014-re, mikorra ismertté vált, elkezdtem önálló előadásokat is tartani.
+> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
 
 ## Tarts ki!
 

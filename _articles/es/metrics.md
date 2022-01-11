@@ -110,7 +110,8 @@ Ejemplos de m&eacute;tricas de comunidad que quieres rastrear incluyen:
 * **Tipos de contribuci&oacute;n:** Por ejemplo commits, arreglar typos, solucionar bugs o comentando en un issue.
 
 > ![](https://avatars.githubusercontent.com/arfon?s=180)
-> C&oacute;digo Abierto es m&aacute;s que solo c&oacute;digo. Proyectos de este tipo exitosos han incluido contribuciones de c&oacute;digo y documentaci&oacute;n acompañados por una conversaci&oacute;n acerca de estos cambios.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+> C&oacute;digo Abierto es m&aacute;s que solo c&oacute;digo. Proyectos de este tipo exitosos han incluido contribuciones de c&oacute;digo y documentaci&oacute;n acompañados por una conversaci&oacute;n acerca de estos cambios.
+> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Actividad de mantenimiento
 

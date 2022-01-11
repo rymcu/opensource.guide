@@ -32,7 +32,8 @@ redirect_from: /zh-tw/finding-users/
 
 ## 幫助人們找到並關注你的專案
 
-> 你最好有一個唯一的"主頁"鏈接用來推廣，引導人們關注你的專案。你不需要找一個炫酷的模板或者域名，但是你的專案確實需要一個入口。> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
+> 你最好有一個唯一的"主頁"鏈接用來推廣，引導人們關注你的專案。你不需要找一個炫酷的模板或者域名，但是你的專案確實需要一個入口。
+> — Peter Cooper & Robert Nyman, ["How to Spread the Word About Your Code"](https://hacks.mozilla.org/2013/05/how-to-spread-the-word-about-your-code/)
 
 通過引導他們到一個唯一的地址來幫助人們發現和記住你的專案。
 
@@ -41,7 +42,8 @@ redirect_from: /zh-tw/finding-users/
 如果你目前還不想給你的專案搞這麼多亂七八糟的東西，而且還要在有機會的時候推廣你的Twitter帳號和GitHub帳號。舉個例子，如果你某一個討論會或者活動上發言要保證在你的簡歷或者幻燈片上包含這些資訊。只有這樣人們才會知道怎麼找到你或者關注你的工作。
 
 > ![](https://avatars2.githubusercontent.com/u/131416?v=3&s=400)
-> 我之前犯過的一個錯誤就是沒有給專案開一個Twitter帳號。Twitter是一個讓人們知曉專案進展的好渠道，也可以讓人們持續的接觸到你的專案。> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
+> 我之前犯過的一個錯誤就是沒有給專案開一個Twitter帳號。Twitter是一個讓人們知曉專案進展的好渠道，也可以讓人們持續的接觸到你的專案。
+> — @nathanmarz, ["History of Apache Storm and Lessons Learned"](http://nathanmarz.com/blog/history-of-apache-storm-and-lessons-learned.html)
 
 **考慮給你的專案做一個網站**一個網站可以讓你的專案更加友好，而且更加容易瀏覽，更重要的是附上清晰的文檔和教程。這也是象徵著你的專案還是活躍的，這會讓你的用戶使用你專案的時候感覺更放心。可以用一些例子告訴人們如何使用的專案。
 
@@ -63,7 +65,8 @@ redirect_from: /zh-tw/finding-users/
 利用既有的線上社群和平臺去找你的受眾。如果你的開源專案是一個軟件專案，你可能會在[Stack Overflow](http://stackoverflow.com/), [reddit](http://www.reddit.com), [Hacker News](https://news.ycombinator.com/), 或者[Quora](https://www.quora.com/)。找到你覺得人們會最有可能從你的專案中受益或者對你專案感興趣的渠道。
 
 > ![](https://avatars1.githubusercontent.com/u/169328?v=3&s=400)
-> 每個程序都會有那麼一些方法只有一部分人才會用到，所以不要想著去打擾每一個人，把你的力氣用在可能會從你專案受益的社群就好。> — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
+> 每個程序都會有那麼一些方法只有一部分人才會用到，所以不要想著去打擾每一個人，把你的力氣用在可能會從你專案受益的社群就好。
+> — @pazdera, ["Marketing for open source projects"](http://radek.io/2015/09/28/marketing-for-open-source-projects-3/)
 
 來看看下面的一些方法吧，也許推廣你的專案的時候用得著。
 
@@ -84,19 +87,22 @@ redirect_from: /zh-tw/finding-users/
 如果你還是個[公中演講的新手](http://speaking.io/)，從尋找一個和你專案使用的語言或者生態系統相關的當地的聚會開始吧。
 
 > ![](https://avatars0.githubusercontent.com/u/83444?v=3&s=460)
-> 我去Pycon的時候非常緊張。我要發表一個演講，在那兒我就認識幾個人，還在那兒呆了整個周。但是其實我不應該焦慮的。Pycon真是太他媽吊了！每個人都是超級友好外向，以至於我沒有找到時間和人們講話。> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
+> 我去Pycon的時候非常緊張。我要發表一個演講，在那兒我就認識幾個人，還在那兒呆了整個周。但是其實我不應該焦慮的。Pycon真是太他媽吊了！每個人都是超級友好外向，以至於我沒有找到時間和人們講話。
+> — @jhamrick, ["How I learned to Stop Worrying and Love PyCon"](http://www.jesshamrick.com/2014/04/18/how-i-learned-to-stop-worrying-and-love-pycon/)
 
 如果你從來沒在公共場合講過話，感覺緊張那就太正常啦！記住你的聽眾就在哪兒，因爲他們都是真正的想聽你介紹你的專案。
 
 當你在寫你的演講稿的時候，把重點放在你的聽眾會感興趣而且能獲取價值的事情上。保證你的語言要友好和和藹可親。笑一笑，深呼吸，幽默一點兒。
 
 > ![](../../assets/images/finding-users/lena.jpg)
-> 當你開始寫你的演講稿的時候，不管你的主題是什麼，如果你能把你的演講當成是給別人講故事的話，效果會更更好。> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
+> 當你開始寫你的演講稿的時候，不管你的主題是什麼，如果你能把你的演講當成是給別人講故事的話，效果會更更好。
+> — Lena Reinhard, ["How to Prepare and Write a Tech Conference Talk"](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 等你準備好了，考慮一下在某個會議上發言的時候推廣你的專案研討會可以幫助你接觸更多人，有時候是來自全世界各地的人。
 
 > ![](https://avatars2.githubusercontent.com/u/80?v=3&s=460)
-> 我非常認真的給JSConf的人寫了一封信，然後求他們給我一點時間讓我JSConf上展示我的專案。同時我又非常擔心，這個專案我做了六個月，要是大家不認可怎麼辦。那時候我就一直在想，我的天，我他媽在這裏是幹嗎？> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
+> 我非常認真的給JSConf的人寫了一封信，然後求他們給我一點時間讓我JSConf上展示我的專案。同時我又非常擔心，這個專案我做了六個月，要是大家不認可怎麼辦。那時候我就一直在想，我的天，我他媽在這裏是幹嗎？
+> — @ry, ["History of Node.js" (video)](https://www.youtube.com/watch?v=SAc0vQCC6UQ&t=24m57s)
 
 ## 贏得口碑
 
@@ -107,14 +113,16 @@ redirect_from: /zh-tw/finding-users/
 有時候，這些關係還會進一步發展成更廣闊的生態系統中的官方合作伙伴（意思即使你有可能成爲那些有名社群的成員）
 
 > ![](https://avatars2.githubusercontent.com/u/6292?v=3&s=400)
-> urllib3之所以成為最流行的Python第三方庫的唯一原因就是大家都需要他。> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov)
+> urllib3之所以成為最流行的Python第三方庫的唯一原因就是大家都需要他。
+> — @shazow, ["How to make your open source project thrive"](https://about.sourcegraph.com/blog/how-to-make-your-open-source-project-thrive-with-andrey-petrov)
 
 種一棵樹最好的時候是十年前，其次是現在。所以何時開始建立你的聲望都不晚。即使是你早就已經建立了自己的專案，還是要繼續找辦法幫助別人。
 
 建立用戶群沒有一蹴而就的方法。獲取別人的新人和尊重需要時間，同樣，建立聲望的過程也永遠不會停止。
 
 > ![](https://avatars1.githubusercontent.com/u/7288?v=3&s=460)
-> PhantomJS公開第一個版本的時候實在2011年初。我也就是用一些常規的方法來推廣：發Twitter，寫博客告訴別人可以用它來做什麼，在各種各樣的聚會上我都提到過它。當2014年他已經廣爲人知的時候。我才開始做關於它的演講。> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
+> PhantomJS公開第一個版本的時候實在2011年初。我也就是用一些常規的方法來推廣：發Twitter，寫博客告訴別人可以用它來做什麼，在各種各樣的聚會上我都提到過它。當2014年他已經廣爲人知的時候。我才開始做關於它的演講。
+> — @ariya, ["Maintainer Stories"](https://github.com/open-source/stories/ariya)
 
 ## 保持精進
 

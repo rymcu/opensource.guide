@@ -265,7 +265,8 @@ Projekt przyjazny i gościnny sygnalizuje, że będą otwarci na nowych autorów
 * [ ] Czy opiekunowie dziękują ludziom za ich wkład?
 
 > ![](https://avatars.githubusercontent.com/kfogel?s=180)
-> Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
+> Whenever you see a long thread, spot check responses from core developers coming late in the thread. Are they summarizing constructively, and taking steps to bring the thread to a decision while remaining polite? If you see a lot of flame wars going on, that's often a sign that energy is going into argument instead of into development.
+> — @kfogel, [_Producing OSS_](https://producingoss.com/en/evaluating-oss-projects.html)
 
 ## Jak przesłać kontrybucję
 
@@ -276,7 +277,8 @@ Znalazłeś projekt, który Ci się podoba i jesteś gotowy, aby wnieść swój 
 Niezależnie od tego, czy jesteś jednorazowym współpracownikiem, czy próbujesz dołączyć do społeczności, praca z innymi jest jedną z najważniejszych umiejętności, które rozwiniesz w środowisku open source.
 
 > ![](https://avatars.githubusercontent.com/shubheksha?s=180)
-> \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
+> \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+> — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
 
 Zanim otworzysz issue, pull request lub zadasz pytanie na czacie, pamiętaj o tych punktach, aby pomóc skutecznie znaleźć swoje pomysły.
 
@@ -333,7 +335,8 @@ Zanim otworzysz problem lub wyciągniesz prośbę, sprawdź dokumenty wspierają
 Jeśli chcesz wnieść znaczący wkład, otwórz problem, który chcesz zadać, zanim zaczniesz nad nim pracować. Przydatne jest obejrzenie projektu przez chwilę (na GitHub, [możesz kliknąć "Watch"](https://help.github.com/articles/watching-repositories/) aby otrzymywać powiadomienia o wszystkich rozmowach) i poznać członków społeczności przed podjęciem pracy, która może nie zostać zaakceptowana.
 
 > ![](https://avatars.githubusercontent.com/gaearon?s=180)
-> You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
+> You'll learn <em>a lot</em> from taking a single project you actively use, "watching" it on GitHub and reading every issue and PR.
+> — @gaearon [on joining projects](https://twitter.com/dan_abramov/status/819555257055322112)
 
 ### Otwieranie issue
 

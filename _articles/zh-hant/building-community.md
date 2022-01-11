@@ -38,7 +38,8 @@ redirect_from: /zh-tw/building-community/
 * **如果你不贊成一個貢獻。** 首先你需要對他們的想法表示感謝，同時 [解釋為什麼](../best-practices/#學會拒絕他人)這點子不適合專案，如果有必要的話你可以給出相關文件的連結。
 
 > ![](https://avatars.githubusercontent.com/mikeal?s=180)
-> 有些人能很自在的在開源工作。也有很多人害怕在社群裡被責備做錯事，害怕自己無法融入社群。（…）通過給貢獻者參與一些技術門檻較低的工作（文件、Web Content Markdown…），能有效地消除參與者的顧慮。> — @mikeal, ["現代開源專案下如何增加貢獻者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
+> 有些人能很自在的在開源工作。也有很多人害怕在社群裡被責備做錯事，害怕自己無法融入社群。（…）通過給貢獻者參與一些技術門檻較低的工作（文件、Web Content Markdown…），能有效地消除參與者的顧慮。
+> — @mikeal, ["現代開源專案下如何增加貢獻者"](https://opensource.com/life/16/5/growing-contributor-base-modern-open-source)
 
 多數開源貢獻者是「不固定的貢獻者」，因為他們只是偶爾參與專案。一位不固定的貢獻者可能沒有充裕的時間全程參與你的專案，所以你的工作是能讓他們很輕鬆地參與貢獻。
 
@@ -107,7 +108,8 @@ request：
 對於這些人，必須採取零容忍的政策。一旦猶豫不決，那麼這些負面的人會給社群的其他人帶來不愉快的感覺。甚至出現劣幣驅逐良幣的現象。
 
 > ![](https://avatars.githubusercontent.com/okdistribute?s=180)
-> 專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。> — @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
+> 專案成功的關鍵在於擁有一個能互相支持的社群。如果沒有我的同事、網路上友善的陌生人以及聊天頻道 IRC 的幫助，我不可能做好這些工作。(...）不要退而求其次。不要容忍來搗亂的人。
+> — @okdistribute, ["如何運營一個 FOSS 專案"](https://okdistribute.xyz/post/okf-de)
 
 對專案的顯而易見的問題進行定期辯論，會分散別人的注意力，包括你自己，新人如果看見這樣的情景，他們可能不會加入到專案中來。記得要將精力放在重要的任務上。
 
@@ -136,7 +138,8 @@ issues 並且著手開始。
 ### 分享專案的所有權
 
 > ![](https://avatars.githubusercontent.com/sagesharp?s=180)
-> 社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。> — @sagesharp, ["是什麼成就一個好的社群？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
+> 社群的領導者們有著不一樣的意見，這也是所有健康的社群能夠成長的原因！然而，你也必須在每個環節確保，大多數人的意見不會總是蓋過其他見解，讓傑出的、少數人的意見也能被聽見。
+> — @sagesharp, ["是什麼成就一個好的社群？"](https://sage.thesharps.us/2015/10/06/what-makes-a-good-community/)
 
 當大家覺得自己也是專案的主人之一時，就會非常樂意為專案付出。這並不代表就要去調整專案的願景，又或者代表要接受你不要的貢獻。但是社群越信任他們，他們就會越樂意待在這。
 
@@ -159,7 +162,8 @@ issues 並且著手開始。
 雖然並不是一直都有人在回答問題，但是你可以去試著增加一些機會，讓他人有能夠參與的機會，越是儘早開始，越是能夠獲得幫助。
 
 > ![](https://avatars.githubusercontent.com/gr2m?s=180)
-> 對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。> — @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
+> 對社群最有利的做法是招募喜歡你們專案的人，而且這個人還能夠做你們做不到的事情。你是否喜歡寫程式，但不喜歡回覆 issue ？ 那就讓社群裡能做這件事的人去做。
+> — @gr2m, ["打造溫暖的社群"](http://hood.ie/blog/welcoming-communities.html)
 
 ## 化解衝突
 

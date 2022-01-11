@@ -37,7 +37,8 @@ Helyezd el a CODE_OF_CONDUCT állomány a projekt gyökérkönyvtárában, és h
 
 ## Dönts arról, hogy fogod betartatni a szabályzatot
 
-> Az a magatartási kódex, amelyet nem (vagy nem tudnak) betartatni rosszabb, mintha nem lenne: azt üzeni, hogy az értékek, amelyek benne megfogalmazásra kerültek nem fontosak és lényegtelenek a közösség számára.> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
+> Az a magatartási kódex, amelyet nem (vagy nem tudnak) betartatni rosszabb, mintha nem lenne: azt üzeni, hogy az értékek, amelyek benne megfogalmazásra kerültek nem fontosak és lényegtelenek a közösség számára.
+> — [Ada Initiative](https://webcache.googleusercontent.com/search?q=cache:YfqdTk5H9ikJ:https://adainitiative.org/2014/02/18/howto-design-a-code-of-conduct-for-your-community)
 
 Magyarázd el részletesen, hogy a magatartási kódexnek hogyan szerzel érvényt, **mielőtt** még szabályszegés történne. Ez több szempontból előnyös:
 
@@ -67,7 +68,8 @@ A szóban forgó illető lehet ismétlődő elkövető, aki rendszeresen kényel
 
 Mielőtt válaszolnál, adj magadnak időt, hogy megértsd, mi történt. Olvasd el a személy múltbeli észrevételeit és beszélgetéseit, hogy jobban megértsd, ki ő és miért cselekedett ilyen módon. Próbáld meg más emberek véleményét kikérni az adott emberről és viselkedéséről.
 
-> Ne menj bele vitákba. Ne hagyd magad elterelni, ne foglalkozz más viselkedésével, amíg nem kezelted le a kérdéses helyzetet. Fókuszálj arra, amire valóban szükség van.> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
+> Ne menj bele vitákba. Ne hagyd magad elterelni, ne foglalkozz más viselkedésével, amíg nem kezelted le a kérdéses helyzetet. Fókuszálj arra, amire valóban szükség van.
+> — Stephanie Zvan, ["So You've Got Yourself a Policy. Now What?"](https://the-orbit.net/almostdiamonds/2014/04/10/so-youve-got-yourself-a-policy-now-what/)
 
 ### Tedd meg a megfelelő lépéseket
 

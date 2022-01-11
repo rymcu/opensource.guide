@@ -47,7 +47,8 @@ redirect_from: /zh-tw/legal/
 當你們在GitHub上創建了一個新專案，你們會被[要求添加一個許可協議](https://help.github.com/articles/open-source-licensing/)。
 
 > ![](https://avatars2.githubusercontent.com/u/282759?v=3&s=400)
-> 一個標準化的許可協議可以作爲沒有法律培訓的人員的代理，以準確地知道他們可以和不能用軟件做什麼。除非絕對要求，否則應避免使用定製，修改或非標準術語，這將成爲他人使用程式碼的障礙。> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
+> 一個標準化的許可協議可以作爲沒有法律培訓的人員的代理，以準確地知道他們可以和不能用軟件做什麼。除非絕對要求，否則應避免使用定製，修改或非標準術語，這將成爲他人使用程式碼的障礙。
+> — @benbalter, ["Everything a government attorney needs to know about open source software&nbsp;licensing"](http://ben.balter.com/2014/10/08/open-source-licensing-for-government-attorneys/)
 
 ## 哪個開源許可協議適合我的專案
 
@@ -92,7 +93,8 @@ redirect_from: /zh-tw/legal/
 此外，貢獻者協議有時被認爲對專案社群不友好。他們也增加了人們參與社群的障礙。
 
 > ![](https://avatars1.githubusercontent.com/u/328614?v=3&s=460)
-> 我們已經刪除了Node.js的CLA。這樣做降低了Node.js貢獻者的參與門檻，從而吸引更多的貢獻者。> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
+> 我們已經刪除了Node.js的CLA。這樣做降低了Node.js貢獻者的參與門檻，從而吸引更多的貢獻者。
+> — @bcantrill, ["Broadening Node.js Contributions"](https://www.joyent.com/blog/broadening-node-js-contributions)
 
 一些情況下你們可能想要爲你們的專案考慮一個額外的貢獻協議：
 
@@ -126,12 +128,14 @@ redirect_from: /zh-tw/legal/
 * **員工貢獻策略：**考慮制定一個公司策略，指明你們的員工如何爲開源專案貢獻。明確的政策將減少你們員工的迷惑，並幫助他們爲公司的最佳利益向開源專案做貢獻，無論是作爲他們工作的一部分還是在自由時間。Rackspace的[Model IP和開源貢獻策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
 
 > ![](https://avatars3.githubusercontent.com/u/214698?v=3&s=400)
-> 放棄與補丁相關的只是產權以構建員工知識庫和信譽。它表明，公司關心員工的發展，以及讓員工有種被賦權和自主的感覺。所有這些好處還導致更高的士氣和更好地保留員工。> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+> 放棄與補丁相關的只是產權以構建員工知識庫和信譽。它表明，公司關心員工的發展，以及讓員工有種被賦權和自主的感覺。所有這些好處還導致更高的士氣和更好地保留員工。
+> — @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
 
 * **發佈什麼：**[（幾乎） 所有？](http://tom.preston-werner.com/2011/11/22/open-source-everything.html)如果你們的法律團隊瞭解並投資於你們公司的開源策略，他們將是你們最好的幫助，而不是阻礙你們的努力。
 * **合規性：**即使你們公司沒有發佈任何開源專案，他們也會使用別人的開源軟件。[意識和過程](https://www.linuxfoundation.org/blog/2015/06/why-companies-that-use-open-source-need-a-compliance-program/)可以避免麻煩，產品延遲發佈和訴訟。
 
-> 組織必須具有適合["允許"和"copyleft"]類別的許可協議和合規性策略。首先，記錄適用於你們所使用的開源軟件的許可條款（包括子組件和依賴項）。> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
+> 組織必須具有適合["允許"和"copyleft"]類別的許可協議和合規性策略。首先，記錄適用於你們所使用的開源軟件的許可條款（包括子組件和依賴項）。
+> — Heather Meeker, ["Open Source Software: Compliance Basics And Best Practices"](https://techcrunch.com/2012/12/14/open-source-software-compliance-basics-and-best-practices/)
 
 * **專利：**你們的公司可能希望加入[開放發明網絡](http://www.openinventionnetwork.com/)，一個共享的專利防禦池，以保護成員使用主要開源專案，或探索其他替代專利許可。
 

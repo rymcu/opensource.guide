@@ -52,7 +52,8 @@ W przypadku większego projektu, jeśli masz witrynę internetową, utwórz stro
 
 Jeśli Twój projekt ma bardzo aktywną społeczność współpracowników, możesz utworzyć „podstawowy zespół” opiekunów, a nawet podkomitety osób, które przejmują odpowiedzialność za różne obszary problemowe (na przykład bezpieczeństwo, klasyfikowanie problemów lub postępowanie społeczności). Pozwól ludziom samoorganizować się i zgłaszać do ról, które są najbardziej podekscytowani, zamiast przypisywać je.
 
-> \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.> — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+> \[We\] supplement the core team with several "subteams". Each subteam is focused on a specific area, e.g., language design or libraries. (...) To ensure global coordination and a strong, coherent vision for the project as a whole, each subteam is led by a member of the core team.
+> — ["Rust Governance RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
 
 Zespoły kierownicze mogą chcieć utworzyć wyznaczony kanał (np. Na IRC) lub regularnie spotykać się w celu omówienia projektu (np. Na Gitter lub Google Hangout). Możesz nawet upublicznić te spotkania, aby inni mogli je słuchać. [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby), na przykład [organizuje godziny pracy co tydzień](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs)
 

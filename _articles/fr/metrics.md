@@ -112,7 +112,8 @@ Les exemples de statistiques de communauté que vous souhaitez suivre régulièr
 * **Types de contributions :** Par exemple, commit, corrige des fautes de frappe ou des bugs, ou commente une issue.
 
 > ![](https://avatars.githubusercontent.com/arfon?s=180)
-> L'open source, c'est plus que du code. Les projets Open Source qui réussissent comprennent des contributions au code et à la documentation ainsi que des conversations sur ces changements.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+> L'open source, c'est plus que du code. Les projets Open Source qui réussissent comprennent des contributions au code et à la documentation ainsi que des conversations sur ces changements.
+> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Activit&eacute; de responsable
 

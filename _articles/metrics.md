@@ -106,7 +106,8 @@ Examples of community metrics that you may want to regularly track include:
 * **Types of contributions:** For example, commits, fixing typos or bugs, or commenting on an issue.
 
 > ![](https://avatars.githubusercontent.com/arfon?s=180)
-> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
+> Open source is more than just code. Successful open source projects include code and documentation contributions together with conversations about these changes.
+> — @arfon, ["The Shape of Open Source"](https://github.com/blog/2195-the-shape-of-open-source)
 
 ## Maintainer activity
 

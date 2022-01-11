@@ -32,14 +32,16 @@ redirect_from: /zh-tw/leadership-and-governance/
 **作爲 "貢獻者" 可以是任何人** ，只要提出issue或PR 就叫做貢獻者，那些爲專案作出有價值的都算（無論是分類問題，編寫程式還是組織會議），又或者是將他們的PR合並進主乾的（或許這個定義是最接近所謂的貢獻者的）。
 
 > ![](https://avatars1.githubusercontent.com/u/579?v=3&s=460)
-> \[對於 Node.js 來說\] 無論是在issue中提交評論，還是提交程式碼，任何人都是專案社群的成員。只要能夠看到他們，就意味着他們已經實現了跨越，從路人成爲一個用戶，成爲一個貢獻者。> — @mikeal, ["開源的健康衡量"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
+> \[對於 Node.js 來說\] 無論是在issue中提交評論，還是提交程式碼，任何人都是專案社群的成員。只要能夠看到他們，就意味着他們已經實現了跨越，從路人成爲一個用戶，成爲一個貢獻者。
+> — @mikeal, ["開源的健康衡量"](https://medium.com/the-javascript-collection/healthy-open-source-967fa8be7951)
 
 **術語 "修訂者"** 可能用於區分其他形式的貢獻的提交訪問，這是一種特定類型的責任。
 
 其實你可以根據自己喜歡的方式來定義專案的角色，[考慮使用更廣泛的定義](../how-to-contribute/#具體而言什麼是貢獻) 來鼓勵更多的形式的貢獻。無論技術技能如何，您都可以使用領導角色來正式識別爲您的專案做出突出貢獻的人員。
 
 > ![](https://avatars3.githubusercontent.com/u/21148?v=3&s=460)
-> 你們或許知道我是 Django 的"創始人"...其實真相是在有人僱傭了我之後一年才真正的做出來。(...) 人們猜測我的成功是因爲我的編程技能夠牛...但事實上我的編程水平只是一般般而已。> — @jacobian, ["PyCon 2015 Keynote" (視頻)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
+> 你們或許知道我是 Django 的"創始人"...其實真相是在有人僱傭了我之後一年才真正的做出來。(...) 人們猜測我的成功是因爲我的編程技能夠牛...但事實上我的編程水平只是一般般而已。
+> — @jacobian, ["PyCon 2015 Keynote" (視頻)](https://www.youtube.com/watch?v=hIJdFxYlEKE#t=5m0s)
 
 ## 該如何將這些領導力角色正規化
 
@@ -51,7 +53,8 @@ redirect_from: /zh-tw/leadership-and-governance/
 
 如果你的專案擁有非常活躍的貢獻者社群，你或許會專門建立一個維護者的"核心團隊"，甚至是根據不同的話題所有者成立子的委員會（例如，安全，問題篩選，或者是社群準則）。讓人們自行組織、且能夠讓志願者自行找到自己喜歡的角色，而不是去分配他們。
 
-> \[我們\] 爲核心團隊設立多個"子團隊"。每個子團隊都會專門的聚焦於某個特定的領域，舉例來說，語言設計或程序庫(...) 爲了確保全局的協調和健壯，會將整體的專案設置爲同一個願景，每個子團隊是由核心團隊的一員。> — ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
+> \[我們\] 爲核心團隊設立多個"子團隊"。每個子團隊都會專門的聚焦於某個特定的領域，舉例來說，語言設計或程序庫(...) 爲了確保全局的協調和健壯，會將整體的專案設置爲同一個願景，每個子團隊是由核心團隊的一員。
+> — ["Rust 治理 RFC"](https://github.com/rust-lang/rfcs/blob/HEAD/text/1068-rust-governance.md)
 
 領導者團隊或許要創建一個指定的頻道（如IRC），又或者是參與專案的日常討論（如Gitter或Google Hangout）。你需要將這些會議可以公開訪問，以便讓人們方便傾聽。舉例來說，
  [Cucumber-ruby](https://github.com/cucumber/cucumber-ruby)就會[每週開一次會議，每次持續幾小時](https://github.com/cucumber/cucumber-ruby/blob/HEAD/CONTRIBUTING.md#talking-with-other-devs).
@@ -72,7 +75,8 @@ redirect_from: /zh-tw/leadership-and-governance/
 假如專案是託管在GitHub上，可以使用[受保護的分支](https://help.github.com/articles/about-protected-branches/)來管理那些可以提交特定的分支情況。
 
 > ![](https://avatars2.githubusercontent.com/u/15000?v=3&s=460)
-> 無論什麼時候，都會有人向你發送pull request，所以將你的專案開放提交訪問。這看起來是有些不夠明智，使用此策略能讓你釋放GitHub的真正威力。(...)一旦人們擁有了提交訪問權,他們不再擔心他們的補丁可能不會被合併.....這會讓他們做的更多。> — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
+> 無論什麼時候，都會有人向你發送pull request，所以將你的專案開放提交訪問。這看起來是有些不夠明智，使用此策略能讓你釋放GitHub的真正威力。(...)一旦人們擁有了提交訪問權,他們不再擔心他們的補丁可能不會被合併.....這會讓他們做的更多。
+> — @felixge, ["The Pull Request Hack"](http://felixge.de/2013/03/11/the-pull-request-hack.html)
 
 ## 對於開源專案來說有那些常見的治理結構
 
@@ -99,7 +103,8 @@ redirect_from: /zh-tw/leadership-and-governance/
 如果你自己是公司所啓動開源的一部分，在啓動之前，應該做一些討論，如公司將會如何維護專案，隨着專案的發展，決策該如何定奪。你可以會公開的解釋一下，貴公司將如何參與（或不參與）該專案。
 
 > ![](https://avatars1.githubusercontent.com/u/691109?v=3&s=460)
-> 我們在GitHub上賦予一些小的團隊來管理專案，實際上這些人都是在Facebook工作的，比如，React就是由React的工程師來掌管運行的。> — @caabernathy, ["Facebook內部員工如何看待開源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
+> 我們在GitHub上賦予一些小的團隊來管理專案，實際上這些人都是在Facebook工作的，比如，React就是由React的工程師來掌管運行的。
+> — @caabernathy, ["Facebook內部員工如何看待開源"](https://opensource.com/life/15/10/ato-interview-christine-abernathy-facebook)
 
 ## 公司員工該如何開啓提交貢獻之旅？
 
@@ -124,6 +129,7 @@ redirect_from: /zh-tw/leadership-and-governance/
 很多專案都不願意成立非盈利組織那麼麻煩，所以他們會以贊助商的身份尋找一個非營利性組織。財政資助代表你接受捐款,通常以換取一定比例的捐贈。針對開源專案接受財政資助的非營利性組織有很多，如[Software Freedom Conservancy](https://sfconservancy.org/), [Apache 基金會](http://www.apache.org/), [Eclipse 基金會](https://eclipse.org/org/foundation/), [Linux 基金會](https://www.linuxfoundation.org/projects) and [Open Collective](https://opencollective.com/opensource) 等等。
 
 > ![](https://avatars2.githubusercontent.com/u/3671070?v=3&s=460)
-> 我們的目標是提供基礎設施，讓社群能夠自我持續發展下去，每個人——貢獻者、支持者、贊助商———所共同營造的環境，也讓每個人得到實實在在的利益。> — @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
+> 我們的目標是提供基礎設施，讓社群能夠自我持續發展下去，每個人——貢獻者、支持者、贊助商———所共同營造的環境，也讓每個人得到實實在在的利益。
+> — @piamancini, ["超越 charity 框架"](https://medium.com/open-collective/moving-beyond-the-charity-framework-b1191c33141#.vgsbj9um9)
 
 如果你的專案是和某特定的語言或生態系統緊密相連的，那麼你可以直接在相關的軟體基金會下工作。例如，[Python 軟體基金會](https://www.python.org/psf/) 就幫襯著專案 [PyPI](https://pypi.python.org/pypi)，這是一塊優秀的Python包管理器，又比如[Node.js 基金會](https://nodejs.org/en/foundation/) 支撐着 [Express.js](http://expressjs.com/)，一款基於Node的框架。
